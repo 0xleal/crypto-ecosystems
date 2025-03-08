@@ -16,6 +16,22 @@ url = "https://github.com/dappuniversity/advanced-dapp-ui"
 url = "https://github.com/dappuniversity/AI-Generated-NFT-Collection"
 
 [[repo]]
+url = "https://github.com/dappuniversity/ai_frontend"
+
+[[repo]]
+url = "https://github.com/dappuniversity/ai_nft"
+
+[[repo]]
+url = "https://github.com/dappuniversity/ai_nft_generator"
+
+[[repo]]
+url = "https://github.com/dappuniversity/airdrop_hunter"
+missing = true
+
+[[repo]]
+url = "https://github.com/dappuniversity/Auditing-with-security-tools-slither-and-echinda"
+
+[[repo]]
 url = "https://github.com/dappuniversity/blockchain-api"
 
 [[repo]]
@@ -49,6 +65,12 @@ url = "https://github.com/dappuniversity/dapp_template_v1"
 url = "https://github.com/dappuniversity/dapp_token"
 
 [[repo]]
+url = "https://github.com/dappuniversity/dappazon"
+
+[[repo]]
+url = "https://github.com/dappuniversity/dappcord"
+
+[[repo]]
 url = "https://github.com/dappuniversity/dbank"
 
 [[repo]]
@@ -62,6 +84,9 @@ url = "https://github.com/dappuniversity/defi_intro"
 
 [[repo]]
 url = "https://github.com/dappuniversity/defi_tutorial"
+
+[[repo]]
+url = "https://github.com/dappuniversity/delegate_call_hack"
 
 [[repo]]
 url = "https://github.com/dappuniversity/deploy_poa_network"
@@ -79,6 +104,9 @@ url = "https://github.com/dappuniversity/dvideo"
 url = "https://github.com/dappuniversity/ecrecover"
 
 [[repo]]
+url = "https://github.com/dappuniversity/eip_2981_example"
+
+[[repo]]
 url = "https://github.com/dappuniversity/election"
 
 [[repo]]
@@ -86,6 +114,9 @@ url = "https://github.com/dappuniversity/election_react"
 
 [[repo]]
 url = "https://github.com/dappuniversity/election_workshop"
+
+[[repo]]
+url = "https://github.com/dappuniversity/ENS-Marketplace"
 
 [[repo]]
 url = "https://github.com/dappuniversity/erc20_airdrop"
@@ -100,6 +131,9 @@ url = "https://github.com/dappuniversity/eth-todo-list"
 url = "https://github.com/dappuniversity/eth-todo-list-react"
 
 [[repo]]
+url = "https://github.com/dappuniversity/eth_daddy"
+
+[[repo]]
 url = "https://github.com/dappuniversity/eth_swap"
 
 [[repo]]
@@ -109,7 +143,20 @@ url = "https://github.com/dappuniversity/eth_wallet"
 url = "https://github.com/dappuniversity/ethers_examples"
 
 [[repo]]
+url = "https://github.com/dappuniversity/Foundry-Tutorial"
+
+[[repo]]
 url = "https://github.com/dappuniversity/freelance-project-template"
+
+[[repo]]
+url = "https://github.com/dappuniversity/frontrunning"
+missing = true
+
+[[repo]]
+url = "https://github.com/dappuniversity/Frontrunning-attack-tutorial"
+
+[[repo]]
+url = "https://github.com/dappuniversity/fun-pump"
 
 [[repo]]
 url = "https://github.com/dappuniversity/governance"
@@ -125,6 +172,9 @@ url = "https://github.com/dappuniversity/ico_irl"
 
 [[repo]]
 url = "https://github.com/dappuniversity/instant_wallet"
+
+[[repo]]
+url = "https://github.com/dappuniversity/integer_overflow"
 
 [[repo]]
 url = "https://github.com/dappuniversity/ipfs_image_uploader"
@@ -149,6 +199,9 @@ url = "https://github.com/dappuniversity/metamask_detector"
 
 [[repo]]
 url = "https://github.com/dappuniversity/metaverse"
+
+[[repo]]
+url = "https://github.com/dappuniversity/millow"
 
 [[repo]]
 url = "https://github.com/dappuniversity/music_nfts"
@@ -184,6 +237,9 @@ url = "https://github.com/dappuniversity/quiknode_explorer"
 url = "https://github.com/dappuniversity/react-portfolio-template"
 
 [[repo]]
+url = "https://github.com/dappuniversity/react_hardhat_template"
+
+[[repo]]
 url = "https://github.com/dappuniversity/react_three_showcase"
 
 [[repo]]
@@ -196,6 +252,9 @@ url = "https://github.com/dappuniversity/Runner-blockchain-game-"
 url = "https://github.com/dappuniversity/sablier"
 
 [[repo]]
+url = "https://github.com/dappuniversity/self_destruct"
+
+[[repo]]
 url = "https://github.com/dappuniversity/simplefolio"
 
 [[repo]]
@@ -203,6 +262,9 @@ url = "https://github.com/dappuniversity/social-network"
 
 [[repo]]
 url = "https://github.com/dappuniversity/solidity_examples"
+
+[[repo]]
+url = "https://github.com/dappuniversity/solidity_tutorial"
 
 [[repo]]
 url = "https://github.com/dappuniversity/Soul-Bound-token"
@@ -217,10 +279,16 @@ url = "https://github.com/dappuniversity/starter_kit_2"
 url = "https://github.com/dappuniversity/supply_chain"
 
 [[repo]]
+url = "https://github.com/dappuniversity/swapper"
+
+[[repo]]
 url = "https://github.com/dappuniversity/token_sale"
 
 [[repo]]
 url = "https://github.com/dappuniversity/token_sniping_bot"
+
+[[repo]]
+url = "https://github.com/dappuniversity/tokenmaster"
 
 [[repo]]
 url = "https://github.com/dappuniversity/trading-bot"
@@ -245,6 +313,9 @@ url = "https://github.com/dappuniversity/web3_py_examples"
 
 [[repo]]
 url = "https://github.com/dappuniversity/web3_token"
+
+[[repo]]
+url = "https://github.com/dappuniversity/whale_tracker"
 
 [[repo]]
 url = "https://github.com/dappuniversity/yield-aggregator"

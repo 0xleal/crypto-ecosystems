@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/BlockscapeNetwork"]
 url = "https://github.com/BlockscapeNetwork/abci2-rs"
 
 [[repo]]
+url = "https://github.com/BlockscapeNetwork/acrechain"
+
+[[repo]]
 url = "https://github.com/BlockscapeNetwork/althea-chain"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/BlockscapeNetwork/aragon-client"
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/assets"
+
+[[repo]]
+url = "https://github.com/BlockscapeNetwork/babylon-staking"
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/cosmons-frontend"
@@ -55,10 +61,16 @@ url = "https://github.com/BlockscapeNetwork/dc4bc_conference_call_4lido"
 url = "https://github.com/BlockscapeNetwork/ed"
 
 [[repo]]
+url = "https://github.com/BlockscapeNetwork/eigenlayer-meta"
+
+[[repo]]
 url = "https://github.com/BlockscapeNetwork/eth2.0-deposit-cli"
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/gaia-updater"
+
+[[repo]]
+url = "https://github.com/BlockscapeNetwork/gon-evidence"
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/goz-data-backend"
@@ -70,6 +82,9 @@ url = "https://github.com/BlockscapeNetwork/Gravity-Bridge"
 url = "https://github.com/BlockscapeNetwork/gravity-bridge-portal"
 
 [[repo]]
+url = "https://github.com/BlockscapeNetwork/gravity-bridge-portal-flutter"
+
+[[repo]]
 url = "https://github.com/BlockscapeNetwork/green"
 
 [[repo]]
@@ -79,10 +94,20 @@ url = "https://github.com/BlockscapeNetwork/hackatom_v"
 url = "https://github.com/BlockscapeNetwork/horcrux"
 
 [[repo]]
+url = "https://github.com/BlockscapeNetwork/interchain-queries"
+
+[[repo]]
 url = "https://github.com/BlockscapeNetwork/juno"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/launch"
+
+[[repo]]
+url = "https://github.com/BlockscapeNetwork/lens"
+
+[[repo]]
+url = "https://github.com/BlockscapeNetwork/lens-test"
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/lunie"
@@ -95,6 +120,12 @@ url = "https://github.com/BlockscapeNetwork/mainnet-entities"
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/merk"
+
+[[repo]]
+url = "https://github.com/BlockscapeNetwork/metadata-mainnet"
+
+[[repo]]
+url = "https://github.com/BlockscapeNetwork/metadata-mainnet_new"
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/nomic"
@@ -127,10 +158,24 @@ url = "https://github.com/BlockscapeNetwork/regen_contract"
 url = "https://github.com/BlockscapeNetwork/relayer"
 
 [[repo]]
+url = "https://github.com/BlockscapeNetwork/resources"
+
+[[repo]]
 url = "https://github.com/BlockscapeNetwork/reward-harvester"
+missing = true
+
+[[repo]]
+url = "https://github.com/BlockscapeNetwork/rocketscape"
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/signctrl"
+
+[[repo]]
+url = "https://github.com/BlockscapeNetwork/ssv-ansible"
+
+[[repo]]
+url = "https://github.com/BlockscapeNetwork/ssv-institutional-staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/staking-payouts"
@@ -139,7 +184,11 @@ url = "https://github.com/BlockscapeNetwork/staking-payouts"
 url = "https://github.com/BlockscapeNetwork/tendermint-mpc-test"
 
 [[repo]]
+url = "https://github.com/BlockscapeNetwork/testnet"
+
+[[repo]]
 url = "https://github.com/BlockscapeNetwork/testnets"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/testnets-1"

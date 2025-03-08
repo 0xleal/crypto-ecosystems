@@ -7,49 +7,41 @@ github_organizations = ["https://github.com/LetheanMovement"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/LetheanMovement/block_explorer"
+
+[[repo]]
 url = "https://github.com/LetheanMovement/blockchain-iTw3"
 
 [[repo]]
 url = "https://github.com/LetheanMovement/Community-Relaunch"
-
-[[repo]]
-url = "https://github.com/LetheanMovement/DNP_IPFS"
+missing = true
 
 [[repo]]
 url = "https://github.com/LetheanMovement/How-We-Operate"
 
 [[repo]]
-url = "https://github.com/LetheanMovement/lethean"
+url = "https://github.com/LetheanMovement/itw3"
 
 [[repo]]
-url = "https://github.com/LetheanMovement/lethean-browser-extension"
-
-[[repo]]
-url = "https://github.com/LetheanMovement/lethean-browser-extension-ff"
-
-[[repo]]
-url = "https://github.com/LetheanMovement/lethean-gui"
+url = "https://github.com/LetheanMovement/iTw3_ui"
 
 [[repo]]
 url = "https://github.com/LetheanMovement/lethean-gui-miner"
 
 [[repo]]
 url = "https://github.com/LetheanMovement/lethean-pool-list"
-
-[[repo]]
-url = "https://github.com/LetheanMovement/lethean-vpn"
+missing = true
 
 [[repo]]
 url = "https://github.com/LetheanMovement/lethean_exiplorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/LetheanMovement/LTHN-BuyBack"
 
 [[repo]]
-url = "https://github.com/LetheanMovement/node-cryptonote-util"
-
-[[repo]]
 url = "https://github.com/LetheanMovement/os-domain-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/LetheanMovement/Project-News-Updates"
@@ -113,3 +105,28 @@ url = "https://github.com/LetheanMovement/sdp-api-ts-fetch"
 
 [[repo]]
 url = "https://github.com/LetheanMovement/sdp-api-ts-node"
+
+[[repo]]
+url = "https://github.com/letheanVPN/blockchain-iTw3"
+
+[[repo]]
+url = "https://github.com/letheanVPN/blockchain-iz"
+
+[[repo]]
+url = "https://github.com/letheanVPN/lethean-browser-extension"
+
+[[repo]]
+url = "https://github.com/letheanVPN/lethean-browser-extension-ff"
+
+[[repo]]
+url = "https://github.com/letheanVPN/lethean-gui"
+
+[[repo]]
+url = "https://github.com/letheanVPN/lthn-app-vpn"
+
+[[repo]]
+url = "https://github.com/letheanVPN/lthn-cryptonote-util"
+
+[[repo]]
+url = "https://github.com/Snider/DNP_IPFS"
+missing = true

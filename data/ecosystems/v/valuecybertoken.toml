@@ -11,9 +11,7 @@ url = "https://github.com/valuecyber/API"
 
 [[repo]]
 url = "https://github.com/valuecyber/slips"
+missing = true
 
 [[repo]]
 url = "https://github.com/valuecyber/Weekly"
-
-[[repo]]
-url = "https://github.com/valuecyber/WhitePaper"

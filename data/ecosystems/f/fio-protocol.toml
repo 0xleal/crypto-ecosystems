@@ -31,10 +31,20 @@ url = "https://github.com/fioprotocol/fc"
 url = "https://github.com/fioprotocol/fio"
 
 [[repo]]
-url = "https://github.com/fioprotocol/fio-dapp"
+url = "https://github.com/fioprotocol/fio-bundles"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-burn-nfts"
+missing = true
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-chain-admin-services"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fio-dashboard"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-dashboard-monitor"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fio-dashboard-tools"
@@ -43,22 +53,50 @@ url = "https://github.com/fioprotocol/fio-dashboard-tools"
 url = "https://github.com/fioprotocol/fio-devhub"
 
 [[repo]]
-url = "https://github.com/fioprotocol/fio-docker"
+url = "https://github.com/fioprotocol/fio-get-expired-domains"
+missing = true
 
 [[repo]]
 url = "https://github.com/fioprotocol/fio-go"
 
 [[repo]]
+url = "https://github.com/fioprotocol/fio-notifier"
+
+[[repo]]
 url = "https://github.com/fioprotocol/fio-registrations"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-relic"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-request-art"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-service-burndomains"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-service-burnnfts"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-service-getexpdom"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-service-getunwraps"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-service-getwraps"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio-service-paytpid"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fio-staking-service"
 
 [[repo]]
-url = "https://github.com/fioprotocol/fio-staking-service-backend"
+url = "https://github.com/fioprotocol/fio-supply"
 
 [[repo]]
-url = "https://github.com/fioprotocol/fio-supply"
+url = "https://github.com/fioprotocol/fio-wallet-snap"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fio-website"
@@ -79,13 +117,28 @@ url = "https://github.com/fioprotocol/fio-wrap-status-page"
 url = "https://github.com/fioprotocol/fio-wrap-uri"
 
 [[repo]]
+url = "https://github.com/fioprotocol/fio.abieos"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio.bpmonitor"
+
+[[repo]]
 url = "https://github.com/fioprotocol/fio.cdt"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio.chain"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio.chronicle"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fio.contracts"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fio.devtools"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio.docker"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fio.erc20"
@@ -97,6 +150,9 @@ url = "https://github.com/fioprotocol/fio.erc721"
 url = "https://github.com/fioprotocol/fio.etl"
 
 [[repo]]
+url = "https://github.com/fioprotocol/fio.game"
+
+[[repo]]
 url = "https://github.com/fioprotocol/fio.health"
 
 [[repo]]
@@ -106,6 +162,12 @@ url = "https://github.com/fioprotocol/fio.localsign"
 url = "https://github.com/fioprotocol/fio.mainnet"
 
 [[repo]]
+url = "https://github.com/fioprotocol/fio.math-operations"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio.net"
+
+[[repo]]
 url = "https://github.com/fioprotocol/fio.oracle"
 
 [[repo]]
@@ -113,6 +175,15 @@ url = "https://github.com/fioprotocol/fio.package"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fio.ready"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio.relic"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio.sdk-lite"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fio.sdk-lite-sandbox"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fio.start"
@@ -128,6 +199,7 @@ url = "https://github.com/fioprotocol/fiojs"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fiojs-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/fioprotocol/fiosdk_ios"
@@ -140,6 +212,9 @@ url = "https://github.com/fioprotocol/fiosdk_typescript"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fiosdk_typescript-examples"
+
+[[repo]]
+url = "https://github.com/fioprotocol/fiosdk_typescript-sandbox"
 
 [[repo]]
 url = "https://github.com/fioprotocol/fiostore"
@@ -158,6 +233,7 @@ url = "https://github.com/fioprotocol/wabt"
 
 [[repo]]
 url = "https://github.com/fioprotocol/wfio"
+missing = true
 
 [[repo]]
 url = "https://github.com/fioprotocol/yubihsm-shell"

@@ -3,7 +3,7 @@ title = "Pixura"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Pixura"]
+github_organizations = ["https://github.com/pixura"]
 
 # Repositories
 [[repo]]
@@ -14,9 +14,13 @@ url = "https://github.com/Pixura/buildtezos"
 
 [[repo]]
 url = "https://github.com/Pixura/candidate-code-challenge"
+missing = true
 
 [[repo]]
 url = "https://github.com/Pixura/chanterelle"
+
+[[repo]]
+url = "https://github.com/pixura/clip"
 
 [[repo]]
 url = "https://github.com/Pixura/composables-998"
@@ -73,9 +77,6 @@ url = "https://github.com/Pixura/pg-order-by-related"
 url = "https://github.com/Pixura/pg-simplify-inflector"
 
 [[repo]]
-url = "https://github.com/Pixura/pixura-contracts"
-
-[[repo]]
 url = "https://github.com/Pixura/pixura-docs"
 
 [[repo]]
@@ -106,9 +107,6 @@ url = "https://github.com/Pixura/purescript-truffle-hd-wallet-provider"
 url = "https://github.com/Pixura/purescript-web3"
 
 [[repo]]
-url = "https://github.com/pixura/rarest-token"
-
-[[repo]]
 url = "https://github.com/Pixura/scientific"
 
 [[repo]]
@@ -131,3 +129,9 @@ url = "https://github.com/Pixura/toshi-client"
 
 [[repo]]
 url = "https://github.com/Pixura/Web3-collaboration"
+
+[[repo]]
+url = "https://github.com/superrare/pixura-contracts"
+
+[[repo]]
+url = "https://github.com/superrare/rarest-token"

@@ -34,6 +34,9 @@ url = "https://github.com/indexed-finance/drain-reversal-app"
 url = "https://github.com/indexed-finance/exit-fee-seller"
 
 [[repo]]
+url = "https://github.com/indexed-finance/exploit-snapshot"
+
+[[repo]]
 url = "https://github.com/indexed-finance/governance"
 
 [[repo]]
@@ -44,6 +47,12 @@ url = "https://github.com/indexed-finance/indexed-governance-subgraph"
 
 [[repo]]
 url = "https://github.com/indexed-finance/indexed-interface"
+
+[[repo]]
+url = "https://github.com/indexed-finance/indexed-interface-v1"
+
+[[repo]]
+url = "https://github.com/indexed-finance/indexed-interface-v2"
 
 [[repo]]
 url = "https://github.com/indexed-finance/indexed-narwhal-router"

@@ -7,6 +7,19 @@ github_organizations = ["https://github.com/Kredeum"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Kredeum/ai-cast"
+
+[[repo]]
+url = "https://github.com/Kredeum/aibet"
+missing = true
+
+[[repo]]
+url = "https://github.com/Kredeum/autoswarm"
+
+[[repo]]
+url = "https://github.com/Kredeum/bee-js"
+
+[[repo]]
 url = "https://github.com/Kredeum/docs.kredeum.com"
 
 [[repo]]
@@ -25,6 +38,9 @@ url = "https://github.com/Kredeum/ethglobal-scaling-ethereum"
 url = "https://github.com/Kredeum/ethglobal-web3"
 
 [[repo]]
+url = "https://github.com/Kredeum/filemore"
+
+[[repo]]
 url = "https://github.com/Kredeum/firstname"
 
 [[repo]]
@@ -32,6 +48,9 @@ url = "https://github.com/Kredeum/flashsuite"
 
 [[repo]]
 url = "https://github.com/Kredeum/gr9"
+
+[[repo]]
+url = "https://github.com/Kredeum/graphql-tests"
 
 [[repo]]
 url = "https://github.com/Kredeum/hackfs"
@@ -46,10 +65,28 @@ url = "https://github.com/Kredeum/kredeum.com"
 url = "https://github.com/Kredeum/kredeum.github.io"
 
 [[repo]]
+url = "https://github.com/Kredeum/massa-storage"
+
+[[repo]]
+url = "https://github.com/Kredeum/onchain-ai"
+
+[[repo]]
+url = "https://github.com/Kredeum/onchain-ai-extension"
+
+[[repo]]
+url = "https://github.com/Kredeum/OpenNFTs"
+
+[[repo]]
 url = "https://github.com/Kredeum/php-restclient"
 
 [[repo]]
 url = "https://github.com/Kredeum/scaffold-eth"
+
+[[repo]]
+url = "https://github.com/Kredeum/TheRelay"
+
+[[repo]]
+url = "https://github.com/Kredeum/wagmi-svelte5"
 
 [[repo]]
 url = "https://github.com/Kredeum/www.kredeum.com"

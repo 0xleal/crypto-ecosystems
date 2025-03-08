@@ -16,6 +16,9 @@ url = "https://github.com/dfyn/assets-1"
 url = "https://github.com/dfyn/banner-data"
 
 [[repo]]
+url = "https://github.com/dfyn/bothathon-samples"
+
+[[repo]]
 url = "https://github.com/dfyn/DeFi-Pulse-Adapters"
 
 [[repo]]
@@ -23,6 +26,10 @@ url = "https://github.com/dfyn/dfyn-analytics"
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-byof-contracts"
+missing = true
+
+[[repo]]
+url = "https://github.com/dfyn/dfyn-ecosystem"
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-exchange"
@@ -32,12 +39,14 @@ url = "https://github.com/dfyn/dfyn-farms-info"
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-sdk"
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfyn/dfyn-token"
@@ -46,13 +55,23 @@ url = "https://github.com/dfyn/dfyn-token"
 url = "https://github.com/dfyn/dual-farm"
 
 [[repo]]
+url = "https://github.com/dfyn/dummy-logo"
+
+[[repo]]
 url = "https://github.com/dfyn/flora-farms"
 
 [[repo]]
 url = "https://github.com/dfyn/new-host"
 
 [[repo]]
+url = "https://github.com/dfyn/paraswap-dex-lib"
+
+[[repo]]
+url = "https://github.com/dfyn/pool-cache"
+
+[[repo]]
 url = "https://github.com/dfyn/prediction-market-data"
 
 [[repo]]
 url = "https://github.com/dfyn/snapshot-strategies"
+missing = true

@@ -7,163 +7,197 @@ github_organizations = ["https://github.com/ray-network"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ray-network/.github"
+
+[[repo]]
 url = "https://github.com/ray-network/awesome-cardano"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/cardano-graphql"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/cardano-graphql-helper"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/cardano-verified"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/cardano-verified-nft-projects"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/cardano-verified-projects-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/cardano-verified-tokens-list"
+missing = true
+
+[[repo]]
+url = "https://github.com/ray-network/cardano-web3-js"
 
 [[repo]]
 url = "https://github.com/ray-network/cardano-web3.js"
 
 [[repo]]
-url = "https://github.com/ray-network/cardanolist"
+url = "https://github.com/ray-network/cardanolist-data"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/cardanolist-home"
+missing = true
 
 [[repo]]
-url = "https://github.com/ray-network/cardanolist-io"
+url = "https://github.com/ray-network/cloudflare-worker-metadata-to-cf-images-cdn"
+
+[[repo]]
+url = "https://github.com/ray-network/cloudflare-worker-output-load-balancer"
 
 [[repo]]
 url = "https://github.com/ray-network/cloudflare-workers"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/foundation-home"
+missing = true
 
 [[repo]]
-url = "https://github.com/ray-network/minterr"
+url = "https://github.com/ray-network/foundation-website"
+missing = true
+
+[[repo]]
+url = "https://github.com/ray-network/koios-artifacts"
+
+[[repo]]
+url = "https://github.com/ray-network/koios-tiny-client"
 
 [[repo]]
 url = "https://github.com/ray-network/minterr-app"
 
 [[repo]]
 url = "https://github.com/ray-network/minterr-contracts"
+missing = true
 
 [[repo]]
-url = "https://github.com/ray-network/minterr-home"
+url = "https://github.com/ray-network/minterr-pwa"
 
 [[repo]]
-url = "https://github.com/ray-network/minterr-io"
-
-[[repo]]
-url = "https://github.com/ray-network/minterr-io-contracts"
+url = "https://github.com/ray-network/ogmios"
 
 [[repo]]
 url = "https://github.com/ray-network/pigz-home"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/ray-cordova-wrapper"
-
-[[repo]]
-url = "https://github.com/ray-network/ray-home"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/ray-home-x"
-
-[[repo]]
-url = "https://github.com/ray-network/ray-kickstart-contracts"
-
-[[repo]]
-url = "https://github.com/ray-network/ray-nft-contracts"
-
-[[repo]]
-url = "https://github.com/ray-network/ray-stake"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/ray-swap-contracts"
-
-[[repo]]
-url = "https://github.com/ray-network/ray-wallet"
-
-[[repo]]
-url = "https://github.com/ray-network/ray-wallet-chrome-wrapper"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/ray-wallet-cordova-wrapper"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/raydata-home"
-
-[[repo]]
-url = "https://github.com/ray-network/raydata-io"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/raygraph-home"
+missing = true
 
 [[repo]]
-url = "https://github.com/ray-network/raygraph-io"
+url = "https://github.com/ray-network/raygraph-kupmios"
+
+[[repo]]
+url = "https://github.com/ray-network/raygraph-output"
+
+[[repo]]
+url = "https://github.com/ray-network/raygraph-token-images-cdn"
+missing = true
+
+[[repo]]
+url = "https://github.com/ray-network/raygraph-verified-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/raynetwork-home"
+missing = true
 
 [[repo]]
-url = "https://github.com/ray-network/raynetwork-io"
+url = "https://github.com/ray-network/raynetwork-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/raypad-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/raypad-home"
-
-[[repo]]
-url = "https://github.com/ray-network/raypad-io"
-
-[[repo]]
-url = "https://github.com/ray-network/raypad-io-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/raystake-home"
-
-[[repo]]
-url = "https://github.com/ray-network/raystake-io"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/raystart-home"
-
-[[repo]]
-url = "https://github.com/ray-network/raystart-io"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/rayswap-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/rayswap-home"
-
-[[repo]]
-url = "https://github.com/ray-network/rayswap-io"
-
-[[repo]]
-url = "https://github.com/ray-network/rayswap-io-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/raywallet-app"
 
 [[repo]]
 url = "https://github.com/ray-network/raywallet-app-chrome-extension"
+missing = true
 
 [[repo]]
 url = "https://github.com/ray-network/raywallet-home"
+missing = true
 
 [[repo]]
-url = "https://github.com/ray-network/raywallet-io-app"
+url = "https://github.com/ray-network/xray-cloudflare-workers"
+missing = true
 
 [[repo]]
-url = "https://github.com/ray-network/raywallet-io-app-chrome-extension"
+url = "https://github.com/ray-network/xray-graph-images-cdn"
+missing = true
+
+[[repo]]
+url = "https://github.com/ray-network/xray-graph-kupmios"
+
+[[repo]]
+url = "https://github.com/ray-network/xray-graph-ogmios"
+
+[[repo]]
+url = "https://github.com/ray-network/xray-graph-output"
+
+[[repo]]
+url = "https://github.com/ray-network/xray-home"
+missing = true
+
+[[repo]]
+url = "https://github.com/ray-network/xray-images-cdn"
+missing = true

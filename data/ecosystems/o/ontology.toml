@@ -7,10 +7,14 @@ github_organizations = ["https://github.com/ontio", "https://github.com/Ontology
 
 # Repositories
 [[repo]]
+url = "https://github.com/Honglei-Cong/cyano-wallet-ont"
+
+[[repo]]
 url = "https://github.com/jxzsxsp/ontology-php-sdk"
 
 [[repo]]
 url = "https://github.com/O3Labs/o3-dapi"
+missing = true
 
 [[repo]]
 url = "https://github.com/O3Labs/ont-mobile"
@@ -26,9 +30,6 @@ url = "https://github.com/ontio/cross-chain"
 
 [[repo]]
 url = "https://github.com/ontio/cyano-wallet"
-
-[[repo]]
-url = "https://github.com/ontio/cyano-wallet-ont"
 
 [[repo]]
 url = "https://github.com/ontio/did-method-registry"
@@ -77,6 +78,7 @@ url = "https://github.com/ontio/OEPs"
 
 [[repo]]
 url = "https://github.com/ontio/ont-bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/ontio/ontid-driver"
@@ -92,6 +94,10 @@ url = "https://github.com/ontio/ONTO"
 
 [[repo]]
 url = "https://github.com/ontio/ontology"
+
+[[repo]]
+url = "https://github.com/ontio/ontology-bridge-sc"
+missing = true
 
 [[repo]]
 url = "https://github.com/ontio/ontology-crypto"
@@ -149,6 +155,7 @@ url = "https://github.com/ontio/ontology-ts-sdk"
 
 [[repo]]
 url = "https://github.com/ontio/ontology-wagon"
+missing = true
 
 [[repo]]
 url = "https://github.com/ontio/ontology-wasm"
@@ -184,6 +191,9 @@ url = "https://github.com/ontio/triones-node-tool"
 url = "https://github.com/ontio/wagon"
 
 [[repo]]
+url = "https://github.com/ontio/WONG-sc"
+
+[[repo]]
 url = "https://github.com/OntologyNetwork/DNA"
 
 [[repo]]
@@ -197,6 +207,7 @@ url = "https://github.com/PortalNetwork/ons"
 
 [[repo]]
 url = "https://github.com/Ryucoin/neovm-utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/slowmist/Ontology-Triones-Service-Node-security-checklist"

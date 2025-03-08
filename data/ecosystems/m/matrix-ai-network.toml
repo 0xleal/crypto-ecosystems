@@ -40,6 +40,9 @@ url = "https://github.com/MatrixAINetwork/detetection_utils"
 url = "https://github.com/MatrixAINetwork/early_warning_detection"
 
 [[repo]]
+url = "https://github.com/MatrixAINetwork/Flowise_"
+
+[[repo]]
 url = "https://github.com/MatrixAINetwork/generative-models"
 
 [[repo]]
@@ -119,12 +122,10 @@ url = "https://github.com/MatrixAINetwork/MatrixSmartContractDemo"
 
 [[repo]]
 url = "https://github.com/MatrixAINetwork/OFFLINE_WALLET"
+missing = true
 
 [[repo]]
 url = "https://github.com/MatrixAINetwork/OSSRH-51158"
-
-[[repo]]
-url = "https://github.com/MatrixAINetwork/papers"
 
 [[repo]]
 url = "https://github.com/MatrixAINetwork/Research-Papers"

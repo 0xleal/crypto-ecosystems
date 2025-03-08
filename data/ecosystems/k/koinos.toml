@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/koinos"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/koinos/1-week-challenge"
+
+[[repo]]
 url = "https://github.com/koinos/as-bignum"
 
 [[repo]]
@@ -22,13 +25,40 @@ url = "https://github.com/koinos/EmbeddedProto"
 url = "https://github.com/koinos/eos-vm"
 
 [[repo]]
+url = "https://github.com/koinos/fizzy"
+
+[[repo]]
+url = "https://github.com/koinos/fogata-automatic"
+
+[[repo]]
+url = "https://github.com/koinos/go-prompt"
+
+[[repo]]
 url = "https://github.com/koinos/hunter"
 
 [[repo]]
 url = "https://github.com/koinos/hunter-cache"
 
 [[repo]]
+url = "https://github.com/koinos/koilib"
+
+[[repo]]
+url = "https://github.com/koinos/koinbot"
+
+[[repo]]
 url = "https://github.com/koinos/koinos"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-abi-proto-gen"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-account-history"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-airdrop-tool"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-as-gen"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-block-producer"
@@ -40,22 +70,37 @@ url = "https://github.com/koinos/koinos-block-store"
 url = "https://github.com/koinos/koinos-branding"
 
 [[repo]]
-url = "https://github.com/koinos/koinos-cdt"
+url = "https://github.com/koinos/koinos-chain"
 
 [[repo]]
-url = "https://github.com/koinos/koinos-chain"
+url = "https://github.com/koinos/koinos-claim"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-cli"
 
 [[repo]]
-url = "https://github.com/koinos/koinos-cli-wallet"
+url = "https://github.com/koinos/koinos-cmake"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-contract-examples"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-contract-meta-store"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-contract-standards"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-contract-template-as"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-contracts-as"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-contracts-cpp"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-cpp-dependencies"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-crypto-cpp"
@@ -70,10 +115,19 @@ url = "https://github.com/koinos/koinos-erc20"
 url = "https://github.com/koinos/koinos-exception-cpp"
 
 [[repo]]
+url = "https://github.com/koinos/koinos-github-workflows"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-grpc"
+
+[[repo]]
 url = "https://github.com/koinos/koinos-gui-miner"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-integration-tests"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-io-website"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-jsonrpc"
@@ -130,6 +184,9 @@ url = "https://github.com/koinos/koinos-proto-python"
 url = "https://github.com/koinos/koinos-repo-template"
 
 [[repo]]
+url = "https://github.com/koinos/koinos-rest"
+
+[[repo]]
 url = "https://github.com/koinos/koinos-sdk-as"
 
 [[repo]]
@@ -139,10 +196,16 @@ url = "https://github.com/koinos/koinos-sdk-as-cli"
 url = "https://github.com/koinos/koinos-sdk-cpp"
 
 [[repo]]
-url = "https://github.com/koinos/koinos-system-contracts"
+url = "https://github.com/koinos/koinos-sdk-docker"
 
 [[repo]]
-url = "https://github.com/koinos/koinos-system-contracts-as"
+url = "https://github.com/koinos/koinos-state-db-cpp"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-testnet-discord"
+
+[[repo]]
+url = "https://github.com/koinos/koinos-testnet-faucet"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-tools"
@@ -152,15 +215,20 @@ url = "https://github.com/koinos/koinos-transaction-store"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-types"
+missing = true
 
 [[repo]]
 url = "https://github.com/koinos/koinos-types-golang"
+missing = true
 
 [[repo]]
 url = "https://github.com/koinos/koinos-util-cpp"
 
 [[repo]]
 url = "https://github.com/koinos/koinos-util-golang"
+
+[[repo]]
+url = "https://github.com/koinos/learnkoinos"
 
 [[repo]]
 url = "https://github.com/koinos/protobuf"
@@ -170,3 +238,9 @@ url = "https://github.com/koinos/protobuf-go"
 
 [[repo]]
 url = "https://github.com/koinos/secp256k1-vrf"
+
+[[repo]]
+url = "https://github.com/koinos/todos"
+
+[[repo]]
+url = "https://github.com/koinos/todos-front-end"

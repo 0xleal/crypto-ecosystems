@@ -7,13 +7,20 @@ github_organizations = ["https://github.com/brave", "https://github.com/brave-in
 
 # Repositories
 [[repo]]
+url = "https://github.com/brave-experiments/ad-block"
+
+[[repo]]
+url = "https://github.com/brave-experiments/brave-abp-measurer"
+
+[[repo]]
 url = "https://github.com/brave-intl/Automatic-Website-Categorizers"
 
 [[repo]]
 url = "https://github.com/brave-intl/ava"
 
 [[repo]]
-url = "https://github.com/brave-intl/aws-codebuild-run-build"
+url = "https://github.com/brave-intl/aws-msk-iam-sasl-signer-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave-intl/basic-attention-token-crowdsale"
@@ -118,6 +125,9 @@ url = "https://github.com/brave-intl/challenge-bypass-ristretto-wasm"
 url = "https://github.com/brave-intl/challenge-bypass-server"
 
 [[repo]]
+url = "https://github.com/brave-intl/creators-app"
+
+[[repo]]
 url = "https://github.com/brave-intl/crypto-socket"
 
 [[repo]]
@@ -128,6 +138,7 @@ url = "https://github.com/brave-intl/eksctl"
 
 [[repo]]
 url = "https://github.com/brave-intl/flux"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave-intl/futures-retry"
@@ -145,16 +156,13 @@ url = "https://github.com/brave-intl/goose3"
 url = "https://github.com/brave-intl/grafana"
 
 [[repo]]
-url = "https://github.com/brave-intl/grants-mint"
-
-[[repo]]
 url = "https://github.com/brave-intl/http-signature-rs"
 
 [[repo]]
 url = "https://github.com/brave-intl/kafkacat"
 
 [[repo]]
-url = "https://github.com/brave-intl/mint-claims"
+url = "https://github.com/brave-intl/minitest-rails"
 
 [[repo]]
 url = "https://github.com/brave-intl/native-ledger-ios"
@@ -175,6 +183,9 @@ url = "https://github.com/brave-intl/Notifier"
 url = "https://github.com/brave-intl/nulldb"
 
 [[repo]]
+url = "https://github.com/brave-intl/ofac-sanctioned-digital-currency-addresses"
+
+[[repo]]
 url = "https://github.com/brave-intl/omniauth-reddit"
 
 [[repo]]
@@ -182,6 +193,7 @@ url = "https://github.com/brave-intl/papers"
 
 [[repo]]
 url = "https://github.com/brave-intl/podinfo"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave-intl/postgresql-hll"
@@ -193,19 +205,35 @@ url = "https://github.com/brave-intl/prometheus-ecs-discovery"
 url = "https://github.com/brave-intl/publishers"
 
 [[repo]]
+url = "https://github.com/brave-intl/publist-tools"
+
+[[repo]]
+url = "https://github.com/brave-intl/pull-merge"
+missing = true
+
+[[repo]]
 url = "https://github.com/brave-intl/queue-microtask"
+
+[[repo]]
+url = "https://github.com/brave-intl/renovate-config"
 
 [[repo]]
 url = "https://github.com/brave-intl/sealed-secrets"
 
 [[repo]]
+url = "https://github.com/brave-intl/security-action"
+missing = true
+
+[[repo]]
 url = "https://github.com/brave-intl/subtext"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave-intl/supertest"
 
 [[repo]]
 url = "https://github.com/brave-intl/support-tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave-intl/terminal-notifier"
@@ -226,16 +254,22 @@ url = "https://github.com/brave-intl/upload-settlements"
 url = "https://github.com/brave-intl/wasm-thumbnail"
 
 [[repo]]
+url = "https://github.com/brave-intl/workflows"
+
+[[repo]]
 url = "https://github.com/brave/ab2cb"
 
 [[repo]]
-url = "https://github.com/brave/ad-block"
+url = "https://github.com/brave/accounts"
 
 [[repo]]
 url = "https://github.com/brave/ad-block-visualize"
 
 [[repo]]
 url = "https://github.com/brave/adblock-lists"
+
+[[repo]]
+url = "https://github.com/brave/adblock-lists-mirror"
 
 [[repo]]
 url = "https://github.com/brave/adblock-resources"
@@ -253,6 +287,9 @@ url = "https://github.com/brave/ads-manager-landing-page"
 url = "https://github.com/brave/ads-ui"
 
 [[repo]]
+url = "https://github.com/brave/audit-config"
+
+[[repo]]
 url = "https://github.com/brave/autoplay-whitelist"
 
 [[repo]]
@@ -262,10 +299,19 @@ url = "https://github.com/brave/badge-matrix"
 url = "https://github.com/brave/bat-community-website"
 
 [[repo]]
+url = "https://github.com/brave/bin-build"
+
+[[repo]]
+url = "https://github.com/brave/bin-wrapper"
+
+[[repo]]
 url = "https://github.com/brave/bitgo-client"
 
 [[repo]]
 url = "https://github.com/brave/bittorrent-tracker"
+
+[[repo]]
+url = "https://github.com/brave/blade"
 
 [[repo]]
 url = "https://github.com/brave/blockies"
@@ -277,10 +323,10 @@ url = "https://github.com/brave/bloodhound"
 url = "https://github.com/brave/bloom-filter-cpp"
 
 [[repo]]
-url = "https://github.com/brave/brave-abp-measurer"
+url = "https://github.com/brave/brave-ad-service"
 
 [[repo]]
-url = "https://github.com/brave/brave-ad-service"
+url = "https://github.com/brave/brave-ads-docs"
 
 [[repo]]
 url = "https://github.com/brave/brave-browser"
@@ -308,9 +354,17 @@ url = "https://github.com/brave/brave-ios"
 
 [[repo]]
 url = "https://github.com/brave/Brave-iOS-SearchPlugins"
+missing = true
+
+[[repo]]
+url = "https://github.com/brave/brave-manager"
+
+[[repo]]
+url = "https://github.com/brave/brave-news"
 
 [[repo]]
 url = "https://github.com/brave/brave-redirection-recorder"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave/brave-release"
@@ -337,6 +391,9 @@ url = "https://github.com/brave/brave-ui"
 url = "https://github.com/brave/brave-variations"
 
 [[repo]]
+url = "https://github.com/brave/brave-versions"
+
+[[repo]]
 url = "https://github.com/brave/brave-wallet-docs"
 
 [[repo]]
@@ -344,24 +401,37 @@ url = "https://github.com/brave/brightray"
 
 [[repo]]
 url = "https://github.com/brave/browser-android-tabs"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave/browser-benchmarking"
 
 [[repo]]
 url = "https://github.com/brave/browser-ios"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave/browser-laptop"
 
 [[repo]]
 url = "https://github.com/brave/browser-laptop-bootstrap"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave/browser-laptop-releases"
 
 [[repo]]
+url = "https://github.com/brave/calendar-duration-rs"
+
+[[repo]]
+url = "https://github.com/brave/catapult"
+
+[[repo]]
+url = "https://github.com/brave/chromium"
+
+[[repo]]
 url = "https://github.com/brave/chromium-81.0.4044.83"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave/chromium-releases"
@@ -371,6 +441,7 @@ url = "https://github.com/brave/chromium-source-tarball"
 
 [[repo]]
 url = "https://github.com/brave/ci-build-patches"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave/cloudwatch-alarm-exporter"
@@ -380,6 +451,18 @@ url = "https://github.com/brave/cmake-js"
 
 [[repo]]
 url = "https://github.com/brave/coinbase-node"
+
+[[repo]]
+url = "https://github.com/brave/config-attestation"
+
+[[repo]]
+url = "https://github.com/brave/constellation"
+
+[[repo]]
+url = "https://github.com/brave/constellation-processors"
+
+[[repo]]
+url = "https://github.com/brave/cookiemonster"
 
 [[repo]]
 url = "https://github.com/brave/country-reverse-geocoding"
@@ -397,6 +480,9 @@ url = "https://github.com/brave/crypto"
 url = "https://github.com/brave/debug-symbol-fetcher"
 
 [[repo]]
+url = "https://github.com/brave/devops-github-workflows"
+
+[[repo]]
 url = "https://github.com/brave/dnode"
 
 [[repo]]
@@ -404,6 +490,9 @@ url = "https://github.com/brave/docker-jitsi-meet"
 
 [[repo]]
 url = "https://github.com/brave/docusign_rest"
+
+[[repo]]
+url = "https://github.com/brave/download"
 
 [[repo]]
 url = "https://github.com/brave/electron-builder"
@@ -436,6 +525,9 @@ url = "https://github.com/brave/electron-prebuilt"
 url = "https://github.com/brave/electron-squirrel-startup"
 
 [[repo]]
+url = "https://github.com/brave/eotk"
+
+[[repo]]
 url = "https://github.com/brave/eth-hd-keyring"
 
 [[repo]]
@@ -449,6 +541,7 @@ url = "https://github.com/brave/eth-token-tracker"
 
 [[repo]]
 url = "https://github.com/brave/ethereum-remote-client"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/brave/extension-whitelist"
@@ -460,10 +553,16 @@ url = "https://github.com/brave/eyeshade"
 url = "https://github.com/brave/FFmpeg"
 
 [[repo]]
+url = "https://github.com/brave/figma-api-exporter"
+
+[[repo]]
 url = "https://github.com/brave/format-chromium-histogram"
 
 [[repo]]
 url = "https://github.com/brave/git-secrets-unittest"
+
+[[repo]]
+url = "https://github.com/brave/github-action-benchmark"
 
 [[repo]]
 url = "https://github.com/brave/gn-project-generators"
@@ -520,6 +619,9 @@ url = "https://github.com/brave/https-everywhere-ruleset"
 url = "https://github.com/brave/httpse2ios"
 
 [[repo]]
+url = "https://github.com/brave/imagemin-pngquant"
+
+[[repo]]
 url = "https://github.com/brave/immutable-js-patch"
 
 [[repo]]
@@ -532,13 +634,14 @@ url = "https://github.com/brave/inpage-provider"
 url = "https://github.com/brave/install-cmake"
 
 [[repo]]
+url = "https://github.com/brave/install.sh"
+
+[[repo]]
 url = "https://github.com/brave/ios-open-thirdparty-browser"
 
 [[repo]]
-url = "https://github.com/brave/jidesha"
-
-[[repo]]
 url = "https://github.com/brave/jitsi-meet"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave/jitsi-slack"
@@ -554,6 +657,9 @@ url = "https://github.com/brave/KeyringController"
 
 [[repo]]
 url = "https://github.com/brave/kuchiki"
+
+[[repo]]
+url = "https://github.com/brave/kuchikiki"
 
 [[repo]]
 url = "https://github.com/brave/LavaMoat"
@@ -574,6 +680,15 @@ url = "https://github.com/brave/ledger-geoip"
 url = "https://github.com/brave/ledger-publisher"
 
 [[repo]]
+url = "https://github.com/brave/leo"
+
+[[repo]]
+url = "https://github.com/brave/leo-local-models"
+
+[[repo]]
+url = "https://github.com/brave/leo-sf-symbols"
+
+[[repo]]
 url = "https://github.com/brave/level"
 
 [[repo]]
@@ -584,6 +699,9 @@ url = "https://github.com/brave/lib-jitsi-meet"
 
 [[repo]]
 url = "https://github.com/brave/libchromiumcontent"
+
+[[repo]]
+url = "https://github.com/brave/librustzcash"
 
 [[repo]]
 url = "https://github.com/brave/link-bubble"
@@ -623,6 +741,16 @@ url = "https://github.com/brave/muon-winstaller"
 
 [[repo]]
 url = "https://github.com/brave/news-aggregator"
+missing = true
+
+[[repo]]
+url = "https://github.com/brave/nitriding"
+
+[[repo]]
+url = "https://github.com/brave/nitriding-daemon"
+
+[[repo]]
+url = "https://github.com/brave/nitro-enclave-kernel"
 
 [[repo]]
 url = "https://github.com/brave/nlp-pipelines"
@@ -665,12 +793,19 @@ url = "https://github.com/brave/omaha-server"
 
 [[repo]]
 url = "https://github.com/brave/omaha-server-build"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave/optional-dev-dependency"
 
 [[repo]]
 url = "https://github.com/brave/page-links-to"
+
+[[repo]]
+url = "https://github.com/brave/pagegraph-crawl"
+
+[[repo]]
+url = "https://github.com/brave/pagegraph-rust"
 
 [[repo]]
 url = "https://github.com/brave/PanModal"
@@ -685,10 +820,19 @@ url = "https://github.com/brave/perfaderp"
 url = "https://github.com/brave/php-coding-standards"
 
 [[repo]]
+url = "https://github.com/brave/playlist-component"
+
+[[repo]]
 url = "https://github.com/brave/pre-commit"
 
 [[repo]]
 url = "https://github.com/brave/prochlo"
+
+[[repo]]
+url = "https://github.com/brave/public-suffix-list"
+
+[[repo]]
+url = "https://github.com/brave/pull-merge"
 
 [[repo]]
 url = "https://github.com/brave/python-patch"
@@ -703,19 +847,32 @@ url = "https://github.com/brave/qr-image"
 url = "https://github.com/brave/rappor"
 
 [[repo]]
+url = "https://github.com/brave/ref-fvm"
+
+[[repo]]
 url = "https://github.com/brave/referrer-whitelist"
+
+[[repo]]
+url = "https://github.com/brave/release-boss"
 
 [[repo]]
 url = "https://github.com/brave/release-tools"
 
 [[repo]]
+url = "https://github.com/brave/renovate-config"
+
+[[repo]]
 url = "https://github.com/brave/rewards"
+missing = true
 
 [[repo]]
 url = "https://github.com/brave/scproxy"
 
 [[repo]]
 url = "https://github.com/brave/sdebug"
+
+[[repo]]
+url = "https://github.com/brave/security-action"
 
 [[repo]]
 url = "https://github.com/brave/simplepadding"
@@ -748,16 +905,44 @@ url = "https://github.com/brave/Squirrel.Windows"
 url = "https://github.com/brave/sta-rs"
 
 [[repo]]
+url = "https://github.com/brave/star-randsrv"
+
+[[repo]]
+url = "https://github.com/brave/store-brave-com"
+
+[[repo]]
+url = "https://github.com/brave/sugarcoat"
+
+[[repo]]
+url = "https://github.com/brave/sugarcoat-pipeline"
+
+[[repo]]
+url = "https://github.com/brave/sugarcoat-resources"
+
+[[repo]]
+url = "https://github.com/brave/svelte"
+missing = true
+
+[[repo]]
 url = "https://github.com/brave/svg-resizer"
 
 [[repo]]
 url = "https://github.com/brave/svg2jsx"
 
 [[repo]]
+url = "https://github.com/brave/swap"
+
+[[repo]]
 url = "https://github.com/brave/sync"
 
 [[repo]]
+url = "https://github.com/brave/text-generation-inference"
+
+[[repo]]
 url = "https://github.com/brave/token-lists"
+
+[[repo]]
+url = "https://github.com/brave/tokenizer"
 
 [[repo]]
 url = "https://github.com/brave/tor_build_scripts"
@@ -769,13 +954,13 @@ url = "https://github.com/brave/torrent-discovery"
 url = "https://github.com/brave/tracking-protection"
 
 [[repo]]
+url = "https://github.com/brave/transparency-report-generator"
+
+[[repo]]
 url = "https://github.com/brave/ua-parser-js"
 
 [[repo]]
 url = "https://github.com/brave/uBlock"
-
-[[repo]]
-url = "https://github.com/brave/unofficial-snap"
 
 [[repo]]
 url = "https://github.com/brave/unzip-crx"
@@ -799,7 +984,19 @@ url = "https://github.com/brave/vault-updater"
 url = "https://github.com/brave/vibrant.js"
 
 [[repo]]
+url = "https://github.com/brave/viproxy"
+
+[[repo]]
+url = "https://github.com/brave/vsock-relay"
+
+[[repo]]
+url = "https://github.com/brave/wallet-standard-brave"
+
+[[repo]]
 url = "https://github.com/brave/web-discovery-project"
+
+[[repo]]
+url = "https://github.com/brave/webkit-content-filter-validator"
 
 [[repo]]
 url = "https://github.com/brave/webkit-cpu-profiler-tools"
@@ -815,3 +1012,9 @@ url = "https://github.com/brave/windows-installer"
 
 [[repo]]
 url = "https://github.com/brave/wordpress-well-known"
+
+[[repo]]
+url = "https://github.com/brave/workflows"
+
+[[repo]]
+url = "https://github.com/brave/zerotrace"

@@ -34,6 +34,9 @@ url = "https://github.com/Morpheuslabs-io/bep20-erc20-bridge-web"
 url = "https://github.com/Morpheuslabs-io/BPaaS-stats-19-20"
 
 [[repo]]
+url = "https://github.com/Morpheuslabs-io/cde-nft-marketplace"
+
+[[repo]]
 url = "https://github.com/Morpheuslabs-io/crowdfund-sample-new"
 
 [[repo]]
@@ -56,6 +59,7 @@ url = "https://github.com/Morpheuslabs-io/ethereum-pet-shop"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/ethereum-pet-shop_1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/ethereum-sample-apps"
@@ -74,6 +78,7 @@ url = "https://github.com/Morpheuslabs-io/gasless-uniswap"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/gasless-uniswap_1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/hackathon_22_api"
@@ -103,6 +108,12 @@ url = "https://github.com/Morpheuslabs-io/littlepo-poc-api"
 url = "https://github.com/Morpheuslabs-io/Littlepo-poc-smart-contracts"
 
 [[repo]]
+url = "https://github.com/Morpheuslabs-io/Loyalty-workshop"
+
+[[repo]]
+url = "https://github.com/Morpheuslabs-io/Loyalty-workshop-seed"
+
+[[repo]]
 url = "https://github.com/Morpheuslabs-io/matic-eth-email-wallet"
 
 [[repo]]
@@ -124,10 +135,26 @@ url = "https://github.com/Morpheuslabs-io/ml-fusion-basic"
 url = "https://github.com/Morpheuslabs-io/ml-idendity-wallet"
 
 [[repo]]
+url = "https://github.com/Morpheuslabs-io/ml-medrec-solution-poc1_1"
+
+[[repo]]
+url = "https://github.com/Morpheuslabs-io/ml-medrec-solution-poc1_2"
+
+[[repo]]
+url = "https://github.com/Morpheuslabs-io/ml-medrec-solution-poc1_3"
+missing = true
+
+[[repo]]
 url = "https://github.com/Morpheuslabs-io/ml-multichain-new"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/ml-multilock-wallet"
+
+[[repo]]
+url = "https://github.com/Morpheuslabs-io/ml-NFT-tool"
+
+[[repo]]
+url = "https://github.com/Morpheuslabs-io/ml-NFT-tool_1"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/ml-opensea-erc1155"
@@ -136,10 +163,10 @@ url = "https://github.com/Morpheuslabs-io/ml-opensea-erc1155"
 url = "https://github.com/Morpheuslabs-io/ml-opensea-erc721"
 
 [[repo]]
-url = "https://github.com/Morpheuslabs-io/ml-opensea-erc755"
+url = "https://github.com/Morpheuslabs-io/ml-swapponline-multicurrency-wallet"
 
 [[repo]]
-url = "https://github.com/Morpheuslabs-io/ml-swapponline-multicurrency-wallet"
+url = "https://github.com/Morpheuslabs-io/ml-workflow-suite"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/morpheus-app-store"
@@ -149,6 +176,7 @@ url = "https://github.com/Morpheuslabs-io/morpheus-bpaas"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/morpheus-cde"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/morpheus-che"
@@ -164,6 +192,7 @@ url = "https://github.com/Morpheuslabs-io/morpheus-ops-console"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/morpheus-plarform-admin-console"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/nem-apostille-sample"
@@ -182,9 +211,11 @@ url = "https://github.com/Morpheuslabs-io/property-loan-demo"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/property-loan-demo_1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/property-loan-demo_2"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/quorum-kubernetes"
@@ -197,6 +228,7 @@ url = "https://github.com/Morpheuslabs-io/sample-ethereum-pet-shop"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/sample-ethereum-pet-shop_1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/seed-staking-sc-v1"
@@ -239,27 +271,33 @@ url = "https://github.com/Morpheuslabs-io/token-registry"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/token-registry_1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/uniswap-interface"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/uniswap-interface-v3.1.3"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/uniswap-interface_1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/uniswap-smartcontracts"
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/uniswap-smartcontracts_1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/uniswap-smartcontracts_2"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/uniswap-smartcontracts_3"
+missing = true
 
 [[repo]]
 url = "https://github.com/Morpheuslabs-io/uniswap-v2-core"

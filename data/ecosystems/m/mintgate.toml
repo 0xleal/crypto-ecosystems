@@ -13,10 +13,16 @@ url = "https://github.com/MintKudos/actions-aws-eb"
 url = "https://github.com/MintKudos/evm-chains"
 
 [[repo]]
+url = "https://github.com/MintKudos/meet_thrive"
+
+[[repo]]
 url = "https://github.com/MintKudos/mintflow"
 
 [[repo]]
 url = "https://github.com/MintKudos/mintflowui"
+
+[[repo]]
+url = "https://github.com/MintKudos/mintgate-app"
 
 [[repo]]
 url = "https://github.com/MintKudos/mintgate-near"
@@ -44,3 +50,10 @@ url = "https://github.com/MintKudos/protocol-contracts"
 
 [[repo]]
 url = "https://github.com/MintKudos/react-custom-properties"
+
+[[repo]]
+url = "https://github.com/MintKudos/thrive-bot"
+
+[[repo]]
+url = "https://github.com/MintKudos/thrivetogether"
+missing = true

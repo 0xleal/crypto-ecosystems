@@ -13,6 +13,12 @@ url = "https://github.com/GNYIO/actions-fast-forward-merge"
 url = "https://github.com/GNYIO/bitcoin-range-report"
 
 [[repo]]
+url = "https://github.com/GNYIO/DanRestoreTest"
+
+[[repo]]
+url = "https://github.com/GNYIO/DanRestoreTest2"
+
+[[repo]]
 url = "https://github.com/GNYIO/github-sync-ssh"
 
 [[repo]]
@@ -38,3 +44,6 @@ url = "https://github.com/GNYIO/GNYPLUGIN"
 
 [[repo]]
 url = "https://github.com/GNYIO/json-sql"
+
+[[repo]]
+url = "https://github.com/GNYIO/vuepress-plugin-tabs"

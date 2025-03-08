@@ -7,79 +7,96 @@ github_organizations = ["https://github.com/everitoken"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/everitoken/appbase"
-
-[[repo]]
-url = "https://github.com/everitoken/berkeley-softfloat-3"
-
-[[repo]]
-url = "https://github.com/everitoken/breakpad"
-
-[[repo]]
-url = "https://github.com/everitoken/chainbase"
-
-[[repo]]
 url = "https://github.com/everitoken/Cryptoverse-ama"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/everiSigner"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/everitoken-sdk-tutorialapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/everitoken-TIBA-ama"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/everitotken-binance-dex-ama"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/everitotken-trustwallet-ama"
-
-[[repo]]
-url = "https://github.com/everitoken/evt"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/evt-bnb-dex-bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/evt4j"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/evt4j-gradle-project-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/evt4j-maven-project-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/evtjs"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/evtjs-android-demo"
-
-[[repo]]
-url = "https://github.com/everitoken/evtjs-fcbuffer"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/evtnode-load-balancing-proxy"
-
-[[repo]]
-url = "https://github.com/everitoken/locust"
-
-[[repo]]
-url = "https://github.com/everitoken/rapidjson"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/s3-snapshots-browser"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/stake-page"
-
-[[repo]]
-url = "https://github.com/everitoken/wallet-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/whitelists"
+missing = true
 
 [[repo]]
 url = "https://github.com/everitoken/whitepaper-translates"
+missing = true
+
+[[repo]]
+url = "https://github.com/jmzkChain/appbase"
+
+[[repo]]
+url = "https://github.com/jmzkChain/berkeley-softfloat-3"
+
+[[repo]]
+url = "https://github.com/jmzkChain/breakpad"
+
+[[repo]]
+url = "https://github.com/jmzkChain/chainbase"
+
+[[repo]]
+url = "https://github.com/jmzkChain/jmzk"
+
+[[repo]]
+url = "https://github.com/jmzkChain/jmzkjs-fcbuffer"
+
+[[repo]]
+url = "https://github.com/jmzkChain/locust"
+
+[[repo]]
+url = "https://github.com/jmzkChain/rapidjson"
+
+[[repo]]
+url = "https://github.com/jmzkChain/wallet-core"

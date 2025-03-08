@@ -43,7 +43,11 @@ url = "https://github.com/iov-one/bnsd.sigs"
 url = "https://github.com/iov-one/CEA"
 
 [[repo]]
+url = "https://github.com/iov-one/certificate-parser"
+
+[[repo]]
 url = "https://github.com/iov-one/certifiers-listing"
+missing = true
 
 [[repo]]
 url = "https://github.com/iov-one/chatbot"
@@ -124,6 +128,9 @@ url = "https://github.com/iov-one/iovns.sigs"
 url = "https://github.com/iov-one/keplr-extension"
 
 [[repo]]
+url = "https://github.com/iov-one/keplr-wallet"
+
+[[repo]]
 url = "https://github.com/iov-one/kustomize-docker"
 
 [[repo]]
@@ -154,6 +161,9 @@ url = "https://github.com/iov-one/ponferrada"
 url = "https://github.com/iov-one/prototool-docker"
 
 [[repo]]
+url = "https://github.com/iov-one/query-starnames"
+
+[[repo]]
 url = "https://github.com/iov-one/readonly-date"
 
 [[repo]]
@@ -163,7 +173,25 @@ url = "https://github.com/iov-one/savitar-widgets"
 url = "https://github.com/iov-one/signed-message-aleph"
 
 [[repo]]
+url = "https://github.com/iov-one/signer-types"
+
+[[repo]]
+url = "https://github.com/iov-one/star-lookup"
+
+[[repo]]
+url = "https://github.com/iov-one/star-manager"
+
+[[repo]]
+url = "https://github.com/iov-one/starname-11-tests"
+
+[[repo]]
+url = "https://github.com/iov-one/starname-npm"
+
+[[repo]]
 url = "https://github.com/iov-one/starname-stats"
+
+[[repo]]
+url = "https://github.com/iov-one/starname11"
 
 [[repo]]
 url = "https://github.com/iov-one/starnamed"
@@ -191,6 +219,7 @@ url = "https://github.com/iov-one/transaction-size-fee"
 
 [[repo]]
 url = "https://github.com/iov-one/ts-relayer"
+missing = true
 
 [[repo]]
 url = "https://github.com/iov-one/tutorial"
@@ -206,6 +235,9 @@ url = "https://github.com/iov-one/wallet-core-wip"
 
 [[repo]]
 url = "https://github.com/iov-one/wallet-demo"
+
+[[repo]]
+url = "https://github.com/iov-one/wallet-providers"
 
 [[repo]]
 url = "https://github.com/iov-one/walletconnect-website"

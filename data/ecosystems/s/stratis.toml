@@ -7,7 +7,7 @@ github_organizations = ["https://github.com/stratisproject"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/stratisproject/android-28"
+url = "https://github.com/stratisproject/AddressOwnershipTool"
 
 [[repo]]
 url = "https://github.com/stratisproject/android-ndk-21"
@@ -22,9 +22,6 @@ url = "https://github.com/stratisproject/archive_azure-quickstart-templates"
 url = "https://github.com/stratisproject/archive_stratis"
 
 [[repo]]
-url = "https://github.com/stratisproject/bitcore"
-
-[[repo]]
 url = "https://github.com/stratisproject/bitcore-lib-cirrus"
 
 [[repo]]
@@ -35,21 +32,30 @@ url = "https://github.com/stratisproject/bitcore-lib-strax"
 
 [[repo]]
 url = "https://github.com/stratisproject/bitcore-old"
+missing = true
 
 [[repo]]
 url = "https://github.com/stratisproject/bitcore-stratis"
 
 [[repo]]
 url = "https://github.com/stratisproject/bitcore-strax"
+missing = true
 
 [[repo]]
 url = "https://github.com/stratisproject/bitcore-wallet-client-stratis"
+missing = true
 
 [[repo]]
 url = "https://github.com/stratisproject/BlockchainProgramming"
 
 [[repo]]
 url = "https://github.com/stratisproject/BlockExplorer"
+
+[[repo]]
+url = "https://github.com/stratisproject/blockscout"
+
+[[repo]]
+url = "https://github.com/stratisproject/blockscout-rs"
 
 [[repo]]
 url = "https://github.com/stratisproject/Breeze"
@@ -68,6 +74,10 @@ url = "https://github.com/stratisproject/CirrusSmartContracts"
 
 [[repo]]
 url = "https://github.com/stratisproject/crypto-wallet-core-stratis"
+missing = true
+
+[[repo]]
+url = "https://github.com/stratisproject/distribution-contract"
 
 [[repo]]
 url = "https://github.com/stratisproject/Documentation"
@@ -79,10 +89,13 @@ url = "https://github.com/stratisproject/electrum-stratis"
 url = "https://github.com/stratisproject/electrum-stratis-server"
 
 [[repo]]
+url = "https://github.com/stratisproject/explorer-frontend"
+
+[[repo]]
 url = "https://github.com/stratisproject/FederatedSidechains"
 
 [[repo]]
-url = "https://github.com/stratisproject/FullNodeUI"
+url = "https://github.com/stratisproject/go-stratis"
 
 [[repo]]
 url = "https://github.com/stratisproject/HashLib"
@@ -98,6 +111,15 @@ url = "https://github.com/stratisproject/libbitcoin-system"
 
 [[repo]]
 url = "https://github.com/stratisproject/LibbitcoinAndroidTestApp"
+
+[[repo]]
+url = "https://github.com/stratisproject/Masternode-Frontend"
+
+[[repo]]
+url = "https://github.com/stratisproject/masternode-staking-contract"
+
+[[repo]]
+url = "https://github.com/stratisproject/MasternodeSetupTool"
 
 [[repo]]
 url = "https://github.com/stratisproject/MediaConverterApi"
@@ -118,6 +140,9 @@ url = "https://github.com/stratisproject/NStratis.API"
 url = "https://github.com/stratisproject/NStratis.AzureIndexer"
 
 [[repo]]
+url = "https://github.com/stratisproject/prysm-stratis"
+
+[[repo]]
 url = "https://github.com/stratisproject/pyStratis"
 
 [[repo]]
@@ -127,13 +152,23 @@ url = "https://github.com/stratisproject/rocksdb-sharp"
 url = "https://github.com/stratisproject/SkorXam.Pin.Extended"
 
 [[repo]]
+url = "https://github.com/stratisproject/staking-deposit-cli"
+
+[[repo]]
+url = "https://github.com/stratisproject/staking-launchpad"
+
+[[repo]]
 url = "https://github.com/stratisproject/STOPlatform"
 
 [[repo]]
 url = "https://github.com/stratisproject/Stratis-Academy"
 
 [[repo]]
+url = "https://github.com/stratisproject/stratis-node"
+
+[[repo]]
 url = "https://github.com/stratisproject/Stratis.Interflux.UI"
+missing = true
 
 [[repo]]
 url = "https://github.com/stratisproject/Stratis.Interflux.Web"
@@ -164,6 +199,15 @@ tags = ["Protocol"]
 url = "https://github.com/stratisproject/StratisCore"
 
 [[repo]]
+url = "https://github.com/stratisproject/StratisEVM"
+
+[[repo]]
+url = "https://github.com/stratisproject/StratisEVM-beaconchain-explorer"
+
+[[repo]]
+url = "https://github.com/stratisproject/StratisEVM-staking-launchpad"
+
+[[repo]]
 url = "https://github.com/stratisproject/StratisFullNode"
 
 [[repo]]
@@ -179,6 +223,9 @@ url = "https://github.com/stratisproject/StratisPatricia"
 url = "https://github.com/stratisproject/StratisphereWallet"
 
 [[repo]]
+url = "https://github.com/stratisproject/StratisPlusPlus"
+
+[[repo]]
 url = "https://github.com/stratisproject/StratisRedRunner"
 
 [[repo]]
@@ -191,6 +238,9 @@ url = "https://github.com/stratisproject/StratisUnitySDK"
 url = "https://github.com/stratisproject/stratisX"
 
 [[repo]]
+url = "https://github.com/stratisproject/strax-faucet"
+
+[[repo]]
 url = "https://github.com/stratisproject/StraxCLI"
 
 [[repo]]
@@ -200,10 +250,13 @@ url = "https://github.com/stratisproject/StraxUI"
 url = "https://github.com/stratisproject/TCPServer"
 
 [[repo]]
-url = "https://github.com/stratisproject/Unity3dIntegration"
+url = "https://github.com/stratisproject/UnrealDemoGameProject"
 
 [[repo]]
 url = "https://github.com/stratisproject/UnrealEnginePlugin"
+
+[[repo]]
+url = "https://github.com/stratisproject/wagyu-key-gen"
 
 [[repo]]
 url = "https://github.com/stratisproject/warp"
@@ -213,3 +266,12 @@ url = "https://github.com/stratisproject/X13-Hash-Test"
 
 [[repo]]
 url = "https://github.com/stratisproject/Xamarin.Biometric"
+
+[[repo]]
+url = "https://github.com/stratisproject/zk-block-explorer"
+
+[[repo]]
+url = "https://github.com/stratisproject/zk-dapp-portal"
+
+[[repo]]
+url = "https://github.com/stratisproject/zksync-era"

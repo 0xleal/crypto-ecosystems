@@ -8,12 +8,19 @@ github_organizations = ["https://github.com/Plenty-DeFi"]
 # Repositories
 [[repo]]
 url = "https://github.com/Plenty-DeFi/ethereum-signer"
+missing = true
+
+[[repo]]
+url = "https://github.com/Plenty-DeFi/plenty-analytics-indexer"
+
+[[repo]]
+url = "https://github.com/Plenty-DeFi/plenty-bridge-contracts-ethereum"
+
+[[repo]]
+url = "https://github.com/Plenty-DeFi/plenty-bridge-contracts-tezos"
 
 [[repo]]
 url = "https://github.com/Plenty-DeFi/plenty-indexer-boilerplate"
-
-[[repo]]
-url = "https://github.com/Plenty-DeFi/plenty-interface"
 
 [[repo]]
 url = "https://github.com/Plenty-DeFi/Plenty-Logo"
@@ -22,7 +29,25 @@ url = "https://github.com/Plenty-DeFi/Plenty-Logo"
 url = "https://github.com/Plenty-DeFi/plenty-middleware-boilerplate"
 
 [[repo]]
+url = "https://github.com/Plenty-DeFi/PLY-indexer"
+
+[[repo]]
 url = "https://github.com/Plenty-DeFi/react-taquito-beacon-example"
 
 [[repo]]
 url = "https://github.com/Plenty-DeFi/security-audit"
+
+[[repo]]
+url = "https://github.com/Plenty-network/bridge-mainnet-indexer"
+
+[[repo]]
+url = "https://github.com/Plenty-network/plenty-bridge-contracts"
+
+[[repo]]
+url = "https://github.com/Plenty-network/plenty-bridge-signer"
+
+[[repo]]
+url = "https://github.com/Plenty-network/plenty-interface"
+
+[[repo]]
+url = "https://github.com/Plenty-network/plenty-smart-contracts"

@@ -1,11 +1,12 @@
 # Ecosystem Level Information
 title = "Monero"
 
-sub_ecosystems = ["Equilibria", "Tari"]
+sub_ecosystems = ["Cake Labs", "darkfi", "Edge", "Equilibria", "Haveno DEX", "Serai DEX", "Tari"]
 
 github_organizations = [
-  "https://github.com/farcaster-project",
   "https://github.com/monero-ecosystem",
+  "https://github.com/monero-project",
+  "https://github.com/monero-rs",
   "https://github.com/monerobook",
   "https://github.com/mymonero",
   "https://github.com/xmr-ru",
@@ -18,9 +19,11 @@ tags = ["Wallet"]
 
 [[repo]]
 url = "https://github.com/00-matt/moneropool"
+missing = true
 
 [[repo]]
 url = "https://github.com/00-matt/monerorpc"
+missing = true
 
 [[repo]]
 url = "https://github.com/aaronmboyd/docker-xmrMiner"
@@ -39,12 +42,17 @@ url = "https://github.com/amiuhle/monero-docker"
 
 [[repo]]
 url = "https://github.com/anon-coins-tutorials/monero-rpc-get-started"
+missing = true
 
 [[repo]]
 url = "https://github.com/apprises/apprise-transactions"
 
 [[repo]]
 url = "https://github.com/arnesson/xrig"
+missing = true
+
+[[repo]]
+url = "https://github.com/AthanorLabs/atomic-swap"
 
 [[repo]]
 url = "https://github.com/b-i-t-n/alpine-xmrig"
@@ -71,13 +79,7 @@ url = "https://github.com/bradoyler/xmr-miner"
 url = "https://github.com/bradoyler/xmr-paper"
 
 [[repo]]
-url = "https://github.com/Brandantl/Monero-TipBot"
-
-[[repo]]
-url = "https://github.com/C0dePizza/monero-web-interface"
-
-[[repo]]
-url = "https://github.com/CanadianRepublican/monero-universal-pool"
+url = "https://github.com/cake-tech/cake_wallet"
 
 [[repo]]
 url = "https://github.com/cazala/coin-hive"
@@ -86,10 +88,17 @@ url = "https://github.com/cazala/coin-hive"
 url = "https://github.com/cazala/coin-hive-stratum"
 
 [[repo]]
+url = "https://github.com/chrisjkr/moneyro"
+
+[[repo]]
+url = "https://github.com/ci-monk/docker-crypto-miner"
+
+[[repo]]
 url = "https://github.com/CipherDogs/gilfoyle-monero-alert"
 
 [[repo]]
 url = "https://github.com/CipherDogs/gilfoyle-monero-alert-scala"
+missing = true
 
 [[repo]]
 url = "https://github.com/CipherDogs/monerodonate"
@@ -102,9 +111,6 @@ url = "https://github.com/cnasikas/monero-address-generator"
 
 [[repo]]
 url = "https://github.com/cnrig/cnrig"
-
-[[repo]]
-url = "https://github.com/coinfoundry/miningcore"
 
 [[repo]]
 url = "https://github.com/comit-network/xmr-btc-swap"
@@ -128,13 +134,19 @@ url = "https://github.com/CRYPTOFOUNDARY/monero-ping"
 url = "https://github.com/CRYPTOFOUNDARY/rpcmasq"
 
 [[repo]]
+url = "https://github.com/CryptoGrampy/HotShop"
+
+[[repo]]
 url = "https://github.com/cryptogrot/ansible-xmr-stak"
 
 [[repo]]
-url = "https://github.com/cryptoprofitswitcher/CryptonightProfitSwitcher"
+url = "https://github.com/cryptoprofitswitcher/CryptoProfitSwitcher"
 
 [[repo]]
 url = "https://github.com/cryptoshrimpi/monerod-js"
+
+[[repo]]
+url = "https://github.com/Cuprate/cuprate"
 
 [[repo]]
 url = "https://github.com/Cyclenerd/ethereum_nvidia_miner"
@@ -161,19 +173,22 @@ url = "https://github.com/DigitalQubit/Monero-Status-Checker"
 url = "https://github.com/djphoenix/MoneroKit"
 
 [[repo]]
+url = "https://github.com/dotnwat/xmonarch"
+
+[[repo]]
 url = "https://github.com/dternyak/monerochain"
 
 [[repo]]
 url = "https://github.com/dunklesToast/XMRigFrontend"
 
 [[repo]]
+url = "https://github.com/ebellocchia/bip_utils"
+
+[[repo]]
 url = "https://github.com/emesik/monero-testnet-sandbox"
 
 [[repo]]
 url = "https://github.com/Equim-chan/cryptonight"
-
-[[repo]]
-url = "https://github.com/Equim-chan/vanity-monero"
 
 [[repo]]
 url = "https://github.com/erciccione/monero-static"
@@ -194,16 +209,28 @@ url = "https://github.com/EZForever/HiveMiner"
 url = "https://github.com/EZForever/libcryptohive"
 
 [[repo]]
+url = "https://github.com/farcaster-project/.github"
+
+[[repo]]
+url = "https://github.com/farcaster-project/client-side-validation"
+
+[[repo]]
 url = "https://github.com/farcaster-project/containers"
 
 [[repo]]
 url = "https://github.com/farcaster-project/farcaster-core"
 
 [[repo]]
+url = "https://github.com/farcaster-project/farcaster-gui"
+
+[[repo]]
 url = "https://github.com/farcaster-project/farcaster-node"
 
 [[repo]]
 url = "https://github.com/farcaster-project/meetings"
+
+[[repo]]
+url = "https://github.com/farcaster-project/parallel-offer-taker"
 
 [[repo]]
 url = "https://github.com/farcaster-project/RFCs"
@@ -230,18 +257,25 @@ url = "https://github.com/GCinellu/monero_web_miner"
 
 [[repo]]
 url = "https://github.com/gentoo-monero/gentoo-monero"
+missing = true
 
 [[repo]]
 url = "https://github.com/gexxxter/coinHiveMiner"
 
 [[repo]]
 url = "https://github.com/gg2001/monero-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/gg2001/monero-html"
+missing = true
 
 [[repo]]
 url = "https://github.com/gg2001/monero-ios"
+missing = true
+
+[[repo]]
+url = "https://github.com/godzillaba/monero-web-interface"
 
 [[repo]]
 url = "https://github.com/goxmr/goxmrminer"
@@ -265,6 +299,12 @@ url = "https://github.com/hh4x/monero"
 url = "https://github.com/hundehausen/tipxmr"
 
 [[repo]]
+url = "https://github.com/hundehausen/xmr-node-explorer-nextjs"
+
+[[repo]]
+url = "https://github.com/hvalev/monero-node"
+
+[[repo]]
 url = "https://github.com/hyahatiph-labs/mass"
 
 [[repo]]
@@ -275,6 +315,9 @@ url = "https://github.com/IndeedMiners/xmr-aeon-stak"
 
 [[repo]]
 url = "https://github.com/izavits/monero-price"
+
+[[repo]]
+url = "https://github.com/Jabster28/haveno-reto"
 
 [[repo]]
 url = "https://github.com/JasonShin/vue-coin-hive"
@@ -322,19 +365,29 @@ url = "https://github.com/kennethgoodman/pymonero_simplified"
 url = "https://github.com/khell/xmrig-docker"
 
 [[repo]]
-url = "https://github.com/KhojaHoldingCorp/monero_miner_deployment"
-
-[[repo]]
 url = "https://github.com/kirkins/MoneroPhone"
 
 [[repo]]
 url = "https://github.com/Kpaccyc/XMRig-AMD-HiveOS"
 
 [[repo]]
-url = "https://github.com/krszwsk/moneyro"
+url = "https://github.com/kumrzz/pymonerotools"
 
 [[repo]]
-url = "https://github.com/kumrzz/pymonerotools"
+url = "https://github.com/lageto-net/monero-rpc"
+
+[[repo]]
+url = "https://github.com/lalanza808/docker-monero-node"
+
+[[repo]]
+url = "https://github.com/lalanza808/monero-block-explorer"
+missing = true
+
+[[repo]]
+url = "https://github.com/lalanza808/monero.fail"
+
+[[repo]]
+url = "https://github.com/larteyoh/testshop"
 
 [[repo]]
 url = "https://github.com/leonklingele/malvarmo"
@@ -359,6 +412,7 @@ url = "https://github.com/Luccifer/XMinerClient"
 
 [[repo]]
 url = "https://github.com/lukacci/cpuhunter"
+missing = true
 
 [[repo]]
 url = "https://github.com/lunacrypt/xmr-miner-gui"
@@ -395,7 +449,11 @@ url = "https://github.com/mkaand/monerohashminermonitor"
 url = "https://github.com/mkell43/xmrig-cpu-docker"
 
 [[repo]]
+url = "https://github.com/monero-atm/atm-web"
+
+[[repo]]
 url = "https://github.com/monero-ecosystem/bip39-monero"
+missing = true
 
 [[repo]]
 url = "https://github.com/monero-ecosystem/csharp-monero-rpc-client"
@@ -434,23 +492,21 @@ url = "https://github.com/monero-ecosystem/monero-GUI-guide"
 url = "https://github.com/monero-ecosystem/monero-java"
 
 [[repo]]
-url = "https://github.com/monero-ecosystem/monero-java-rpc"
-
-[[repo]]
 url = "https://github.com/monero-ecosystem/monero-javascript"
 
 [[repo]]
 url = "https://github.com/monero-ecosystem/monero-pgp-messenger"
+missing = true
 
 [[repo]]
 url = "https://github.com/monero-ecosystem/monero-python"
 tags = ["Developer Tool"]
 
 [[repo]]
-url = "https://github.com/monero-ecosystem/monero-rpc-rs"
+url = "https://github.com/monero-ecosystem/monero-translations"
 
 [[repo]]
-url = "https://github.com/monero-ecosystem/monero-translations"
+url = "https://github.com/monero-ecosystem/monero-ts"
 
 [[repo]]
 url = "https://github.com/monero-ecosystem/monero_health"
@@ -525,6 +581,15 @@ url = "https://github.com/monero-integrations/monerowhmcs"
 url = "https://github.com/monero-integrations/monerowp"
 
 [[repo]]
+url = "https://github.com/monero-project/gitian.sigs"
+
+[[repo]]
+url = "https://github.com/monero-project/guix"
+
+[[repo]]
+url = "https://github.com/monero-project/guix.sigs"
+
+[[repo]]
 url = "https://github.com/monero-project/kastelo"
 tags = ["Wallet"]
 
@@ -533,6 +598,9 @@ url = "https://github.com/monero-project/kovri"
 
 [[repo]]
 url = "https://github.com/monero-project/kovri-docs"
+
+[[repo]]
+url = "https://github.com/monero-project/kovri-site"
 
 [[repo]]
 url = "https://github.com/monero-project/meta"
@@ -548,10 +616,19 @@ url = "https://github.com/monero-project/monero"
 tags = ["Protocol"]
 
 [[repo]]
+url = "https://github.com/monero-project/monero-docs"
+
+[[repo]]
+url = "https://github.com/monero-project/monero-downloads"
+
+[[repo]]
 url = "https://github.com/monero-project/monero-forum"
 
 [[repo]]
 url = "https://github.com/monero-project/monero-gui"
+
+[[repo]]
+url = "https://github.com/monero-project/monero-site"
 
 [[repo]]
 url = "https://github.com/monero-project/research-lab"
@@ -569,10 +646,28 @@ url = "https://github.com/monero-project/urs"
 url = "https://github.com/monero-project/xmr-seeder"
 
 [[repo]]
-url = "https://github.com/monero-rs/base58-monero-rs"
+url = "https://github.com/monero-rs/.github"
+
+[[repo]]
+url = "https://github.com/monero-rs/base58-monero"
+
+[[repo]]
+url = "https://github.com/monero-rs/base58m"
+
+[[repo]]
+url = "https://github.com/monero-rs/monero-epee-bin-serde"
+
+[[repo]]
+url = "https://github.com/monero-rs/monero-lws"
+
+[[repo]]
+url = "https://github.com/monero-rs/monero-rpc-rs"
 
 [[repo]]
 url = "https://github.com/monero-rs/monero-rs"
+
+[[repo]]
+url = "https://github.com/monero-rs/workflows"
 
 [[repo]]
 url = "https://github.com/monerobook/code"
@@ -593,22 +688,32 @@ url = "https://github.com/moneroexamples/onion-monero-blockchain-explorer"
 url = "https://github.com/moneroexamples/openmonero"
 
 [[repo]]
+url = "https://github.com/monerogarden/web"
+
+[[repo]]
 url = "https://github.com/moneromint/ansible-monero"
+missing = true
 
 [[repo]]
 url = "https://github.com/moneromint/docker-monero"
+missing = true
 
 [[repo]]
 url = "https://github.com/moneromint/randomx4r"
+missing = true
 
 [[repo]]
 url = "https://github.com/moneromint/solo-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/MoneroOcean/nodejs-pool"
 
 [[repo]]
 url = "https://github.com/MoneroOcean/xmr-node-proxy"
+
+[[repo]]
+url = "https://github.com/moneropay/moneropay"
 
 [[repo]]
 url = "https://github.com/monerorus/monero_api_site"
@@ -621,6 +726,7 @@ url = "https://github.com/monerorus/xmr_news"
 
 [[repo]]
 url = "https://github.com/MorganPeterson/monero-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/MultiPoolMiner/MultiPoolMiner"
@@ -684,12 +790,14 @@ url = "https://github.com/mymonero/mymonero-libapp-js"
 
 [[repo]]
 url = "https://github.com/mymonero/mymonero-lws-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/mymonero/mymonero-mobile"
 
 [[repo]]
 url = "https://github.com/mymonero/mymonero-monero-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/mymonero/mymonero-rpc-server"
@@ -710,13 +818,16 @@ url = "https://github.com/NanMetal/Claymore-CryptoNote-Proxy"
 url = "https://github.com/nemosminer/NemosMiner"
 
 [[repo]]
-url = "https://github.com/noahdesu/xmonarch"
+url = "https://github.com/neroshop/neroshop"
 
 [[repo]]
 url = "https://github.com/notgiven688/webminerpool"
 
 [[repo]]
 url = "https://github.com/NYAN-x-CAT/Lime-Miner"
+
+[[repo]]
+url = "https://github.com/oliverw/miningcore"
 
 [[repo]]
 url = "https://github.com/onodera-punpun/sako"
@@ -732,6 +843,7 @@ url = "https://github.com/PedroD/monero-stratum-docker"
 
 [[repo]]
 url = "https://github.com/Pedroos46/miner-extension-chrome"
+missing = true
 
 [[repo]]
 url = "https://github.com/ph4r05/ledger-app-monero-1.42-vuln"
@@ -801,6 +913,9 @@ url = "https://github.com/rbrt-weiler/docker-monero-cpu-miner"
 url = "https://github.com/roccomuso/xmr.to"
 
 [[repo]]
+url = "https://github.com/RuiSiang/monero-merchant"
+
+[[repo]]
 url = "https://github.com/sammy007/monero-stratum"
 
 [[repo]]
@@ -810,16 +925,26 @@ url = "https://github.com/SamsungGalaxyPlayer/monero-meetup-kit"
 url = "https://github.com/sandoche/Monero-miner-website"
 
 [[repo]]
+url = "https://github.com/SChernykh/p2pool"
+
+[[repo]]
 url = "https://github.com/selene-kovri/primo-apache"
 
 [[repo]]
 url = "https://github.com/selene-kovri/primo-control-center"
 
 [[repo]]
+url = "https://github.com/sethforprivacy/self-hosted-services"
+
+[[repo]]
+url = "https://github.com/sethforprivacy/simple-monerod-docker"
+
+[[repo]]
 url = "https://github.com/shavidzet/monero-node-docker-miner"
 
 [[repo]]
 url = "https://github.com/sm4rtk1dz/xmrmap"
+missing = true
 
 [[repo]]
 url = "https://github.com/smartnsoft/android-monero-miner"
@@ -834,26 +959,43 @@ url = "https://github.com/sumoprojects/sumokoin-wallet-generator"
 url = "https://github.com/svegaxmr/monero-vanityaddressgen"
 
 [[repo]]
+url = "https://github.com/SyntheticBird45/cuprate"
+
+[[repo]]
 url = "https://github.com/techqc/cryptonote-xmr-pool"
 
 [[repo]]
 url = "https://github.com/TENDIGI/XMRMiner"
+missing = true
 
 [[repo]]
 url = "https://github.com/tevador/RandomX"
 tags = ["Protocol"]
 
 [[repo]]
+url = "https://github.com/thevilledev/ez-docker-monero"
+
+[[repo]]
 url = "https://github.com/tiedtoastar/monero-etl"
+missing = true
+
+[[repo]]
+url = "https://github.com/TimothyL96/xmr-stak-cpu-linux"
+
+[[repo]]
+url = "https://github.com/TimothyL96/xmr-stak-cpu-nvidia-windows"
+
+[[repo]]
+url = "https://github.com/tipxmr/tipxmr"
+
+[[repo]]
+url = "https://github.com/tipxmr/tipxmr-backend"
 
 [[repo]]
 url = "https://github.com/trey-jones/xmrwasp"
 
 [[repo]]
-url = "https://github.com/ttimt/xmr-stak-cpu-linux"
-
-[[repo]]
-url = "https://github.com/ttimt/xmr-stak-cpu-nvidia-windows"
+url = "https://github.com/TylerTheFox/Monero-TipBot"
 
 [[repo]]
 url = "https://github.com/TypistTech/pickaxe-coinhive-miner-chrome"
@@ -866,12 +1008,13 @@ url = "https://github.com/uPlexa/uplexa"
 
 [[repo]]
 url = "https://github.com/valentinvieriu/monero-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/vtnerd/monero-lws"
 
 [[repo]]
-url = "https://github.com/vtorhonen/ez-docker-monero"
+url = "https://github.com/WeebDataHoarder/p2pool-compose"
 
 [[repo]]
 url = "https://github.com/weijiekoh/py2-monero-wallet-generator"
@@ -902,6 +1045,7 @@ url = "https://github.com/xmr-rs/xmr"
 
 [[repo]]
 url = "https://github.com/xmr-ru/api_xmr"
+missing = true
 
 [[repo]]
 url = "https://github.com/xmr-ru/docs_xmr"
@@ -914,6 +1058,7 @@ url = "https://github.com/xmr-ru/moneropedia"
 
 [[repo]]
 url = "https://github.com/xmr-ru/news_xmr"
+missing = true
 
 [[repo]]
 url = "https://github.com/xmr-ru/xmr_ru"

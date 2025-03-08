@@ -1,7 +1,16 @@
 # Ecosystem Level Information
 title = "Bifrost"
 
-sub_ecosystems = []
+sub_ecosystems = [
+  "ArthSwap",
+  "AstridDao",
+  "BeamSwap",
+  "Moonwell",
+  "Solarbeam",
+  "Starlay Finance",
+  "StellaSwap",
+  "Zircon",
+]
 
 github_organizations = ["https://github.com/bifrost-finance"]
 
@@ -16,10 +25,25 @@ url = "https://github.com/bifrost-finance/app"
 url = "https://github.com/bifrost-finance/apps"
 
 [[repo]]
+url = "https://github.com/bifrost-finance/archive-pallets"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/Astar"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/astar-apps"
+
+[[repo]]
 url = "https://github.com/bifrost-finance/awesome-substrate"
 
 [[repo]]
+url = "https://github.com/bifrost-finance/beamswap-tokenlist"
+
+[[repo]]
 url = "https://github.com/bifrost-finance/bifrost"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/bifrost-clients"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/bifrost-dashboard"
@@ -55,7 +79,13 @@ url = "https://github.com/bifrost-finance/bifrost-pallet-archives"
 url = "https://github.com/bifrost-finance/bifrost-peers-status"
 
 [[repo]]
+url = "https://github.com/bifrost-finance/bifrost-squid"
+
+[[repo]]
 url = "https://github.com/bifrost-finance/bifrost-subql"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/bifrost-vETH-2.0"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/bifrost-whitepaper"
@@ -76,9 +106,6 @@ url = "https://github.com/bifrost-finance/bounties"
 url = "https://github.com/bifrost-finance/bridge-cli"
 
 [[repo]]
-url = "https://github.com/bifrost-finance/common"
-
-[[repo]]
 url = "https://github.com/bifrost-finance/cumulus"
 
 [[repo]]
@@ -88,13 +115,36 @@ url = "https://github.com/bifrost-finance/DefiLlama-Adapters"
 url = "https://github.com/bifrost-finance/design-assets"
 
 [[repo]]
+url = "https://github.com/bifrost-finance/diadata"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/dimension-adapters"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/dot-airdrops"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/e2e-test"
+missing = true
+
+[[repo]]
+url = "https://github.com/bifrost-finance/enKrypt"
+
+[[repo]]
 url = "https://github.com/bifrost-finance/eos"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/eth-sync"
+missing = true
 
 [[repo]]
 url = "https://github.com/bifrost-finance/faucet-bot"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/filecoin_multisig_operator"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/frontier"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/General-Grants-Program"
@@ -107,12 +157,26 @@ url = "https://github.com/bifrost-finance/home-web"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/homepage-v2"
+missing = true
+
+[[repo]]
+url = "https://github.com/bifrost-finance/kusama-staking-squid"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/kusama-subql-public"
+missing = true
 
 [[repo]]
 url = "https://github.com/bifrost-finance/kusd-compensate-server"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/ledger-bifrost"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/ledger-bifrost-kusama"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/ledger-bifrost-old"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/libsecp256k1"
@@ -121,7 +185,20 @@ url = "https://github.com/bifrost-finance/libsecp256k1"
 url = "https://github.com/bifrost-finance/merkle-distributor"
 
 [[repo]]
+url = "https://github.com/bifrost-finance/metamask-snap-bifrost"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/metamask-snap-polkadot"
+
+[[repo]]
 url = "https://github.com/bifrost-finance/moonbeam"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/moonbeam-xcm-action"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/nextjs"
+missing = true
 
 [[repo]]
 url = "https://github.com/bifrost-finance/nimbus"
@@ -130,10 +207,16 @@ url = "https://github.com/bifrost-finance/nimbus"
 url = "https://github.com/bifrost-finance/Node-Manual-Installation"
 
 [[repo]]
+url = "https://github.com/bifrost-finance/nova-utils"
+
+[[repo]]
 url = "https://github.com/bifrost-finance/Open-Grants-Program"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/open-runtime-module-library"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/pallet-bcmp"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/parachain-projects-info"
@@ -149,15 +232,25 @@ url = "https://github.com/bifrost-finance/polkadot"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/polkadot-js-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/bifrost-finance/polkadot-js-common"
 
 [[repo]]
+url = "https://github.com/bifrost-finance/polkadot-sdk"
+
+[[repo]]
 url = "https://github.com/bifrost-finance/polkadot-wiki"
 
 [[repo]]
+url = "https://github.com/bifrost-finance/polkadot_network_directory"
+
+[[repo]]
 url = "https://github.com/bifrost-finance/polkawallet_plugin_bifrost"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/runtimes"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/rust-eos"
@@ -185,21 +278,56 @@ url = "https://github.com/bifrost-finance/salp-dot-server"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/slp-bifrost-subql"
+missing = true
 
 [[repo]]
 url = "https://github.com/bifrost-finance/slp-kusama-subql"
+missing = true
+
+[[repo]]
+url = "https://github.com/bifrost-finance/slp-mark"
+missing = true
 
 [[repo]]
 url = "https://github.com/bifrost-finance/slp-moonriver-subql"
+missing = true
+
+[[repo]]
+url = "https://github.com/bifrost-finance/slp-polkadot-subql"
+missing = true
+
+[[repo]]
+url = "https://github.com/bifrost-finance/slpx-contracts"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/snaps-registry"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/snapshot"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/snowbridge"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/solarbeam-tokenlist"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/ss58-registry"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/stable-asset"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/subql"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/subql_behavioral_incentives"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/subql_bifrost_for_vfil"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/subql_channel_commission"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/substrate"
@@ -232,10 +360,19 @@ url = "https://github.com/bifrost-finance/token-profile"
 url = "https://github.com/bifrost-finance/txwrapper-bifrost"
 
 [[repo]]
+url = "https://github.com/bifrost-finance/xcm-action-contracts"
+
+[[repo]]
 url = "https://github.com/bifrost-finance/xcm-interface"
 
 [[repo]]
+url = "https://github.com/bifrost-finance/xcm-sdk"
+
+[[repo]]
 url = "https://github.com/bifrost-finance/xcm-simulator"
+
+[[repo]]
+url = "https://github.com/bifrost-finance/yield-server"
 
 [[repo]]
 url = "https://github.com/bifrost-finance/Zenlink-DEX-Module"

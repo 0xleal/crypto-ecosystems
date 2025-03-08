@@ -40,6 +40,9 @@ url = "https://github.com/NAOS-Finance/NAOS-Formation"
 url = "https://github.com/NAOS-Finance/NAOS-Galaxy"
 
 [[repo]]
+url = "https://github.com/NAOS-Finance/NAOS-Index"
+
+[[repo]]
 url = "https://github.com/NAOS-Finance/NAOS-Protocol"
 
 [[repo]]
@@ -62,3 +65,6 @@ url = "https://github.com/NAOS-Finance/tokens-1"
 
 [[repo]]
 url = "https://github.com/NAOS-Finance/vfat-tools"
+
+[[repo]]
+url = "https://github.com/NAOS-Finance/yield-server"

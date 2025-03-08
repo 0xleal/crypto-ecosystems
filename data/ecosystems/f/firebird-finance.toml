@@ -11,6 +11,7 @@ url = "https://github.com/firebird-finance/audits"
 
 [[repo]]
 url = "https://github.com/firebird-finance/clipper-dex-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/firebird-finance/firebird-assets"
@@ -38,6 +39,9 @@ url = "https://github.com/firebird-finance/firebird-subgraph"
 
 [[repo]]
 url = "https://github.com/firebird-finance/firebird-vault"
+
+[[repo]]
+url = "https://github.com/firebird-finance/LlamaSwap-interface"
 
 [[repo]]
 url = "https://github.com/firebird-finance/pancake-pair-subgraph"

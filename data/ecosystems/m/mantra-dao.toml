@@ -13,10 +13,13 @@ url = "https://github.com/MantraDAO/airdrop-snapshots"
 url = "https://github.com/MantraDAO/compound-js"
 
 [[repo]]
-url = "https://github.com/MantraDAO/compound-v2-subgraph"
+url = "https://github.com/MantraDAO/DefiLlama-Adapters"
 
 [[repo]]
-url = "https://github.com/MantraDAO/DefiLlama-Adapters"
+url = "https://github.com/MantraDAO/defillama-icons"
+
+[[repo]]
+url = "https://github.com/MantraDAO/defillama-server"
 
 [[repo]]
 url = "https://github.com/MantraDAO/mdao-docs"
@@ -32,12 +35,18 @@ url = "https://github.com/MantraDAO/om-token-contract"
 
 [[repo]]
 url = "https://github.com/MantraDAO/Open-Grants-Program"
+missing = true
 
 [[repo]]
 url = "https://github.com/MantraDAO/rio.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/MantraDAO/riochain"
+missing = true
+
+[[repo]]
+url = "https://github.com/MantraDAO/RNSwipeVerify"
 
 [[repo]]
 url = "https://github.com/MantraDAO/snapshot-spaces"

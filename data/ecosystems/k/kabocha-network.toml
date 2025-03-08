@@ -3,7 +3,7 @@ title = "Kabocha Network"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/Kabocha-Network"]
+github_organizations = ["https://github.com/kabocha-network"]
 
 # Repositories
 [[repo]]
@@ -22,6 +22,13 @@ url = "https://github.com/Kabocha-Network/evm"
 url = "https://github.com/Kabocha-Network/frontier"
 
 [[repo]]
+url = "https://github.com/kabocha-network/kab-distribution"
+missing = true
+
+[[repo]]
+url = "https://github.com/kabocha-network/kab-gifts"
+
+[[repo]]
 url = "https://github.com/kabocha-network/kabocha-crowdloan-frontend"
 
 [[repo]]
@@ -37,10 +44,14 @@ url = "https://github.com/kabocha-network/kabocha-network-archive-.github.io"
 url = "https://github.com/kabocha-network/kabocha-network.github.io"
 
 [[repo]]
-url = "https://github.com/Kabocha-Network/kabocha-node"
+url = "https://github.com/Kabocha-Network/kabocha-node-old"
 
 [[repo]]
-url = "https://github.com/Kabocha-Network/kabocha-node-old"
+url = "https://github.com/kabocha-network/pallet-relay-schedule"
+missing = true
+
+[[repo]]
+url = "https://github.com/kabocha-network/pallet-relay-scheduler"
 
 [[repo]]
 url = "https://github.com/kabocha-network/pallet_mint_with_fee"
@@ -55,7 +66,7 @@ url = "https://github.com/kabocha-network/pallet_supersig"
 url = "https://github.com/Kabocha-Network/parachain"
 
 [[repo]]
-url = "https://github.com/Kabocha-Network/polkadot"
+url = "https://github.com/kabocha-network/polkadot-sdk"
 
 [[repo]]
 url = "https://github.com/kabocha-network/recipes"
@@ -71,3 +82,6 @@ url = "https://github.com/Kabocha-Network/subsocial-node"
 
 [[repo]]
 url = "https://github.com/Kabocha-Network/substrate"
+
+[[repo]]
+url = "https://github.com/kabocha-network/uptest"

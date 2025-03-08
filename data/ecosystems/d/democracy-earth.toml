@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/DemocracyEarth"]
 url = "https://github.com/DemocracyEarth/advocacy"
 
 [[repo]]
+url = "https://github.com/DemocracyEarth/agent-twitter-client"
+
+[[repo]]
+url = "https://github.com/DemocracyEarth/agents"
+
+[[repo]]
 url = "https://github.com/DemocracyEarth/balance-keeper"
 
 [[repo]]
@@ -34,12 +40,6 @@ url = "https://github.com/DemocracyEarth/concept"
 url = "https://github.com/DemocracyEarth/dao"
 
 [[repo]]
-url = "https://github.com/DemocracyEarth/dapp"
-
-[[repo]]
-url = "https://github.com/DemocracyEarth/DemocracyDAO"
-
-[[repo]]
 url = "https://github.com/DemocracyEarth/DesignSystem"
 
 [[repo]]
@@ -49,7 +49,16 @@ url = "https://github.com/DemocracyEarth/dips"
 url = "https://github.com/DemocracyEarth/docs"
 
 [[repo]]
+url = "https://github.com/DemocracyEarth/eliza"
+
+[[repo]]
+url = "https://github.com/DemocracyEarth/executive"
+
+[[repo]]
 url = "https://github.com/DemocracyEarth/exodus"
+
+[[repo]]
+url = "https://github.com/DemocracyEarth/gov"
 
 [[repo]]
 url = "https://github.com/DemocracyEarth/handbook"
@@ -70,16 +79,22 @@ url = "https://github.com/DemocracyEarth/landing"
 url = "https://github.com/DemocracyEarth/micropayment-voting"
 
 [[repo]]
-url = "https://github.com/DemocracyEarth/molochQV"
+url = "https://github.com/DemocracyEarth/My-DAO-Dashboard"
 
 [[repo]]
-url = "https://github.com/DemocracyEarth/My-DAO-Dashboard"
+url = "https://github.com/DemocracyEarth/NationGPT"
+
+[[repo]]
+url = "https://github.com/DemocracyEarth/neo"
 
 [[repo]]
 url = "https://github.com/DemocracyEarth/old_dapp"
 
 [[repo]]
 url = "https://github.com/DemocracyEarth/paper"
+
+[[repo]]
+url = "https://github.com/DemocracyEarth/partidodelared"
 
 [[repo]]
 url = "https://github.com/DemocracyEarth/party"
@@ -91,13 +106,7 @@ url = "https://github.com/DemocracyEarth/pohtokenlog"
 url = "https://github.com/DemocracyEarth/press"
 
 [[repo]]
-url = "https://github.com/DemocracyEarth/press-kit"
-
-[[repo]]
 url = "https://github.com/DemocracyEarth/proof"
-
-[[repo]]
-url = "https://github.com/DemocracyEarth/Proof-Of-Humanity"
 
 [[repo]]
 url = "https://github.com/DemocracyEarth/proof-of-humanity-web"
@@ -106,19 +115,19 @@ url = "https://github.com/DemocracyEarth/proof-of-humanity-web"
 url = "https://github.com/DemocracyEarth/protocol"
 
 [[repo]]
-url = "https://github.com/DemocracyEarth/quadratic-moloch"
-
-[[repo]]
-url = "https://github.com/DemocracyEarth/QuadraticMoloch"
-
-[[repo]]
 url = "https://github.com/DemocracyEarth/self"
 
 [[repo]]
-url = "https://github.com/DemocracyEarth/sovereign"
+url = "https://github.com/DemocracyEarth/sud"
+
+[[repo]]
+url = "https://github.com/DemocracyEarth/twitter-scraper-finetune"
 
 [[repo]]
 url = "https://github.com/DemocracyEarth/ubi"
+
+[[repo]]
+url = "https://github.com/DemocracyEarth/ubi-landing"
 
 [[repo]]
 url = "https://github.com/DemocracyEarth/ubi-vaults-ui"

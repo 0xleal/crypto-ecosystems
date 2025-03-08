@@ -11,6 +11,10 @@ url = "https://github.com/idavollnetwork/alpen"
 
 [[repo]]
 url = "https://github.com/idavollnetwork/Alpen-contract"
+missing = true
+
+[[repo]]
+url = "https://github.com/idavollnetwork/alpen-frontend"
 
 [[repo]]
 url = "https://github.com/idavollnetwork/contracts"
@@ -23,6 +27,9 @@ url = "https://github.com/idavollnetwork/Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/idavollnetwork/idavoll"
+
+[[repo]]
+url = "https://github.com/idavollnetwork/InvestmentDAO"
 
 [[repo]]
 url = "https://github.com/idavollnetwork/open-grants-program"

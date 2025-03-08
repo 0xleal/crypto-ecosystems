@@ -105,6 +105,7 @@ url = "https://github.com/AugurProject/knex"
 
 [[repo]]
 url = "https://github.com/AugurProject/landing-page"
+missing = true
 
 [[repo]]
 url = "https://github.com/AugurProject/masterchef-gnosis-safe-rewards-ui"
@@ -150,9 +151,6 @@ url = "https://github.com/AugurProject/Solium"
 
 [[repo]]
 url = "https://github.com/AugurProject/speedomatic"
-
-[[repo]]
-url = "https://github.com/AugurProject/supreme-eureka"
 
 [[repo]]
 url = "https://github.com/AugurProject/turbo"

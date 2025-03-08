@@ -7,10 +7,13 @@ github_organizations = ["https://github.com/jolocom"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/decentralized-identity/didcomm-rs"
+
+[[repo]]
 url = "https://github.com/jolocom/access-controller"
 
 [[repo]]
-url = "https://github.com/jolocom/access_management_panel"
+url = "https://github.com/jolocom/agent-admin-tools"
 
 [[repo]]
 url = "https://github.com/jolocom/aries-agent-test-harness"
@@ -55,16 +58,11 @@ url = "https://github.com/jolocom/did-test-suite"
 url = "https://github.com/jolocom/did-utils"
 
 [[repo]]
-url = "https://github.com/jolocom/didcomm-rs"
-
-[[repo]]
-url = "https://github.com/jolocom/docker-jolocom-rpc-demo"
-
-[[repo]]
 url = "https://github.com/jolocom/docker-nginx-proxy"
 
 [[repo]]
 url = "https://github.com/jolocom/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/jolocom/fueling-service"
@@ -103,6 +101,9 @@ url = "https://github.com/jolocom/jolo-did-method"
 url = "https://github.com/jolocom/jolocom"
 
 [[repo]]
+url = "https://github.com/jolocom/jolocom-backend-challenge"
+
+[[repo]]
 url = "https://github.com/jolocom/jolocom-cli"
 
 [[repo]]
@@ -131,6 +132,9 @@ url = "https://github.com/jolocom/oas3-tools"
 
 [[repo]]
 url = "https://github.com/jolocom/oas3-tools-object-oriented"
+
+[[repo]]
+url = "https://github.com/jolocom/ockam"
 
 [[repo]]
 url = "https://github.com/jolocom/react-native-ausweis"
@@ -164,6 +168,7 @@ url = "https://github.com/jolocom/rust-multi-target"
 
 [[repo]]
 url = "https://github.com/jolocom/sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/jolocom/sdk-did-method-stacks"
@@ -185,6 +190,7 @@ url = "https://github.com/jolocom/secure-element-interface"
 
 [[repo]]
 url = "https://github.com/jolocom/smart-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/jolocom/smartwallet-app"
@@ -197,9 +203,6 @@ url = "https://github.com/jolocom/stacks-blockchain-api"
 
 [[repo]]
 url = "https://github.com/jolocom/Stacks-did-method"
-
-[[repo]]
-url = "https://github.com/jolocom/Stacks-DID-Resolver"
 
 [[repo]]
 url = "https://github.com/jolocom/stacks.js"

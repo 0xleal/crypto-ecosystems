@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "DigiByte"
 
-sub_ecosystems = []
+sub_ecosystems = ["Edge"]
 
 github_organizations = ["https://github.com/DigiByte-Core"]
 
@@ -56,6 +56,12 @@ url = "https://github.com/DigiByte-Core/DEPRECATED-electrum-dgb-server"
 
 [[repo]]
 url = "https://github.com/DigiByte-Core/DGBio"
+
+[[repo]]
+url = "https://github.com/DigiByte-Core/dgbminer"
+
+[[repo]]
+url = "https://github.com/DigiByte-Core/digi-id-io"
 
 [[repo]]
 url = "https://github.com/DigiByte-Core/digiasset-get-assets-outputs"
@@ -121,6 +127,9 @@ url = "https://github.com/DigiByte-Core/digibyte-explorers"
 url = "https://github.com/DigiByte-Core/digibyte-go-recovery"
 
 [[repo]]
+url = "https://github.com/DigiByte-Core/DigiByte-GUIX-Docker"
+
+[[repo]]
 url = "https://github.com/DigiByte-Core/digibyte-lib"
 
 [[repo]]
@@ -136,9 +145,6 @@ url = "https://github.com/DigiByte-Core/digibyte-price-decoder"
 url = "https://github.com/DigiByte-Core/digibyte-rosetta-docker"
 
 [[repo]]
-url = "https://github.com/DigiByte-Core/digibyte-rosetta-nodeapi"
-
-[[repo]]
 url = "https://github.com/DigiByte-Core/digibyte-rosetta-rustapi"
 
 [[repo]]
@@ -152,6 +158,12 @@ url = "https://github.com/DigiByte-Core/digibyte-service-status"
 
 [[repo]]
 url = "https://github.com/DigiByte-Core/DigiByte-Videos"
+
+[[repo]]
+url = "https://github.com/DigiByte-Core/digibyte-wiki"
+
+[[repo]]
+url = "https://github.com/DigiByte-Core/DigiByte.org"
 
 [[repo]]
 url = "https://github.com/DigiByte-Core/digibyte_scrypt"
@@ -229,6 +241,9 @@ url = "https://github.com/DigiByte-Core/errors-base"
 url = "https://github.com/DigiByte-Core/gitian.sigs"
 
 [[repo]]
+url = "https://github.com/DigiByte-Core/guix.sigs"
+
+[[repo]]
 url = "https://github.com/DigiByte-Core/hdwallet"
 
 [[repo]]
@@ -248,6 +263,9 @@ url = "https://github.com/DigiByte-Core/Metadata-Handler"
 
 [[repo]]
 url = "https://github.com/DigiByte-Core/node-dynamic-middleware"
+
+[[repo]]
+url = "https://github.com/DigiByte-Core/node-multi-hashing"
 
 [[repo]]
 url = "https://github.com/DigiByte-Core/node-stratum-pool"
@@ -274,6 +292,9 @@ url = "https://github.com/DigiByte-Core/request-id"
 url = "https://github.com/DigiByte-Core/rosetta-cli"
 
 [[repo]]
+url = "https://github.com/DigiByte-Core/rosetta-node-sdk"
+
+[[repo]]
 url = "https://github.com/DigiByte-Core/rosetta-node-sdk-client"
 
 [[repo]]
@@ -293,48 +314,62 @@ url = "https://github.com/DigiByte-Core/trezor-common"
 
 [[repo]]
 url = "https://github.com/digibyte/angular-bitcore-wallet-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/bitcoin"
 
 [[repo]]
 url = "https://github.com/digibyte/bitcore-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/ccminer"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED---digibyteios"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED--digiandroid"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED-digibit"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED-digibytewallet-android"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED-digibytewallet-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED-digibytewallet-ios"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED-electrum"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED-electrum-dgb"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED-electrum-dgb-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED-insight-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DEPRECATED-multibit-hd"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digiassetsd"
@@ -345,81 +380,108 @@ tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/digibyte/digibyte-build"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibyte-detached-sigs"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibyte-explorers"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibyte-go-recovery"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibyte-lib"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibyte-seeder"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibyted-rpc"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibytego"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibytejs-wallet-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibytejs-wallet-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/DigiByteMiner"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibyteprojects"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibytewallet-android"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibytewallet-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digibytewallet-ios"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digihash"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digiid-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digiid-php"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digiid-phpbb-extension"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/digiid-wp-authentication"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/docs.digibyte.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/gitian.sigs"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/insight"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/insight-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/node-stratum-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/playground.digibyte.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/digibyte/trezor-common"
+missing = true

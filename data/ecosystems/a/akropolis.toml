@@ -1,5 +1,5 @@
 # Ecosystem Level Information
-title = "Akropolis "
+title = "Akropolis"
 
 sub_ecosystems = []
 
@@ -28,6 +28,9 @@ url = "https://github.com/akropolisio/adel-swap-merkle-proofs"
 url = "https://github.com/akropolisio/agent-forta"
 
 [[repo]]
+url = "https://github.com/akropolisio/aip-017-vesting-contracts"
+
+[[repo]]
 url = "https://github.com/akropolisio/akropolis"
 
 [[repo]]
@@ -50,9 +53,6 @@ url = "https://github.com/akropolisio/akropolis-network"
 
 [[repo]]
 url = "https://github.com/akropolisio/akropolis-network-dapp"
-
-[[repo]]
-url = "https://github.com/akropolisio/akropolis-polkadot"
 
 [[repo]]
 url = "https://github.com/akropolisio/akropolis-sale"
@@ -88,12 +88,6 @@ url = "https://github.com/akropolisio/akropolisOS"
 url = "https://github.com/akropolisio/akropolisOS-chain-node"
 
 [[repo]]
-url = "https://github.com/akropolisio/akropolisOS-frontend"
-
-[[repo]]
-url = "https://github.com/akropolisio/akropolisOS-substrate-node"
-
-[[repo]]
 url = "https://github.com/akropolisio/AkropolisToken"
 
 [[repo]]
@@ -101,6 +95,7 @@ url = "https://github.com/akropolisio/alpha-vaults-contracts"
 
 [[repo]]
 url = "https://github.com/akropolisio/aragon"
+missing = true
 
 [[repo]]
 url = "https://github.com/akropolisio/aragon-apps"
@@ -110,6 +105,9 @@ url = "https://github.com/akropolisio/aragon-subgraph"
 
 [[repo]]
 url = "https://github.com/akropolisio/aragon.js"
+
+[[repo]]
+url = "https://github.com/akropolisio/arch-in-diagrams"
 
 [[repo]]
 url = "https://github.com/akropolisio/astroport"
@@ -124,6 +122,12 @@ url = "https://github.com/akropolisio/balancer-exchange"
 url = "https://github.com/akropolisio/blockpipe"
 
 [[repo]]
+url = "https://github.com/akropolisio/blockscout-backend"
+
+[[repo]]
+url = "https://github.com/akropolisio/blockscout-frontend"
+
+[[repo]]
 url = "https://github.com/akropolisio/bnbridge.exchange"
 
 [[repo]]
@@ -134,9 +138,6 @@ url = "https://github.com/akropolisio/brownie"
 
 [[repo]]
 url = "https://github.com/akropolisio/brownie-strategy-mix"
-
-[[repo]]
-url = "https://github.com/akropolisio/c2fc"
 
 [[repo]]
 url = "https://github.com/akropolisio/c2fc-cli"
@@ -163,10 +164,10 @@ url = "https://github.com/akropolisio/cashflowrelay-poa-xdai"
 url = "https://github.com/akropolisio/cashflowrelay-testnet"
 
 [[repo]]
-url = "https://github.com/akropolisio/ChainX-Forked"
+url = "https://github.com/akropolisio/chainhook"
 
 [[repo]]
-url = "https://github.com/akropolisio/chama-dapp"
+url = "https://github.com/akropolisio/ChainX-Forked"
 
 [[repo]]
 url = "https://github.com/akropolisio/chama-passport-apps"
@@ -190,12 +191,6 @@ url = "https://github.com/akropolisio/credit-pool-frontend"
 url = "https://github.com/akropolisio/credit-pool-frontend-beta-defi"
 
 [[repo]]
-url = "https://github.com/akropolisio/credit-pool-frontend-sandbox"
-
-[[repo]]
-url = "https://github.com/akropolisio/credit-pool-frontend-v2"
-
-[[repo]]
 url = "https://github.com/akropolisio/credit-pool-subgraph"
 
 [[repo]]
@@ -203,9 +198,6 @@ url = "https://github.com/akropolisio/curve25519-dalek"
 
 [[repo]]
 url = "https://github.com/akropolisio/dao-kits"
-
-[[repo]]
-url = "https://github.com/akropolisio/DAppNodeNFT"
 
 [[repo]]
 url = "https://github.com/akropolisio/ddapptools"
@@ -224,30 +216,26 @@ url = "https://github.com/akropolisio/delphi-compensation-merkle-proofs"
 
 [[repo]]
 url = "https://github.com/akropolisio/delphi-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/akropolisio/delphi-kovan-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/akropolisio/delphi-mainnet-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/akropolisio/delphi-pre-mainnet-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/akropolisio/delphi-rinkeby-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/akropolisio/delphi-sandbox-frontend"
-
-[[repo]]
-url = "https://github.com/akropolisio/delphi-subgraph"
-
-[[repo]]
-url = "https://github.com/akropolisio/delphi-v2"
-
-[[repo]]
-url = "https://github.com/akropolisio/delphi-yearn"
 
 [[repo]]
 url = "https://github.com/akropolisio/dharma-chain"
@@ -268,7 +256,16 @@ url = "https://github.com/akropolisio/eth3-network"
 url = "https://github.com/akropolisio/ethberlinzwei-hackaton"
 
 [[repo]]
+url = "https://github.com/akropolisio/ethereumjs-monorepo"
+
+[[repo]]
+url = "https://github.com/akropolisio/ethers.js"
+
+[[repo]]
 url = "https://github.com/akropolisio/etherwallet"
+
+[[repo]]
+url = "https://github.com/akropolisio/EthRPCGate"
 
 [[repo]]
 url = "https://github.com/akropolisio/experimental"
@@ -296,6 +293,10 @@ url = "https://github.com/akropolisio/hackathon-frontend"
 
 [[repo]]
 url = "https://github.com/akropolisio/hackmoney-frontend"
+missing = true
+
+[[repo]]
+url = "https://github.com/akropolisio/justsmartcontracts"
 
 [[repo]]
 url = "https://github.com/akropolisio/kovan-endpoints"
@@ -325,13 +326,13 @@ url = "https://github.com/akropolisio/oclif"
 url = "https://github.com/akropolisio/openzeppelin-solidity"
 
 [[repo]]
+url = "https://github.com/akropolisio/ordhook"
+
+[[repo]]
+url = "https://github.com/akropolisio/ordinals-api"
+
+[[repo]]
 url = "https://github.com/akropolisio/POC-polkadai-bridge"
-
-[[repo]]
-url = "https://github.com/akropolisio/polkadai-bridge"
-
-[[repo]]
-url = "https://github.com/akropolisio/polkadai-bridge-substrate"
 
 [[repo]]
 url = "https://github.com/akropolisio/polkadot"
@@ -361,6 +362,9 @@ url = "https://github.com/akropolisio/polkahub-monorepo"
 url = "https://github.com/akropolisio/pool-management"
 
 [[repo]]
+url = "https://github.com/akropolisio/portis-web-sdk"
+
+[[repo]]
 url = "https://github.com/akropolisio/pytho"
 
 [[repo]]
@@ -371,6 +375,12 @@ url = "https://github.com/akropolisio/relayer-kit"
 
 [[repo]]
 url = "https://github.com/akropolisio/rewards-claiming-merkle-proofs"
+
+[[repo]]
+url = "https://github.com/akropolisio/rust-kaon"
+
+[[repo]]
+url = "https://github.com/akropolisio/rust-kaon-rpc"
 
 [[repo]]
 url = "https://github.com/akropolisio/rust-libp2p"
@@ -448,10 +458,22 @@ url = "https://github.com/akropolisio/typechain-target-starknet"
 url = "https://github.com/akropolisio/typechain-target-web3-rxjs"
 
 [[repo]]
+url = "https://github.com/akropolisio/uniswap-sdks"
+
+[[repo]]
 url = "https://github.com/akropolisio/uniswap-v2-adapter"
 
 [[repo]]
 url = "https://github.com/akropolisio/upgrades-safe-app"
+
+[[repo]]
+url = "https://github.com/akropolisio/UTXOxEVM-v0.2"
+
+[[repo]]
+url = "https://github.com/akropolisio/v2-periphery"
+
+[[repo]]
+url = "https://github.com/akropolisio/v2-sdk"
 
 [[repo]]
 url = "https://github.com/akropolisio/validator-bridge-module"
@@ -464,6 +486,9 @@ url = "https://github.com/akropolisio/Web3-collaboration"
 
 [[repo]]
 url = "https://github.com/akropolisio/web3-frontend-starter-kit"
+
+[[repo]]
+url = "https://github.com/akropolisio/web3-react"
 
 [[repo]]
 url = "https://github.com/akropolisio/web3-wallets-kit"
@@ -482,6 +507,12 @@ url = "https://github.com/akropolisio/wwwcashflowrelay"
 
 [[repo]]
 url = "https://github.com/akropolisio/yearn-exporter"
+
+[[repo]]
+url = "https://github.com/akropolisio/yearn-router"
+
+[[repo]]
+url = "https://github.com/akropolisio/yearn-router-subgraph"
 
 [[repo]]
 url = "https://github.com/akropolisio/yearn-simulations"

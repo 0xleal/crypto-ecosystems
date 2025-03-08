@@ -25,9 +25,6 @@ url = "https://github.com/spartan-protocol/resources"
 url = "https://github.com/spartan-protocol/spartan-api"
 
 [[repo]]
-url = "https://github.com/spartan-protocol/spartan-arena-contracts"
-
-[[repo]]
 url = "https://github.com/spartan-protocol/spartan-blog"
 
 [[repo]]
@@ -35,15 +32,14 @@ url = "https://github.com/spartan-protocol/spartan-contracts"
 
 [[repo]]
 url = "https://github.com/spartan-protocol/spartan-dapp-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/spartan-protocol/spartan-docs"
 
 [[repo]]
 url = "https://github.com/spartan-protocol/spartan-educational-resources"
-
-[[repo]]
-url = "https://github.com/spartan-protocol/Spartan-NFTs-01"
+missing = true
 
 [[repo]]
 url = "https://github.com/spartan-protocol/spartan-nfts-bram-01"
@@ -52,10 +48,8 @@ url = "https://github.com/spartan-protocol/spartan-nfts-bram-01"
 url = "https://github.com/spartan-protocol/spartan-onto-staking-subgraph"
 
 [[repo]]
-url = "https://github.com/spartan-protocol/spartan-protocol-subgraph"
-
-[[repo]]
 url = "https://github.com/spartan-protocol/spartan-side-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/spartan-protocol/spartan-site"
@@ -65,6 +59,7 @@ url = "https://github.com/spartan-protocol/spartan-subgraph"
 
 [[repo]]
 url = "https://github.com/spartan-protocol/spartan-subgraph-testnet"
+missing = true
 
 [[repo]]
 url = "https://github.com/spartan-protocol/spartan-ui-library"
@@ -83,6 +78,11 @@ url = "https://github.com/spartan-protocol/spartanswapp-dapp"
 
 [[repo]]
 url = "https://github.com/spartan-protocol/subgraph-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/spartan-protocol/subgraph-v2-testnet"
+missing = true
+
+[[repo]]
+url = "https://github.com/SpartanArena/SpartanArenaContracts"

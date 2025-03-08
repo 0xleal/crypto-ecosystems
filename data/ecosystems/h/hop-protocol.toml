@@ -7,13 +7,29 @@ github_organizations = ["https://github.com/hop-protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/hop-protocol/arbitrum-refund-merkle-rewards"
+
+[[repo]]
 url = "https://github.com/hop-protocol/contracts"
+
+[[repo]]
+url = "https://github.com/hop-protocol/contracts-v2"
+missing = true
+
+[[repo]]
+url = "https://github.com/hop-protocol/docs"
 
 [[repo]]
 url = "https://github.com/hop-protocol/explorer"
 
 [[repo]]
 url = "https://github.com/hop-protocol/fee-refund"
+
+[[repo]]
+url = "https://github.com/hop-protocol/go-webhook-server"
+
+[[repo]]
+url = "https://github.com/hop-protocol/goerli-test-merkle-rewards-data"
 
 [[repo]]
 url = "https://github.com/hop-protocol/governance"
@@ -25,7 +41,13 @@ url = "https://github.com/hop-protocol/hop"
 url = "https://github.com/hop-protocol/hop-airdrop"
 
 [[repo]]
-url = "https://github.com/hop-protocol/hop-volume"
+url = "https://github.com/hop-protocol/hop-galaxy-op-subgraphs"
+
+[[repo]]
+url = "https://github.com/hop-protocol/hop-transaction-validation"
+
+[[repo]]
+url = "https://github.com/hop-protocol/lambda-bonder-transaction-validation"
 
 [[repo]]
 url = "https://github.com/hop-protocol/landing-page"
@@ -34,10 +56,19 @@ url = "https://github.com/hop-protocol/landing-page"
 url = "https://github.com/hop-protocol/liquidity-staker"
 
 [[repo]]
+url = "https://github.com/hop-protocol/merkle-drop-framework"
+
+[[repo]]
+url = "https://github.com/hop-protocol/merkle-rewards"
+
+[[repo]]
 url = "https://github.com/hop-protocol/merkle-rewards-subgraph"
 
 [[repo]]
-url = "https://github.com/hop-protocol/op-fee-refund"
+url = "https://github.com/hop-protocol/optimism-refund-merkle-rewards"
+
+[[repo]]
+url = "https://github.com/hop-protocol/safe-transaction-batcher"
 
 [[repo]]
 url = "https://github.com/hop-protocol/stats"
@@ -50,3 +81,12 @@ url = "https://github.com/hop-protocol/sushiswap-interface"
 
 [[repo]]
 url = "https://github.com/hop-protocol/tla-spec"
+
+[[repo]]
+url = "https://github.com/hop-protocol/user-docs"
+
+[[repo]]
+url = "https://github.com/hop-protocol/v2-docs"
+
+[[repo]]
+url = "https://github.com/hop-protocol/v2-monorepo"

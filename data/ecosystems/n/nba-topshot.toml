@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/dapperlabs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/dapperlabs/ai-codereviewer"
+
+[[repo]]
+url = "https://github.com/dapperlabs/ai-pr-reviewer"
+
+[[repo]]
+url = "https://github.com/dapperlabs/anatoly256-nba-smart-contracts"
+
+[[repo]]
 url = "https://github.com/dapperlabs/assemblyscript"
 
 [[repo]]
@@ -17,6 +26,9 @@ url = "https://github.com/dapperlabs/auth0-react-samples"
 
 [[repo]]
 url = "https://github.com/dapperlabs/autoupdate"
+
+[[repo]]
+url = "https://github.com/dapperlabs/backtrace-cocoa"
 
 [[repo]]
 url = "https://github.com/dapperlabs/blockchain-workshop"
@@ -58,19 +70,34 @@ url = "https://github.com/dapperlabs/dapper-oauth-android"
 url = "https://github.com/dapperlabs/dapper-supported-transactions"
 
 [[repo]]
+url = "https://github.com/dapperlabs/dapper-wallet-collections"
+
+[[repo]]
+url = "https://github.com/dapperlabs/dapper-wallet-restrictions"
+
+[[repo]]
 url = "https://github.com/dapperlabs/dapper-wallet-support"
+
+[[repo]]
+url = "https://github.com/dapperlabs/dbt_zendesk"
+missing = true
 
 [[repo]]
 url = "https://github.com/dapperlabs/developer-guides"
 
 [[repo]]
-url = "https://github.com/dapperlabs/dps-rosetta-docker"
+url = "https://github.com/dapperlabs/dlw-support-app"
 
 [[repo]]
-url = "https://github.com/dapperlabs/flow-dps"
+url = "https://github.com/dapperlabs/dps-rosetta-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/dapperlabs/flow-follower"
+missing = true
+
+[[repo]]
+url = "https://github.com/dapperlabs/flow-go-fork"
 
 [[repo]]
 url = "https://github.com/dapperlabs/flow-pds"
@@ -82,10 +109,22 @@ url = "https://github.com/dapperlabs/flow-py-sdk"
 url = "https://github.com/dapperlabs/flow-rosetta"
 
 [[repo]]
+url = "https://github.com/dapperlabs/freshmint"
+
+[[repo]]
+url = "https://github.com/dapperlabs/gapi-script"
+
+[[repo]]
 url = "https://github.com/dapperlabs/GildedRose-Refactoring-Kata"
 
 [[repo]]
+url = "https://github.com/dapperlabs/gips"
+
+[[repo]]
 url = "https://github.com/dapperlabs/go-ethereum"
+
+[[repo]]
+url = "https://github.com/dapperlabs/go-ethereum-hdwallet"
 
 [[repo]]
 url = "https://github.com/dapperlabs/go-grpc-prometheus"
@@ -106,6 +145,19 @@ url = "https://github.com/dapperlabs/gqlgen"
 url = "https://github.com/dapperlabs/graphb"
 
 [[repo]]
+url = "https://github.com/dapperlabs/Grid"
+
+[[repo]]
+url = "https://github.com/dapperlabs/hackathon2022-did-vc"
+missing = true
+
+[[repo]]
+url = "https://github.com/dapperlabs/hello-world-react-fcl"
+
+[[repo]]
+url = "https://github.com/dapperlabs/ios-webui-sdk"
+
+[[repo]]
 url = "https://github.com/dapperlabs/kafka-go"
 
 [[repo]]
@@ -115,7 +167,26 @@ url = "https://github.com/dapperlabs/kitty-items"
 url = "https://github.com/dapperlabs/kitty-items-web"
 
 [[repo]]
+url = "https://github.com/dapperlabs/kyverno-cli"
+
+[[repo]]
+url = "https://github.com/dapperlabs/kyverno-policies"
+missing = true
+
+[[repo]]
 url = "https://github.com/dapperlabs/ledger-app-flow"
+
+[[repo]]
+url = "https://github.com/dapperlabs/manual-approval"
+
+[[repo]]
+url = "https://github.com/dapperlabs/meetdapper-fcl-harness"
+
+[[repo]]
+url = "https://github.com/dapperlabs/Mercato"
+
+[[repo]]
+url = "https://github.com/dapperlabs/more-metrics"
 
 [[repo]]
 url = "https://github.com/dapperlabs/nba-smart-contracts"
@@ -133,22 +204,63 @@ url = "https://github.com/dapperlabs/nft-catalog"
 url = "https://github.com/dapperlabs/paction"
 
 [[repo]]
+url = "https://github.com/dapperlabs/powermux"
+
+[[repo]]
+url = "https://github.com/dapperlabs/protoc-gen-go-grpc-scopes"
+
+[[repo]]
 url = "https://github.com/dapperlabs/prototool"
+
+[[repo]]
+url = "https://github.com/dapperlabs/relay"
 
 [[repo]]
 url = "https://github.com/dapperlabs/release-drafter"
 
 [[repo]]
 url = "https://github.com/dapperlabs/rosetta-dispatcher"
+missing = true
+
+[[repo]]
+url = "https://github.com/dapperlabs/skeleton-native-test2"
+
+[[repo]]
+url = "https://github.com/dapperlabs/studio-platform-smart-contracts"
 
 [[repo]]
 url = "https://github.com/dapperlabs/teamcity-google-template"
 
 [[repo]]
+url = "https://github.com/dapperlabs/test-repo-sync-public"
+
+[[repo]]
 url = "https://github.com/dapperlabs/testingdock"
+
+[[repo]]
+url = "https://github.com/dapperlabs/trophy-roomm"
+missing = true
+
+[[repo]]
+url = "https://github.com/dapperlabs/trophyroomm"
 
 [[repo]]
 url = "https://github.com/dapperlabs/truffle-hdwallet-provider"
 
 [[repo]]
+url = "https://github.com/dapperlabs/WalletConnectSharp"
+
+[[repo]]
+url = "https://github.com/dapperlabs/WalletConnectSharpV2"
+
+[[repo]]
+url = "https://github.com/dapperlabs/WalletConnectSwiftV2"
+
+[[repo]]
 url = "https://github.com/dapperlabs/webpush-go"
+
+[[repo]]
+url = "https://github.com/dapperlabs/wrench"
+
+[[repo]]
+url = "https://github.com/onflow/flow-archive"

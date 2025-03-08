@@ -47,12 +47,14 @@ url = "https://github.com/muecoin/bitcore-payment-protocol"
 
 [[repo]]
 url = "https://github.com/muecoin/bitcore-payment-protocol-mue"
+missing = true
 
 [[repo]]
 url = "https://github.com/muecoin/bitcore-wallet-client"
 
 [[repo]]
 url = "https://github.com/muecoin/bitcore-wallet-client-mue"
+missing = true
 
 [[repo]]
 url = "https://github.com/muecoin/bitcore-wallet-service"
@@ -86,9 +88,7 @@ url = "https://github.com/muecoin/copay"
 
 [[repo]]
 url = "https://github.com/muecoin/copay-mue"
-
-[[repo]]
-url = "https://github.com/muecoin/crc32c"
+missing = true
 
 [[repo]]
 url = "https://github.com/muecoin/crc32c-subtree"
@@ -104,12 +104,10 @@ url = "https://github.com/muecoin/edge-currency-bitcoin"
 
 [[repo]]
 url = "https://github.com/muecoin/electrum"
+missing = true
 
 [[repo]]
 url = "https://github.com/muecoin/electrum-mue"
-
-[[repo]]
-url = "https://github.com/muecoin/electrumx"
 
 [[repo]]
 url = "https://github.com/muecoin/electrumx-OLD"
@@ -178,9 +176,6 @@ url = "https://github.com/muecoin/muecoin-node-setup"
 url = "https://github.com/muecoin/muecoin-seeder"
 
 [[repo]]
-url = "https://github.com/muecoin/MUECore"
-
-[[repo]]
 url = "https://github.com/muecoin/MUECore-DISCONTINUED"
 
 [[repo]]
@@ -227,6 +222,7 @@ url = "https://github.com/muecoin/wallet-interface"
 
 [[repo]]
 url = "https://github.com/muecoin/WalletGenerator.net"
+missing = true
 
 [[repo]]
 url = "https://github.com/muecoin/webcoin-params-mue"

@@ -26,6 +26,7 @@ url = "https://github.com/FactomProject/basen"
 
 [[repo]]
 url = "https://github.com/FactomProject/blackfriday"
+missing = true
 
 [[repo]]
 url = "https://github.com/FactomProject/bolt"
@@ -133,33 +134,6 @@ url = "https://github.com/FactomProject/factom-did-driver"
 url = "https://github.com/FactomProject/factom-docs"
 
 [[repo]]
-url = "https://github.com/FactomProject/factom-harmony-connect-csharp-client"
-
-[[repo]]
-url = "https://github.com/FactomProject/factom-harmony-connect-elixir-client"
-
-[[repo]]
-url = "https://github.com/FactomProject/factom-harmony-connect-go-client"
-
-[[repo]]
-url = "https://github.com/FactomProject/factom-harmony-connect-java-client"
-
-[[repo]]
-url = "https://github.com/FactomProject/factom-harmony-connect-js-sdk"
-
-[[repo]]
-url = "https://github.com/FactomProject/factom-harmony-connect-node-client"
-
-[[repo]]
-url = "https://github.com/FactomProject/factom-harmony-connect-node-client-SampleApp"
-
-[[repo]]
-url = "https://github.com/FactomProject/factom-harmony-connect-python-client"
-
-[[repo]]
-url = "https://github.com/FactomProject/factom-harmony-connect-python-sdk"
-
-[[repo]]
 url = "https://github.com/FactomProject/factom-identity-cli"
 
 [[repo]]
@@ -167,6 +141,7 @@ url = "https://github.com/FactomProject/factom-js-style-guide"
 
 [[repo]]
 url = "https://github.com/FactomProject/factom-p2p"
+missing = true
 
 [[repo]]
 url = "https://github.com/FactomProject/factom-py"
@@ -360,6 +335,7 @@ url = "https://github.com/FactomProject/swapi"
 
 [[repo]]
 url = "https://github.com/FactomProject/sxsw-2019"
+missing = true
 
 [[repo]]
 url = "https://github.com/FactomProject/Testing"
@@ -399,3 +375,31 @@ url = "https://github.com/FactomProject/WorkItems"
 
 [[repo]]
 url = "https://github.com/FactomProject/xenial_ansible"
+missing = true
+
+[[repo]]
+url = "https://github.com/FPriv/factom-harmony-connect-csharp-client"
+
+[[repo]]
+url = "https://github.com/FPriv/factom-harmony-connect-elixir-client"
+
+[[repo]]
+url = "https://github.com/FPriv/factom-harmony-connect-go-client"
+
+[[repo]]
+url = "https://github.com/FPriv/factom-harmony-connect-java-client"
+
+[[repo]]
+url = "https://github.com/FPriv/factom-harmony-connect-js-sdk"
+
+[[repo]]
+url = "https://github.com/FPriv/factom-harmony-connect-node-client"
+
+[[repo]]
+url = "https://github.com/FPriv/factom-harmony-connect-node-client-SampleApp"
+
+[[repo]]
+url = "https://github.com/FPriv/factom-harmony-connect-python-client"
+
+[[repo]]
+url = "https://github.com/FPriv/factom-harmony-connect-python-sdk"

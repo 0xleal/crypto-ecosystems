@@ -19,6 +19,9 @@ url = "https://github.com/keep-network/bfilter"
 url = "https://github.com/keep-network/bitcoin-spv"
 
 [[repo]]
+url = "https://github.com/keep-network/bitcoind-docker"
+
+[[repo]]
 url = "https://github.com/keep-network/blake2b"
 
 [[repo]]
@@ -94,6 +97,9 @@ url = "https://github.com/keep-network/electrum-client-js"
 url = "https://github.com/keep-network/electrumx"
 
 [[repo]]
+url = "https://github.com/keep-network/elliptic-curve-solidity"
+
+[[repo]]
 url = "https://github.com/keep-network/eslint-config-keep"
 
 [[repo]]
@@ -116,6 +122,7 @@ url = "https://github.com/keep-network/go-ethereum-no-progpow"
 
 [[repo]]
 url = "https://github.com/keep-network/go-floodsub"
+missing = true
 
 [[repo]]
 url = "https://github.com/keep-network/go-libp2p-bootstrap"
@@ -133,13 +140,13 @@ url = "https://github.com/keep-network/gobcy"
 url = "https://github.com/keep-network/golint-action"
 
 [[repo]]
+url = "https://github.com/keep-network/hardhat"
+
+[[repo]]
 url = "https://github.com/keep-network/hardhat-helpers"
 
 [[repo]]
 url = "https://github.com/keep-network/hardhat-local-networks-config"
-
-[[repo]]
-url = "https://github.com/keep-network/hardhat-local-networks-config-plugin"
 
 [[repo]]
 url = "https://github.com/keep-network/js-libp2p-gossip-discovery"
@@ -182,6 +189,7 @@ url = "https://github.com/keep-network/merkle-distributor"
 
 [[repo]]
 url = "https://github.com/keep-network/node-electrum-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/keep-network/nodejs-python-solc"
@@ -209,6 +217,9 @@ url = "https://github.com/keep-network/pre-commit-hooks"
 
 [[repo]]
 url = "https://github.com/keep-network/prettier-config-keep"
+
+[[repo]]
+url = "https://github.com/keep-network/prometheus-sd"
 
 [[repo]]
 url = "https://github.com/keep-network/Protect-Privacy-Hackathon"
@@ -265,6 +276,9 @@ url = "https://github.com/keep-network/sortition-pools"
 url = "https://github.com/keep-network/SPDZ-2"
 
 [[repo]]
+url = "https://github.com/keep-network/taho-btc-mvp"
+
+[[repo]]
 url = "https://github.com/keep-network/tbtc"
 
 [[repo]]
@@ -311,6 +325,9 @@ url = "https://github.com/keep-network/uniswap-tbtc-exchange-scripts"
 
 [[repo]]
 url = "https://github.com/keep-network/upstream-builds-query"
+
+[[repo]]
+url = "https://github.com/keep-network/v2-analytics"
 
 [[repo]]
 url = "https://github.com/keep-network/website"

@@ -31,9 +31,6 @@ url = "https://github.com/ExchangeUnion/grpc-node-precompiled-binaries"
 url = "https://github.com/ExchangeUnion/indra"
 
 [[repo]]
-url = "https://github.com/ExchangeUnion/Lightning-Swap-PoC"
-
-[[repo]]
 url = "https://github.com/ExchangeUnion/Lightning-Swap-PoC-v1"
 
 [[repo]]
@@ -44,12 +41,10 @@ url = "https://github.com/ExchangeUnion/lnd"
 
 [[repo]]
 url = "https://github.com/ExchangeUnion/macaroons.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/ExchangeUnion/market-maker-bot"
-
-[[repo]]
-url = "https://github.com/ExchangeUnion/market-maker-tools"
 
 [[repo]]
 url = "https://github.com/ExchangeUnion/raiden"
@@ -94,9 +89,6 @@ url = "https://github.com/ExchangeUnion/xud-docker"
 url = "https://github.com/ExchangeUnion/xud-docker-api"
 
 [[repo]]
-url = "https://github.com/ExchangeUnion/xud-docker-api-poc"
-
-[[repo]]
 url = "https://github.com/ExchangeUnion/xud-docker-bot"
 
 [[repo]]
@@ -116,12 +108,10 @@ url = "https://github.com/ExchangeUnion/xud-simnet-bot"
 
 [[repo]]
 url = "https://github.com/ExchangeUnion/xud-simulation"
+missing = true
 
 [[repo]]
 url = "https://github.com/ExchangeUnion/xud-socketio"
-
-[[repo]]
-url = "https://github.com/ExchangeUnion/xud-tests"
 
 [[repo]]
 url = "https://github.com/ExchangeUnion/xud-typedoc"
@@ -134,9 +124,6 @@ url = "https://github.com/ExchangeUnion/xud-ui-dashboard"
 
 [[repo]]
 url = "https://github.com/ExchangeUnion/xud-web-orderbook"
-
-[[repo]]
-url = "https://github.com/ExchangeUnion/xud-webui-poc"
 
 [[repo]]
 url = "https://github.com/ExchangeUnion/xud-wiki"

@@ -11,9 +11,11 @@ url = "https://github.com/narwhalswap/contracts"
 
 [[repo]]
 url = "https://github.com/narwhalswap/default-token-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/narwhalswap/grand-bank"
+missing = true
 
 [[repo]]
 url = "https://github.com/narwhalswap/nar-token"
@@ -23,9 +25,6 @@ url = "https://github.com/narwhalswap/narwhalswap-api"
 
 [[repo]]
 url = "https://github.com/narwhalswap/narwhalswap-subgraph"
-
-[[repo]]
-url = "https://github.com/narwhalswap/thegrandbank"
 
 [[repo]]
 url = "https://github.com/narwhalswap/thegrandbanks"

@@ -11,3 +11,17 @@ url = "https://github.com/carryprotocol/carry-smart-contract"
 
 [[repo]]
 url = "https://github.com/carryprotocol/carry-token-crowdsale"
+
+[[repo]]
+url = "https://github.com/carryprotocol/carry-website"
+missing = true
+
+[[repo]]
+url = "https://github.com/carryprotocol/euler"
+
+[[repo]]
+url = "https://github.com/carryprotocol/ga-protocol"
+
+[[repo]]
+url = "https://github.com/carryprotocol/whitepaper"
+missing = true

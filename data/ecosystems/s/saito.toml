@@ -28,6 +28,9 @@ url = "https://github.com/SaitoTech/gnome-shell-extension-krypto"
 url = "https://github.com/SaitoTech/Grant-Milestone-Delivery"
 
 [[repo]]
+url = "https://github.com/SaitoTech/graphics"
+
+[[repo]]
 url = "https://github.com/SaitoTech/key-gen"
 
 [[repo]]
@@ -35,6 +38,12 @@ url = "https://github.com/SaitoTech/merkletreejs"
 
 [[repo]]
 url = "https://github.com/SaitoTech/Open-Grants-Program"
+
+[[repo]]
+url = "https://github.com/SaitoTech/papers"
+
+[[repo]]
+url = "https://github.com/SaitoTech/pawel-mahjong"
 
 [[repo]]
 url = "https://github.com/SaitoTech/saito"
@@ -47,6 +56,9 @@ url = "https://github.com/SaitoTech/saito-crypto-api-modules"
 
 [[repo]]
 url = "https://github.com/SaitoTech/saito-docs"
+
+[[repo]]
+url = "https://github.com/SaitoTech/saito-e2e"
 
 [[repo]]
 url = "https://github.com/SaitoTech/saito-ethereum-coldstorage"
@@ -73,6 +85,9 @@ url = "https://github.com/SaitoTech/saito-lite-rust"
 url = "https://github.com/SaitoTech/saito-mods"
 
 [[repo]]
+url = "https://github.com/SaitoTech/saito-ntfy-android"
+
+[[repo]]
 url = "https://github.com/SaitoTech/saito-rust"
 
 [[repo]]
@@ -80,6 +95,9 @@ url = "https://github.com/SaitoTech/saito-rust-workspace"
 
 [[repo]]
 url = "https://github.com/SaitoTech/saito-wallet"
+
+[[repo]]
+url = "https://github.com/SaitoTech/saito-wasm-web-test"
 
 [[repo]]
 url = "https://github.com/SaitoTech/saitofaqs"

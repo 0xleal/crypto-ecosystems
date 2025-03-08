@@ -52,9 +52,6 @@ url = "https://github.com/decentology/dappstarter-trufflebox"
 url = "https://github.com/decentology/documentation"
 
 [[repo]]
-url = "https://github.com/decentology/erc721-dappstarter"
-
-[[repo]]
 url = "https://github.com/decentology/erc721-nextjs-boilerplate"
 
 [[repo]]
@@ -103,6 +100,12 @@ url = "https://github.com/decentology/hyperverse-module"
 url = "https://github.com/decentology/hyperverse-mono"
 
 [[repo]]
+url = "https://github.com/decentology/hyperverse-safuux-builderkit"
+
+[[repo]]
+url = "https://github.com/decentology/info"
+
+[[repo]]
 url = "https://github.com/decentology/mercury-hopium"
 
 [[repo]]
@@ -136,6 +139,9 @@ url = "https://github.com/decentology/port-precheck"
 url = "https://github.com/decentology/react-use"
 
 [[repo]]
+url = "https://github.com/decentology/SafuuX-DeFi-Hackathon"
+
+[[repo]]
 url = "https://github.com/decentology/tribes-flow"
 
 [[repo]]
@@ -143,6 +149,9 @@ url = "https://github.com/decentology/tribes-flow-demo"
 
 [[repo]]
 url = "https://github.com/decentology/unstated-next"
+
+[[repo]]
+url = "https://github.com/decentology/vulcan-preview"
 
 [[repo]]
 url = "https://github.com/decentology/web2-to-web3-resources"

@@ -3,7 +3,7 @@ title = "Ren"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/renproject"]
+github_organizations = ["https://github.com/renproject", "https://github.com/renprotocol"]
 
 # Repositories
 [[repo]]
@@ -11,9 +11,7 @@ url = "https://github.com/renproject/abi"
 
 [[repo]]
 url = "https://github.com/renproject/account-chain-indexer"
-
-[[repo]]
-url = "https://github.com/renproject/Airwave-Test-Network"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/aw"
@@ -26,9 +24,11 @@ url = "https://github.com/renproject/awt"
 
 [[repo]]
 url = "https://github.com/renproject/bound"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/bridge-v2"
@@ -38,6 +38,7 @@ url = "https://github.com/renproject/chaosdex"
 
 [[repo]]
 url = "https://github.com/renproject/chaosdex-trading-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/circleci-orbs"
@@ -61,9 +62,6 @@ url = "https://github.com/renproject/darknode-release"
 url = "https://github.com/renproject/darknode-sol"
 
 [[repo]]
-url = "https://github.com/renproject/dev-tools"
-
-[[repo]]
 url = "https://github.com/renproject/econ-sim"
 
 [[repo]]
@@ -71,12 +69,18 @@ url = "https://github.com/renproject/enclave-testcase"
 
 [[repo]]
 url = "https://github.com/renproject/faucet"
+missing = true
+
+[[repo]]
+url = "https://github.com/renproject/frost"
 
 [[repo]]
 url = "https://github.com/renproject/gateway-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/gateway-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/gateway-sol"
@@ -101,6 +105,7 @@ url = "https://github.com/renproject/kv"
 
 [[repo]]
 url = "https://github.com/renproject/kybernetwork"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/libbtc-go"
@@ -116,6 +121,7 @@ url = "https://github.com/renproject/lightnode"
 
 [[repo]]
 url = "https://github.com/renproject/makerdao-btc-vault"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/mercury"
@@ -143,6 +149,7 @@ url = "https://github.com/renproject/phi"
 
 [[repo]]
 url = "https://github.com/renproject/react-components"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/ren"
@@ -155,6 +162,7 @@ url = "https://github.com/renproject/ren-js"
 
 [[repo]]
 url = "https://github.com/renproject/ren-js-common"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/ren-js-demo"
@@ -167,9 +175,11 @@ url = "https://github.com/renproject/ren-js-v3-tutorial"
 
 [[repo]]
 url = "https://github.com/renproject/ren-react"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/ren-solana"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/ren-solidity-template"
@@ -190,22 +200,17 @@ url = "https://github.com/renproject/ren-ui"
 url = "https://github.com/renproject/rencrypto"
 
 [[repo]]
+url = "https://github.com/renproject/renevm"
+
+[[repo]]
 url = "https://github.com/renproject/renjs-tutorial"
 
 [[repo]]
 url = "https://github.com/renproject/renproject.io"
-
-[[repo]]
-url = "https://github.com/renproject/rensdk-tutorial"
-
-[[repo]]
-url = "https://github.com/renproject/renvm-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/renvm-explorer"
-
-[[repo]]
-url = "https://github.com/renproject/renvm-sdk-js"
 
 [[repo]]
 url = "https://github.com/renproject/renvm-subgraph"
@@ -218,6 +223,7 @@ url = "https://github.com/renproject/renxcs-go"
 
 [[repo]]
 url = "https://github.com/renproject/renxcs-ts"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/rzl-mpc-specification"
@@ -251,6 +257,7 @@ url = "https://github.com/renproject/solana-ffi"
 
 [[repo]]
 url = "https://github.com/renproject/solidity-typescript-boilerplate"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/statuspage-feed"
@@ -266,9 +273,11 @@ url = "https://github.com/renproject/swapperd-desktop"
 
 [[repo]]
 url = "https://github.com/renproject/swapperd-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/swapperd-sol"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/tokens"
@@ -278,12 +287,57 @@ url = "https://github.com/renproject/tx"
 
 [[repo]]
 url = "https://github.com/renproject/uniswap"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/wal"
 
 [[repo]]
 url = "https://github.com/renproject/wbtc-cafe"
+missing = true
 
 [[repo]]
 url = "https://github.com/renproject/web-server-example"
+
+[[repo]]
+url = "https://github.com/renprotocol/aw"
+
+[[repo]]
+url = "https://github.com/renprotocol/bob"
+
+[[repo]]
+url = "https://github.com/renprotocol/darknode-sol"
+
+[[repo]]
+url = "https://github.com/renprotocol/formation"
+
+[[repo]]
+url = "https://github.com/renprotocol/gateway-sol"
+
+[[repo]]
+url = "https://github.com/renprotocol/id"
+
+[[repo]]
+url = "https://github.com/renprotocol/memory-avl-tree"
+missing = true
+
+[[repo]]
+url = "https://github.com/renprotocol/multichain"
+
+[[repo]]
+url = "https://github.com/renprotocol/pack"
+
+[[repo]]
+url = "https://github.com/renprotocol/ren-js"
+
+[[repo]]
+url = "https://github.com/renprotocol/secp256k1"
+
+[[repo]]
+url = "https://github.com/renprotocol/shamir"
+
+[[repo]]
+url = "https://github.com/renprotocol/surge"
+
+[[repo]]
+url = "https://github.com/renprotocol/temp-darknode-release"

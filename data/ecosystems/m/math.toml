@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/mathwallet"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/mathwallet/AptosSwift"
+
+[[repo]]
 url = "https://github.com/mathwallet/Base58Swift"
 
 [[repo]]
@@ -188,6 +191,7 @@ url = "https://github.com/mathwallet/MathChain-Contracts"
 
 [[repo]]
 url = "https://github.com/mathwallet/MathChain-L2-Contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/mathwallet/MathChain-WebWallet"
@@ -232,6 +236,9 @@ url = "https://github.com/mathwallet/mythswap-sdk"
 url = "https://github.com/mathwallet/near-staking-tool"
 
 [[repo]]
+url = "https://github.com/mathwallet/NearSwift"
+
+[[repo]]
 url = "https://github.com/mathwallet/neo-swift"
 
 [[repo]]
@@ -245,6 +252,7 @@ url = "https://github.com/mathwallet/OIPs"
 
 [[repo]]
 url = "https://github.com/mathwallet/onboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/mathwallet/ontology-oc-sdk"
@@ -259,13 +267,17 @@ url = "https://github.com/mathwallet/parachain"
 url = "https://github.com/mathwallet/PolkaVault-Press"
 
 [[repo]]
+url = "https://github.com/mathwallet/rainbowkit"
+
+[[repo]]
 url = "https://github.com/mathwallet/react-demo"
 
 [[repo]]
-url = "https://github.com/mathwallet/sdk-core"
+url = "https://github.com/mathwallet/RIPEMDSwift"
 
 [[repo]]
-url = "https://github.com/mathwallet/Secp256k1.swift"
+url = "https://github.com/mathwallet/sdk-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/mathwallet/Secp256k1Swift"
@@ -292,6 +304,12 @@ url = "https://github.com/mathwallet/SolanaSwift"
 url = "https://github.com/mathwallet/Starscream"
 
 [[repo]]
+url = "https://github.com/mathwallet/TezosSwift"
+
+[[repo]]
+url = "https://github.com/mathwallet/TonSwift"
+
+[[repo]]
 url = "https://github.com/mathwallet/torus-direct-swift-sdk"
 
 [[repo]]
@@ -301,16 +319,25 @@ url = "https://github.com/mathwallet/torus-utils-swift"
 url = "https://github.com/mathwallet/tron-protocol"
 
 [[repo]]
+url = "https://github.com/mathwallet/TronWebSwift"
+
+[[repo]]
 url = "https://github.com/mathwallet/trust-web3-provider"
 
 [[repo]]
 url = "https://github.com/mathwallet/twitter-kit-ios"
 
 [[repo]]
+url = "https://github.com/mathwallet/wagmi"
+
+[[repo]]
 url = "https://github.com/mathwallet/walletconnect-monorepo"
 
 [[repo]]
 url = "https://github.com/mathwallet/WalletConnectSwift"
+
+[[repo]]
+url = "https://github.com/mathwallet/web3-onboard"
 
 [[repo]]
 url = "https://github.com/mathwallet/web3swift"

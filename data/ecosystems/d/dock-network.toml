@@ -7,7 +7,13 @@ github_organizations = ["https://github.com/docknetwork"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/docknetwork/.github"
+
+[[repo]]
 url = "https://github.com/docknetwork/api-docs"
+
+[[repo]]
+url = "https://github.com/docknetwork/api-samples"
 
 [[repo]]
 url = "https://github.com/docknetwork/aries-mediator-service"
@@ -34,6 +40,10 @@ url = "https://github.com/docknetwork/chapi-demo-verifier"
 url = "https://github.com/docknetwork/chapi-demo-wallet"
 
 [[repo]]
+url = "https://github.com/docknetwork/cloud-wallet-demo"
+missing = true
+
+[[repo]]
 url = "https://github.com/docknetwork/common"
 
 [[repo]]
@@ -44,6 +54,9 @@ url = "https://github.com/docknetwork/crypto-wasm"
 
 [[repo]]
 url = "https://github.com/docknetwork/crypto-wasm-ts"
+
+[[repo]]
+url = "https://github.com/docknetwork/demo"
 
 [[repo]]
 url = "https://github.com/docknetwork/developer-program"
@@ -59,6 +72,16 @@ url = "https://github.com/docknetwork/dock-api-js"
 
 [[repo]]
 url = "https://github.com/docknetwork/dock-app"
+missing = true
+
+[[repo]]
+url = "https://github.com/docknetwork/dock-app-testautomation"
+
+[[repo]]
+url = "https://github.com/docknetwork/dock-bank-demo"
+
+[[repo]]
+url = "https://github.com/docknetwork/dock-blockchain-archives"
 
 [[repo]]
 url = "https://github.com/docknetwork/dock-did-driver"
@@ -67,10 +90,16 @@ url = "https://github.com/docknetwork/dock-did-driver"
 url = "https://github.com/docknetwork/dock-substrate"
 
 [[repo]]
+url = "https://github.com/docknetwork/dock-substrate-common"
+
+[[repo]]
 url = "https://github.com/docknetwork/dock-tutorials"
 
 [[repo]]
 url = "https://github.com/docknetwork/es6-library-template"
+
+[[repo]]
+url = "https://github.com/docknetwork/frontier"
 
 [[repo]]
 url = "https://github.com/docknetwork/gitbook-documentation"
@@ -82,10 +111,20 @@ url = "https://github.com/docknetwork/jsonld-signatures"
 url = "https://github.com/docknetwork/jsonrpc-proxy"
 
 [[repo]]
+url = "https://github.com/docknetwork/knowledgebase-docs"
+
+[[repo]]
 url = "https://github.com/docknetwork/ledger-live"
 
 [[repo]]
 url = "https://github.com/docknetwork/linked-biometrics-demo"
+missing = true
+
+[[repo]]
+url = "https://github.com/docknetwork/linked-data"
+
+[[repo]]
+url = "https://github.com/docknetwork/minimal-cipher"
 
 [[repo]]
 url = "https://github.com/docknetwork/mrklt"
@@ -121,6 +160,12 @@ url = "https://github.com/docknetwork/polkascan-pre-harvester"
 url = "https://github.com/docknetwork/polkastats-backend-v3"
 
 [[repo]]
+url = "https://github.com/docknetwork/polygonid-demo"
+
+[[repo]]
+url = "https://github.com/docknetwork/polygonid-js-sdk"
+
+[[repo]]
 url = "https://github.com/docknetwork/prettyvc"
 
 [[repo]]
@@ -137,6 +182,7 @@ url = "https://github.com/docknetwork/rdf-defs"
 
 [[repo]]
 url = "https://github.com/docknetwork/react-native-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/docknetwork/rify"
@@ -151,7 +197,13 @@ url = "https://github.com/docknetwork/rosetta-node-sdk"
 url = "https://github.com/docknetwork/scale-codec-go"
 
 [[repo]]
+url = "https://github.com/docknetwork/scale-info"
+
+[[repo]]
 url = "https://github.com/docknetwork/sdk"
+
+[[repo]]
+url = "https://github.com/docknetwork/security-vocab"
 
 [[repo]]
 url = "https://github.com/docknetwork/sparql2rify"
@@ -160,10 +212,20 @@ url = "https://github.com/docknetwork/sparql2rify"
 url = "https://github.com/docknetwork/ss58-registry"
 
 [[repo]]
+url = "https://github.com/docknetwork/ssi-wallets"
+
+[[repo]]
 url = "https://github.com/docknetwork/subkey-wrapper"
 
 [[repo]]
+url = "https://github.com/docknetwork/subql-dock"
+
+[[repo]]
+url = "https://github.com/docknetwork/subscan-fetch"
+
+[[repo]]
 url = "https://github.com/docknetwork/substrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/docknetwork/substrate-client-cli"
@@ -193,6 +255,9 @@ url = "https://github.com/docknetwork/universal-resolver"
 url = "https://github.com/docknetwork/universal-resolver-frontend"
 
 [[repo]]
+url = "https://github.com/docknetwork/universal-wallet"
+
+[[repo]]
 url = "https://github.com/docknetwork/vc-api"
 
 [[repo]]
@@ -203,9 +268,11 @@ url = "https://github.com/docknetwork/vc-schemas"
 
 [[repo]]
 url = "https://github.com/docknetwork/vcdm-verifier"
+missing = true
 
 [[repo]]
 url = "https://github.com/docknetwork/vcpy"
+missing = true
 
 [[repo]]
 url = "https://github.com/docknetwork/verifiable-claims-engine"
@@ -214,7 +281,8 @@ url = "https://github.com/docknetwork/verifiable-claims-engine"
 url = "https://github.com/docknetwork/voting"
 
 [[repo]]
-url = "https://github.com/docknetwork/wallet"
+url = "https://github.com/docknetwork/wallet-sdk-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/docknetwork/wallet-sdk-examples"

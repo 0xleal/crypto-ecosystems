@@ -13,6 +13,9 @@ url = "https://github.com/fantomstarterio/action-discord"
 url = "https://github.com/fantomstarterio/checkout"
 
 [[repo]]
+url = "https://github.com/fantomstarterio/crypto-prices-cache"
+
+[[repo]]
 url = "https://github.com/fantomstarterio/docs"
 
 [[repo]]
@@ -23,3 +26,4 @@ url = "https://github.com/fantomstarterio/setup-gcloud"
 
 [[repo]]
 url = "https://github.com/fantomstarterio/snapshot-strategies"
+missing = true

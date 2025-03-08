@@ -8,21 +8,29 @@ github_organizations = ["https://github.com/polkascan"]
 # Repositories
 [[repo]]
 url = "https://github.com/polkascan/accounting-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/accounting-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/calendar-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/calendar-ui"
 
 [[repo]]
 url = "https://github.com/polkascan/charts-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/charts-ui"
+missing = true
+
+[[repo]]
+url = "https://github.com/polkascan/explorer"
 
 [[repo]]
 url = "https://github.com/polkascan/explorer-api"
@@ -32,6 +40,7 @@ url = "https://github.com/polkascan/explorer-ui"
 
 [[repo]]
 url = "https://github.com/polkascan/General-Grants-Program"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/graphene-sqlalchemy"
@@ -40,10 +49,14 @@ url = "https://github.com/polkascan/graphene-sqlalchemy"
 url = "https://github.com/polkascan/graphene-sqlalchemy-filter"
 
 [[repo]]
+url = "https://github.com/polkascan/harvester"
+
+[[repo]]
 url = "https://github.com/polkascan/labs-ui"
 
 [[repo]]
 url = "https://github.com/polkascan/Open-Grants-Program"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/polkadapt"
@@ -67,13 +80,13 @@ url = "https://github.com/polkascan/polkascan-pre-explorer-gui"
 url = "https://github.com/polkascan/polkascan-pre-harvester"
 
 [[repo]]
-url = "https://github.com/polkascan/polkascan-ui"
-
-[[repo]]
 url = "https://github.com/polkascan/py-bip39-bindings"
 
 [[repo]]
 url = "https://github.com/polkascan/py-ed25519-bindings"
+
+[[repo]]
+url = "https://github.com/polkascan/py-ed25519-zebra-bindings"
 
 [[repo]]
 url = "https://github.com/polkascan/py-scale-codec"
@@ -88,13 +101,24 @@ url = "https://github.com/polkascan/py-subkey-wrapper"
 url = "https://github.com/polkascan/py-substrate-interface"
 
 [[repo]]
+url = "https://github.com/polkascan/py-substrate-interface-extension-polkascan"
+
+[[repo]]
+url = "https://github.com/polkascan/py-substrate-interface-extension-subsquid"
+
+[[repo]]
+url = "https://github.com/polkascan/py-substrate-metadata-docs"
+
+[[repo]]
 url = "https://github.com/polkascan/py-subwasm-bindings"
 
 [[repo]]
 url = "https://github.com/polkascan/runtimes-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/runtimes-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/rust-builder"
@@ -104,6 +128,9 @@ url = "https://github.com/polkascan/social-contract"
 
 [[repo]]
 url = "https://github.com/polkascan/sqlalchemy-pagination"
+
+[[repo]]
+url = "https://github.com/polkascan/starlette-graphene3"
 
 [[repo]]
 url = "https://github.com/polkascan/subkey"
@@ -119,15 +146,18 @@ url = "https://github.com/polkascan/substrate-interface-gui"
 
 [[repo]]
 url = "https://github.com/polkascan/substrate-multichain-config"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/substrate-telemetry"
 
 [[repo]]
 url = "https://github.com/polkascan/tables-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/tables-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkascan/webassembly-wabt"

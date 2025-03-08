@@ -22,6 +22,9 @@ url = "https://github.com/airgap-it/airgap-cli-signer"
 url = "https://github.com/airgap-it/airgap-coin-lib"
 
 [[repo]]
+url = "https://github.com/airgap-it/airgap-community"
+
+[[repo]]
 url = "https://github.com/airgap-it/airgap-distro"
 
 [[repo]]
@@ -34,10 +37,10 @@ url = "https://github.com/airgap-it/airgap-raspberry-apk-signer"
 url = "https://github.com/airgap-it/airgap-sapling"
 
 [[repo]]
-url = "https://github.com/airgap-it/airgap-sapling-wasm"
+url = "https://github.com/airgap-it/airgap-secure-random-secret-generator"
 
 [[repo]]
-url = "https://github.com/airgap-it/airgap-secure-random-secret-generator"
+url = "https://github.com/airgap-it/airgap-standalone-social-recovery"
 
 [[repo]]
 url = "https://github.com/airgap-it/airgap-vault"
@@ -61,19 +64,28 @@ url = "https://github.com/airgap-it/beacon-docs"
 url = "https://github.com/airgap-it/beacon-example-dapp"
 
 [[repo]]
-url = "https://github.com/airgap-it/beacon-extension"
-
-[[repo]]
 url = "https://github.com/airgap-it/beacon-iframe-bridge"
 
 [[repo]]
 url = "https://github.com/airgap-it/beacon-ios-sdk"
 
 [[repo]]
+url = "https://github.com/airgap-it/beacon-kotlin-sdk"
+
+[[repo]]
 url = "https://github.com/airgap-it/beacon-ledger-bridge"
 
 [[repo]]
+url = "https://github.com/airgap-it/beacon-nextjs-example"
+
+[[repo]]
 url = "https://github.com/airgap-it/beacon-node"
+
+[[repo]]
+url = "https://github.com/airgap-it/beacon-notification-backend"
+
+[[repo]]
+url = "https://github.com/airgap-it/beacon-notification-oracle"
 
 [[repo]]
 url = "https://github.com/airgap-it/beacon-polkadot-example-dapp"
@@ -85,13 +97,19 @@ url = "https://github.com/airgap-it/beacon-sdk"
 url = "https://github.com/airgap-it/beacon-vue-example"
 
 [[repo]]
+url = "https://github.com/airgap-it/beacon-wc2-demo"
+
+[[repo]]
+url = "https://github.com/airgap-it/Bitcoin.org"
+
+[[repo]]
 url = "https://github.com/airgap-it/bitgo-utxo-lib"
 
 [[repo]]
 url = "https://github.com/airgap-it/blockies"
 
 [[repo]]
-url = "https://github.com/airgap-it/cmtaFA2"
+url = "https://github.com/airgap-it/CMTAT-FA2"
 
 [[repo]]
 url = "https://github.com/airgap-it/cordova-plugin-airgap-secure-storage"
@@ -106,10 +124,16 @@ url = "https://github.com/airgap-it/cordova-plugin-airgap-webview"
 url = "https://github.com/airgap-it/cordova-plugin-qrscanner"
 
 [[repo]]
+url = "https://github.com/airgap-it/frontier"
+
+[[repo]]
 url = "https://github.com/airgap-it/GoogleSignIn-iOS"
 
 [[repo]]
 url = "https://github.com/airgap-it/hd-wallet-js"
+
+[[repo]]
+url = "https://github.com/airgap-it/ibcf"
 
 [[repo]]
 url = "https://github.com/airgap-it/identity-provider-PoC"
@@ -127,7 +151,16 @@ url = "https://github.com/airgap-it/metamask-extension"
 url = "https://github.com/airgap-it/Nautilus"
 
 [[repo]]
+url = "https://github.com/airgap-it/portal"
+
+[[repo]]
 url = "https://github.com/airgap-it/react-native-apple-authentication"
+
+[[repo]]
+url = "https://github.com/airgap-it/sapling-injector"
+
+[[repo]]
+url = "https://github.com/airgap-it/SecretShare.swift"
 
 [[repo]]
 url = "https://github.com/airgap-it/spire"
@@ -139,10 +172,13 @@ url = "https://github.com/airgap-it/tezblock"
 url = "https://github.com/airgap-it/tezos-kotlin-sdk"
 
 [[repo]]
-url = "https://github.com/airgap-it/tezos-matrix"
+url = "https://github.com/airgap-it/tezos-metamask-snap"
 
 [[repo]]
 url = "https://github.com/airgap-it/tezos-rust-sdk"
+
+[[repo]]
+url = "https://github.com/airgap-it/tezos-snaps-wallet"
 
 [[repo]]
 url = "https://github.com/airgap-it/tezos-standards"
@@ -167,6 +203,10 @@ url = "https://github.com/airgap-it/tzwrapped-generic-multisig"
 
 [[repo]]
 url = "https://github.com/airgap-it/ur-registry-xtz"
+
+[[repo]]
+url = "https://github.com/airgap-it/wg-identity-authentication"
+missing = true
 
 [[repo]]
 url = "https://github.com/airgap-it/woocommerce-beacon"

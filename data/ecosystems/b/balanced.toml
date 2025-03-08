@@ -13,16 +13,37 @@ url = "https://github.com/balancednetwork/app-icx"
 url = "https://github.com/balancednetwork/assets"
 
 [[repo]]
+url = "https://github.com/balancednetwork/balanced-backend"
+
+[[repo]]
 url = "https://github.com/balancednetwork/balanced-backend-v2"
 
 [[repo]]
+url = "https://github.com/balancednetwork/balanced-clarity-contracts"
+
+[[repo]]
 url = "https://github.com/balancednetwork/balanced-contracts"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-examples"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-exporter"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-intents-sdk"
 
 [[repo]]
 url = "https://github.com/balancednetwork/balanced-java-contracts"
 
 [[repo]]
 url = "https://github.com/balancednetwork/balanced-js"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-move-contracts"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-network-examples"
 
 [[repo]]
 url = "https://github.com/balancednetwork/balanced-network-info"
@@ -34,16 +55,37 @@ url = "https://github.com/balancednetwork/balanced-network-interface"
 url = "https://github.com/balancednetwork/balanced-poc"
 
 [[repo]]
+url = "https://github.com/balancednetwork/balanced-rust-contracts"
+
+[[repo]]
+url = "https://github.com/balancednetwork/Balanced-Solana-contracts"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-solidity-contracts"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-solver-sdk"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-soroban-contracts"
+
+[[repo]]
 url = "https://github.com/balancednetwork/BIP-info-list"
 
 [[repo]]
 url = "https://github.com/balancednetwork/docs"
 
 [[repo]]
+url = "https://github.com/balancednetwork/icons"
+
+[[repo]]
 url = "https://github.com/balancednetwork/roadmap"
 
 [[repo]]
 url = "https://github.com/balancednetwork/sdk-core"
+
+[[repo]]
+url = "https://github.com/balancednetwork/stacks-go-sdk"
 
 [[repo]]
 url = "https://github.com/balancednetwork/v1-sdk"

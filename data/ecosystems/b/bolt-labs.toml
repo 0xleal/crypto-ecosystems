@@ -23,6 +23,7 @@ url = "https://github.com/boltlabs-inc/dialectic"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/dialectic-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/emp-ag2pc"
@@ -41,6 +42,13 @@ url = "https://github.com/boltlabs-inc/ff"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/key-mgmt"
+missing = true
+
+[[repo]]
+url = "https://github.com/boltlabs-inc/key-mgmt-demo"
+
+[[repo]]
+url = "https://github.com/boltlabs-inc/key-mgmt-registry"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/key-mgmt-spec"
@@ -53,6 +61,7 @@ url = "https://github.com/boltlabs-inc/libbolt-go"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/libra"
+missing = true
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/librustzcash"
@@ -82,6 +91,9 @@ url = "https://github.com/boltlabs-inc/rust-secp256k1"
 url = "https://github.com/boltlabs-inc/secp256k1"
 
 [[repo]]
+url = "https://github.com/boltlabs-inc/sgx-poc-dependencies"
+
+[[repo]]
 url = "https://github.com/boltlabs-inc/tezedge-client"
 
 [[repo]]
@@ -91,10 +103,19 @@ url = "https://github.com/boltlabs-inc/tezos-contract"
 url = "https://github.com/boltlabs-inc/transport"
 
 [[repo]]
+url = "https://github.com/boltlabs-inc/tss-ecdsa"
+
+[[repo]]
 url = "https://github.com/boltlabs-inc/update-state"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/vesta"
+
+[[repo]]
+url = "https://github.com/boltlabs-inc/waggle"
+
+[[repo]]
+url = "https://github.com/boltlabs-inc/waggle-lk"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/wagyu"

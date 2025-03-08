@@ -8,18 +8,13 @@ github_organizations = ["https://github.com/RiveX-Foundation"]
 # Repositories
 [[repo]]
 url = "https://github.com/RiveX-Foundation/ERX-Token"
-
-[[repo]]
-url = "https://github.com/RiveX-Foundation/RVX-Token-ERC20"
+missing = true
 
 [[repo]]
 url = "https://github.com/RiveX-Foundation/RVX-Token-ERC20-old"
 
 [[repo]]
 url = "https://github.com/RiveX-Foundation/RVX-Token-new"
-
-[[repo]]
-url = "https://github.com/RiveX-Foundation/RVX-TokenContract"
 
 [[repo]]
 url = "https://github.com/RiveX-Foundation/RVX-TokenContract-wrc20"

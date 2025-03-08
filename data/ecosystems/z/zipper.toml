@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/zippiehq"]
 # Repositories
 [[repo]]
 url = "https://github.com/zippiehq/amnesiacstore"
+missing = true
 
 [[repo]]
 url = "https://github.com/zippiehq/android-proof"
@@ -46,6 +47,57 @@ url = "https://github.com/zippiehq/bls-wasm"
 url = "https://github.com/zippiehq/brotli.js"
 
 [[repo]]
+url = "https://github.com/zippiehq/cartesi-advance-runner"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-carize"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-coprocessor"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-coprocessor-contract-template"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-coprocessor-emulator-tools"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-coprocessor-infra"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-coprocessor-operator"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-coprocessor-solver"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-kubo"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-lambada"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-lambada-base-machine"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-lambada-coprocessor"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-lambada-guest-tools"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-lambada-speedrun"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-preimage-oracle"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-rv64i-cuda"
+
+[[repo]]
+url = "https://github.com/zippiehq/cartesi-rwa-verification"
+
+[[repo]]
 url = "https://github.com/zippiehq/cidhook"
 
 [[repo]]
@@ -61,7 +113,13 @@ url = "https://github.com/zippiehq/contribution"
 url = "https://github.com/zippiehq/create-react-app"
 
 [[repo]]
+url = "https://github.com/zippiehq/dave"
+
+[[repo]]
 url = "https://github.com/zippiehq/descartes"
+
+[[repo]]
+url = "https://github.com/zippiehq/did-examples"
 
 [[repo]]
 url = "https://github.com/zippiehq/dispatcher"
@@ -82,6 +140,15 @@ url = "https://github.com/zippiehq/emulator_device"
 url = "https://github.com/zippiehq/eth-block-tracker"
 
 [[repo]]
+url = "https://github.com/zippiehq/eth-object"
+
+[[repo]]
+url = "https://github.com/zippiehq/eth-proof"
+
+[[repo]]
+url = "https://github.com/zippiehq/goldcrest-vp"
+
+[[repo]]
 url = "https://github.com/zippiehq/grpc-interfaces"
 
 [[repo]]
@@ -97,7 +164,11 @@ url = "https://github.com/zippiehq/historical_tokens"
 url = "https://github.com/zippiehq/horizon"
 
 [[repo]]
+url = "https://github.com/zippiehq/html-to-docx"
+
+[[repo]]
 url = "https://github.com/zippiehq/http2-edge"
+missing = true
 
 [[repo]]
 url = "https://github.com/zippiehq/id3"
@@ -163,6 +234,9 @@ url = "https://github.com/zippiehq/machine-tests"
 url = "https://github.com/zippiehq/mpesa-node-library"
 
 [[repo]]
+url = "https://github.com/zippiehq/opaque-ts"
+
+[[repo]]
 url = "https://github.com/zippiehq/opaque-wasm"
 
 [[repo]]
@@ -200,6 +274,7 @@ url = "https://github.com/zippiehq/qrscan.io-vuetify"
 
 [[repo]]
 url = "https://github.com/zippiehq/quickjs-truebit"
+missing = true
 
 [[repo]]
 url = "https://github.com/zippiehq/react-joyride"
@@ -209,6 +284,9 @@ url = "https://github.com/zippiehq/react-sortable-hoc"
 
 [[repo]]
 url = "https://github.com/zippiehq/react-wallet-example"
+
+[[repo]]
+url = "https://github.com/zippiehq/ref-fvm"
 
 [[repo]]
 url = "https://github.com/zippiehq/reproducible-docker-builds"
@@ -229,13 +307,35 @@ url = "https://github.com/zippiehq/riscv-test-env"
 url = "https://github.com/zippiehq/riscv-tests"
 
 [[repo]]
+url = "https://github.com/zippiehq/riscv-to-evm"
+missing = true
+
+[[repo]]
+url = "https://github.com/zippiehq/rs-car-ipfs"
+
+[[repo]]
+url = "https://github.com/zippiehq/rv32i-to-bitvm"
+
+[[repo]]
 url = "https://github.com/zippiehq/secrets.js"
 
 [[repo]]
 url = "https://github.com/zippiehq/sparkler-example"
 
 [[repo]]
+url = "https://github.com/zippiehq/test-lambada-js"
+
+[[repo]]
+url = "https://github.com/zippiehq/test-lambada-python"
+
+[[repo]]
 url = "https://github.com/zippiehq/theme-scripts"
+
+[[repo]]
+url = "https://github.com/zippiehq/third-party-auth-example"
+
+[[repo]]
+url = "https://github.com/zippiehq/tosiscan"
 
 [[repo]]
 url = "https://github.com/zippiehq/vault"
@@ -256,6 +356,16 @@ url = "https://github.com/zippiehq/vaultv2-prototype"
 url = "https://github.com/zippiehq/vCards-js"
 
 [[repo]]
+url = "https://github.com/zippiehq/vdf_js"
+
+[[repo]]
+url = "https://github.com/zippiehq/verify-nitro-attestation"
+missing = true
+
+[[repo]]
+url = "https://github.com/zippiehq/vigilant-couscous"
+
+[[repo]]
 url = "https://github.com/zippiehq/vue-qrcode"
 
 [[repo]]
@@ -266,6 +376,10 @@ url = "https://github.com/zippiehq/wallet"
 
 [[repo]]
 url = "https://github.com/zippiehq/wasi-truebit"
+missing = true
+
+[[repo]]
+url = "https://github.com/zippiehq/wasm2evm-2"
 
 [[repo]]
 url = "https://github.com/zippiehq/web-worker"
@@ -283,6 +397,9 @@ url = "https://github.com/zippiehq/zipperglobal.github.com"
 url = "https://github.com/zippiehq/zippie-examples"
 
 [[repo]]
+url = "https://github.com/zippiehq/zippie-jsdoc-template"
+
+[[repo]]
 url = "https://github.com/zippiehq/zippie-utils"
 
 [[repo]]
@@ -290,3 +407,6 @@ url = "https://github.com/zippiehq/zippie-web3-utils"
 
 [[repo]]
 url = "https://github.com/zippiehq/zipt_token"
+
+[[repo]]
+url = "https://github.com/zippiehq/zkRiscV"

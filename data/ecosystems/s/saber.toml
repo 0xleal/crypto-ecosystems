@@ -3,7 +3,7 @@ title = "Saber"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/saber-hq"]
+github_organizations = ["https://github.com/saber-hq", "https://github.com/saberdao"]
 
 # Repositories
 [[repo]]
@@ -49,9 +49,6 @@ url = "https://github.com/saber-hq/goki"
 url = "https://github.com/saber-hq/governance"
 
 [[repo]]
-url = "https://github.com/saber-hq/idl-macro"
-
-[[repo]]
 url = "https://github.com/saber-hq/install-solana-action"
 
 [[repo]]
@@ -85,10 +82,16 @@ url = "https://github.com/saber-hq/saber-build-common"
 url = "https://github.com/saber-hq/saber-common"
 
 [[repo]]
+url = "https://github.com/saber-hq/saber-dapp"
+
+[[repo]]
 url = "https://github.com/saber-hq/saber-info"
 
 [[repo]]
 url = "https://github.com/saber-hq/saber-lp-token-list"
+
+[[repo]]
+url = "https://github.com/saber-hq/saber-lp-token-list-generator"
 
 [[repo]]
 url = "https://github.com/saber-hq/saber-overlay"
@@ -127,6 +130,9 @@ url = "https://github.com/saber-hq/spl-token-icons"
 url = "https://github.com/saber-hq/stable-swap"
 
 [[repo]]
+url = "https://github.com/saber-hq/token-fns"
+
+[[repo]]
 url = "https://github.com/saber-hq/token-list"
 
 [[repo]]
@@ -143,3 +149,36 @@ url = "https://github.com/saber-hq/wallet-adapter"
 
 [[repo]]
 url = "https://github.com/saber-hq/walletkit"
+
+[[repo]]
+url = "https://github.com/saberdao/birdeye-data"
+
+[[repo]]
+url = "https://github.com/saberdao/birdeye-data-fetcher"
+
+[[repo]]
+url = "https://github.com/saberdao/dapp"
+
+[[repo]]
+url = "https://github.com/saberdao/data"
+
+[[repo]]
+url = "https://github.com/saberdao/docs-old"
+
+[[repo]]
+url = "https://github.com/saberdao/info"
+
+[[repo]]
+url = "https://github.com/saberdao/saber-alerts"
+
+[[repo]]
+url = "https://github.com/saberdao/saber-registry-dist"
+
+[[repo]]
+url = "https://github.com/saberdao/sail"
+
+[[repo]]
+url = "https://github.com/saberdao/sim-price-data"
+
+[[repo]]
+url = "https://github.com/saberdao/tribeca-epoch-crank"

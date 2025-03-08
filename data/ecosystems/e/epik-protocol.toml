@@ -31,13 +31,12 @@ url = "https://github.com/EpiK-Protocol/epik-explorer-backend"
 url = "https://github.com/EpiK-Protocol/epik-explorer-frontend"
 
 [[repo]]
-url = "https://github.com/EpiK-Protocol/epik-gateway-backend"
-
-[[repo]]
 url = "https://github.com/EpiK-Protocol/epik-gateway-binlog-encoder"
+missing = true
 
 [[repo]]
 url = "https://github.com/EpiK-Protocol/epik-gateway-binlog-replayer"
+missing = true
 
 [[repo]]
 url = "https://github.com/EpiK-Protocol/EpiK-KG"
@@ -53,9 +52,6 @@ url = "https://github.com/EpiK-Protocol/epik-wallet-flutter"
 
 [[repo]]
 url = "https://github.com/EpiK-Protocol/epik-wallet-golib"
-
-[[repo]]
-url = "https://github.com/EpiK-Protocol/epk-liquidity-farm-contract"
 
 [[repo]]
 url = "https://github.com/EpiK-Protocol/epk-nft-cloud"

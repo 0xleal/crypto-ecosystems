@@ -11,12 +11,25 @@ url = "https://github.com/coingate/blesta-plugin"
 
 [[repo]]
 url = "https://github.com/coingate/check-api-php"
+missing = true
+
+[[repo]]
+url = "https://github.com/coingate/CoinAWS"
+
+[[repo]]
+url = "https://github.com/coingate/coingate-node"
 
 [[repo]]
 url = "https://github.com/coingate/coingate-php"
 
 [[repo]]
+url = "https://github.com/coingate/coingate-python"
+
+[[repo]]
 url = "https://github.com/coingate/coingate-ruby"
+
+[[repo]]
+url = "https://github.com/coingate/contributing-sdk"
 
 [[repo]]
 url = "https://github.com/coingate/cypress-action"
@@ -26,6 +39,12 @@ url = "https://github.com/coingate/drupal-commerce2-plugin"
 
 [[repo]]
 url = "https://github.com/coingate/easydigitaldownloads-plugin"
+
+[[repo]]
+url = "https://github.com/coingate/gitops-bridge-addons"
+
+[[repo]]
+url = "https://github.com/coingate/globitex-test-payment"
 
 [[repo]]
 url = "https://github.com/coingate/go-crypto"
@@ -52,6 +71,9 @@ url = "https://github.com/coingate/omnipay-coingate"
 url = "https://github.com/coingate/opencart-plugin"
 
 [[repo]]
+url = "https://github.com/coingate/opencart4-plugin"
+
+[[repo]]
 url = "https://github.com/coingate/oscommerce-plugin"
 
 [[repo]]
@@ -61,7 +83,13 @@ url = "https://github.com/coingate/prestashop-plugin"
 url = "https://github.com/coingate/rails-shop-example"
 
 [[repo]]
-url = "https://github.com/coingate/shopware-plugin"
+url = "https://github.com/coingate/shopware5-plugin"
+
+[[repo]]
+url = "https://github.com/coingate/shopware6-plugin"
+
+[[repo]]
+url = "https://github.com/coingate/smeditor"
 
 [[repo]]
 url = "https://github.com/coingate/status-check-action"

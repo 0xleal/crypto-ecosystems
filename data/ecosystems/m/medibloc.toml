@@ -17,12 +17,23 @@ url = "https://github.com/medibloc/aries-framework-go"
 
 [[repo]]
 url = "https://github.com/medibloc/aries-framework-go-ext"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/assetlists"
 
 [[repo]]
+url = "https://github.com/medibloc/bdjuno"
+
+[[repo]]
+url = "https://github.com/medibloc/big-dipper-2.0-cosmos"
+
+[[repo]]
 url = "https://github.com/medibloc/bls12-381"
+missing = true
+
+[[repo]]
+url = "https://github.com/medibloc/callisto"
 
 [[repo]]
 url = "https://github.com/medibloc/cameleon"
@@ -31,7 +42,11 @@ url = "https://github.com/medibloc/cameleon"
 url = "https://github.com/medibloc/chain-registry"
 
 [[repo]]
+url = "https://github.com/medibloc/chainlist"
+
+[[repo]]
 url = "https://github.com/medibloc/cosmjs"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/cosmos-sdk"
@@ -77,9 +92,13 @@ url = "https://github.com/medibloc/honeybee"
 
 [[repo]]
 url = "https://github.com/medibloc/jjwt"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/json-ld"
+
+[[repo]]
+url = "https://github.com/medibloc/keplr-chain-registry"
 
 [[repo]]
 url = "https://github.com/medibloc/keyserver"
@@ -89,18 +108,11 @@ url = "https://github.com/medibloc/ledger-panacea"
 
 [[repo]]
 url = "https://github.com/medibloc/ledger-panacea-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/ledgerjs"
-
-[[repo]]
-url = "https://github.com/medibloc/medibloc-panacea-api"
-
-[[repo]]
-url = "https://github.com/medibloc/medjs"
-
-[[repo]]
-url = "https://github.com/medibloc/merklizer"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/merklizer-old"
@@ -119,18 +131,29 @@ url = "https://github.com/medibloc/nestjs-request-context"
 
 [[repo]]
 url = "https://github.com/medibloc/node"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/p2p-mediator"
+missing = true
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-coracle"
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-core"
 
 [[repo]]
-url = "https://github.com/medibloc/panacea-data-market-validator"
+url = "https://github.com/medibloc/panacea-cosmos-tmp-web"
 
 [[repo]]
-url = "https://github.com/medibloc/panacea-dep-node"
+url = "https://github.com/medibloc/panacea-dep-consumer"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-doracle"
+
+[[repo]]
+url = "https://github.com/medibloc/panacea-e2e"
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-governance"
@@ -151,40 +174,39 @@ url = "https://github.com/medibloc/panacea-js"
 url = "https://github.com/medibloc/panacea-js-old"
 
 [[repo]]
-url = "https://github.com/medibloc/panacea-launch"
+url = "https://github.com/medibloc/panacea-json-schema"
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-mainnet"
-
-[[repo]]
-url = "https://github.com/medibloc/panacea-networks"
-
-[[repo]]
-url = "https://github.com/medibloc/panacea-opentestnet"
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-oracle"
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-roadmap"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-smart-contract"
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-swift"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-testnet"
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-utility"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/panacea-web-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/phr-java"
@@ -196,7 +218,17 @@ url = "https://github.com/medibloc/phr-js"
 url = "https://github.com/medibloc/samples"
 
 [[repo]]
+url = "https://github.com/medibloc/secp256k1-for-medipass"
+
+[[repo]]
 url = "https://github.com/medibloc/slips"
+
+[[repo]]
+url = "https://github.com/medibloc/ssi-sdk"
+
+[[repo]]
+url = "https://github.com/medibloc/staketaxcsv"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/strict-null-check-migration-tools"
@@ -209,9 +241,11 @@ url = "https://github.com/medibloc/tokens-info"
 
 [[repo]]
 url = "https://github.com/medibloc/trustwallet-wallet-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/uni-resolver-driver-did-panacea"
+missing = true
 
 [[repo]]
 url = "https://github.com/medibloc/vc-java"
@@ -221,12 +255,6 @@ url = "https://github.com/medibloc/vc-sdk"
 
 [[repo]]
 url = "https://github.com/medibloc/vc-service"
-
-[[repo]]
-url = "https://github.com/medibloc/verifiable"
-
-[[repo]]
-url = "https://github.com/medibloc/verifiable-credentials"
 
 [[repo]]
 url = "https://github.com/medibloc/wallet"

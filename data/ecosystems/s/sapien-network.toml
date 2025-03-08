@@ -7,10 +7,11 @@ github_organizations = ["https://github.com/SapienNetwork"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/SapienNetwork/assets"
+url = "https://github.com/Sapien-Nation/assets"
 
 [[repo]]
 url = "https://github.com/SapienNetwork/ckeditor5-build-balloon-block"
+missing = true
 
 [[repo]]
 url = "https://github.com/SapienNetwork/ckeditor5-build-classic"
@@ -35,6 +36,7 @@ url = "https://github.com/SapienNetwork/Rocket.Chat"
 
 [[repo]]
 url = "https://github.com/SapienNetwork/Sapien"
+missing = true
 
 [[repo]]
 url = "https://github.com/SapienNetwork/Sapien-Presale"

@@ -10,10 +10,16 @@ github_organizations = ["https://github.com/marscoin"]
 url = "https://github.com/marscoin/bitcoin-abe"
 
 [[repo]]
+url = "https://github.com/marscoin/BitcoinECDSA.php"
+
+[[repo]]
 url = "https://github.com/marscoin/bitcore"
 
 [[repo]]
 url = "https://github.com/marscoin/bitcore-playground"
+
+[[repo]]
+url = "https://github.com/marscoin/blockbook"
 
 [[repo]]
 url = "https://github.com/marscoin/carbonwallet.github.io"
@@ -49,12 +55,6 @@ url = "https://github.com/marscoin/liteaddress.org"
 url = "https://github.com/marscoin/litecoin-faucet"
 
 [[repo]]
-url = "https://github.com/marscoin/Litesight"
-
-[[repo]]
-url = "https://github.com/marscoin/Litesight-api"
-
-[[repo]]
 url = "https://github.com/marscoin/loafwallet-android"
 
 [[repo]]
@@ -67,6 +67,18 @@ url = "https://github.com/marscoin/loafwallet-ios"
 url = "https://github.com/marscoin/marscoin"
 
 [[repo]]
+url = "https://github.com/marscoin/marscoin-28"
+
+[[repo]]
+url = "https://github.com/marscoin/marscoin-archive"
+
+[[repo]]
+url = "https://github.com/marscoin/marscoin-seeder"
+
+[[repo]]
+url = "https://github.com/marscoin/MarscoinECDSA.php"
+
+[[repo]]
 url = "https://github.com/marscoin/marscoinj"
 
 [[repo]]
@@ -74,6 +86,18 @@ url = "https://github.com/marscoin/marscoinstats"
 
 [[repo]]
 url = "https://github.com/marscoin/marscointip"
+
+[[repo]]
+url = "https://github.com/marscoin/Marscore"
+
+[[repo]]
+url = "https://github.com/marscoin/marscore-lib"
+
+[[repo]]
+url = "https://github.com/marscoin/marskit"
+
+[[repo]]
+url = "https://github.com/marscoin/marsposbal2csv"
 
 [[repo]]
 url = "https://github.com/marscoin/Marssight"
@@ -85,13 +109,34 @@ url = "https://github.com/marscoin/Marssight-api"
 url = "https://github.com/marscoin/MarsWallet"
 
 [[repo]]
+url = "https://github.com/marscoin/martianrepublic"
+
+[[repo]]
+url = "https://github.com/marscoin/MartianRepublicMobile"
+
+[[repo]]
 url = "https://github.com/marscoin/massive"
+
+[[repo]]
+url = "https://github.com/marscoin/mempool"
+
+[[repo]]
+url = "https://github.com/marscoin/mining-pools"
 
 [[repo]]
 url = "https://github.com/marscoin/multimars"
 
 [[repo]]
+url = "https://github.com/marscoin/node-buffers"
+
+[[repo]]
 url = "https://github.com/marscoin/pebas"
+
+[[repo]]
+url = "https://github.com/marscoin/phobos"
+
+[[repo]]
+url = "https://github.com/marscoin/phobus"
 
 [[repo]]
 url = "https://github.com/marscoin/vanitygen"

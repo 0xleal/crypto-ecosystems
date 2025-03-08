@@ -8,9 +8,10 @@ github_organizations = ["https://github.com/horizontalsystems"]
 # Repositories
 [[repo]]
 url = "https://github.com/horizontalsystems/action-sheet"
+missing = true
 
 [[repo]]
-url = "https://github.com/horizontalsystems/ActionSheet"
+url = "https://github.com/horizontalsystems/ActionSheet.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/atomic-swap-kit-android"
@@ -25,7 +26,7 @@ url = "https://github.com/horizontalsystems/backend-services"
 url = "https://github.com/horizontalsystems/binance-chain-kit-android"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/binance-chain-kit-ios"
+url = "https://github.com/horizontalsystems/BinanceChainKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/bitcoin-block-explorer"
@@ -43,7 +44,17 @@ url = "https://github.com/horizontalsystems/bitcoin-kit-ios"
 url = "https://github.com/horizontalsystems/Bitcoin.org"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/BitcoinCoreKit"
+url = "https://github.com/horizontalsystems/BitcoinCashKit.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/BitcoinCore.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/BitcoinCoreKitSwift"
+missing = true
+
+[[repo]]
+url = "https://github.com/horizontalsystems/BitcoinKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/blockchain-crypto-guides"
@@ -58,7 +69,10 @@ url = "https://github.com/horizontalsystems/blockchain-fee-rate-kit-ios"
 url = "https://github.com/horizontalsystems/bls-kit-ios"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/Chart"
+url = "https://github.com/horizontalsystems/Chart.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/Checkpoints"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/coin-kit-android"
@@ -70,7 +84,7 @@ url = "https://github.com/horizontalsystems/coin-kit-ios"
 url = "https://github.com/horizontalsystems/component-kit-ios"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/ComponentKit"
+url = "https://github.com/horizontalsystems/ComponentKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/crypto-bls-ios"
@@ -82,16 +96,34 @@ url = "https://github.com/horizontalsystems/crypto-kit-ios"
 url = "https://github.com/horizontalsystems/crypto-monitoring-services"
 
 [[repo]]
+url = "https://github.com/horizontalsystems/crypto-subscription"
+
+[[repo]]
 url = "https://github.com/horizontalsystems/crypto-x11-ios"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/cryptocurrencies"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/CurrencyKit"
+url = "https://github.com/horizontalsystems/CryptoSwift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/CurrencyKit.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/DashCrypto.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/DashKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/docker-android"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/ECashKit.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/Eip20Kit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/eos-kit-android"
@@ -118,7 +150,16 @@ url = "https://github.com/horizontalsystems/ethereum-kit-android"
 url = "https://github.com/horizontalsystems/ethereum-kit-ios"
 
 [[repo]]
+url = "https://github.com/horizontalsystems/ethereum-org-website"
+
+[[repo]]
 url = "https://github.com/horizontalsystems/EthereumABI"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/EvmKit.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/FeeRateKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/go-fee-rate-kit"
@@ -133,13 +174,19 @@ url = "https://github.com/horizontalsystems/grpc-swift"
 url = "https://github.com/horizontalsystems/gui-kit"
 
 [[repo]]
+url = "https://github.com/horizontalsystems/HCaptcha-ios-sdk"
+
+[[repo]]
 url = "https://github.com/horizontalsystems/hd-wallet-kit-android"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/hd-wallet-kit-ios"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/HdWalletKit"
+url = "https://github.com/horizontalsystems/HdWalletKit.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/Hodler.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/horizontalsystems.github.io"
@@ -151,13 +198,19 @@ url = "https://github.com/horizontalsystems/HS-Design"
 url = "https://github.com/horizontalsystems/hs-tool-kit-ios"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/HsToolKit"
+url = "https://github.com/horizontalsystems/HsCryptoKit.Swift"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/HUD"
+url = "https://github.com/horizontalsystems/HsExtensions.Swift"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/LanguageKit"
+url = "https://github.com/horizontalsystems/HsToolKit.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/HUD.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/LanguageKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/lightning-kit-android"
@@ -172,10 +225,13 @@ url = "https://github.com/horizontalsystems/lightning-wallet-android"
 url = "https://github.com/horizontalsystems/lightning-wallet-ios"
 
 [[repo]]
+url = "https://github.com/horizontalsystems/LitecoinKit.Swift"
+
+[[repo]]
 url = "https://github.com/horizontalsystems/market-kit-android"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/market-kit-ios"
+url = "https://github.com/horizontalsystems/MarketKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/markets"
@@ -188,15 +244,22 @@ url = "https://github.com/horizontalsystems/markets-bigdata-stack"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/markets-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/horizontalsystems/markets-web"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/ModuleKit"
+url = "https://github.com/horizontalsystems/ModuleKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/net-kit-android"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/NftKit.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/OneInchKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/open-ssl-kit-ios"
@@ -208,6 +271,9 @@ url = "https://github.com/horizontalsystems/OpenSSLKit"
 url = "https://github.com/horizontalsystems/PinKit"
 
 [[repo]]
+url = "https://github.com/horizontalsystems/PinKit.Swift"
+
+[[repo]]
 url = "https://github.com/horizontalsystems/push-notification-services"
 
 [[repo]]
@@ -217,19 +283,44 @@ url = "https://github.com/horizontalsystems/push-notification-services-old"
 url = "https://github.com/horizontalsystems/ScanQrKit"
 
 [[repo]]
+url = "https://github.com/horizontalsystems/ScanQrKit.Swift"
+
+[[repo]]
 url = "https://github.com/horizontalsystems/secp256k1-kit-ios"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/secp256k1.swift"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/SectionsTableView"
+url = "https://github.com/horizontalsystems/SectionsTableView.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/solana-kit-android"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/solana-kit-ios"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/StorageKit"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/ThemeKit"
+url = "https://github.com/horizontalsystems/StorageKit.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/theme-kit-ios"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/ThemeKit.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/ton-kit-android"
+missing = true
+
+[[repo]]
+url = "https://github.com/horizontalsystems/ton-kit-kmm"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/TonKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/tor-kit-android"
@@ -238,10 +329,16 @@ url = "https://github.com/horizontalsystems/tor-kit-android"
 url = "https://github.com/horizontalsystems/trading-vue-js"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/ui-extensions"
+url = "https://github.com/horizontalsystems/tron-kit-android"
 
 [[repo]]
-url = "https://github.com/horizontalsystems/UIExtensions"
+url = "https://github.com/horizontalsystems/TronKit.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/UIExtensions.Swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/UniswapKit.Swift"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/unstoppable-wallet-android"
@@ -257,6 +354,12 @@ url = "https://github.com/horizontalsystems/wallet-connect-kotlin"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/wallet-connect-swift"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/wallets-list"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/web-examples"
 
 [[repo]]
 url = "https://github.com/horizontalsystems/x11-kit-ios"

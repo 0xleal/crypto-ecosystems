@@ -7,9 +7,6 @@ github_organizations = ["https://github.com/aavegotchi"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/aavegotchi/aavegotchi-airdrop-subgraph"
-
-[[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-alchemica-gax"
 
 [[repo]]
@@ -22,7 +19,22 @@ url = "https://github.com/aavegotchi/aavegotchi-assets"
 url = "https://github.com/aavegotchi/aavegotchi-baazaar-gbm-subgraph"
 
 [[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-baazaar-subgraph"
+
+[[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-contracts"
+
+[[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-core-subgraph"
+
+[[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-data-api"
+
+[[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-eth-subgraph"
+
+[[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-font"
 
 [[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-gbm"
@@ -31,10 +43,19 @@ url = "https://github.com/aavegotchi/aavegotchi-gbm"
 url = "https://github.com/aavegotchi/aavegotchi-gbm-baazaar"
 
 [[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-geist"
+
+[[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-gltr-staking-subgraph"
 
 [[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-gotchi-subgraph"
+
+[[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-installation-diamond"
+
+[[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-leaderboard"
 
 [[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-lending-subgraph"
@@ -64,10 +85,19 @@ url = "https://github.com/aavegotchi/aavegotchi-realm-diamond"
 url = "https://github.com/aavegotchi/aavegotchi-realm-subgraph"
 
 [[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-subgraph-dashboard"
+
+[[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-substreams"
+
+[[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-svg-subgraph"
 
 [[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-tile-diamond"
+
+[[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-types"
 
 [[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-vault-subgraph"
@@ -91,7 +121,23 @@ url = "https://github.com/aavegotchi/dapp-marketing-images"
 url = "https://github.com/aavegotchi/deployed-contract-addresses"
 
 [[repo]]
+url = "https://github.com/aavegotchi/ethereum-optimism.github.io"
+
+[[repo]]
+url = "https://github.com/aavegotchi/fake-gotchis"
+
+[[repo]]
+url = "https://github.com/aavegotchi/fake-gotchis-geist"
+
+[[repo]]
 url = "https://github.com/aavegotchi/fundraising-subgraph"
+
+[[repo]]
+url = "https://github.com/aavegotchi/geist-subgraph"
+missing = true
+
+[[repo]]
+url = "https://github.com/aavegotchi/ghst-oft"
 
 [[repo]]
 url = "https://github.com/aavegotchi/ghst-price"
@@ -101,6 +147,12 @@ url = "https://github.com/aavegotchi/ghst-staking"
 
 [[repo]]
 url = "https://github.com/aavegotchi/ghst-upgrade"
+
+[[repo]]
+url = "https://github.com/aavegotchi/GotchiGuardiansInverse"
+
+[[repo]]
+url = "https://github.com/aavegotchi/gotchiverse-analytics"
 
 [[repo]]
 url = "https://github.com/aavegotchi/gotchiverse-bible"
@@ -115,7 +167,13 @@ url = "https://github.com/aavegotchi/gotchiverse-graphql"
 url = "https://github.com/aavegotchi/gotchiverse-subgraph"
 
 [[repo]]
+url = "https://github.com/aavegotchi/graph-node-dev"
+
+[[repo]]
 url = "https://github.com/aavegotchi/graph-polygon-docker"
+
+[[repo]]
+url = "https://github.com/aavegotchi/gv-camera-nft"
 
 [[repo]]
 url = "https://github.com/aavegotchi/LiquidityHelper"
@@ -145,10 +203,19 @@ url = "https://github.com/aavegotchi/protocol-v2"
 url = "https://github.com/aavegotchi/raffle"
 
 [[repo]]
+url = "https://github.com/aavegotchi/router-protocol-examples"
+
+[[repo]]
 url = "https://github.com/aavegotchi/sideview-testing"
 
 [[repo]]
 url = "https://github.com/aavegotchi/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/aavegotchi/socket-bridge-subgraph"
+
+[[repo]]
+url = "https://github.com/aavegotchi/socket-plugs"
 
 [[repo]]
 url = "https://github.com/aavegotchi/unicly-utoken-info"

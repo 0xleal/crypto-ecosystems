@@ -19,6 +19,9 @@ url = "https://github.com/cache-token/cache-chainlink-oracle"
 url = "https://github.com/cache-token/cache-contract"
 
 [[repo]]
+url = "https://github.com/cache-token/cache-crypto-widget"
+
+[[repo]]
 url = "https://github.com/cache-token/cache-periphery"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/cache-token/cache_fee_report"
 
 [[repo]]
 url = "https://github.com/cache-token/cgt-bridge"
+
+[[repo]]
+url = "https://github.com/cache-token/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/cache-token/docs"

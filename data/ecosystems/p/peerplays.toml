@@ -8,30 +8,14 @@ github_organizations = ["https://github.com/PBSA"]
 # Repositories
 [[repo]]
 url = "https://github.com/PBSA/block-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/PBSA/BookiePro"
 
 [[repo]]
-url = "https://github.com/PBSA/bookiepro.com"
-
-[[repo]]
-url = "https://github.com/PBSA/bookiesports"
-
-[[repo]]
-url = "https://github.com/PBSA/bos-auto"
-
-[[repo]]
 url = "https://github.com/PBSA/bos-dataproxy"
-
-[[repo]]
-url = "https://github.com/PBSA/bos-incidents"
-
-[[repo]]
-url = "https://github.com/PBSA/bos-mint"
-
-[[repo]]
-url = "https://github.com/PBSA/bos-sync"
+missing = true
 
 [[repo]]
 url = "https://github.com/PBSA/community-project-docs"
@@ -44,6 +28,9 @@ url = "https://github.com/PBSA/Couch-Potato-API"
 
 [[repo]]
 url = "https://github.com/PBSA/CouchPotato-Documents"
+
+[[repo]]
+url = "https://github.com/PBSA/exeblock-exechain-ethereum"
 
 [[repo]]
 url = "https://github.com/PBSA/Explorer-Server"
@@ -77,6 +64,7 @@ url = "https://github.com/PBSA/peerplays"
 
 [[repo]]
 url = "https://github.com/PBSA/peerplays-0.1-fc"
+missing = true
 
 [[repo]]
 url = "https://github.com/PBSA/peerplays-core-gui"
@@ -89,6 +77,7 @@ url = "https://github.com/PBSA/peerplays-electron-build"
 
 [[repo]]
 url = "https://github.com/PBSA/peerplays-electron-build-bookie"
+missing = true
 
 [[repo]]
 url = "https://github.com/PBSA/peerplays-fc"
@@ -103,9 +92,6 @@ url = "https://github.com/PBSA/peerplaysjs-lib"
 url = "https://github.com/PBSA/peerplaysjs-ws"
 
 [[repo]]
-url = "https://github.com/PBSA/python-peerplays"
-
-[[repo]]
 url = "https://github.com/PBSA/StreamersEdge"
 
 [[repo]]
@@ -113,3 +99,25 @@ url = "https://github.com/PBSA/Technical-Documents"
 
 [[repo]]
 url = "https://github.com/PBSA/testnet"
+missing = true
+
+[[repo]]
+url = "https://github.com/peerplays-network/bookiepro.com"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bookiesports"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bos-auto"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bos-incidents"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bos-mint"
+
+[[repo]]
+url = "https://github.com/peerplays-network/bos-sync"
+
+[[repo]]
+url = "https://github.com/peerplays-network/python-peerplays"

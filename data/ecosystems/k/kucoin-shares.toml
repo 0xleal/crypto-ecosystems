@@ -1,11 +1,21 @@
 # Ecosystem Level Information
 title = "KuCoin Shares"
 
-sub_ecosystems = []
+sub_ecosystems = [
+  "Bridge Network",
+  "Mojito Finance",
+  "Multichain (Anyswap)",
+  "OpenLeverage",
+  "sKCS",
+  "Transit Finance",
+]
 
 github_organizations = ["https://github.com/Kucoin"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/Kucoin/.github"
+
 [[repo]]
 url = "https://github.com/Kucoin/Docs-Deprecated"
 
@@ -41,6 +51,7 @@ url = "https://github.com/Kucoin/kucoin-futures-python-sdk"
 
 [[repo]]
 url = "https://github.com/Kucoin/kucoin-go-level3-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kucoin/kucoin-go-sdk"
@@ -64,6 +75,9 @@ url = "https://github.com/Kucoin/kucoin-php-sdk"
 url = "https://github.com/Kucoin/kucoin-python-sdk"
 
 [[repo]]
+url = "https://github.com/Kucoin/kucoin-universal-sdk"
+
+[[repo]]
 url = "https://github.com/Kucoin/kumex-api-demo"
 
 [[repo]]
@@ -73,19 +87,15 @@ url = "https://github.com/Kucoin/kumex-api-docs"
 url = "https://github.com/Kucoin/kumex-go-sdk"
 
 [[repo]]
-url = "https://github.com/Kucoin/kumex-java-sdk"
-
-[[repo]]
 url = "https://github.com/Kucoin/kumex-level3-sdk"
-
-[[repo]]
-url = "https://github.com/Kucoin/kumex-node-sdk"
 
 [[repo]]
 url = "https://github.com/Kucoin/kumex-php-sdk"
 
 [[repo]]
 url = "https://github.com/Kucoin/kumex-python-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kucoin/python-kucoin"
+missing = true

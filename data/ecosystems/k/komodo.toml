@@ -24,6 +24,7 @@ url = "https://github.com/KMDLabs/bitcore-node-komodo"
 
 [[repo]]
 url = "https://github.com/KMDLabs/einsteinium"
+missing = true
 
 [[repo]]
 url = "https://github.com/KMDLabs/insight-api-komodo"
@@ -66,9 +67,7 @@ url = "https://github.com/KMDLabs/ScaleTestV2"
 
 [[repo]]
 url = "https://github.com/KMDLabs/staked"
-
-[[repo]]
-url = "https://github.com/KMDLabs/StakedNotary"
+missing = true
 
 [[repo]]
 url = "https://github.com/KMDLabs/SuperNET"
@@ -101,6 +100,9 @@ url = "https://github.com/KomodoPlatform/antara-makerbot"
 url = "https://github.com/KomodoPlatform/antara-std"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/archive"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/Argon2Swift"
 
 [[repo]]
@@ -113,10 +115,16 @@ url = "https://github.com/KomodoPlatform/async-std"
 url = "https://github.com/KomodoPlatform/async-trait"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/atomic_dex_server_flutter"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/atomicDEX"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/atomicDEX-API"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/atomicDEX-API-proof"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/atomicDEX-Desktop"
@@ -128,10 +136,14 @@ url = "https://github.com/KomodoPlatform/atomicdex-desktop-generics"
 url = "https://github.com/KomodoPlatform/AtomicDEX-docs"
 
 [[repo]]
-url = "https://github.com/KomodoPlatform/atomicDEX-Pro"
+url = "https://github.com/KomodoPlatform/atomicdex-gui-auth"
 
 [[repo]]
-url = "https://github.com/KomodoPlatform/atomicDEX-QT"
+url = "https://github.com/KomodoPlatform/atomicdex-mobile"
+missing = true
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/atomicdex_sdk_suite_flutter"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/atomicdexweb_bugreport"
@@ -144,6 +156,9 @@ url = "https://github.com/KomodoPlatform/auto_size_text"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/awesome-atomicdex"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/awesome-komodefi"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/AYAv2"
@@ -173,6 +188,9 @@ url = "https://github.com/KomodoPlatform/bitcoinjs-lib-pos"
 url = "https://github.com/KomodoPlatform/bitgo-komodo-cc-lib"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/bloc"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/boost"
 
 [[repo]]
@@ -182,10 +200,17 @@ url = "https://github.com/KomodoPlatform/breadwallet"
 url = "https://github.com/KomodoPlatform/bs58check-dart"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/btcd"
+missing = true
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/bytes"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/bzip2-mirror"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/chain-registry"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/chips3"
@@ -201,6 +226,9 @@ url = "https://github.com/KomodoPlatform/coda"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/codeloupe"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/coin-pages-data"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/coinbin"
@@ -231,6 +259,9 @@ url = "https://github.com/KomodoPlatform/crc-rs"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/crossbeam"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/cryptography"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/cryptonite"
@@ -269,6 +300,9 @@ url = "https://github.com/KomodoPlatform/date"
 url = "https://github.com/KomodoPlatform/decoderfox"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/defi_stats"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/depot"
 
 [[repo]]
@@ -279,9 +313,7 @@ url = "https://github.com/KomodoPlatform/developer-docs"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/developer-docs-test"
-
-[[repo]]
-url = "https://github.com/KomodoPlatform/developer-docs-test-"
+missing = true
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/dexstats_sqlite_py"
@@ -291,6 +323,12 @@ url = "https://github.com/KomodoPlatform/dicoapp"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/dicoapp-e"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/dips"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/DKImagePickerController"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/docopt.nim"
@@ -306,12 +344,25 @@ url = "https://github.com/KomodoPlatform/Documentation.rst.old"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/DocumentationPreview"
+missing = true
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/double-conversion"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/dPoW"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/dpow_badges"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/dragon_charts_flutter"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/dragon_logs_flutter"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/easy_localization"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/EasyDEX-GUI"
@@ -350,7 +401,26 @@ url = "https://github.com/KomodoPlatform/encrypt"
 url = "https://github.com/KomodoPlatform/entt"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/equatable"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/etomic-swap"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/ewebsock"
+missing = true
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/expected"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/file_system_access_api"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/flutter-action"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/flutter-desktop-embedding"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/flutter-icons"
@@ -383,6 +453,9 @@ url = "https://github.com/KomodoPlatform/flutter_sodium"
 url = "https://github.com/KomodoPlatform/flutter_svg"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/flutter_toolchain_rust"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/fmt"
 
 [[repo]]
@@ -399,6 +472,7 @@ url = "https://github.com/KomodoPlatform/gflags"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/ghost-search"
+missing = true
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/github-pages-deploy-action"
@@ -419,6 +493,9 @@ url = "https://github.com/KomodoPlatform/gstuff.rs"
 url = "https://github.com/KomodoPlatform/hashes"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/hive"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/http"
 
 [[repo]]
@@ -426,9 +503,6 @@ url = "https://github.com/KomodoPlatform/hummingbot"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/hw-kmd-wallet"
-
-[[repo]]
-url = "https://github.com/KomodoPlatform/hw-vote"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/hyperdex"
@@ -452,6 +526,9 @@ url = "https://github.com/KomodoPlatform/intl_generator"
 url = "https://github.com/KomodoPlatform/itertools"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/jenkins-ci-atomicdex"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/json"
 
 [[repo]]
@@ -462,6 +539,9 @@ url = "https://github.com/KomodoPlatform/kips"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/knomp"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodefi-wasm-rpc"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/komodo"
@@ -477,6 +557,18 @@ url = "https://github.com/KomodoPlatform/Komodo-Builders"
 url = "https://github.com/KomodoPlatform/Komodo-coin-cap"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/komodo-defi-framework"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo-defi-proxy"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo-defi-sdk-flutter"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo-docs-mdx"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/komodo-ecosysboard"
 
 [[repo]]
@@ -487,6 +579,39 @@ url = "https://github.com/KomodoPlatform/komodo-rpc-lib"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/komodo-seeder"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo-wallet"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo-wallet-desktop"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo-wallet-mobile"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo-wallet-mobile-experimental"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo_defi_server_flutter"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo_dex_client"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo_dex_client_dart"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo_dex_server"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo_dex_server_flutter"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo_wallet_sdk"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodo_wallet_sdk_flutter"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/KomodoFEChallenge"
@@ -502,6 +627,7 @@ url = "https://github.com/KomodoPlatform/KomodoPaperWalletGenerator"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/KomodoPlatform"
+missing = true
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/KomodoSpecs"
@@ -511,6 +637,10 @@ url = "https://github.com/KomodoPlatform/komodotools"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/komodoWallet"
+missing = true
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/komodoWallet-legacy"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/launch_review"
@@ -546,6 +676,9 @@ url = "https://github.com/KomodoPlatform/libsodium-jni"
 url = "https://github.com/KomodoPlatform/libwally-core"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/lightwalletd"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/loguru"
 
 [[repo]]
@@ -559,18 +692,35 @@ url = "https://github.com/KomodoPlatform/Mastering_CryptoConditions"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/mastering_komodo_dpow"
+missing = true
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/meta"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/mil"
+missing = true
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/mil-1"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/mm2-client"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/mm2-parity-ethereum"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/mm2-testcontainers-rs"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/mm2_docker"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/mm2_testenv_composer"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/mobile_scanner"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/monaizetokenGUI"
@@ -598,6 +748,16 @@ url = "https://github.com/KomodoPlatform/nimbus"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/NotaryNodes"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/NotaryNodes-1"
+missing = true
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/nucleus"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/nucleus-assets"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/parity-common"
@@ -675,6 +835,12 @@ url = "https://github.com/KomodoPlatform/qzxing"
 url = "https://github.com/KomodoPlatform/range-v3"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/react-atomicdex-wasm"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/react-komodefi-wasm"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/refl-cpp"
 
 [[repo]]
@@ -682,12 +848,16 @@ url = "https://github.com/KomodoPlatform/reproc"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/resources"
+missing = true
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/restclient-cpp"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/rogue"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/rosetta-komodo"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/run-vcpkg"
@@ -700,6 +870,12 @@ url = "https://github.com/KomodoPlatform/rust-hex"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/rust-libp2p"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/rust-web3"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/satomic-swap"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/sec-wallet"
@@ -715,6 +891,21 @@ url = "https://github.com/KomodoPlatform/setup-python"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/shields"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/sia-core"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/sia-coreutils"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/sia-grant"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/sia-rust"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/sia_adaptor_sig_study"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/Simple-API-Docs"
@@ -750,6 +941,9 @@ url = "https://github.com/KomodoPlatform/test"
 url = "https://github.com/KomodoPlatform/timeago.dart"
 
 [[repo]]
+url = "https://github.com/KomodoPlatform/tokio-tungstenite-wasm"
+
+[[repo]]
 url = "https://github.com/KomodoPlatform/travis_ci_flutter.dart"
 
 [[repo]]
@@ -757,6 +951,9 @@ url = "https://github.com/KomodoPlatform/trezor-firmware"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/trie"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/universal_html"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/utils"
@@ -772,6 +969,12 @@ url = "https://github.com/KomodoPlatform/vector_math.dart"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/vuepress-deploy"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/WalletConnectRust"
+
+[[repo]]
+url = "https://github.com/KomodoPlatform/walletd"
 
 [[repo]]
 url = "https://github.com/KomodoPlatform/WooCommerce-KMD"

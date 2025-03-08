@@ -31,9 +31,6 @@ url = "https://github.com/district0x/cljs-ipfs-api"
 url = "https://github.com/district0x/cljs-ipfs-http-client"
 
 [[repo]]
-url = "https://github.com/district0x/cljs-ipfs-native"
-
-[[repo]]
 url = "https://github.com/district0x/cljs-orbitdb"
 
 [[repo]]
@@ -44,9 +41,6 @@ url = "https://github.com/district0x/cljs-web3"
 
 [[repo]]
 url = "https://github.com/district0x/cljs-web3-next"
-
-[[repo]]
-url = "https://github.com/district0x/clojars-district0x"
 
 [[repo]]
 url = "https://github.com/district0x/clojars-travis-cd"
@@ -61,6 +55,9 @@ url = "https://github.com/district0x/contextual"
 url = "https://github.com/district0x/d0x-INFRA"
 
 [[repo]]
+url = "https://github.com/district0x/d0x-libs"
+
+[[repo]]
 url = "https://github.com/district0x/d0xperiments"
 
 [[repo]]
@@ -68,6 +65,12 @@ url = "https://github.com/district0x/dao-kits"
 
 [[repo]]
 url = "https://github.com/district0x/deployments"
+
+[[repo]]
+url = "https://github.com/district0x/discord-js-bots"
+
+[[repo]]
+url = "https://github.com/district0x/discord-py-bots"
 
 [[repo]]
 url = "https://github.com/district0x/district-cljs-utils"
@@ -295,6 +298,9 @@ url = "https://github.com/district0x/honeysql"
 url = "https://github.com/district0x/indents"
 
 [[repo]]
+url = "https://github.com/district0x/insertCoin"
+
+[[repo]]
 url = "https://github.com/district0x/ipfs"
 
 [[repo]]
@@ -314,6 +320,9 @@ url = "https://github.com/district0x/memefactory-contracts"
 
 [[repo]]
 url = "https://github.com/district0x/monitoring"
+
+[[repo]]
+url = "https://github.com/district0x/monorepo-tools"
 
 [[repo]]
 url = "https://github.com/district0x/mount"
@@ -338,6 +347,7 @@ url = "https://github.com/district0x/node-xhr2"
 
 [[repo]]
 url = "https://github.com/district0x/power-plant"
+missing = true
 
 [[repo]]
 url = "https://github.com/district0x/project-0x-connect-fx"
@@ -361,7 +371,16 @@ url = "https://github.com/district0x/re-frame-web3-fx"
 url = "https://github.com/district0x/re-frame-window-fx"
 
 [[repo]]
+url = "https://github.com/district0x/StreamTide"
+
+[[repo]]
 url = "https://github.com/district0x/StreamTide-coming-soon"
+
+[[repo]]
+url = "https://github.com/district0x/streamtide-farcaster-frame"
+
+[[repo]]
+url = "https://github.com/district0x/streamtide-smart-contract"
 
 [[repo]]
 url = "https://github.com/district0x/survey-memefactory"

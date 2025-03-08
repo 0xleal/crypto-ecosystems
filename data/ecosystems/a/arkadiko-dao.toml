@@ -16,6 +16,12 @@ url = "https://github.com/arkadiko-dao/arkadiko-automate"
 url = "https://github.com/arkadiko-dao/arkadroids"
 
 [[repo]]
+url = "https://github.com/arkadiko-dao/bridge-launch-governance"
+
+[[repo]]
+url = "https://github.com/arkadiko-dao/faq"
+
+[[repo]]
 url = "https://github.com/arkadiko-dao/keeper-services"
 
 [[repo]]
@@ -25,4 +31,13 @@ url = "https://github.com/arkadiko-dao/keepers-landing"
 url = "https://github.com/arkadiko-dao/landing"
 
 [[repo]]
+url = "https://github.com/arkadiko-dao/landing-v3"
+
+[[repo]]
+url = "https://github.com/arkadiko-dao/oracle-node"
+
+[[repo]]
 url = "https://github.com/arkadiko-dao/token-vesting"
+
+[[repo]]
+url = "https://github.com/arkadiko-dao/triptik"

@@ -1,11 +1,309 @@
 # Ecosystem Level Information
 title = "Boba (OMG Network)"
 
-sub_ecosystems = ["OoolongSwap"]
+sub_ecosystems = [
+  "Autofarm Network",
+  "Beamer",
+  "Bridge Network",
+  "Cruzo",
+  "Guild.xyz",
+  "Impossible Finance",
+  "OoolongSwap",
+  "Owl Protocol",
+  "Ricochet Exchange",
+  "Trustified Network",
+]
 
-github_organizations = ["https://github.com/omgnetwork"]
+github_organizations = ["https://github.com/bobanetwork", "https://github.com/omgnetwork"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/bobanetwork/aa-hc-CallCaster"
+
+[[repo]]
+url = "https://github.com/bobanetwork/aa-hc-CodeCaster"
+
+[[repo]]
+url = "https://github.com/bobanetwork/aa-hc-example"
+
+[[repo]]
+url = "https://github.com/bobanetwork/aa-hc-examples-py"
+
+[[repo]]
+url = "https://github.com/bobanetwork/aa-hc-PresiBot"
+
+[[repo]]
+url = "https://github.com/bobanetwork/aa-hc-sdk"
+
+[[repo]]
+url = "https://github.com/bobanetwork/aa-hc-text2call"
+
+[[repo]]
+url = "https://github.com/bobanetwork/account-abstraction"
+
+[[repo]]
+url = "https://github.com/bobanetwork/account-abstraction-hc"
+missing = true
+
+[[repo]]
+url = "https://github.com/bobanetwork/aws-kms"
+
+[[repo]]
+url = "https://github.com/bobanetwork/aws-otel-collector"
+
+[[repo]]
+url = "https://github.com/bobanetwork/blocks-subgraph"
+
+[[repo]]
+url = "https://github.com/bobanetwork/blockscout"
+
+[[repo]]
+url = "https://github.com/bobanetwork/boba"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/bobanetwork/boba-blockchain-busters"
+
+[[repo]]
+url = "https://github.com/bobanetwork/boba-cross-chain-bridges"
+
+[[repo]]
+url = "https://github.com/bobanetwork/boba-galxe"
+
+[[repo]]
+url = "https://github.com/bobanetwork/boba-v3"
+
+[[repo]]
+url = "https://github.com/bobanetwork/boba_base"
+
+[[repo]]
+url = "https://github.com/bobanetwork/boba_legacy"
+
+[[repo]]
+url = "https://github.com/bobanetwork/bundler"
+
+[[repo]]
+url = "https://github.com/bobanetwork/bundler-test-executor"
+
+[[repo]]
+url = "https://github.com/bobanetwork/chainlist"
+
+[[repo]]
+url = "https://github.com/bobanetwork/chains"
+
+[[repo]]
+url = "https://github.com/bobanetwork/contract-example"
+
+[[repo]]
+url = "https://github.com/bobanetwork/ethereum-optimism.github.io"
+
+[[repo]]
+url = "https://github.com/bobanetwork/ethereum-subql-starter"
+
+[[repo]]
+url = "https://github.com/bobanetwork/ethers-rs"
+
+[[repo]]
+url = "https://github.com/bobanetwork/Faucet"
+
+[[repo]]
+url = "https://github.com/bobanetwork/forkdiff"
+
+[[repo]]
+url = "https://github.com/bobanetwork/gateway"
+
+[[repo]]
+url = "https://github.com/bobanetwork/gateway-data"
+
+[[repo]]
+url = "https://github.com/bobanetwork/go-ethereum"
+
+[[repo]]
+url = "https://github.com/bobanetwork/go-opera"
+
+[[repo]]
+url = "https://github.com/bobanetwork/graphql-utils"
+
+[[repo]]
+url = "https://github.com/bobanetwork/hackathons"
+
+[[repo]]
+url = "https://github.com/bobanetwork/halo2_gadget"
+
+[[repo]]
+url = "https://github.com/bobanetwork/halo2wrong"
+
+[[repo]]
+url = "https://github.com/bobanetwork/hardhat"
+
+[[repo]]
+url = "https://github.com/bobanetwork/hc101-bobabase"
+
+[[repo]]
+url = "https://github.com/bobanetwork/HybridCompute_Tutorial"
+
+[[repo]]
+url = "https://github.com/bobanetwork/hyperlane-registry"
+
+[[repo]]
+url = "https://github.com/bobanetwork/interface"
+
+[[repo]]
+url = "https://github.com/bobanetwork/jsonrpclib"
+
+[[repo]]
+url = "https://github.com/bobanetwork/l2beat"
+
+[[repo]]
+url = "https://github.com/bobanetwork/light-bridge"
+
+[[repo]]
+url = "https://github.com/bobanetwork/light-bridge-chains"
+
+[[repo]]
+url = "https://github.com/bobanetwork/local-kms"
+
+[[repo]]
+url = "https://github.com/bobanetwork/merkle_patricia_tree"
+
+[[repo]]
+url = "https://github.com/bobanetwork/multisig"
+
+[[repo]]
+url = "https://github.com/bobanetwork/op-erigon"
+
+[[repo]]
+url = "https://github.com/bobanetwork/op-erigon-diff"
+
+[[repo]]
+url = "https://github.com/bobanetwork/op-erigon-interfaces"
+
+[[repo]]
+url = "https://github.com/bobanetwork/op-geth"
+
+[[repo]]
+url = "https://github.com/bobanetwork/op-succinct"
+
+[[repo]]
+url = "https://github.com/bobanetwork/optimism"
+
+[[repo]]
+url = "https://github.com/bobanetwork/privacy-pools"
+
+[[repo]]
+url = "https://github.com/bobanetwork/reference-optimistic-geth"
+
+[[repo]]
+url = "https://github.com/bobanetwork/rundler-hc"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-config-service"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-deployments"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-eth-py"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-events-service"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-react"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-react-apps"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/bobanetwork/safe-wallet-web"
+
+[[repo]]
+url = "https://github.com/bobanetwork/snap-account-abstraction-keyring"
+
+[[repo]]
+url = "https://github.com/bobanetwork/snap-account-abstraction-keyring-hc"
+
+[[repo]]
+url = "https://github.com/bobanetwork/starlight"
+
+[[repo]]
+url = "https://github.com/bobanetwork/superchain-registry"
+
+[[repo]]
+url = "https://github.com/bobanetwork/sushiswap"
+
+[[repo]]
+url = "https://github.com/bobanetwork/timber"
+
+[[repo]]
+url = "https://github.com/bobanetwork/token-list"
+
+[[repo]]
+url = "https://github.com/bobanetwork/turing-workshop-2022"
+
+[[repo]]
+url = "https://github.com/bobanetwork/uniswap_proposal_simulation"
+
+[[repo]]
+url = "https://github.com/bobanetwork/universal-router"
+
+[[repo]]
+url = "https://github.com/bobanetwork/v3-anchorage"
+
+[[repo]]
+url = "https://github.com/bobanetwork/v3-boba"
+
+[[repo]]
+url = "https://github.com/bobanetwork/v3-erigon"
+
+[[repo]]
+url = "https://github.com/bobanetwork/v3-erigon-interfaces"
+
+[[repo]]
+url = "https://github.com/bobanetwork/v3-erigon-lib"
+
+[[repo]]
+url = "https://github.com/bobanetwork/v3-minierigon"
+
+[[repo]]
+url = "https://github.com/bobanetwork/v3-op-geth"
+
+[[repo]]
+url = "https://github.com/bobanetwork/v3-slingshot"
+
+[[repo]]
+url = "https://github.com/bobanetwork/v3-subgraph"
+
+[[repo]]
+url = "https://github.com/bobanetwork/zeth"
+
+[[repo]]
+url = "https://github.com/bobanetwork/zkdvrf"
+
+[[repo]]
+url = "https://github.com/bobanetwork/zkrand"
+
+[[repo]]
+url = "https://github.com/celer-network/cBridge-transfer-widget"
+
+[[repo]]
+url = "https://github.com/connext/monorepo"
+
+[[repo]]
+url = "https://github.com/deri-protocol/source-deri.fi"
+
+[[repo]]
+url = "https://github.com/flechemano/BlackTeaSwap"
+
+[[repo]]
+url = "https://github.com/mark3labs/louper-v2"
+
 [[repo]]
 url = "https://github.com/omgnetwork/.github"
 
@@ -305,6 +603,7 @@ url = "https://github.com/omgnetwork/ruby-sdk"
 
 [[repo]]
 url = "https://github.com/omgnetwork/safe-client-gateway"
+missing = true
 
 [[repo]]
 url = "https://github.com/omgnetwork/safe-config-service"
@@ -314,6 +613,7 @@ url = "https://github.com/omgnetwork/safe-contracts"
 
 [[repo]]
 url = "https://github.com/omgnetwork/safe-deployments"
+missing = true
 
 [[repo]]
 url = "https://github.com/omgnetwork/safe-gnosis"
@@ -323,6 +623,7 @@ url = "https://github.com/omgnetwork/safe-react"
 
 [[repo]]
 url = "https://github.com/omgnetwork/safe-transaction-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/omgnetwork/salty"

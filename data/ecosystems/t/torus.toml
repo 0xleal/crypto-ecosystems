@@ -7,7 +7,13 @@ github_organizations = ["https://github.com/torusresearch"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/torusresearch/.github"
+
+[[repo]]
 url = "https://github.com/torusresearch/abi-decoder"
+
+[[repo]]
+url = "https://github.com/torusresearch/account-abstraction"
 
 [[repo]]
 url = "https://github.com/torusresearch/alchemy"
@@ -16,7 +22,11 @@ url = "https://github.com/torusresearch/alchemy"
 url = "https://github.com/torusresearch/amazon-ecr-credential-helper"
 
 [[repo]]
+url = "https://github.com/torusresearch/apps"
+
+[[repo]]
 url = "https://github.com/torusresearch/audit"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/ava-wallet"
@@ -26,6 +36,12 @@ url = "https://github.com/torusresearch/avalanchego"
 
 [[repo]]
 url = "https://github.com/torusresearch/bijson"
+
+[[repo]]
+url = "https://github.com/torusresearch/BitcoinCore.Swift"
+
+[[repo]]
+url = "https://github.com/torusresearch/BitcoinKit.Swift"
 
 [[repo]]
 url = "https://github.com/torusresearch/blocusign"
@@ -40,10 +56,19 @@ url = "https://github.com/torusresearch/casper-embed"
 url = "https://github.com/torusresearch/casper-js-sdk"
 
 [[repo]]
+url = "https://github.com/torusresearch/cicada-mpc"
+
+[[repo]]
 url = "https://github.com/torusresearch/circuits"
 
 [[repo]]
 url = "https://github.com/torusresearch/client_golang"
+
+[[repo]]
+url = "https://github.com/torusresearch/code-eval"
+
+[[repo]]
+url = "https://github.com/torusresearch/contracts-ui"
 
 [[repo]]
 url = "https://github.com/torusresearch/curv"
@@ -56,6 +81,9 @@ url = "https://github.com/torusresearch/customauth-android-sample"
 
 [[repo]]
 url = "https://github.com/torusresearch/customauth-android-sdk"
+
+[[repo]]
+url = "https://github.com/torusresearch/customauth-azure-example"
 
 [[repo]]
 url = "https://github.com/torusresearch/customauth-flutter-sample"
@@ -79,6 +107,9 @@ url = "https://github.com/torusresearch/customauth-swift-sdk"
 url = "https://github.com/torusresearch/cyano-wallet"
 
 [[repo]]
+url = "https://github.com/torusresearch/delegation-framework-sample"
+
+[[repo]]
 url = "https://github.com/torusresearch/docker-influxdb-to-s3"
 
 [[repo]]
@@ -89,6 +120,9 @@ url = "https://github.com/torusresearch/eccrypto"
 
 [[repo]]
 url = "https://github.com/torusresearch/efficient-tss"
+
+[[repo]]
+url = "https://github.com/torusresearch/elliptic"
 
 [[repo]]
 url = "https://github.com/torusresearch/elliptic-curves"
@@ -110,6 +144,9 @@ url = "https://github.com/torusresearch/eth-json-rpc-infura"
 
 [[repo]]
 url = "https://github.com/torusresearch/eth-json-rpc-middleware"
+
+[[repo]]
+url = "https://github.com/torusresearch/eth-key-store"
 
 [[repo]]
 url = "https://github.com/torusresearch/eth-ledger-bridge-keyring"
@@ -154,6 +191,9 @@ url = "https://github.com/torusresearch/EventBus"
 url = "https://github.com/torusresearch/extensionizer"
 
 [[repo]]
+url = "https://github.com/torusresearch/farcaster-signup-demo"
+
+[[repo]]
 url = "https://github.com/torusresearch/fastrand"
 
 [[repo]]
@@ -187,6 +227,9 @@ url = "https://github.com/torusresearch/go-libp2p-yamux"
 url = "https://github.com/torusresearch/go-opera"
 
 [[repo]]
+url = "https://github.com/torusresearch/go-substrate-rpc-client"
+
+[[repo]]
 url = "https://github.com/torusresearch/go-yamux"
 
 [[repo]]
@@ -203,6 +246,9 @@ url = "https://github.com/torusresearch/http-helpers"
 
 [[repo]]
 url = "https://github.com/torusresearch/inpage-provider"
+
+[[repo]]
+url = "https://github.com/torusresearch/isomorphic-style-loader"
 
 [[repo]]
 url = "https://github.com/torusresearch/json-rpc-engine"
@@ -223,7 +269,19 @@ url = "https://github.com/torusresearch/KeyringController"
 url = "https://github.com/torusresearch/kreme"
 
 [[repo]]
+url = "https://github.com/torusresearch/kryptology"
+
+[[repo]]
 url = "https://github.com/torusresearch/lachesis-base"
+
+[[repo]]
+url = "https://github.com/torusresearch/lakey-evrf"
+
+[[repo]]
+url = "https://github.com/torusresearch/lakey-tprf"
+
+[[repo]]
+url = "https://github.com/torusresearch/lattice-oprf-fhe"
 
 [[repo]]
 url = "https://github.com/torusresearch/loglevel-sentry"
@@ -244,10 +302,17 @@ url = "https://github.com/torusresearch/metamask-snaps-beta"
 url = "https://github.com/torusresearch/metaplex"
 
 [[repo]]
+url = "https://github.com/torusresearch/MP-SPDZ"
+
+[[repo]]
+url = "https://github.com/torusresearch/mpc-example"
+
+[[repo]]
 url = "https://github.com/torusresearch/msg-editor"
 
 [[repo]]
 url = "https://github.com/torusresearch/multi-party-ecdsa"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/nft-dapp"
@@ -256,16 +321,19 @@ url = "https://github.com/torusresearch/nft-dapp"
 url = "https://github.com/torusresearch/nginx-prometheus-exporter"
 
 [[repo]]
+url = "https://github.com/torusresearch/node-libs-react-native"
+
+[[repo]]
 url = "https://github.com/torusresearch/nonce-tracker"
+
+[[repo]]
+url = "https://github.com/torusresearch/nowinandroid"
 
 [[repo]]
 url = "https://github.com/torusresearch/obj-multiplex"
 
 [[repo]]
 url = "https://github.com/torusresearch/obs-store"
-
-[[repo]]
-url = "https://github.com/torusresearch/openlogin-android-sdk"
 
 [[repo]]
 url = "https://github.com/torusresearch/openlogin-arbitrum-example"
@@ -287,24 +355,16 @@ url = "https://github.com/torusresearch/openlogin-expo-bare-sample"
 
 [[repo]]
 url = "https://github.com/torusresearch/openlogin-expo-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/openlogin-expo-sdk-bare-demo-2"
 
 [[repo]]
-url = "https://github.com/torusresearch/openlogin-flutter-sdk"
-
-[[repo]]
 url = "https://github.com/torusresearch/openlogin-polygon-example"
 
 [[repo]]
-url = "https://github.com/torusresearch/openlogin-react-native-sdk"
-
-[[repo]]
 url = "https://github.com/torusresearch/openlogin-solana-example"
-
-[[repo]]
-url = "https://github.com/torusresearch/openlogin-swift-sdk"
 
 [[repo]]
 url = "https://github.com/torusresearch/openlogin-terra-example"
@@ -334,19 +394,35 @@ url = "https://github.com/torusresearch/rawtransaction"
 url = "https://github.com/torusresearch/rds_exporter"
 
 [[repo]]
+url = "https://github.com/torusresearch/react-native-self-host-example"
+
+[[repo]]
+url = "https://github.com/torusresearch/react-native-tss-lib"
+
+[[repo]]
 url = "https://github.com/torusresearch/react-native-web-browser"
 
 [[repo]]
 url = "https://github.com/torusresearch/rpc-cap"
 
 [[repo]]
+url = "https://github.com/torusresearch/rpc-errors"
+
+[[repo]]
+url = "https://github.com/torusresearch/rss-client"
+
+[[repo]]
 url = "https://github.com/torusresearch/rust-paillier"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/saber-common"
 
 [[repo]]
 url = "https://github.com/torusresearch/safe-event-emitter"
+
+[[repo]]
+url = "https://github.com/torusresearch/server-sided-signing-mpc-example"
 
 [[repo]]
 url = "https://github.com/torusresearch/serviceworker-server"
@@ -385,19 +461,41 @@ url = "https://github.com/torusresearch/solana-web3.js"
 url = "https://github.com/torusresearch/solidity"
 
 [[repo]]
+url = "https://github.com/torusresearch/starkware-crypto"
+
+[[repo]]
 url = "https://github.com/torusresearch/statping"
 
 [[repo]]
 url = "https://github.com/torusresearch/substrate"
 
 [[repo]]
+url = "https://github.com/torusresearch/substrate-contracts-node"
+
+[[repo]]
 url = "https://github.com/torusresearch/substrate-node-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/tendermint"
 
 [[repo]]
 url = "https://github.com/torusresearch/thorchain-tss"
+
+[[repo]]
+url = "https://github.com/torusresearch/tkey-react-native-example"
+
+[[repo]]
+url = "https://github.com/torusresearch/tkey-rust-android"
+
+[[repo]]
+url = "https://github.com/torusresearch/tkey-rust-android-example"
+
+[[repo]]
+url = "https://github.com/torusresearch/tkey-rust-ios"
+
+[[repo]]
+url = "https://github.com/torusresearch/tkey-rust-ios-example"
 
 [[repo]]
 url = "https://github.com/torusresearch/tm-db"
@@ -412,19 +510,10 @@ url = "https://github.com/torusresearch/torus-bridge"
 url = "https://github.com/torusresearch/torus-cli"
 
 [[repo]]
+url = "https://github.com/torusresearch/torus-common"
+
+[[repo]]
 url = "https://github.com/torusresearch/torus-direct-android-native-logins"
-
-[[repo]]
-url = "https://github.com/torusresearch/torus-direct-android-sdk"
-
-[[repo]]
-url = "https://github.com/torusresearch/torus-direct-flutter-sdk"
-
-[[repo]]
-url = "https://github.com/torusresearch/torus-direct-react-native-sdk"
-
-[[repo]]
-url = "https://github.com/torusresearch/torus-direct-swift-sdk"
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-direct-swift-sdk-mock-example"
@@ -437,6 +526,10 @@ url = "https://github.com/torusresearch/torus-documentation"
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-e2e-tests"
+missing = true
+
+[[repo]]
+url = "https://github.com/torusresearch/torus-ed25519key-swift"
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-embed"
@@ -446,6 +539,7 @@ url = "https://github.com/torusresearch/torus-extension"
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-fetch-node-details-swift"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-matic"
@@ -454,7 +548,7 @@ url = "https://github.com/torusresearch/torus-matic"
 url = "https://github.com/torusresearch/torus-metadata"
 
 [[repo]]
-url = "https://github.com/torusresearch/torus-metadata-js"
+url = "https://github.com/torusresearch/torus-mpc"
 
 [[repo]]
 url = "https://github.com/torusresearch/torus-node"
@@ -478,16 +572,45 @@ url = "https://github.com/torusresearch/torus-utils-java"
 url = "https://github.com/torusresearch/torus-utils-swift"
 
 [[repo]]
+url = "https://github.com/torusresearch/torus-wagmi-connector"
+
+[[repo]]
 url = "https://github.com/torusresearch/torus-website"
 
 [[repo]]
 url = "https://github.com/torusresearch/torus.js"
 
 [[repo]]
+url = "https://github.com/torusresearch/tss-client"
+
+[[repo]]
+url = "https://github.com/torusresearch/tss-client-android"
+
+[[repo]]
+url = "https://github.com/torusresearch/tss-client-swift"
+
+[[repo]]
+url = "https://github.com/torusresearch/tss-lib-rn"
+
+[[repo]]
+url = "https://github.com/torusresearch/tss-lib-rn-bridge"
+missing = true
+
+[[repo]]
+url = "https://github.com/torusresearch/tss-lib-rnbridge"
+missing = true
+
+[[repo]]
+url = "https://github.com/torusresearch/tss-signing-standard"
+
+[[repo]]
 url = "https://github.com/torusresearch/tweetnacl-js"
 
 [[repo]]
 url = "https://github.com/torusresearch/verenc"
+
+[[repo]]
+url = "https://github.com/torusresearch/w3a-mpc-demo"
 
 [[repo]]
 url = "https://github.com/torusresearch/wallet-adapter"
@@ -503,6 +626,10 @@ url = "https://github.com/torusresearch/watchtower"
 
 [[repo]]
 url = "https://github.com/torusresearch/web3-provider-engine"
+
+[[repo]]
+url = "https://github.com/torusresearch/web3-shield"
+missing = true
 
 [[repo]]
 url = "https://github.com/torusresearch/web3-test"
@@ -527,3 +654,18 @@ url = "https://github.com/torusresearch/webauthn.io"
 
 [[repo]]
 url = "https://github.com/torusresearch/zillet"
+
+[[repo]]
+url = "https://github.com/torusresearch/zkp-utils"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-android-sdk"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-flutter-sdk"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-react-native-sdk"
+
+[[repo]]
+url = "https://github.com/Web3Auth/web3auth-swift-sdk"

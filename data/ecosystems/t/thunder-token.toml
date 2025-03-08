@@ -11,6 +11,7 @@ url = "https://github.com/thundercore/asciinema"
 
 [[repo]]
 url = "https://github.com/thundercore/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/thundercore/auction-template"
@@ -34,7 +35,17 @@ url = "https://github.com/thundercore/dapp-tutorial"
 url = "https://github.com/thundercore/dapp_frontend_template_public"
 
 [[repo]]
+url = "https://github.com/thundercore/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/thundercore/defillama-app"
+
+[[repo]]
+url = "https://github.com/thundercore/defillama-sdk"
+missing = true
+
+[[repo]]
+url = "https://github.com/thundercore/defillama_icons"
 
 [[repo]]
 url = "https://github.com/thundercore/developers-portal"
@@ -47,6 +58,15 @@ url = "https://github.com/thundercore/drawing"
 
 [[repo]]
 url = "https://github.com/thundercore/ecosystem"
+
+[[repo]]
+url = "https://github.com/thundercore/ecosystem-1"
+
+[[repo]]
+url = "https://github.com/thundercore/erigon"
+
+[[repo]]
+url = "https://github.com/thundercore/erigon-lib"
 
 [[repo]]
 url = "https://github.com/thundercore/ethereum-lists"
@@ -67,6 +87,9 @@ url = "https://github.com/thundercore/field-support"
 url = "https://github.com/thundercore/fixed-rate-exchange-public"
 
 [[repo]]
+url = "https://github.com/thundercore/foundry-thundercore"
+
+[[repo]]
 url = "https://github.com/thundercore/ganache"
 
 [[repo]]
@@ -74,6 +97,13 @@ url = "https://github.com/thundercore/ganache-cli"
 
 [[repo]]
 url = "https://github.com/thundercore/ganache-core"
+
+[[repo]]
+url = "https://github.com/thundercore/hardhat-safe-wrapper"
+missing = true
+
+[[repo]]
+url = "https://github.com/thundercore/hardhat-thunder-project"
 
 [[repo]]
 url = "https://github.com/thundercore/hubbit-field-support"
@@ -86,6 +116,9 @@ url = "https://github.com/thundercore/ledger-live-common"
 
 [[repo]]
 url = "https://github.com/thundercore/metadataproxy"
+
+[[repo]]
+url = "https://github.com/thundercore/mining-transfer-nft"
 
 [[repo]]
 url = "https://github.com/thundercore/multichain"
@@ -106,13 +139,29 @@ url = "https://github.com/thundercore/OpenThatBox"
 url = "https://github.com/thundercore/openzeppelin-test-helpers"
 
 [[repo]]
+url = "https://github.com/thundercore/openzeppelin-upgrades"
+
+[[repo]]
 url = "https://github.com/thundercore/pala"
+missing = true
+
+[[repo]]
+url = "https://github.com/thundercore/pala-poc"
+
+[[repo]]
+url = "https://github.com/thundercore/peggedassets-server"
 
 [[repo]]
 url = "https://github.com/thundercore/public-full"
 
 [[repo]]
+url = "https://github.com/thundercore/rainbowkit"
+
+[[repo]]
 url = "https://github.com/thundercore/RandomLibrary"
+
+[[repo]]
+url = "https://github.com/thundercore/react-native-scrollable-tab-view"
 
 [[repo]]
 url = "https://github.com/thundercore/react-native-twitter-signin"
@@ -133,10 +182,25 @@ url = "https://github.com/thundercore/remix-ide"
 url = "https://github.com/thundercore/RPCProxy"
 
 [[repo]]
+url = "https://github.com/thundercore/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/thundercore/safe-config-service"
+
+[[repo]]
 url = "https://github.com/thundercore/safe-contracts"
 
 [[repo]]
+url = "https://github.com/thundercore/safe-transaction-service"
+
+[[repo]]
 url = "https://github.com/thundercore/slips"
+
+[[repo]]
+url = "https://github.com/thundercore/snapshot.js"
+
+[[repo]]
+url = "https://github.com/thundercore/staking-contracts"
 
 [[repo]]
 url = "https://github.com/thundercore/thunder-box"
@@ -145,10 +209,16 @@ url = "https://github.com/thundercore/thunder-box"
 url = "https://github.com/thundercore/thunder_bridge"
 
 [[repo]]
+url = "https://github.com/thundercore/thundercore-chain"
+
+[[repo]]
 url = "https://github.com/thundercore/thundercore-deeplinks"
 
 [[repo]]
 url = "https://github.com/thundercore/thundercore-localchain"
+
+[[repo]]
+url = "https://github.com/thundercore/thundergene-client-api-demo"
 
 [[repo]]
 url = "https://github.com/thundercore/ThunderStorage"
@@ -175,6 +245,9 @@ url = "https://github.com/thundercore/trufflecon"
 url = "https://github.com/thundercore/trustwallet-assets"
 
 [[repo]]
+url = "https://github.com/thundercore/tt-hardhat"
+
+[[repo]]
 url = "https://github.com/thundercore/tt-oracle"
 
 [[repo]]
@@ -193,7 +266,17 @@ url = "https://github.com/thundercore/use-wallet"
 url = "https://github.com/thundercore/vfat-tools"
 
 [[repo]]
+url = "https://github.com/thundercore/wagmi-dev-references"
+
+[[repo]]
+url = "https://github.com/thundercore/wallet-core"
+
+[[repo]]
+url = "https://github.com/thundercore/web-core"
+
+[[repo]]
 url = "https://github.com/thundercore/wtt"
 
 [[repo]]
 url = "https://github.com/thundertoken/dapp-tutorial"
+missing = true

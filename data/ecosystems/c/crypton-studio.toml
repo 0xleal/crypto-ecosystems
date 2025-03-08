@@ -8,6 +8,10 @@ github_organizations = ["https://github.com/CryptonStudio"]
 # Repositories
 [[repo]]
 url = "https://github.com/CryptonStudio/amino-js"
+missing = true
+
+[[repo]]
+url = "https://github.com/CryptonStudio/Audits"
 
 [[repo]]
 url = "https://github.com/CryptonStudio/cryptokeeper-admin"
@@ -34,28 +38,37 @@ url = "https://github.com/CryptonStudio/cryptokeeper-notifier"
 url = "https://github.com/CryptonStudio/cryptokeeper-observer"
 
 [[repo]]
+url = "https://github.com/CryptonStudio/crypton-matching-engine"
+
+[[repo]]
+url = "https://github.com/CryptonStudio/crypton-smart-contracts"
+
+[[repo]]
+url = "https://github.com/CryptonStudio/Interview"
+
+[[repo]]
 url = "https://github.com/CryptonStudio/ledger-decimal"
-
-[[repo]]
-url = "https://github.com/CryptonStudio/PlayMarket-2.0-App"
-
-[[repo]]
-url = "https://github.com/CryptonStudio/PlayMarket-2.0-Contracts"
-
-[[repo]]
-url = "https://github.com/CryptonStudio/PlayMarket-2.0-Developer"
-
-[[repo]]
-url = "https://github.com/CryptonStudio/Playmarket-2.0-ICO-Contracts"
-
-[[repo]]
-url = "https://github.com/CryptonStudio/PlayMarket-2.0-Nodes-web-site"
-
-[[repo]]
-url = "https://github.com/CryptonStudio/PlayMarket-2.0-SDK"
 
 [[repo]]
 url = "https://github.com/CryptonStudio/pm2-zabbix"
 
 [[repo]]
 url = "https://github.com/CryptonStudio/web4.js"
+
+[[repo]]
+url = "https://github.com/DAOPlayMarket/PlayMarket-2.0-App"
+
+[[repo]]
+url = "https://github.com/DAOPlayMarket/PlayMarket-2.0-Contracts"
+
+[[repo]]
+url = "https://github.com/DAOPlayMarket/PlayMarket-2.0-Developer"
+
+[[repo]]
+url = "https://github.com/DAOPlayMarket/Playmarket-2.0-ICO-Contracts"
+
+[[repo]]
+url = "https://github.com/DAOPlayMarket/PlayMarket-2.0-Nodes-web-site"
+
+[[repo]]
+url = "https://github.com/DAOPlayMarket/PlayMarket-2.0-SDK"

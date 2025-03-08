@@ -13,6 +13,9 @@ url = "https://github.com/openlawteam/0x-launch-kit-frontend"
 url = "https://github.com/openlawteam/alertbot"
 
 [[repo]]
+url = "https://github.com/openlawteam/ape-ledger"
+
+[[repo]]
 url = "https://github.com/openlawteam/Artblocks-Contract"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/openlawteam/artblocks-server-production"
 
 [[repo]]
 url = "https://github.com/openlawteam/artblocks-site-production"
+
+[[repo]]
+url = "https://github.com/openlawteam/content-writer"
 
 [[repo]]
 url = "https://github.com/openlawteam/docker-gradle"
@@ -61,6 +67,9 @@ url = "https://github.com/openlawteam/ethereumj"
 url = "https://github.com/openlawteam/ethers-gcp-kms-signer"
 
 [[repo]]
+url = "https://github.com/openlawteam/help-center"
+
+[[repo]]
 url = "https://github.com/openlawteam/incubator-tuweni"
 
 [[repo]]
@@ -85,16 +94,7 @@ url = "https://github.com/openlawteam/LAO-NFT"
 url = "https://github.com/openlawteam/LAO-PROXY"
 
 [[repo]]
-url = "https://github.com/openlawteam/laoland"
-
-[[repo]]
 url = "https://github.com/openlawteam/leveldbjni"
-
-[[repo]]
-url = "https://github.com/openlawteam/molochv3-contracts"
-
-[[repo]]
-url = "https://github.com/openlawteam/molochv3-ui"
 
 [[repo]]
 url = "https://github.com/openlawteam/OpenCourt"
@@ -182,6 +182,7 @@ url = "https://github.com/openlawteam/tribute-contracts-cli"
 
 [[repo]]
 url = "https://github.com/openlawteam/tribute-discord-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/openlawteam/tribute-docs-website"

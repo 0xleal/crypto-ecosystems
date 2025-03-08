@@ -16,6 +16,9 @@ url = "https://github.com/RealisNetwork/battle-pass-module"
 url = "https://github.com/RealisNetwork/bridge-realis"
 
 [[repo]]
+url = "https://github.com/RealisNetwork/contracts"
+
+[[repo]]
 url = "https://github.com/RealisNetwork/CryptoSoulSmartContract"
 
 [[repo]]
@@ -23,12 +26,19 @@ url = "https://github.com/RealisNetwork/eth-contract-metadata"
 
 [[repo]]
 url = "https://github.com/RealisNetwork/ethereum-lists"
+missing = true
 
 [[repo]]
 url = "https://github.com/RealisNetwork/game-network"
 
 [[repo]]
 url = "https://github.com/RealisNetwork/grandpa-bridge-gadget"
+
+[[repo]]
+url = "https://github.com/RealisNetwork/lis_eth"
+
+[[repo]]
+url = "https://github.com/RealisNetwork/near-lake-framework-js"
 
 [[repo]]
 url = "https://github.com/RealisNetwork/near-listener"

@@ -16,13 +16,26 @@ url = "https://github.com/Fairmint/c-org-js"
 url = "https://github.com/Fairmint/c-org-vyper"
 
 [[repo]]
+url = "https://github.com/Fairmint/captable.expert"
+
+[[repo]]
+url = "https://github.com/Fairmint/chatgpt-slackbot-serverless"
+
+[[repo]]
 url = "https://github.com/Fairmint/graphcms-sandbox"
 
 [[repo]]
 url = "https://github.com/Fairmint/legal"
 
 [[repo]]
+url = "https://github.com/Fairmint/open-captable-protocol"
+
+[[repo]]
+url = "https://github.com/Fairmint/subgraphs"
+
+[[repo]]
 url = "https://github.com/Fairmint/test-permit"
+missing = true
 
 [[repo]]
 url = "https://github.com/Fairmint/widget"

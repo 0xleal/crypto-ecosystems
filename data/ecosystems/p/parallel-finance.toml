@@ -16,10 +16,16 @@ url = "https://github.com/parallel-finance/acala-distribution-subql"
 url = "https://github.com/parallel-finance/amm-subql"
 
 [[repo]]
+url = "https://github.com/parallel-finance/ape-compound-bot"
+
+[[repo]]
 url = "https://github.com/parallel-finance/apps"
 
 [[repo]]
 url = "https://github.com/parallel-finance/apps-config"
+
+[[repo]]
+url = "https://github.com/parallel-finance/arbitrum-token-bridge"
 
 [[repo]]
 url = "https://github.com/parallel-finance/auction-bot"
@@ -46,7 +52,16 @@ url = "https://github.com/parallel-finance/auditing-report"
 url = "https://github.com/parallel-finance/bench-bot"
 
 [[repo]]
+url = "https://github.com/parallel-finance/bend-lending-protocol"
+
+[[repo]]
 url = "https://github.com/parallel-finance/bridge-confirm-subql"
+
+[[repo]]
+url = "https://github.com/parallel-finance/chopsticks"
+
+[[repo]]
+url = "https://github.com/parallel-finance/cross-chain-token-backup"
 
 [[repo]]
 url = "https://github.com/parallel-finance/crowdloan-contributions-exporter"
@@ -58,16 +73,27 @@ url = "https://github.com/parallel-finance/cumulus"
 url = "https://github.com/parallel-finance/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/parallel-finance/DefiLlama-Adapters-backup"
+
+[[repo]]
 url = "https://github.com/parallel-finance/deposit-subql"
+missing = true
 
 [[repo]]
 url = "https://github.com/parallel-finance/distribute-confirm-serivce"
-
-[[repo]]
-url = "https://github.com/parallel-finance/dump-crowdloan"
+missing = true
 
 [[repo]]
 url = "https://github.com/parallel-finance/dump-script"
+
+[[repo]]
+url = "https://github.com/parallel-finance/ethereum-accountFactory-v2"
+
+[[repo]]
+url = "https://github.com/parallel-finance/evm-script"
+
+[[repo]]
+url = "https://github.com/parallel-finance/evm-substrate-address-converter"
 
 [[repo]]
 url = "https://github.com/parallel-finance/extension"
@@ -79,19 +105,22 @@ url = "https://github.com/parallel-finance/faucet-bot"
 url = "https://github.com/parallel-finance/fearless-utils"
 
 [[repo]]
+url = "https://github.com/parallel-finance/frontier"
+
+[[repo]]
+url = "https://github.com/parallel-finance/frontier-archive"
+
+[[repo]]
 url = "https://github.com/parallel-finance/Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/parallel-finance/hackathon-2021-spring"
 
 [[repo]]
-url = "https://github.com/parallel-finance/heiko-events-suqbl"
+url = "https://github.com/parallel-finance/LayerZero-v2"
 
 [[repo]]
 url = "https://github.com/parallel-finance/ledger-rewards-address-subql"
-
-[[repo]]
-url = "https://github.com/parallel-finance/lending-service"
 
 [[repo]]
 url = "https://github.com/parallel-finance/lending-subql"
@@ -101,9 +130,13 @@ url = "https://github.com/parallel-finance/liquid-staking-subql"
 
 [[repo]]
 url = "https://github.com/parallel-finance/liquidation-client"
+missing = true
 
 [[repo]]
-url = "https://github.com/parallel-finance/liquidity-subql"
+url = "https://github.com/parallel-finance/llamalend-interface"
+
+[[repo]]
+url = "https://github.com/parallel-finance/mm-graph"
 
 [[repo]]
 url = "https://github.com/parallel-finance/moonbeam-distribution-subql"
@@ -118,7 +151,14 @@ url = "https://github.com/parallel-finance/multisig-subql-polkadot"
 url = "https://github.com/parallel-finance/nominate-client"
 
 [[repo]]
+url = "https://github.com/parallel-finance/notification-center"
+missing = true
+
+[[repo]]
 url = "https://github.com/parallel-finance/Open-Grants-Program"
+
+[[repo]]
+url = "https://github.com/parallel-finance/para-space-pac-finance-backup"
 
 [[repo]]
 url = "https://github.com/parallel-finance/parachain-projects-info"
@@ -139,9 +179,6 @@ url = "https://github.com/parallel-finance/parallel-dapp-feedback"
 url = "https://github.com/parallel-finance/parallel-events-subql"
 
 [[repo]]
-url = "https://github.com/parallel-finance/parallel-events-suqbl"
-
-[[repo]]
 url = "https://github.com/parallel-finance/parallel-js"
 
 [[repo]]
@@ -149,6 +186,7 @@ url = "https://github.com/parallel-finance/parallel-scan"
 
 [[repo]]
 url = "https://github.com/parallel-finance/parallel-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/parallel-finance/parallel-streaming-subql"
@@ -157,7 +195,26 @@ url = "https://github.com/parallel-finance/parallel-streaming-subql"
 url = "https://github.com/parallel-finance/parallel-subql"
 
 [[repo]]
+url = "https://github.com/parallel-finance/ParallelBridge"
+
+[[repo]]
 url = "https://github.com/parallel-finance/parallelx-starknet"
+missing = true
+
+[[repo]]
+url = "https://github.com/parallel-finance/paraspace-core"
+
+[[repo]]
+url = "https://github.com/parallel-finance/paraspace-deploy"
+
+[[repo]]
+url = "https://github.com/parallel-finance/paraspace-withdrawal-cli"
+
+[[repo]]
+url = "https://github.com/parallel-finance/parax-test-env"
+
+[[repo]]
+url = "https://github.com/parallel-finance/parspace-twitter-bot"
 
 [[repo]]
 url = "https://github.com/parallel-finance/polkadot"
@@ -166,22 +223,47 @@ url = "https://github.com/parallel-finance/polkadot"
 url = "https://github.com/parallel-finance/polkadot-defi"
 
 [[repo]]
+url = "https://github.com/parallel-finance/polkadot-launch"
+
+[[repo]]
+url = "https://github.com/parallel-finance/pub-resources"
+
+[[repo]]
 url = "https://github.com/parallel-finance/relay-subql"
 
 [[repo]]
 url = "https://github.com/parallel-finance/relaychain-subql"
 
 [[repo]]
+url = "https://github.com/parallel-finance/safe-wallet-web"
+
+[[repo]]
+url = "https://github.com/parallel-finance/seaport-core"
+
+[[repo]]
+url = "https://github.com/parallel-finance/seaport-js"
+
+[[repo]]
+url = "https://github.com/parallel-finance/seaport-js-backup"
+
+[[repo]]
+url = "https://github.com/parallel-finance/solidity-docgen"
+
+[[repo]]
 url = "https://github.com/parallel-finance/specs"
 
 [[repo]]
 url = "https://github.com/parallel-finance/stake-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/parallel-finance/stake-client-rs"
 
 [[repo]]
-url = "https://github.com/parallel-finance/staking-subql"
+url = "https://github.com/parallel-finance/staking-referral-subql"
+
+[[repo]]
+url = "https://github.com/parallel-finance/subgraph-generator"
 
 [[repo]]
 url = "https://github.com/parallel-finance/subscan-multisig-backend"
@@ -193,13 +275,34 @@ url = "https://github.com/parallel-finance/subscan-multisig-react"
 url = "https://github.com/parallel-finance/substrate"
 
 [[repo]]
+url = "https://github.com/parallel-finance/substrate-api-sidecar"
+
+[[repo]]
 url = "https://github.com/parallel-finance/substrate-subxt"
 
 [[repo]]
 url = "https://github.com/parallel-finance/subvis-subquery-spectator"
 
 [[repo]]
+url = "https://github.com/parallel-finance/token-bridge-contracts"
+
+[[repo]]
+url = "https://github.com/parallel-finance/ton-lending-core"
+
+[[repo]]
 url = "https://github.com/parallel-finance/try-runtime-bot"
 
 [[repo]]
+url = "https://github.com/parallel-finance/v3-periphery"
+
+[[repo]]
+url = "https://github.com/parallel-finance/wallet-services"
+
+[[repo]]
+url = "https://github.com/parallel-finance/webext-redux"
+
+[[repo]]
 url = "https://github.com/parallel-finance/withdraw-subql"
+
+[[repo]]
+url = "https://github.com/parallel-finance/yield-server"

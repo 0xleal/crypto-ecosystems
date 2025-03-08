@@ -10,9 +10,6 @@ github_organizations = ["https://github.com/golos-blockchain"]
 url = "https://github.com/golos-blockchain/api-dex"
 
 [[repo]]
-url = "https://github.com/golos-blockchain/appbase"
-
-[[repo]]
 url = "https://github.com/golos-blockchain/chain-appbase"
 
 [[repo]]
@@ -25,52 +22,33 @@ url = "https://github.com/golos-blockchain/chain-fc"
 url = "https://github.com/golos-blockchain/chain-node"
 
 [[repo]]
-url = "https://github.com/golos-blockchain/chainbase"
-
-[[repo]]
 url = "https://github.com/golos-blockchain/chainbb"
+missing = true
 
 [[repo]]
-url = "https://github.com/golos-blockchain/chainbb-frontend"
+url = "https://github.com/golos-blockchain/desktop"
 
 [[repo]]
-url = "https://github.com/golos-blockchain/fc"
+url = "https://github.com/golos-blockchain/dex-lib"
+
+[[repo]]
+url = "https://github.com/golos-blockchain/dexbot"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/formik"
 
 [[repo]]
-url = "https://github.com/golos-blockchain/golos"
-
-[[repo]]
 url = "https://github.com/golos-blockchain/golos-classic-js"
 
 [[repo]]
-url = "https://github.com/golos-blockchain/golos-explorer"
-
-[[repo]]
-url = "https://github.com/golos-blockchain/golos-go"
-
-[[repo]]
-url = "https://github.com/golos-blockchain/golos-js"
-
-[[repo]]
-url = "https://github.com/golos-blockchain/golos-js-gui"
-
-[[repo]]
 url = "https://github.com/golos-blockchain/golos-notify-rest"
-
-[[repo]]
-url = "https://github.com/golos-blockchain/golos-python"
-
-[[repo]]
-url = "https://github.com/golos-blockchain/golos-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/golos-witness-tools"
 
 [[repo]]
-url = "https://github.com/golos-blockchain/golosnotify"
+url = "https://github.com/golos-blockchain/graphene-golos"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/imageproxy"
@@ -92,12 +70,17 @@ url = "https://github.com/golos-blockchain/links"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/next-session"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/next-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/golos-blockchain/notify"
+
+[[repo]]
+url = "https://github.com/golos-blockchain/python-bitshares"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/react-foundation-components"
@@ -128,6 +111,9 @@ url = "https://github.com/golos-blockchain/ui-messenger"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/ui-wallet"
+
+[[repo]]
+url = "https://github.com/golos-blockchain/updater"
 
 [[repo]]
 url = "https://github.com/golos-blockchain/wiki"

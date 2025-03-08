@@ -7,25 +7,43 @@ github_organizations = ["https://github.com/element-fi"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/element-fi/analysis"
+url = "https://github.com/element-fi/ape"
+
+[[repo]]
+url = "https://github.com/element-fi/ape-council"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/brand-assets"
 
 [[repo]]
+url = "https://github.com/element-fi/brand-assets-element-finance"
+
+[[repo]]
+url = "https://github.com/element-fi/bunnymen"
+
+[[repo]]
 url = "https://github.com/element-fi/comment-test-coverage"
 
 [[repo]]
-url = "https://github.com/element-fi/construction-paper"
+url = "https://github.com/element-fi/council"
 
 [[repo]]
-url = "https://github.com/element-fi/council"
+url = "https://github.com/element-fi/council-kit"
+
+[[repo]]
+url = "https://github.com/element-fi/council.sh"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/DeFi-Pulse-Adapters"
 
 [[repo]]
 url = "https://github.com/element-fi/DefiLlama-Adapters"
+missing = true
+
+[[repo]]
+url = "https://github.com/element-fi/delv-landing-page"
 
 [[repo]]
 url = "https://github.com/element-fi/docs-portal"
@@ -41,6 +59,7 @@ url = "https://github.com/element-fi/elf-contracts-typechain"
 
 [[repo]]
 url = "https://github.com/element-fi/elf-contracts-typechain-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/elf-council-frontend"
@@ -62,6 +81,7 @@ url = "https://github.com/element-fi/elf-deploy"
 
 [[repo]]
 url = "https://github.com/element-fi/elf-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/elf-frontend-testnet"
@@ -70,13 +90,21 @@ url = "https://github.com/element-fi/elf-frontend-testnet"
 url = "https://github.com/element-fi/elf-landing-page"
 
 [[repo]]
+url = "https://github.com/element-fi/elf-merkle-tree-generator"
+
+[[repo]]
 url = "https://github.com/element-fi/elf-sdk"
 
 [[repo]]
 url = "https://github.com/element-fi/elf-sdk-example"
+missing = true
+
+[[repo]]
+url = "https://github.com/element-fi/elf-simulations"
 
 [[repo]]
 url = "https://github.com/element-fi/elf-stats"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/elf-tokenlist"
@@ -88,7 +116,19 @@ url = "https://github.com/element-fi/elf-twitter-bot"
 url = "https://github.com/element-fi/frontend-monorepo"
 
 [[repo]]
+url = "https://github.com/element-fi/hypers-drive-game"
+
+[[repo]]
+url = "https://github.com/element-fi/js-libp2p-relay-server"
+
+[[repo]]
+url = "https://github.com/element-fi/lp_contributions"
+
+[[repo]]
 url = "https://github.com/element-fi/nft-contracts"
+
+[[repo]]
+url = "https://github.com/element-fi/nft-ipfs-website"
 
 [[repo]]
 url = "https://github.com/element-fi/nft-regenerative"
@@ -97,7 +137,18 @@ url = "https://github.com/element-fi/nft-regenerative"
 url = "https://github.com/element-fi/react-query-typechain"
 
 [[repo]]
+url = "https://github.com/element-fi/robrox"
+
+[[repo]]
 url = "https://github.com/element-fi/solidity_takehome"
+
+[[repo]]
+url = "https://github.com/element-fi/TypeChain"
+missing = true
+
+[[repo]]
+url = "https://github.com/element-fi/ui-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/element-fi/weiroll"
@@ -110,3 +161,6 @@ url = "https://github.com/element-fi/weiroll.js"
 
 [[repo]]
 url = "https://github.com/element-fi/zkp-merkle-airdrop-contracts"
+
+[[repo]]
+url = "https://github.com/element-foundation/construction-paper"

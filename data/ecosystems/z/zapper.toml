@@ -10,7 +10,13 @@ github_organizations = ["https://github.com/Zapper-fi"]
 url = "https://github.com/Zapper-fi/bullmq"
 
 [[repo]]
+url = "https://github.com/Zapper-fi/chainchat"
+
+[[repo]]
 url = "https://github.com/Zapper-fi/Docs"
+
+[[repo]]
+url = "https://github.com/Zapper-fi/eslint-plugin"
 
 [[repo]]
 url = "https://github.com/Zapper-fi/EtherWalletKit"
@@ -25,7 +31,17 @@ url = "https://github.com/Zapper-fi/GECO"
 url = "https://github.com/Zapper-fi/nestjs-dataloader"
 
 [[repo]]
+url = "https://github.com/Zapper-fi/nodejs-bigquery"
+
+[[repo]]
+url = "https://github.com/Zapper-fi/opepen-standard"
+
+[[repo]]
+url = "https://github.com/Zapper-fi/protocol"
+
+[[repo]]
 url = "https://github.com/Zapper-fi/quickswap-farms"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zapper-fi/studio"
@@ -53,3 +69,4 @@ url = "https://github.com/Zapper-fi/zapper-safe-app"
 
 [[repo]]
 url = "https://github.com/Zapper-fi/zapper-web-locales"
+missing = true

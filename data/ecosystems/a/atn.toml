@@ -14,9 +14,13 @@ url = "https://github.com/ATNIO/aimarket_server"
 
 [[repo]]
 url = "https://github.com/ATNIO/aimarket_web"
+missing = true
 
 [[repo]]
 url = "https://github.com/ATNIO/AIPs"
+
+[[repo]]
+url = "https://github.com/ATNIO/Algorithms"
 
 [[repo]]
 url = "https://github.com/ATNIO/atn-client-example"
@@ -40,6 +44,18 @@ url = "https://github.com/ATNIO/atn-node-js"
 url = "https://github.com/ATNIO/atn-wallet"
 
 [[repo]]
+url = "https://github.com/ATNIO/ballcat"
+
+[[repo]]
+url = "https://github.com/ATNIO/BigData-Notes"
+
+[[repo]]
+url = "https://github.com/ATNIO/book-small-spring"
+
+[[repo]]
+url = "https://github.com/ATNIO/build-web-application-with-golang"
+
+[[repo]]
 url = "https://github.com/ATNIO/ccxt"
 
 [[repo]]
@@ -49,10 +65,14 @@ url = "https://github.com/ATNIO/community-gateway"
 url = "https://github.com/ATNIO/cwa-server"
 
 [[repo]]
+url = "https://github.com/ATNIO/dataease"
+
+[[repo]]
 url = "https://github.com/ATNIO/dbot"
 
 [[repo]]
 url = "https://github.com/ATNIO/dbot-infrastructure"
+missing = true
 
 [[repo]]
 url = "https://github.com/ATNIO/dbot-server"
@@ -62,9 +82,13 @@ url = "https://github.com/ATNIO/DBProxy"
 
 [[repo]]
 url = "https://github.com/ATNIO/demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/ATNIO/disruptor"
+
+[[repo]]
+url = "https://github.com/ATNIO/dolphinscheduler"
 
 [[repo]]
 url = "https://github.com/ATNIO/elasticsearch"
@@ -74,6 +98,7 @@ url = "https://github.com/ATNIO/ethalarm"
 
 [[repo]]
 url = "https://github.com/ATNIO/ethereumjs-abi"
+missing = true
 
 [[repo]]
 url = "https://github.com/ATNIO/explorer_web"
@@ -82,13 +107,22 @@ url = "https://github.com/ATNIO/explorer_web"
 url = "https://github.com/ATNIO/go-ethereum"
 
 [[repo]]
+url = "https://github.com/ATNIO/golangFamily"
+
+[[repo]]
 url = "https://github.com/ATNIO/idcardgenerator"
+
+[[repo]]
+url = "https://github.com/ATNIO/Jetpack-MVVM-Best-Practice"
 
 [[repo]]
 url = "https://github.com/ATNIO/metamask-crx"
 
 [[repo]]
 url = "https://github.com/ATNIO/microraiden"
+
+[[repo]]
+url = "https://github.com/ATNIO/oauth2"
 
 [[repo]]
 url = "https://github.com/ATNIO/openapi-generator"
@@ -130,13 +164,29 @@ url = "https://github.com/ATNIO/SmartRefreshLayout"
 url = "https://github.com/ATNIO/spring-authorization-server"
 
 [[repo]]
+url = "https://github.com/ATNIO/tutorials"
+
+[[repo]]
+url = "https://github.com/ATNIO/understand-prompt"
+
+[[repo]]
+url = "https://github.com/ATNIO/urule"
+
+[[repo]]
 url = "https://github.com/ATNIO/WechatEnhancement"
+missing = true
 
 [[repo]]
 url = "https://github.com/ATNIO/weixin-atn-key-project"
 
 [[repo]]
+url = "https://github.com/ATNIO/weweibuy-framework"
+
+[[repo]]
 url = "https://github.com/ATNIO/white_paper"
+
+[[repo]]
+url = "https://github.com/ATNIO/WxJava"
 
 [[repo]]
 url = "https://github.com/ATNIO/yolov2_xilinx_fpga"

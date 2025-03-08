@@ -67,9 +67,6 @@ url = "https://github.com/dharmaprotocol/bignumber.js-nolookahead"
 url = "https://github.com/dharmaprotocol/charta"
 
 [[repo]]
-url = "https://github.com/dharmaprotocol/daap-wallet"
-
-[[repo]]
 url = "https://github.com/dharmaprotocol/dapp-wallet"
 
 [[repo]]
@@ -80,6 +77,7 @@ url = "https://github.com/dharmaprotocol/dharma-address-book"
 
 [[repo]]
 url = "https://github.com/dharmaprotocol/dharma-assets-wiki"
+missing = true
 
 [[repo]]
 url = "https://github.com/dharmaprotocol/dharma-chain"
@@ -119,6 +117,7 @@ url = "https://github.com/dharmaprotocol/kovan-endpoints"
 
 [[repo]]
 url = "https://github.com/dharmaprotocol/multisig-manager"
+missing = true
 
 [[repo]]
 url = "https://github.com/dharmaprotocol/provider-engine"

@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/getdock"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/docknetwork/voting"
+
+[[repo]]
+url = "https://github.com/docknetwork/website"
+
+[[repo]]
+url = "https://github.com/ermakovich/pptr-mock-server"
+
+[[repo]]
 url = "https://github.com/getdock/Casper"
 
 [[repo]]
@@ -14,6 +23,7 @@ url = "https://github.com/getdock/cert-verifier-js"
 
 [[repo]]
 url = "https://github.com/getdock/dev-configs"
+missing = true
 
 [[repo]]
 url = "https://github.com/getdock/distribution"
@@ -23,12 +33,10 @@ url = "https://github.com/getdock/dock-token"
 
 [[repo]]
 url = "https://github.com/getdock/gatsby"
+missing = true
 
 [[repo]]
 url = "https://github.com/getdock/plasma-cash-contracts"
-
-[[repo]]
-url = "https://github.com/getdock/pptr-mock-server"
 
 [[repo]]
 url = "https://github.com/getdock/public-docs"
@@ -38,12 +46,6 @@ url = "https://github.com/getdock/schemas"
 
 [[repo]]
 url = "https://github.com/getdock/tokensale"
-
-[[repo]]
-url = "https://github.com/getdock/voting"
-
-[[repo]]
-url = "https://github.com/getdock/website"
 
 [[repo]]
 url = "https://github.com/getdock/whitelist"

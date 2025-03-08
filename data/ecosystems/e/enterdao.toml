@@ -29,9 +29,13 @@ url = "https://github.com/EnterDAO/ENTR-Token"
 
 [[repo]]
 url = "https://github.com/EnterDAO/fractions-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/EnterDAO/LandWorks-FE"
+
+[[repo]]
+url = "https://github.com/EnterDAO/landworks-grants-program"
 
 [[repo]]
 url = "https://github.com/EnterDAO/LandWorks-Graph"
@@ -46,7 +50,7 @@ url = "https://github.com/EnterDAO/LandWorks-YF-Contracts"
 url = "https://github.com/EnterDAO/merkle-distributor"
 
 [[repo]]
-url = "https://github.com/EnterDAO/Metapass-Metadata"
+url = "https://github.com/EnterDAO/merkle-redeem"
 
 [[repo]]
 url = "https://github.com/EnterDAO/ProjectManagement"
@@ -56,3 +60,6 @@ url = "https://github.com/EnterDAO/Sharded-Minds-Metadata"
 
 [[repo]]
 url = "https://github.com/EnterDAO/ShardedMinds-Contracts"
+
+[[repo]]
+url = "https://github.com/EnterDAO/snapshot-strategies"

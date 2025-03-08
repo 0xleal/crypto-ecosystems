@@ -23,12 +23,16 @@ url = "https://github.com/dluxio/Babylon.js"
 
 [[repo]]
 url = "https://github.com/dluxio/chat"
+missing = true
 
 [[repo]]
 url = "https://github.com/dluxio/dart"
 
 [[repo]]
 url = "https://github.com/dluxio/dex"
+
+[[repo]]
+url = "https://github.com/dluxio/dlux-docs"
 
 [[repo]]
 url = "https://github.com/dluxio/dlux-io"

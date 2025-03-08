@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/0xcert"]
 # Repositories
 [[repo]]
 url = "https://github.com/0xcert/0xcert"
+missing = true
 
 [[repo]]
 url = "https://github.com/0xcert/api-client-js"
@@ -26,6 +27,7 @@ url = "https://github.com/0xcert/burner"
 
 [[repo]]
 url = "https://github.com/0xcert/client"
+missing = true
 
 [[repo]]
 url = "https://github.com/0xcert/conventions"
@@ -38,18 +40,11 @@ url = "https://github.com/0xcert/docs-v1"
 
 [[repo]]
 url = "https://github.com/0xcert/ens"
+missing = true
 
 [[repo]]
 url = "https://github.com/0xcert/ens-example"
-
-[[repo]]
-url = "https://github.com/0xcert/erc721-validator"
-
-[[repo]]
-url = "https://github.com/0xcert/erc721-validator-api"
-
-[[repo]]
-url = "https://github.com/0xcert/erc721-validator-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/0xcert/erc721-website"
@@ -67,9 +62,6 @@ url = "https://github.com/0xcert/ethereum-dex"
 url = "https://github.com/0xcert/ethereum-erc20"
 
 [[repo]]
-url = "https://github.com/0xcert/ethereum-erc721"
-
-[[repo]]
 url = "https://github.com/0xcert/ethereum-minter"
 
 [[repo]]
@@ -80,6 +72,7 @@ url = "https://github.com/0xcert/ethereum-xcert"
 
 [[repo]]
 url = "https://github.com/0xcert/ethereum-xcert-builder"
+missing = true
 
 [[repo]]
 url = "https://github.com/0xcert/ethereum-zxc"
@@ -92,9 +85,6 @@ url = "https://github.com/0xcert/example-asset-management"
 
 [[repo]]
 url = "https://github.com/0xcert/example-asset-set-operator-order"
-
-[[repo]]
-url = "https://github.com/0xcert/example-atomic-order"
 
 [[repo]]
 url = "https://github.com/0xcert/example-certification"
@@ -149,3 +139,15 @@ url = "https://github.com/0xcert/verifier-ui"
 
 [[repo]]
 url = "https://github.com/0xcert/web3.js"
+
+[[repo]]
+url = "https://github.com/nibbstack/erc721"
+
+[[repo]]
+url = "https://github.com/nibbstack/erc721-validator"
+
+[[repo]]
+url = "https://github.com/nibbstack/erc721-validator-api"
+
+[[repo]]
+url = "https://github.com/nibbstack/erc721-validator-ui"

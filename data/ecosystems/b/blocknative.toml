@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/blocknative"]
 url = "https://github.com/blocknative/app"
 
 [[repo]]
+url = "https://github.com/blocknative/arbitrum-cli-tools"
+
+[[repo]]
 url = "https://github.com/blocknative/assist"
 
 [[repo]]
@@ -34,10 +37,16 @@ url = "https://github.com/blocknative/convex-shutdown-simulation"
 url = "https://github.com/blocknative/dapp-usability-checklist"
 
 [[repo]]
+url = "https://github.com/blocknative/discourse"
+
+[[repo]]
+url = "https://github.com/blocknative/dreamboat"
+
+[[repo]]
 url = "https://github.com/blocknative/ERC-721_SDK_Mintable.app"
 
 [[repo]]
-url = "https://github.com/blocknative/ethereum-contract-decoder"
+url = "https://github.com/blocknative/ethereum-helm-charts"
 
 [[repo]]
 url = "https://github.com/blocknative/ethereum-input-data-decoder"
@@ -55,10 +64,14 @@ url = "https://github.com/blocknative/ganache-cli"
 url = "https://github.com/blocknative/ganache-core"
 
 [[repo]]
+url = "https://github.com/blocknative/gas-network-visual-demo"
+
+[[repo]]
 url = "https://github.com/blocknative/go-ethereum"
 
 [[repo]]
 url = "https://github.com/blocknative/go-release-action-arm64"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocknative/ls"
@@ -88,10 +101,8 @@ url = "https://github.com/blocknative/notify"
 url = "https://github.com/blocknative/O2-Wallets"
 
 [[repo]]
-url = "https://github.com/blocknative/onboard"
-
-[[repo]]
 url = "https://github.com/blocknative/parity-ethereum"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocknative/python-sdk"
@@ -109,6 +120,9 @@ url = "https://github.com/blocknative/scaffold-eth-examples"
 url = "https://github.com/blocknative/scd-cdp-portal"
 
 [[repo]]
+url = "https://github.com/blocknative/scikit-learn"
+
+[[repo]]
 url = "https://github.com/blocknative/sdk"
 
 [[repo]]
@@ -118,6 +132,9 @@ url = "https://github.com/blocknative/searchjs"
 url = "https://github.com/blocknative/space-miners"
 
 [[repo]]
+url = "https://github.com/blocknative/stackup-bundler"
+
+[[repo]]
 url = "https://github.com/blocknative/svelte-onboard-webpack"
 
 [[repo]]
@@ -125,6 +142,9 @@ url = "https://github.com/blocknative/svelte-router"
 
 [[repo]]
 url = "https://github.com/blocknative/td-agent-service-monitor"
+
+[[repo]]
+url = "https://github.com/blocknative/tex-serializer"
 
 [[repo]]
 url = "https://github.com/blocknative/web3-onboard"
@@ -137,6 +157,3 @@ url = "https://github.com/blocknative/web3-onboard-react-vite-ts"
 
 [[repo]]
 url = "https://github.com/blocknative/web3.js"
-
-[[repo]]
-url = "https://github.com/bmoscon/cryptofeed"

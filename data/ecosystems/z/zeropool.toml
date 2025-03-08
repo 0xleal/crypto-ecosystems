@@ -19,10 +19,19 @@ url = "https://github.com/zeropoolnetwork/challenger-bot"
 url = "https://github.com/zeropoolnetwork/circomlib"
 
 [[repo]]
+url = "https://github.com/zeropoolnetwork/docs"
+
+[[repo]]
 url = "https://github.com/zeropoolnetwork/eth-boston"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/fawkes-crypto"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/fawkes-crypto-examples"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/ff"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/ff-uint"
@@ -34,6 +43,21 @@ url = "https://github.com/zeropoolnetwork/Grant-Milestone-Delivery"
 url = "https://github.com/zeropoolnetwork/groth16-wasm-benchmark"
 
 [[repo]]
+url = "https://github.com/zeropoolnetwork/halo2"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/halo2-kzg-srs"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/halo2curves"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/insideout-ethberlin"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/integration-tests"
+
+[[repo]]
 url = "https://github.com/zeropoolnetwork/joinsplit_experiment"
 
 [[repo]]
@@ -43,7 +67,7 @@ url = "https://github.com/zeropoolnetwork/libzeropool"
 url = "https://github.com/zeropoolnetwork/libzeropool-rs"
 
 [[repo]]
-url = "https://github.com/zeropoolnetwork/libzeropool-wasm"
+url = "https://github.com/zeropoolnetwork/m31jubjub"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/MiMCTree"
@@ -53,6 +77,9 @@ url = "https://github.com/zeropoolnetwork/near-api-js"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/near-groth16-verifier"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/near-halo2-verifier"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/NEAR-pool"
@@ -68,12 +95,16 @@ url = "https://github.com/zeropoolnetwork/nep21-playground"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/onepager"
+missing = true
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/Open-Grants-Program"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/phase2-bn254"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/Plonky3"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/pool-evm-single-l1"
@@ -85,10 +116,29 @@ url = "https://github.com/zeropoolnetwork/poseidon-params-safety-checker"
 url = "https://github.com/zeropoolnetwork/poseidon-solidity-benchmark"
 
 [[repo]]
-url = "https://github.com/zeropoolnetwork/r1cs-file-rs"
+url = "https://github.com/zeropoolnetwork/sharded-storage"
+missing = true
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/sharded-storage-docs"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/sharded-storage-toy-model"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/sharded-storage-toy-model-berlin"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/snark-verifier"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/updatablemerkletree"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/wasm-bindgen-rayon"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/wasm-mt-pool-helpers"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/website"
@@ -97,7 +147,7 @@ url = "https://github.com/zeropoolnetwork/website"
 url = "https://github.com/zeropoolnetwork/zcoinselect"
 
 [[repo]]
-url = "https://github.com/zeropoolnetwork/zeropool-api-js"
+url = "https://github.com/zeropoolnetwork/zeropool-audits"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-client-js"
@@ -109,6 +159,9 @@ url = "https://github.com/zeropoolnetwork/zeropool-console"
 url = "https://github.com/zeropoolnetwork/zeropool-core"
 
 [[repo]]
+url = "https://github.com/zeropoolnetwork/zeropool-faucet"
+
+[[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-frontend"
 
 [[repo]]
@@ -118,10 +171,13 @@ url = "https://github.com/zeropoolnetwork/zeropool-frontend-static"
 url = "https://github.com/zeropoolnetwork/zeropool-indexeddb"
 
 [[repo]]
-url = "https://github.com/zeropoolnetwork/zeropool-js"
+url = "https://github.com/zeropoolnetwork/zeropool-near"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-relayer"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/zeropool-relayer-rs"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-substrate"
@@ -133,13 +189,19 @@ url = "https://github.com/zeropoolnetwork/zeropool-substrate-faucet"
 url = "https://github.com/zeropoolnetwork/zeropool-substrate-groth16-example"
 
 [[repo]]
-url = "https://github.com/zeropoolnetwork/zeropool-substrate-pallet"
-
-[[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-support-js"
 
 [[repo]]
+url = "https://github.com/zeropoolnetwork/zeropool-test-params"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/zeropool-tx"
+
+[[repo]]
 url = "https://github.com/zeropoolnetwork/zeropool-utils"
+
+[[repo]]
+url = "https://github.com/zeropoolnetwork/zeropool-waves"
 
 [[repo]]
 url = "https://github.com/zeropoolnetwork/zp-chrome-extension"

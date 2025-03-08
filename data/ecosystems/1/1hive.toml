@@ -34,9 +34,6 @@ url = "https://github.com/1Hive/agave-subgraph"
 url = "https://github.com/1Hive/AGPs"
 
 [[repo]]
-url = "https://github.com/1Hive/agreement"
-
-[[repo]]
 url = "https://github.com/1Hive/agreement-app"
 
 [[repo]]
@@ -62,6 +59,9 @@ url = "https://github.com/1Hive/aragon.js"
 
 [[repo]]
 url = "https://github.com/1Hive/aragonOS"
+
+[[repo]]
+url = "https://github.com/1Hive/assets"
 
 [[repo]]
 url = "https://github.com/1Hive/assistant-bee"
@@ -127,10 +127,16 @@ url = "https://github.com/1Hive/conviction-voting-discord-bot"
 url = "https://github.com/1Hive/conviction-voting-interface"
 
 [[repo]]
+url = "https://github.com/1Hive/cors-service"
+
+[[repo]]
 url = "https://github.com/1Hive/create-vote-script"
 
 [[repo]]
 url = "https://github.com/1Hive/credao"
+
+[[repo]]
+url = "https://github.com/1Hive/cron"
 
 [[repo]]
 url = "https://github.com/1Hive/dandelion-template"
@@ -184,9 +190,6 @@ url = "https://github.com/1Hive/disputable-dandelion-voting-app"
 url = "https://github.com/1Hive/disputable-delay-app"
 
 [[repo]]
-url = "https://github.com/1Hive/disputable-voting"
-
-[[repo]]
 url = "https://github.com/1Hive/disputable-voting-app"
 
 [[repo]]
@@ -223,13 +226,16 @@ url = "https://github.com/1Hive/flora"
 url = "https://github.com/1Hive/flora-discount-validator"
 
 [[repo]]
+url = "https://github.com/1Hive/fluid-proposals"
+
+[[repo]]
+url = "https://github.com/1Hive/fluid-proposals-service"
+
+[[repo]]
 url = "https://github.com/1Hive/frame"
 
 [[repo]]
 url = "https://github.com/1Hive/fundraising"
-
-[[repo]]
-url = "https://github.com/1Hive/funds-manager"
 
 [[repo]]
 url = "https://github.com/1Hive/funds-manager-app"
@@ -241,10 +247,19 @@ url = "https://github.com/1Hive/gardens"
 url = "https://github.com/1Hive/Gardens-Merge-Test"
 
 [[repo]]
+url = "https://github.com/1Hive/gardens-metrics-app"
+
+[[repo]]
+url = "https://github.com/1Hive/gardens-metrics-subgraph"
+
+[[repo]]
 url = "https://github.com/1Hive/gardens-template"
 
 [[repo]]
 url = "https://github.com/1Hive/gardens-ui"
+
+[[repo]]
+url = "https://github.com/1Hive/gardens-v2"
 
 [[repo]]
 url = "https://github.com/1Hive/gitcoin-appeals"
@@ -275,9 +290,6 @@ url = "https://github.com/1Hive/HiveCommons.org"
 
 [[repo]]
 url = "https://github.com/1Hive/honey-gini"
-
-[[repo]]
-url = "https://github.com/1Hive/honey-pot"
 
 [[repo]]
 url = "https://github.com/1Hive/honey-template"
@@ -329,9 +341,6 @@ url = "https://github.com/1Hive/honeyswap-v2-subgraph"
 
 [[repo]]
 url = "https://github.com/1Hive/ideas"
-
-[[repo]]
-url = "https://github.com/1Hive/issuance-dynamic"
 
 [[repo]]
 url = "https://github.com/1Hive/issuance-linear"
@@ -404,6 +413,7 @@ url = "https://github.com/1Hive/sourcecred-airdrop"
 
 [[repo]]
 url = "https://github.com/1Hive/staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/1Hive/standards"
@@ -472,6 +482,9 @@ url = "https://github.com/1Hive/uniswap-v2-core"
 url = "https://github.com/1Hive/uniswap-v2-periphery"
 
 [[repo]]
+url = "https://github.com/1Hive/use-inside"
+
+[[repo]]
 url = "https://github.com/1Hive/use-wallet"
 
 [[repo]]
@@ -479,9 +492,6 @@ url = "https://github.com/1Hive/user-feedback"
 
 [[repo]]
 url = "https://github.com/1Hive/vector"
-
-[[repo]]
-url = "https://github.com/1Hive/vest"
 
 [[repo]]
 url = "https://github.com/1Hive/vesting-app"
@@ -509,3 +519,6 @@ url = "https://github.com/1Hive/xdai-omnibridge"
 
 [[repo]]
 url = "https://github.com/1Hive/xpollinate"
+
+[[repo]]
+url = "https://github.com/BlossomLabs/fluid-proposals"

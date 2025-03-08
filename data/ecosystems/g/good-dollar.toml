@@ -31,6 +31,9 @@ url = "https://github.com/GoodDollar/CeramicSeedSDK"
 url = "https://github.com/GoodDollar/ChainlinkIdentityOracle"
 
 [[repo]]
+url = "https://github.com/GoodDollar/cloudflare-update-web3-hostname"
+
+[[repo]]
 url = "https://github.com/GoodDollar/DatastudioDashboard"
 
 [[repo]]
@@ -53,12 +56,18 @@ url = "https://github.com/GoodDollar/expo-getrandomvalues-sync"
 
 [[repo]]
 url = "https://github.com/GoodDollar/facetec-9-3-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/GoodDollar/FaceTecSDK-custom-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/GoodDollar/FaceVerification"
+missing = true
+
+[[repo]]
+url = "https://github.com/GoodDollar/GoodAutotasks"
 
 [[repo]]
 url = "https://github.com/GoodDollar/GoodBootstrap"
@@ -68,12 +77,16 @@ url = "https://github.com/GoodDollar/GoodBridge"
 
 [[repo]]
 url = "https://github.com/GoodDollar/GoodCeramic"
+missing = true
 
 [[repo]]
 url = "https://github.com/GoodDollar/GoodCeramicDashboard"
 
 [[repo]]
 url = "https://github.com/GoodDollar/GoodCFWorker"
+
+[[repo]]
+url = "https://github.com/GoodDollar/GoodCollective"
 
 [[repo]]
 url = "https://github.com/GoodDollar/GoodContracts"
@@ -118,7 +131,13 @@ url = "https://github.com/GoodDollar/GoodProtocol"
 url = "https://github.com/GoodDollar/GoodProtocolUI"
 
 [[repo]]
+url = "https://github.com/GoodDollar/GoodSDKs"
+
+[[repo]]
 url = "https://github.com/GoodDollar/GoodServer"
+
+[[repo]]
+url = "https://github.com/GoodDollar/GoodSimulator-Site"
 
 [[repo]]
 url = "https://github.com/GoodDollar/GoodSubGraphs"
@@ -148,7 +167,18 @@ url = "https://github.com/GoodDollar/gun-webcrypto-react-native"
 url = "https://github.com/GoodDollar/int_automation"
 
 [[repo]]
+url = "https://github.com/GoodDollar/IpfsGatewayCFWorker"
+
+[[repo]]
 url = "https://github.com/GoodDollar/jsc-android-buildscripts"
+
+[[repo]]
+url = "https://github.com/GoodDollar/kima-transaction-api"
+missing = true
+
+[[repo]]
+url = "https://github.com/GoodDollar/kima-transaction-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/GoodDollar/LoadTests"
@@ -184,7 +214,7 @@ url = "https://github.com/GoodDollar/react-native-webview-crypto"
 url = "https://github.com/GoodDollar/ReactNativeFaceTec"
 
 [[repo]]
-url = "https://github.com/GoodDollar/ReactNativeZoom"
+url = "https://github.com/GoodDollar/ScheduledNotifications"
 
 [[repo]]
 url = "https://github.com/GoodDollar/snapshot-strategies"
@@ -193,7 +223,19 @@ url = "https://github.com/GoodDollar/snapshot-strategies"
 url = "https://github.com/GoodDollar/StakingModelSimulation"
 
 [[repo]]
+url = "https://github.com/GoodDollar/SuperfluidAirdrop"
+
+[[repo]]
+url = "https://github.com/GoodDollar/SuperfluidLeaderboard"
+
+[[repo]]
+url = "https://github.com/GoodDollar/TorusOpenLoginDemo"
+
+[[repo]]
 url = "https://github.com/GoodDollar/twoflags-api"
+
+[[repo]]
+url = "https://github.com/GoodDollar/useDeepMemo"
 
 [[repo]]
 url = "https://github.com/GoodDollar/v8-android-buildscripts"

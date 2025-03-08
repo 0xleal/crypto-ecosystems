@@ -50,6 +50,7 @@ url = "https://github.com/INFURA/ethql-examples"
 
 [[repo]]
 url = "https://github.com/INFURA/geth"
+missing = true
 
 [[repo]]
 url = "https://github.com/INFURA/go-datastore"
@@ -71,6 +72,9 @@ url = "https://github.com/INFURA/go-libs"
 
 [[repo]]
 url = "https://github.com/INFURA/hackathons"
+
+[[repo]]
+url = "https://github.com/INFURA/infrakit"
 
 [[repo]]
 url = "https://github.com/INFURA/infura"
@@ -110,12 +114,17 @@ url = "https://github.com/INFURA/old_qa_repo_to_delete"
 
 [[repo]]
 url = "https://github.com/INFURA/pipeline-input-step-plugin"
+missing = true
 
 [[repo]]
 url = "https://github.com/INFURA/prometheus-ecs-discovery"
 
 [[repo]]
+url = "https://github.com/INFURA/pulumi-actions"
+
+[[repo]]
 url = "https://github.com/INFURA/qa"
+missing = true
 
 [[repo]]
 url = "https://github.com/INFURA/quickBlocks"
@@ -125,6 +134,7 @@ url = "https://github.com/INFURA/quorum-tools"
 
 [[repo]]
 url = "https://github.com/INFURA/rpc_sanity_test"
+missing = true
 
 [[repo]]
 url = "https://github.com/INFURA/security-workshop-for-devs"

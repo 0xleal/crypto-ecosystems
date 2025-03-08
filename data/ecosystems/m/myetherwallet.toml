@@ -7,7 +7,13 @@ github_organizations = ["https://github.com/MyEtherWallet"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/enkryptcom/enkrypt-extension-tester"
+
+[[repo]]
 url = "https://github.com/MyEtherWallet/account-migrator"
+
+[[repo]]
+url = "https://github.com/MyEtherWallet/address-tags-sdk"
 
 [[repo]]
 url = "https://github.com/MyEtherWallet/api-tx-broadcast"
@@ -35,6 +41,9 @@ url = "https://github.com/MyEtherWallet/docker-geth-lb"
 
 [[repo]]
 url = "https://github.com/MyEtherWallet/dynamic-data"
+
+[[repo]]
+url = "https://github.com/MyEtherWallet/eip7702"
 
 [[repo]]
 url = "https://github.com/MyEtherWallet/email-templates-mewforce"
@@ -202,6 +211,14 @@ url = "https://github.com/MyEtherWallet/onboard"
 url = "https://github.com/MyEtherWallet/phishKill"
 
 [[repo]]
+url = "https://github.com/MyEtherWallet/Rainbow-kit"
+missing = true
+
+[[repo]]
+url = "https://github.com/MyEtherWallet/Rainbowkit"
+missing = true
+
+[[repo]]
 url = "https://github.com/MyEtherWallet/scrypt-wasm"
 
 [[repo]]
@@ -220,16 +237,19 @@ url = "https://github.com/MyEtherWallet/utility-contracts"
 url = "https://github.com/MyEtherWallet/VanityEth"
 
 [[repo]]
+url = "https://github.com/MyEtherWallet/vue-common-components"
+
+[[repo]]
 url = "https://github.com/MyEtherWallet/vue-qrcode"
 
 [[repo]]
 url = "https://github.com/MyEtherWallet/vuex-webextensions"
 
 [[repo]]
-url = "https://github.com/MyEtherWallet/wallet-bridge"
+url = "https://github.com/MyEtherWallet/wagme-dev-references"
 
 [[repo]]
-url = "https://github.com/MyEtherWallet/web3-extension-tester"
+url = "https://github.com/MyEtherWallet/wallet-bridge"
 
 [[repo]]
 url = "https://github.com/MyEtherWallet/web3-react"

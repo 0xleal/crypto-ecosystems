@@ -7,46 +7,60 @@ github_organizations = ["https://github.com/NextExchange"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/dcnl1980/Coin-Installations"
+
+[[repo]]
 url = "https://github.com/NextExchange/0x.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/airdrop"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/ApolloWalletNano"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/atomicswap"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/bigchaindb"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/bitcore"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/breadwallet-ios"
 
 [[repo]]
 url = "https://github.com/NextExchange/COIN"
-
-[[repo]]
-url = "https://github.com/NextExchange/Coin-Installations"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/docker-electroneumd"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/dockerfiles"
 
 [[repo]]
 url = "https://github.com/NextExchange/eccoin"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/electroneum"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/electroneum-1"
+missing = true
+
+[[repo]]
+url = "https://github.com/NextExchange/erc404"
 
 [[repo]]
 url = "https://github.com/NextExchange/ethereum-lite-explorer"
@@ -55,28 +69,19 @@ url = "https://github.com/NextExchange/ethereum-lite-explorer"
 url = "https://github.com/NextExchange/exchange-integration"
 
 [[repo]]
-url = "https://github.com/NextExchange/explorer"
-
-[[repo]]
 url = "https://github.com/NextExchange/freewallet-mobile"
-
-[[repo]]
-url = "https://github.com/NextExchange/go-ethereum"
-
-[[repo]]
-url = "https://github.com/NextExchange/go-next-base"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/HODLER-Open-Source-Multi-Asset-Wallet"
-
-[[repo]]
-url = "https://github.com/NextExchange/media"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/MultiCurrencyWallet"
 
 [[repo]]
 url = "https://github.com/NextExchange/multiplexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/next-erc20-bridge"
@@ -104,42 +109,45 @@ url = "https://github.com/NextExchange/next-smart-contract"
 
 [[repo]]
 url = "https://github.com/NextExchange/next-wallet-desktop-app"
-
-[[repo]]
-url = "https://github.com/NextExchange/nextcoin-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/node-merged-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/node-multi-hashing"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/raiden"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/raiden-token"
-
-[[repo]]
-url = "https://github.com/NextExchange/sentinel"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/unified-node-open-mining-portal"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/uniswap-farming"
 
 [[repo]]
-url = "https://github.com/NextExchange/wallets"
-
-[[repo]]
 url = "https://github.com/NextExchange/wiki"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/XtraBYtes"
+missing = true
 
 [[repo]]
 url = "https://github.com/NextExchange/XtraBYtes-platform"
+missing = true
 
 [[repo]]
-url = "https://github.com/NextExchange/yiimp"
+url = "https://github.com/NextSmartChain/go-ethereum"
+
+[[repo]]
+url = "https://github.com/NextSmartChain/go-next-base"

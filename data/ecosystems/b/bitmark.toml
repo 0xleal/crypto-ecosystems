@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/bitmark-inc"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/bitmark-inc/account-vault-ethereum"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/account-vault-tezos"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/artist-logistics-tool"
+
+[[repo]]
 url = "https://github.com/bitmark-inc/autonomy-android"
 
 [[repo]]
@@ -16,7 +25,16 @@ url = "https://github.com/bitmark-inc/autonomy-api"
 url = "https://github.com/bitmark-inc/autonomy-apps"
 
 [[repo]]
+url = "https://github.com/bitmark-inc/autonomy-client"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/autonomy-client-shared-theme"
+
+[[repo]]
 url = "https://github.com/bitmark-inc/autonomy-docs"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/autonomy-editorial"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/autonomy-health"
@@ -25,19 +43,16 @@ url = "https://github.com/bitmark-inc/autonomy-health"
 url = "https://github.com/bitmark-inc/autonomy-health-ios"
 
 [[repo]]
-url = "https://github.com/bitmark-inc/autonomy-ios"
+url = "https://github.com/bitmark-inc/autonomy-logger"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/autonomy-messaging-go"
 
 [[repo]]
-url = "https://github.com/bitmark-inc/autonomy-node-controller"
-
-[[repo]]
 url = "https://github.com/bitmark-inc/autonomy-pod-controller"
 
 [[repo]]
-url = "https://github.com/bitmark-inc/autonomy-pwa"
+url = "https://github.com/bitmark-inc/autonomy-utils"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/autonomy.io"
@@ -92,6 +107,7 @@ url = "https://github.com/bitmark-inc/bitmark-mobile-ios"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/bitmark-mobile-registry"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitmark-inc/bitmark-node-app"
@@ -148,10 +164,17 @@ url = "https://github.com/bitmark-inc/bitmarkd-geo"
 url = "https://github.com/bitmark-inc/bitmarkd-ports"
 
 [[repo]]
+url = "https://github.com/bitmark-inc/bitmarkdClient"
+
+[[repo]]
 url = "https://github.com/bitmark-inc/btcd"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitmark-inc/certgen"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/cognito-srp"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/community_projects"
@@ -196,10 +219,26 @@ url = "https://github.com/bitmark-inc/docs"
 url = "https://github.com/bitmark-inc/exitwithstatus"
 
 [[repo]]
+url = "https://github.com/bitmark-inc/feral-file-docs"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/feralfile-app"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/feralfile-app-client-shared-theme"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/feralfile-display-device"
+missing = true
+
+[[repo]]
 url = "https://github.com/bitmark-inc/feralfile-exhibition-contract-ligo"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/feralfile-exhibition-smart-contract"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/feralfile-logger"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/feralfile-metaverse"
@@ -212,12 +251,16 @@ url = "https://github.com/bitmark-inc/freebsd-ports"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/FullyNoded-Android"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitmark-inc/getoptions"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/gitpp"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/gnosis-safe-go-binding"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/go-argon2"
@@ -244,13 +287,30 @@ url = "https://github.com/bitmark-inc/go-utils"
 url = "https://github.com/bitmark-inc/GordianSigner-Android"
 
 [[repo]]
+url = "https://github.com/bitmark-inc/handle-rendering-issue"
+missing = true
+
+[[repo]]
+url = "https://github.com/bitmark-inc/harbingers"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/harbingers-player"
+missing = true
+
+[[repo]]
 url = "https://github.com/bitmark-inc/homebrew-bitmark"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/homebrew-tools"
 
 [[repo]]
+url = "https://github.com/bitmark-inc/httpsign"
+
+[[repo]]
 url = "https://github.com/bitmark-inc/icinga2-network-plugin"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/indexer-go"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/jobs"
@@ -289,16 +349,23 @@ url = "https://github.com/bitmark-inc/logger"
 url = "https://github.com/bitmark-inc/logrus-prefixed-formatter"
 
 [[repo]]
+url = "https://github.com/bitmark-inc/micheline-structure"
+
+[[repo]]
 url = "https://github.com/bitmark-inc/miniature-spoon"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/mobile-notification-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitmark-inc/nsq-notifier"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/parity-websocket"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/passkeys"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/physical-hasher"
@@ -349,6 +416,9 @@ url = "https://github.com/bitmark-inc/ssss-nodewrap"
 url = "https://github.com/bitmark-inc/textsecure"
 
 [[repo]]
+url = "https://github.com/bitmark-inc/tezos-beacon-wrapper"
+
+[[repo]]
 url = "https://github.com/bitmark-inc/tezos-contract-starter-kit"
 
 [[repo]]
@@ -356,6 +426,7 @@ url = "https://github.com/bitmark-inc/traceutils"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/trial-duc"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitmark-inc/tweetnacl-java"
@@ -365,6 +436,9 @@ url = "https://github.com/bitmark-inc/tweetnacl-nodewrap"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/tweetnacl-swiftwrap"
+
+[[repo]]
+url = "https://github.com/bitmark-inc/tzkt-go"
 
 [[repo]]
 url = "https://github.com/bitmark-inc/updaterd"

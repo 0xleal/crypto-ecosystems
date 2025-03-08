@@ -7,13 +7,22 @@ github_organizations = ["https://github.com/RigoBlock"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/RigoBlock/0x-gov-scripts"
+
+[[repo]]
 url = "https://github.com/RigoBlock/0x-manager"
+
+[[repo]]
+url = "https://github.com/RigoBlock/0x-protocol"
 
 [[repo]]
 url = "https://github.com/RigoBlock/api"
 
 [[repo]]
 url = "https://github.com/RigoBlock/api-website"
+
+[[repo]]
+url = "https://github.com/RigoBlock/back-geo-oracle"
 
 [[repo]]
 url = "https://github.com/RigoBlock/balancer-exchange"
@@ -25,6 +34,9 @@ url = "https://github.com/RigoBlock/beta-rigoblock"
 url = "https://github.com/RigoBlock/bytes-tests"
 
 [[repo]]
+url = "https://github.com/RigoBlock/cloudflare-update-web3-gateway"
+
+[[repo]]
 url = "https://github.com/RigoBlock/contract-explorer"
 
 [[repo]]
@@ -32,6 +44,12 @@ url = "https://github.com/RigoBlock/contracts"
 
 [[repo]]
 url = "https://github.com/RigoBlock/contracts-abis"
+
+[[repo]]
+url = "https://github.com/RigoBlock/default-token-list"
+
+[[repo]]
+url = "https://github.com/RigoBlock/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/RigoBlock/dehfold"
@@ -58,6 +76,9 @@ url = "https://github.com/RigoBlock/ExternalOracles"
 url = "https://github.com/RigoBlock/help-website"
 
 [[repo]]
+url = "https://github.com/RigoBlock/interface"
+
+[[repo]]
 url = "https://github.com/RigoBlock/interfaces"
 
 [[repo]]
@@ -70,10 +91,16 @@ url = "https://github.com/RigoBlock/network-bench"
 url = "https://github.com/RigoBlock/new-design"
 
 [[repo]]
+url = "https://github.com/RigoBlock/permit2"
+
+[[repo]]
 url = "https://github.com/RigoBlock/pool"
 
 [[repo]]
 url = "https://github.com/RigoBlock/pool-api"
+
+[[repo]]
+url = "https://github.com/RigoBlock/pool-list"
 
 [[repo]]
 url = "https://github.com/RigoBlock/PR"
@@ -86,6 +113,7 @@ url = "https://github.com/RigoBlock/rigoblock-local"
 
 [[repo]]
 url = "https://github.com/RigoBlock/rigoblock-mannequin-sources"
+missing = true
 
 [[repo]]
 url = "https://github.com/RigoBlock/rigoblock-monorepo"
@@ -115,6 +143,10 @@ url = "https://github.com/RigoBlock/RigoBlockPaper"
 url = "https://github.com/RigoBlock/RigoBlockRegistry.js"
 
 [[repo]]
+url = "https://github.com/RigoBlock/routing-api"
+missing = true
+
+[[repo]]
 url = "https://github.com/RigoBlock/sampleContracts"
 
 [[repo]]
@@ -124,16 +156,34 @@ url = "https://github.com/RigoBlock/SolidityCasper"
 url = "https://github.com/RigoBlock/staging"
 
 [[repo]]
+url = "https://github.com/RigoBlock/studio"
+
+[[repo]]
+url = "https://github.com/RigoBlock/token-whitelists"
+
+[[repo]]
 url = "https://github.com/RigoBlock/v3-contracts"
 
 [[repo]]
+url = "https://github.com/RigoBlock/V3-deployments"
+
+[[repo]]
+url = "https://github.com/RigoBlock/v3-docs"
+
+[[repo]]
 url = "https://github.com/RigoBlock/Videos"
+
+[[repo]]
+url = "https://github.com/RigoBlock/web"
 
 [[repo]]
 url = "https://github.com/RigoBlock/webapp"
 
 [[repo]]
 url = "https://github.com/RigoBlock/whitepaper"
+
+[[repo]]
+url = "https://github.com/RigoBlock/workers-unsplash-api"
 
 [[repo]]
 url = "https://github.com/RigoBlock/ZEIPs"

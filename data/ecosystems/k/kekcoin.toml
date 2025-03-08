@@ -10,9 +10,6 @@ github_organizations = ["https://github.com/Kekcoin-Core"]
 url = "https://github.com/Kekcoin-Core/electrum-kekcoin-server"
 
 [[repo]]
-url = "https://github.com/Kekcoin-Core/Kekcoin-Core"
-
-[[repo]]
 url = "https://github.com/Kekcoin-Core/Kekcoin-Core-old"
 
 [[repo]]
@@ -23,6 +20,7 @@ url = "https://github.com/Kekcoin-Core/Kekcoin-Graphics"
 
 [[repo]]
 url = "https://github.com/Kekcoin-Core/kekcoin-lore"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kekcoin-Core/kekcoin-segwit"

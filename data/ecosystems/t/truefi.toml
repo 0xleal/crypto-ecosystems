@@ -7,6 +7,18 @@ github_organizations = ["https://github.com/trusttoken"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/trusttoken/aleo-sdk"
+
+[[repo]]
+url = "https://github.com/trusttoken/aleo-sdk-artifacts"
+
+[[repo]]
+url = "https://github.com/trusttoken/aleo-stablecoin-workshop"
+
+[[repo]]
+url = "https://github.com/trusttoken/aleo-wasm-artifacts"
+
+[[repo]]
 url = "https://github.com/trusttoken/asn1crypto"
 
 [[repo]]
@@ -17,12 +29,22 @@ url = "https://github.com/trusttoken/bnb-tx-python"
 
 [[repo]]
 url = "https://github.com/trusttoken/bootstrap"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/bug-bounty"
 
 [[repo]]
-url = "https://github.com/trusttoken/contracts"
+url = "https://github.com/trusttoken/contract-metadata"
+
+[[repo]]
+url = "https://github.com/trusttoken/contracts-beryllium"
+
+[[repo]]
+url = "https://github.com/trusttoken/contracts-carbon"
+
+[[repo]]
+url = "https://github.com/trusttoken/contracts-fluorine"
 
 [[repo]]
 url = "https://github.com/trusttoken/contracts-helium"
@@ -31,10 +53,26 @@ url = "https://github.com/trusttoken/contracts-helium"
 url = "https://github.com/trusttoken/contracts-lithium"
 
 [[repo]]
+url = "https://github.com/trusttoken/contracts-minimum-deposit-controller"
+
+[[repo]]
+url = "https://github.com/trusttoken/contracts-multi-withdrawal-controller"
+
+[[repo]]
+url = "https://github.com/trusttoken/contracts-nitrogen"
+missing = true
+
+[[repo]]
 url = "https://github.com/trusttoken/contracts-pre22"
 
 [[repo]]
 url = "https://github.com/trusttoken/contracts-ragnarok"
+
+[[repo]]
+url = "https://github.com/trusttoken/contracts-ragnarok-cauris-private"
+
+[[repo]]
+url = "https://github.com/trusttoken/contracts-tequila"
 
 [[repo]]
 url = "https://github.com/trusttoken/DeFi-Pulse-Adapters"
@@ -47,15 +85,33 @@ url = "https://github.com/trusttoken/gdax-python"
 
 [[repo]]
 url = "https://github.com/trusttoken/gitbook_test"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/go-ethereum"
+
+[[repo]]
+url = "https://github.com/trusttoken/hackathon-multisig-history"
+
+[[repo]]
+url = "https://github.com/trusttoken/hackathon-schulze"
+
+[[repo]]
+url = "https://github.com/trusttoken/legacy-code-task"
+missing = true
+
+[[repo]]
+url = "https://github.com/trusttoken/lottery-task-starter"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/Maker-D3M-Adapter"
 
 [[repo]]
 url = "https://github.com/trusttoken/origin"
+
+[[repo]]
+url = "https://github.com/trusttoken/properties"
 
 [[repo]]
 url = "https://github.com/trusttoken/protobuf-serialization-py"
@@ -68,12 +124,7 @@ url = "https://github.com/trusttoken/registry"
 
 [[repo]]
 url = "https://github.com/trusttoken/scripts"
-
-[[repo]]
-url = "https://github.com/trusttoken/smart-contracts"
-
-[[repo]]
-url = "https://github.com/trusttoken/snapshot-spaces"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/snapshot-spaces-truegov"
@@ -82,10 +133,14 @@ url = "https://github.com/trusttoken/snapshot-spaces-truegov"
 url = "https://github.com/trusttoken/sqlalchemy-pg-bigid"
 
 [[repo]]
+url = "https://github.com/trusttoken/stablecoins-bug-bounty"
+
+[[repo]]
 url = "https://github.com/trusttoken/streaming-form-data"
 
 [[repo]]
 url = "https://github.com/trusttoken/t3-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/token-vesting-ui"
@@ -94,10 +149,8 @@ url = "https://github.com/trusttoken/token-vesting-ui"
 url = "https://github.com/trusttoken/TRU-circulating-supply-api"
 
 [[repo]]
-url = "https://github.com/trusttoken/true-currencies"
-
-[[repo]]
 url = "https://github.com/trusttoken/truefi"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/truefi-registry"
@@ -106,22 +159,24 @@ url = "https://github.com/trusttoken/truefi-registry"
 url = "https://github.com/trusttoken/truefi-spec"
 
 [[repo]]
-url = "https://github.com/trusttoken/trueUSD"
-
-[[repo]]
 url = "https://github.com/trusttoken/TrustProtocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/TrustProtocol-Client"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/TrustProtocol-Contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/TrustProtocol-Server"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/trusttoken"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/TrustToken-smart-contracts"
@@ -134,6 +189,7 @@ url = "https://github.com/trusttoken/trusttokens"
 
 [[repo]]
 url = "https://github.com/trusttoken/trusttoucan-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/trusttoken/Tusd-transactions"

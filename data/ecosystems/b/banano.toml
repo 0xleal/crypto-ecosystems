@@ -22,6 +22,9 @@ url = "https://github.com/BananoCoin/Banano-Discord-TipBot"
 url = "https://github.com/BananoCoin/Banano-Discord-TipProcessor"
 
 [[repo]]
+url = "https://github.com/BananoCoin/banano-distribution-stats"
+
+[[repo]]
 url = "https://github.com/BananoCoin/banano-ipfs"
 
 [[repo]]
@@ -35,6 +38,12 @@ url = "https://github.com/BananoCoin/Banano-Reddit-TipBot"
 
 [[repo]]
 url = "https://github.com/BananoCoin/banano-side-scroller"
+
+[[repo]]
+url = "https://github.com/BananoCoin/banano-timestamp-checker"
+
+[[repo]]
+url = "https://github.com/BananoCoin/banano-ts-cli"
 
 [[repo]]
 url = "https://github.com/BananoCoin/banano-vanity"
@@ -67,6 +76,12 @@ url = "https://github.com/BananoCoin/bananovault"
 url = "https://github.com/BananoCoin/boompow"
 
 [[repo]]
+url = "https://github.com/BananoCoin/boompow-frontend"
+
+[[repo]]
+url = "https://github.com/BananoCoin/boompow-legacy"
+
+[[repo]]
 url = "https://github.com/BananoCoin/buildoff"
 
 [[repo]]
@@ -94,7 +109,7 @@ url = "https://github.com/BananoCoin/monkeytalks"
 url = "https://github.com/BananoCoin/nacl_fah_client"
 
 [[repo]]
-url = "https://github.com/BananoCoin/nano_tipper_z"
+url = "https://github.com/BananoCoin/nano-node-bandaid"
 
 [[repo]]
 url = "https://github.com/BananoCoin/natrium-android-wallet"

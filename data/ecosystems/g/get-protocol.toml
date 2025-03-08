@@ -7,19 +7,13 @@ github_organizations = ["https://github.com/GETProtocol"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/GETProtocol/GET-Protocol-SC-Counter-DEPRECIATED"
+url = "https://github.com/GETProtocol/contract-metadata"
 
 [[repo]]
-url = "https://github.com/GETProtocol/GET-Protocol-statechange-counter"
+url = "https://github.com/GETProtocol/dimension-adapters"
 
 [[repo]]
 url = "https://github.com/GETProtocol/GETProtocol-TokenCreationContracts2017"
-
-[[repo]]
-url = "https://github.com/GETProtocol/GETProtocolCore"
-
-[[repo]]
-url = "https://github.com/GETProtocol/GETProtocolCoreV0.1"
 
 [[repo]]
 url = "https://github.com/GETProtocol/GETProtocolCoreV1.0-DEPRECIATED"
@@ -31,10 +25,17 @@ url = "https://github.com/GETProtocol/GETProtocolStateChangeCounterV.01-DEPRECIA
 url = "https://github.com/GETProtocol/icocontractaudit"
 
 [[repo]]
+url = "https://github.com/GETProtocol/OPNContractsV2"
+
+[[repo]]
+url = "https://github.com/GETProtocol/snapshot-strategies"
+missing = true
+
+[[repo]]
 url = "https://github.com/GETProtocol/subgraph"
 
 [[repo]]
-url = "https://github.com/GETProtocol/tokencontracts"
+url = "https://github.com/GETProtocol/tokenAssets"
 
 [[repo]]
 url = "https://github.com/GETProtocol/usage-socket"

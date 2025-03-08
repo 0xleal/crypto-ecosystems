@@ -16,7 +16,7 @@ url = "https://github.com/EvercityEcosystem/carbon-credits"
 url = "https://github.com/EvercityEcosystem/carbon-credits-testcases-generator"
 
 [[repo]]
-url = "https://github.com/EvercityEcosystem/CC-tokenizer-dapp"
+url = "https://github.com/EvercityEcosystem/carbon-dapp"
 
 [[repo]]
 url = "https://github.com/EvercityEcosystem/dapp-services"
@@ -37,7 +37,23 @@ url = "https://github.com/EvercityEcosystem/evercity-dapp"
 url = "https://github.com/EvercityEcosystem/filesign"
 
 [[repo]]
+url = "https://github.com/EvercityEcosystem/forwards-dapp"
+
+[[repo]]
+url = "https://github.com/EvercityEcosystem/frontend-template"
+
+[[repo]]
 url = "https://github.com/EvercityEcosystem/github-runner-chart"
+missing = true
+
+[[repo]]
+url = "https://github.com/EvercityEcosystem/guardian"
+
+[[repo]]
+url = "https://github.com/EvercityEcosystem/guardian-policies"
+
+[[repo]]
+url = "https://github.com/EvercityEcosystem/hedera-forwards-frontend"
 
 [[repo]]
 url = "https://github.com/EvercityEcosystem/smart-sustainable-bond"
@@ -47,6 +63,8 @@ url = "https://github.com/EvercityEcosystem/ssb-testcases-generator"
 
 [[repo]]
 url = "https://github.com/EvercityEcosystem/sustainable-finance-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/EvercityEcosystem/test-outer-node"
+missing = true

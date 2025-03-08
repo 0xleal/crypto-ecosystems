@@ -10,19 +10,26 @@ github_organizations = ["https://github.com/teller-protocol"]
 url = "https://github.com/teller-protocol/action-netlify-deploy"
 
 [[repo]]
+url = "https://github.com/teller-protocol/anpl-cli"
+
+[[repo]]
+url = "https://github.com/teller-protocol/ape-webflow-js"
+
+[[repo]]
 url = "https://github.com/teller-protocol/bloom-api"
 
 [[repo]]
-url = "https://github.com/teller-protocol/bnpl-sdk"
-
-[[repo]]
 url = "https://github.com/teller-protocol/credit_risk"
+missing = true
 
 [[repo]]
 url = "https://github.com/teller-protocol/cypress-metamask-v2"
 
 [[repo]]
 url = "https://github.com/teller-protocol/discord-bot-test"
+
+[[repo]]
+url = "https://github.com/teller-protocol/dune"
 
 [[repo]]
 url = "https://github.com/teller-protocol/graph-node"
@@ -43,16 +50,29 @@ url = "https://github.com/teller-protocol/hardhat-tenderly"
 url = "https://github.com/teller-protocol/landing-page"
 
 [[repo]]
+url = "https://github.com/teller-protocol/landing-page-loan-calculator"
+
+[[repo]]
+url = "https://github.com/teller-protocol/lender-groups-subgraph-substream"
+
+[[repo]]
 url = "https://github.com/teller-protocol/netlify-plugin-cypress"
+missing = true
 
 [[repo]]
 url = "https://github.com/teller-protocol/nouns-monorepo"
+missing = true
 
 [[repo]]
 url = "https://github.com/teller-protocol/p5-nft-generative-render"
+missing = true
 
 [[repo]]
 url = "https://github.com/teller-protocol/peerlist"
+missing = true
+
+[[repo]]
+url = "https://github.com/teller-protocol/preferred-borrower-metadata"
 
 [[repo]]
 url = "https://github.com/teller-protocol/prettier-plugin-solidity"
@@ -73,6 +93,9 @@ url = "https://github.com/teller-protocol/scaffold-pr-setup"
 url = "https://github.com/teller-protocol/scaffold-test-contracts-action"
 
 [[repo]]
+url = "https://github.com/teller-protocol/SocialFrontEnd"
+
+[[repo]]
 url = "https://github.com/teller-protocol/subgraph"
 
 [[repo]]
@@ -82,7 +105,27 @@ url = "https://github.com/teller-protocol/sybil-interface"
 url = "https://github.com/teller-protocol/teller-protocol-v1"
 
 [[repo]]
+url = "https://github.com/teller-protocol/teller-protocol-v2"
+
+[[repo]]
+url = "https://github.com/teller-protocol/teller-protocol-v2-audit-2024"
+
+[[repo]]
+url = "https://github.com/teller-protocol/teller-widget"
+
+[[repo]]
+url = "https://github.com/teller-protocol/tenderly-actions"
+missing = true
+
+[[repo]]
+url = "https://github.com/teller-protocol/uniswap-v3-core"
+
+[[repo]]
+url = "https://github.com/teller-protocol/uniswap-v3-periphery"
+
+[[repo]]
 url = "https://github.com/teller-protocol/v2-"
+missing = true
 
 [[repo]]
 url = "https://github.com/teller-protocol/wait-for-netlify-action"

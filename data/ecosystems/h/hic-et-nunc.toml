@@ -20,30 +20,31 @@ url = "https://github.com/hicetnunc2000/CID-SHA3-RSA-NFT"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/commonx"
+missing = true
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/Dados-Abertos-API-Camara-Python-Mining"
+missing = true
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/datastructures"
+missing = true
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/drand-node-ea"
-
-[[repo]]
-url = "https://github.com/hicetnunc2000/erc-1155"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/erc1155"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/evm"
-
-[[repo]]
-url = "https://github.com/hicetnunc2000/evm-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/evm-indexer"
+
+[[repo]]
+url = "https://github.com/hicetnunc2000/hardware"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/hesychasm"
@@ -68,15 +69,10 @@ url = "https://github.com/hicetnunc2000/hicetnunc-ipfs"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/hicetnunc-nextjs"
-
-[[repo]]
-url = "https://github.com/hicetnunc2000/hicetnunc-provenance"
+missing = true
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/hicetnunc-reports"
-
-[[repo]]
-url = "https://github.com/hicetnunc2000/hicetnunc-sc"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/hicetnunc-sdk"
@@ -101,12 +97,7 @@ url = "https://github.com/hicetnunc2000/objkt-swap"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/powergate-external-adapter"
-
-[[repo]]
-url = "https://github.com/hicetnunc2000/profile-x"
-
-[[repo]]
-url = "https://github.com/hicetnunc2000/provenance"
+missing = true
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/random-bridge"
@@ -116,18 +107,20 @@ url = "https://github.com/hicetnunc2000/random-bridge-ea"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/seed-x"
-
-[[repo]]
-url = "https://github.com/hicetnunc2000/smart-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/subjkts"
+missing = true
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/TacProgWeb"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/tzkeys-micro"
+
+[[repo]]
+url = "https://github.com/hicetnunc2000/uid2000"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/umwelt"
@@ -142,10 +135,7 @@ url = "https://github.com/hicetnunc2000/ungrund-oracle-michelson"
 url = "https://github.com/hicetnunc2000/ungrund-oracle-sls"
 
 [[repo]]
-url = "https://github.com/hicetnunc2000/ungrund-ui"
-
-[[repo]]
-url = "https://github.com/hicetnunc2000/ungrund00000000"
+url = "https://github.com/hicetnunc2000/v2-core"
 
 [[repo]]
 url = "https://github.com/hicetnunc2000/wuwei"

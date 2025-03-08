@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Litecoin"
 
-sub_ecosystems = []
+sub_ecosystems = ["BitcartCC", "Cake Labs", "Cryptopower", "Edge", "Shift Crypto", "Venly"]
 
 github_organizations = [
   "https://github.com/litecoin-foundation",
@@ -14,9 +14,7 @@ url = "https://github.com/akx/walletool"
 
 [[repo]]
 url = "https://github.com/AlwaysGeeky/litecoin-nodejs"
-
-[[repo]]
-url = "https://github.com/arilot/litecoind"
+missing = true
 
 [[repo]]
 url = "https://github.com/atcasanova/BitCoinBot"
@@ -37,16 +35,21 @@ url = "https://github.com/blockassets/litecoinpool_exporter"
 url = "https://github.com/brunneis/litecoin-core-docker"
 
 [[repo]]
+url = "https://github.com/cculianu/Fulcrum"
+
+[[repo]]
 url = "https://github.com/Chewbotcca/HowMuchLitecoinHasChewMined"
 
 [[repo]]
 url = "https://github.com/CoinSpace/litecore-lib"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoinSpace/litecore-p2p"
+missing = true
 
 [[repo]]
-url = "https://github.com/coreyphillips/bitbip"
+url = "https://github.com/coreyphillips/moonshine"
 
 [[repo]]
 url = "https://github.com/coreyphillips/rn-bitcoinjs-lib"
@@ -58,10 +61,19 @@ url = "https://github.com/cryptocurrency-project/litecoin"
 url = "https://github.com/dysnix/litecoind"
 
 [[repo]]
-url = "https://github.com/fortesp/pyLitecoinAddress"
+url = "https://github.com/Elite-Labs/EliteWallet"
+
+[[repo]]
+url = "https://github.com/fortesp/litecoinaddress"
 
 [[repo]]
 url = "https://github.com/graphsense/ltc-client"
+
+[[repo]]
+url = "https://github.com/guardianproject/proofmode-android"
+
+[[repo]]
+url = "https://github.com/horizontalsystems/LitecoinKit.Swift"
 
 [[repo]]
 url = "https://github.com/interledger-deprecated/ilp-plugin-lnd-asym-client"
@@ -77,27 +89,39 @@ url = "https://github.com/k4m4/litecoin-regex"
 
 [[repo]]
 url = "https://github.com/kotovalexarian/ansible-role-litecoin"
+missing = true
 
 [[repo]]
 url = "https://github.com/kramble/FPGA-Litecoin-Miner"
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/bitcore"
+missing = true
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/electrum-ltc"
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/forkmonitor"
 
 [[repo]]
-url = "https://github.com/litecoin-foundation/gitian.sigs.omnilite"
-
-[[repo]]
 url = "https://github.com/litecoin-foundation/lccs"
 
 [[repo]]
-url = "https://github.com/litecoin-foundation/litecoin"
+url = "https://github.com/litecoin-foundation/litecoin-toolkit"
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/litecoin-wallet"
+missing = true
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/litecoin.info"
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/litecoin_analytics"
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/litecoin_forecasting"
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/litecoinbook"
@@ -109,16 +133,27 @@ url = "https://github.com/litecoin-foundation/LitecoinNode"
 url = "https://github.com/litecoin-foundation/litecoinsummit.org"
 
 [[repo]]
+url = "https://github.com/litecoin-foundation/litepool"
+
+[[repo]]
 url = "https://github.com/litecoin-foundation/litewallet-android"
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/litewallet-core"
+missing = true
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/litewallet-ios"
 
 [[repo]]
+url = "https://github.com/litecoin-foundation/litewallet-neutrino"
+missing = true
+
+[[repo]]
 url = "https://github.com/litecoin-foundation/Litewallet-Project"
 
 [[repo]]
-url = "https://github.com/litecoin-foundation/loafwallet-android"
+url = "https://github.com/litecoin-foundation/litewallet.io-js"
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/loafwallet-api-old"
@@ -127,13 +162,12 @@ url = "https://github.com/litecoin-foundation/loafwallet-api-old"
 url = "https://github.com/litecoin-foundation/loafwallet-core"
 
 [[repo]]
-url = "https://github.com/litecoin-foundation/loafwallet-ios"
-
-[[repo]]
 url = "https://github.com/litecoin-foundation/loafwallet-ios-deprecated"
+missing = true
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/loafwallet-ios-old"
+missing = true
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/loafwallet-recovery"
@@ -143,36 +177,65 @@ url = "https://github.com/litecoin-foundation/ltc-rate"
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/ltcd-in-a-box"
+missing = true
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/ltcforkmonitor"
 
 [[repo]]
+url = "https://github.com/litecoin-foundation/ltcspace"
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/mining-pools"
+missing = true
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/mining-pools-ltc"
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/neutrinocache"
+
+[[repo]]
 url = "https://github.com/litecoin-foundation/old_litewallet-android"
-
-[[repo]]
-url = "https://github.com/litecoin-foundation/OmniLite"
-
-[[repo]]
-url = "https://github.com/litecoin-foundation/omniliteapi"
+missing = true
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/openbazaar-desktop"
+missing = true
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/openbazaar-go"
+missing = true
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/public-litecoin-foundation"
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/react-native-lightning"
+missing = true
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/react-native-lndltc"
 
 [[repo]]
+url = "https://github.com/litecoin-foundation/react-native-turbo-scrypt"
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/redux-persist-sensitive-storage"
+
+[[repo]]
 url = "https://github.com/litecoin-foundation/spvwallet"
+missing = true
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/umbrel-community-app-store"
+
+[[repo]]
+url = "https://github.com/litecoin-foundation/umbrel-docker-scripts"
 
 [[repo]]
 url = "https://github.com/litecoin-foundation/wallet-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/litecoin-project/bitcoinj-alice"
@@ -197,12 +260,6 @@ url = "https://github.com/litecoin-project/gitian.sigs.omg"
 
 [[repo]]
 url = "https://github.com/litecoin-project/gui"
-
-[[repo]]
-url = "https://github.com/litecoin-project/insight-lite-api"
-
-[[repo]]
-url = "https://github.com/litecoin-project/insight-lite-ui"
 
 [[repo]]
 url = "https://github.com/litecoin-project/lips"
@@ -233,37 +290,10 @@ url = "https://github.com/litecoin-project/litecoin.org"
 url = "https://github.com/litecoin-project/litecoin.org-ancient"
 
 [[repo]]
-url = "https://github.com/litecoin-project/litecoind-rpc"
-
-[[repo]]
 url = "https://github.com/litecoin-project/litecoinj"
 
 [[repo]]
-url = "https://github.com/litecoin-project/litecore"
-
-[[repo]]
-url = "https://github.com/litecoin-project/litecore-build"
-
-[[repo]]
-url = "https://github.com/litecoin-project/litecore-explorers"
-
-[[repo]]
-url = "https://github.com/litecoin-project/litecore-lib"
-
-[[repo]]
-url = "https://github.com/litecoin-project/litecore-litecoin"
-
-[[repo]]
-url = "https://github.com/litecoin-project/litecore-message"
-
-[[repo]]
 url = "https://github.com/litecoin-project/litecore-mnemonic"
-
-[[repo]]
-url = "https://github.com/litecoin-project/litecore-node"
-
-[[repo]]
-url = "https://github.com/litecoin-project/litecore-p2p"
 
 [[repo]]
 url = "https://github.com/litecoin-project/litecore-payment-protocol"
@@ -293,6 +323,42 @@ url = "https://github.com/litecoin-project/p2pool-scanner"
 url = "https://github.com/litecoin-project/p2sh-convert"
 
 [[repo]]
+url = "https://github.com/litecoin-project/secp256k1"
+
+[[repo]]
+url = "https://github.com/litecore-archive/insight-lite-api"
+
+[[repo]]
+url = "https://github.com/litecore-archive/insight-lite-ui"
+
+[[repo]]
+url = "https://github.com/litecore-archive/litecoind-rpc"
+
+[[repo]]
+url = "https://github.com/litecore-archive/litecore"
+
+[[repo]]
+url = "https://github.com/litecore-archive/litecore-build"
+
+[[repo]]
+url = "https://github.com/litecore-archive/litecore-explorers"
+
+[[repo]]
+url = "https://github.com/litecore-archive/litecore-lib"
+
+[[repo]]
+url = "https://github.com/litecore-archive/litecore-litecoin"
+
+[[repo]]
+url = "https://github.com/litecore-archive/litecore-message"
+
+[[repo]]
+url = "https://github.com/litecore-archive/litecore-node"
+
+[[repo]]
+url = "https://github.com/litecore-archive/litecore-p2p"
+
+[[repo]]
 url = "https://github.com/Lusin333/Litecoin-Grinder"
 
 [[repo]]
@@ -300,9 +366,13 @@ url = "https://github.com/mardix/Minero"
 
 [[repo]]
 url = "https://github.com/Mindinventory/AltCoin-CryptoCurrency-Generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/minershive/hiveos-asic"
+
+[[repo]]
+url = "https://github.com/nblockchain/geewallet"
 
 [[repo]]
 url = "https://github.com/nektro/docker-litecoin"
@@ -318,6 +388,18 @@ url = "https://github.com/ninesalt/MyLitecoinWallet"
 
 [[repo]]
 url = "https://github.com/oipwg/oip-platform-react"
+
+[[repo]]
+url = "https://github.com/oliverw/miningcore"
+
+[[repo]]
+url = "https://github.com/OmniLite/gitian.sigs.omnilite"
+
+[[repo]]
+url = "https://github.com/OmniLite/omnilite"
+
+[[repo]]
+url = "https://github.com/OmniLite/omniliteapi"
 
 [[repo]]
 url = "https://github.com/oxagast/hashnet"
@@ -339,6 +421,10 @@ url = "https://github.com/salessandri/docker-litecoind"
 
 [[repo]]
 url = "https://github.com/samosudov/litecoinj"
+missing = true
+
+[[repo]]
+url = "https://github.com/samotari/crypto-terminal"
 
 [[repo]]
 url = "https://github.com/scottycc/coinwidget.com"
@@ -348,6 +434,7 @@ url = "https://github.com/sereneblue/blt-wallet"
 
 [[repo]]
 url = "https://github.com/ShaneMcGowan/project-400-litecoin"
+missing = true
 
 [[repo]]
 url = "https://github.com/shawngustaw/lit"
@@ -363,9 +450,6 @@ url = "https://github.com/thrasher-/litecoin"
 tags = ["Protocol"]
 
 [[repo]]
-url = "https://github.com/trustee-wallet/trusteeWallet"
-
-[[repo]]
 url = "https://github.com/UMU618/ltc-p2sh-convert"
 
 [[repo]]
@@ -377,6 +461,12 @@ url = "https://github.com/valerio-vaccaro/TrustlessClock"
 [[repo]]
 url = "https://github.com/wangxinxi/ltcd"
 tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/worldcoinproject/worldcoin-v0.8"
+
+[[repo]]
+url = "https://github.com/wrappedfi/wrapped-tokenlist"
 
 [[repo]]
 url = "https://github.com/xblau/node-interface"

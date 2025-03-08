@@ -31,7 +31,20 @@ url = "https://github.com/BoggedFinance/contracts"
 url = "https://github.com/BoggedFinance/evm-bridge"
 
 [[repo]]
+url = "https://github.com/BoggedFinance/FAQ"
+
+[[repo]]
 url = "https://github.com/BoggedFinance/proxy"
+
+[[repo]]
+url = "https://github.com/BoggedFinance/web3-onboard"
+missing = true
+
+[[repo]]
+url = "https://github.com/BoggedFinance/web3-onboard-core"
+
+[[repo]]
+url = "https://github.com/BoggedFinance/web3-onboard-walletconnect"
 
 [[repo]]
 url = "https://github.com/BoggedFinance/web3modal"

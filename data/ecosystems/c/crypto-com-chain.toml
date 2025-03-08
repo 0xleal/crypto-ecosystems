@@ -1,55 +1,34 @@
 # Ecosystem Level Information
 title = "Crypto.com Chain"
 
-sub_ecosystems = ["VVS Finance"]
+sub_ecosystems = ["crystyl.finance", "VVS Finance"]
 
 github_organizations = ["https://github.com/crypto-com"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/crypto-com/awesome"
-
-[[repo]]
 url = "https://github.com/crypto-com/aws-ne-sys"
 
 [[repo]]
-url = "https://github.com/crypto-com/chain"
+url = "https://github.com/crypto-com/bulletproofs"
+
+[[repo]]
+url = "https://github.com/crypto-com/cdc-ai-agent-client-py"
+
+[[repo]]
+url = "https://github.com/crypto-com/cdc-ai-agent-client-ts"
+
+[[repo]]
+url = "https://github.com/crypto-com/cdc-ai-agent-signer-app"
 
 [[repo]]
 url = "https://github.com/crypto-com/chain-desktop-wallet"
 
 [[repo]]
-url = "https://github.com/crypto-com/chain-docs"
-
-[[repo]]
-url = "https://github.com/crypto-com/chain-ilp-settlement"
-
-[[repo]]
-url = "https://github.com/crypto-com/chain-index"
-
-[[repo]]
 url = "https://github.com/crypto-com/chain-indexing"
 
 [[repo]]
-url = "https://github.com/crypto-com/chain-integration"
-
-[[repo]]
-url = "https://github.com/crypto-com/chain-jslib"
-
-[[repo]]
-url = "https://github.com/crypto-com/chain-main"
-
-[[repo]]
-url = "https://github.com/crypto-com/chain-nodelib"
-
-[[repo]]
 url = "https://github.com/crypto-com/chain-tx-enclave"
-
-[[repo]]
-url = "https://github.com/crypto-com/chainlib-rs"
-
-[[repo]]
-url = "https://github.com/crypto-com/chainlibpy"
 
 [[repo]]
 url = "https://github.com/crypto-com/cosmos-rust"
@@ -61,13 +40,7 @@ url = "https://github.com/crypto-com/cosmos-sdk"
 url = "https://github.com/crypto-com/cosmos-sdk-codeql"
 
 [[repo]]
-url = "https://github.com/crypto-com/cro-nodelib"
-
-[[repo]]
 url = "https://github.com/crypto-com/cro-staking"
-
-[[repo]]
-url = "https://github.com/crypto-com/crossfire"
 
 [[repo]]
 url = "https://github.com/crypto-com/crypto-com.github.io"
@@ -76,10 +49,10 @@ url = "https://github.com/crypto-com/crypto-com.github.io"
 url = "https://github.com/crypto-com/crypto-exchange"
 
 [[repo]]
-url = "https://github.com/crypto-com/crypto-pay-prestashop"
+url = "https://github.com/crypto-com/crypto-pay-magento2"
 
 [[repo]]
-url = "https://github.com/crypto-com/cryptopy"
+url = "https://github.com/crypto-com/crypto-pay-prestashop"
 
 [[repo]]
 url = "https://github.com/crypto-com/curve25519-dalek"
@@ -100,6 +73,15 @@ url = "https://github.com/crypto-com/defi-wallet-core-rs"
 url = "https://github.com/crypto-com/deficonnect-monorepo"
 
 [[repo]]
+url = "https://github.com/crypto-com/developer-platform-client-py"
+
+[[repo]]
+url = "https://github.com/crypto-com/developer-platform-client-ts"
+
+[[repo]]
+url = "https://github.com/crypto-com/developer-platform-sdk-examples"
+
+[[repo]]
 url = "https://github.com/crypto-com/ed25519-dalek"
 
 [[repo]]
@@ -107,9 +89,6 @@ url = "https://github.com/crypto-com/elliptic-curves"
 
 [[repo]]
 url = "https://github.com/crypto-com/hashes"
-
-[[repo]]
-url = "https://github.com/crypto-com/homebrew-chain-maind"
 
 [[repo]]
 url = "https://github.com/crypto-com/ibc-solo-machine"
@@ -137,6 +116,7 @@ url = "https://github.com/crypto-com/ledger-rs"
 
 [[repo]]
 url = "https://github.com/crypto-com/ledger-wallet-webtool"
+missing = true
 
 [[repo]]
 url = "https://github.com/crypto-com/libsecp256k1-rs"
@@ -145,10 +125,10 @@ url = "https://github.com/crypto-com/libsecp256k1-rs"
 url = "https://github.com/crypto-com/merkle_bit"
 
 [[repo]]
-url = "https://github.com/crypto-com/multisig-demo"
+url = "https://github.com/crypto-com/pystarport"
 
 [[repo]]
-url = "https://github.com/crypto-com/pystarport"
+url = "https://github.com/crypto-com/python-iavl"
 
 [[repo]]
 url = "https://github.com/crypto-com/ring"
@@ -163,15 +143,6 @@ url = "https://github.com/crypto-com/rust-hpke"
 url = "https://github.com/crypto-com/rust-secp256k1-zkp"
 
 [[repo]]
-url = "https://github.com/crypto-com/sample-chain-ios-example"
-
-[[repo]]
-url = "https://github.com/crypto-com/sample-chain-java-example"
-
-[[repo]]
-url = "https://github.com/crypto-com/sample-chain-wallet"
-
-[[repo]]
 url = "https://github.com/crypto-com/sample-thaler-ios-example"
 
 [[repo]]
@@ -179,9 +150,6 @@ url = "https://github.com/crypto-com/sample-thaler-java-example"
 
 [[repo]]
 url = "https://github.com/crypto-com/secp256k1-zkp"
-
-[[repo]]
-url = "https://github.com/crypto-com/settlement-cro"
 
 [[repo]]
 url = "https://github.com/crypto-com/sgx-vendor"
@@ -214,9 +182,6 @@ url = "https://github.com/crypto-com/swap-token-list"
 url = "https://github.com/crypto-com/tendermint-rs"
 
 [[repo]]
-url = "https://github.com/crypto-com/testnets"
-
-[[repo]]
 url = "https://github.com/crypto-com/thaler"
 
 [[repo]]
@@ -242,3 +207,40 @@ url = "https://github.com/crypto-com/tmkms-light"
 
 [[repo]]
 url = "https://github.com/crypto-com/token-profile"
+missing = true
+
+[[repo]]
+url = "https://github.com/crypto-com/WalletConnectRust"
+
+[[repo]]
+url = "https://github.com/crypto-com/wrapped-tokens-os"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/awesome"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/chain-docs"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/chain-integration"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/chain-jslib"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/chain-main"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/chainlib-rs"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/chainlibpy"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/crossfire"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/homebrew-chain-maind"
+
+[[repo]]
+url = "https://github.com/crypto-org-chain/testnets"

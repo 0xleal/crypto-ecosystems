@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/CoolBitX-Technology"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/assets"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/bc-ur"
 
 [[repo]]
@@ -17,6 +20,12 @@ url = "https://github.com/CoolBitX-Technology/bitcoin.org"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/bitgo-utxo-lib"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/blockchain-info"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/buffer"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/changelly-js"
@@ -40,6 +49,9 @@ url = "https://github.com/CoolBitX-Technology/CoolBitX-Mnemonic"
 url = "https://github.com/CoolBitX-Technology/coolwallet-android"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/coolwallet-app-demo"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/coolwallet-connect"
 
 [[repo]]
@@ -47,6 +59,9 @@ url = "https://github.com/CoolBitX-Technology/coolwallet-docs"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/coolwallet-ios"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/coolwallet-pro-se"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/coolwallet-sdk"
@@ -62,6 +77,23 @@ url = "https://github.com/CoolBitX-Technology/cp-bitcoind"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/cp-cash-out-api"
+missing = true
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/cp-contract-event-listener"
+missing = true
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/cp-tsconfig-test"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/cp-workflow-template"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/cross-csl-mobile-for-jest"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/csl-mobile-bridge"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/CW-Python"
@@ -73,13 +105,28 @@ url = "https://github.com/CoolBitX-Technology/CWS-API-test"
 url = "https://github.com/CoolBitX-Technology/electrumx"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/eth-phishing-detect"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/financial-team-airdrop-nft-gh-page"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/icon-sdk-js"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/js-kinesis-sdk"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/jsonPaymentProtocol"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/node-libs-react-native"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/react-native-image-picker"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/react-native-keychain"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/react-native-lewin-qrcode"
@@ -88,13 +135,28 @@ url = "https://github.com/CoolBitX-Technology/react-native-lewin-qrcode"
 url = "https://github.com/CoolBitX-Technology/react-native-localize"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/react-native-os"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/react-native-slider"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/react-native-snap-carousel"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/react-native-splash-screen"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/react-native-tcp"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/react-native-touch-id"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/react-navigation"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/react-navigation-native"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/sapphire"
@@ -163,6 +225,9 @@ url = "https://github.com/CoolBitX-Technology/sygna-bridge-util-py"
 url = "https://github.com/CoolBitX-Technology/sygna-hub-api-doc"
 
 [[repo]]
+url = "https://github.com/CoolBitX-Technology/sygna-hub-toolkit"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/transactid-library-java"
 
 [[repo]]
@@ -170,6 +235,12 @@ url = "https://github.com/CoolBitX-Technology/truffle-hdwallet-provider"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/walletconnect-registry"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/web-coolwallet-orderly"
+
+[[repo]]
+url = "https://github.com/CoolBitX-Technology/web-examples"
 
 [[repo]]
 url = "https://github.com/CoolBitX-Technology/zencashjs"

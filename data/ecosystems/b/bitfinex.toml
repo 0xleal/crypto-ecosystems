@@ -68,6 +68,7 @@ url = "https://github.com/bitfinexcom/bfx-cli"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/bfx-coin-slp-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitfinexcom/bfx-ext-eos-multisig"
@@ -76,7 +77,11 @@ url = "https://github.com/bitfinexcom/bfx-ext-eos-multisig"
 url = "https://github.com/bitfinexcom/bfx-ext-gpg-js"
 
 [[repo]]
+url = "https://github.com/bitfinexcom/bfx-ext-helpdesk-js"
+
+[[repo]]
 url = "https://github.com/bitfinexcom/bfx-ext-sendgrid-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitfinexcom/bfx-facs-api"
@@ -149,6 +154,9 @@ url = "https://github.com/bitfinexcom/bfx-facs-sftp"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/bfx-facs-store-s3"
+
+[[repo]]
+url = "https://github.com/bitfinexcom/bfx-facs-ttlcache-fs"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/bfx-facs-util-shard"
@@ -292,6 +300,9 @@ url = "https://github.com/bitfinexcom/bfx-util-js"
 url = "https://github.com/bitfinexcom/bfx-util-net-js"
 
 [[repo]]
+url = "https://github.com/bitfinexcom/bfx-wp-crypto-map"
+
+[[repo]]
 url = "https://github.com/bitfinexcom/bfx-wrk-api"
 
 [[repo]]
@@ -383,9 +394,6 @@ url = "https://github.com/bitfinexcom/dazaar-payment"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/dazaar-payment-eos"
-
-[[repo]]
-url = "https://github.com/bitfinexcom/dazaar-payment-erc20"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/dazaar-payment-eth"
@@ -523,6 +531,9 @@ url = "https://github.com/bitfinexcom/ledger-ethfx"
 url = "https://github.com/bitfinexcom/lib-js-proto-binary"
 
 [[repo]]
+url = "https://github.com/bitfinexcom/lib-js-util-base"
+
+[[repo]]
 url = "https://github.com/bitfinexcom/lib-js-util-currencies"
 
 [[repo]]
@@ -550,6 +561,9 @@ url = "https://github.com/bitfinexcom/lib-js-util-shard"
 url = "https://github.com/bitfinexcom/lib-js-util-symbol"
 
 [[repo]]
+url = "https://github.com/bitfinexcom/lib-js-util-task-queue"
+
+[[repo]]
 url = "https://github.com/bitfinexcom/lib-util-err-js"
 
 [[repo]]
@@ -571,6 +585,9 @@ url = "https://github.com/bitfinexcom/moonbeam-history"
 url = "https://github.com/bitfinexcom/moonbeam-mongodb"
 
 [[repo]]
+url = "https://github.com/bitfinexcom/mutail"
+
+[[repo]]
 url = "https://github.com/bitfinexcom/NodeBB"
 
 [[repo]]
@@ -580,7 +597,13 @@ url = "https://github.com/bitfinexcom/nodebb-plugin-write-api"
 url = "https://github.com/bitfinexcom/nodemailer-openpgp"
 
 [[repo]]
+url = "https://github.com/bitfinexcom/password-encrypted-container"
+
+[[repo]]
 url = "https://github.com/bitfinexcom/pesto-rb"
+
+[[repo]]
+url = "https://github.com/bitfinexcom/pub"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/react-skylight"
@@ -602,6 +625,9 @@ url = "https://github.com/bitfinexcom/senatus-vanilla"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/smidgen"
+
+[[repo]]
+url = "https://github.com/bitfinexcom/stdnum-js"
 
 [[repo]]
 url = "https://github.com/bitfinexcom/storybook-addon-i18next"

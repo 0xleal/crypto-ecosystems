@@ -19,16 +19,25 @@ url = "https://github.com/effectai/dao-discord-bot"
 url = "https://github.com/effectai/dao-pancake-fees"
 
 [[repo]]
+url = "https://github.com/effectai/dapp-boilerplate"
+
+[[repo]]
+url = "https://github.com/effectai/dApp-Image-Labeler"
+
+[[repo]]
+url = "https://github.com/effectai/dApp-Label-Image"
+
+[[repo]]
 url = "https://github.com/effectai/developer-docs"
 
 [[repo]]
 url = "https://github.com/effectai/duplo"
 
 [[repo]]
-url = "https://github.com/effectai/effect-dao"
+url = "https://github.com/effectai/effect-backend"
 
 [[repo]]
-url = "https://github.com/effectai/effect-dashboard"
+url = "https://github.com/effectai/effect-dao"
 
 [[repo]]
 url = "https://github.com/effectai/effect-force-templates"
@@ -37,10 +46,10 @@ url = "https://github.com/effectai/effect-force-templates"
 url = "https://github.com/effectai/effect-js"
 
 [[repo]]
-url = "https://github.com/effectai/effect-network"
+url = "https://github.com/effectai/effect-mobile"
 
 [[repo]]
-url = "https://github.com/effectai/effect-network-eos"
+url = "https://github.com/effectai/effect-network"
 
 [[repo]]
 url = "https://github.com/effectai/effect-network-neo"
@@ -49,7 +58,16 @@ url = "https://github.com/effectai/effect-network-neo"
 url = "https://github.com/effectai/effect-network-website"
 
 [[repo]]
+url = "https://github.com/effectai/effect-py"
+
+[[repo]]
+url = "https://github.com/effectai/effect-socials"
+
+[[repo]]
 url = "https://github.com/effectai/efx-masterchef"
+
+[[repo]]
+url = "https://github.com/effectai/efxtaskproxy"
 
 [[repo]]
 url = "https://github.com/effectai/eos-airdrops"
@@ -58,10 +76,26 @@ url = "https://github.com/effectai/eos-airdrops"
 url = "https://github.com/effectai/eos-cljs"
 
 [[repo]]
+url = "https://github.com/effectai/force-bot"
+
+[[repo]]
+url = "https://github.com/effectai/force-frontend"
+
+[[repo]]
 url = "https://github.com/effectai/force-frontend-new"
 
 [[repo]]
+url = "https://github.com/effectai/force-frontend-prd"
+missing = true
+
+[[repo]]
+url = "https://github.com/effectai/Force_Bot"
+
+[[repo]]
 url = "https://github.com/effectai/genesis-distribution"
+
+[[repo]]
+url = "https://github.com/effectai/grant-framework"
 
 [[repo]]
 url = "https://github.com/effectai/hackathon-boilerplate"
@@ -70,7 +104,10 @@ url = "https://github.com/effectai/hackathon-boilerplate"
 url = "https://github.com/effectai/hackathon-submission-repo"
 
 [[repo]]
-url = "https://github.com/effectai/hackathon_submission_repo"
+url = "https://github.com/effectai/HuggingFace_Data_Augmentation"
+
+[[repo]]
+url = "https://github.com/effectai/labelbox-task-scripts"
 
 [[repo]]
 url = "https://github.com/effectai/neo-clojure-clr"
@@ -83,6 +120,19 @@ url = "https://github.com/effectai/neon-wallet"
 
 [[repo]]
 url = "https://github.com/effectai/neural-pepe-dapp"
+
+[[repo]]
+url = "https://github.com/effectai/nosana-grind-keypair"
+
+[[repo]]
+url = "https://github.com/effectai/pipeline-templates"
+missing = true
+
+[[repo]]
+url = "https://github.com/effectai/stl"
+
+[[repo]]
+url = "https://github.com/effectai/user-docs"
 
 [[repo]]
 url = "https://github.com/effectai/vaccount-relayer"

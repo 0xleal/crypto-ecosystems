@@ -40,16 +40,15 @@ url = "https://github.com/daostack/arc.js_legacy"
 url = "https://github.com/daostack/arc.react"
 
 [[repo]]
-url = "https://github.com/daostack/client"
-
-[[repo]]
 url = "https://github.com/daostack/common"
+missing = true
 
 [[repo]]
 url = "https://github.com/daostack/common-android"
 
 [[repo]]
 url = "https://github.com/daostack/common-cloudfunctions"
+missing = true
 
 [[repo]]
 url = "https://github.com/daostack/common-factory"
@@ -64,7 +63,7 @@ url = "https://github.com/daostack/common-scripts"
 url = "https://github.com/daostack/common-site"
 
 [[repo]]
-url = "https://github.com/daostack/CommonFactory"
+url = "https://github.com/daostack/common-web"
 
 [[repo]]
 url = "https://github.com/daostack/dao-strategies"
@@ -74,9 +73,6 @@ url = "https://github.com/daostack/DAOcreator"
 
 [[repo]]
 url = "https://github.com/daostack/daos-balances"
-
-[[repo]]
-url = "https://github.com/daostack/DAOstack-collab"
 
 [[repo]]
 url = "https://github.com/daostack/DAOstack-Hackers-Kit"
@@ -89,6 +85,7 @@ url = "https://github.com/daostack/docs"
 
 [[repo]]
 url = "https://github.com/daostack/DS-collaboration"
+missing = true
 
 [[repo]]
 url = "https://github.com/daostack/dutchx-bootstrapper-ui"

@@ -32,18 +32,21 @@ url = "https://github.com/Atomicwallet/arkecosystem-crypto"
 
 [[repo]]
 url = "https://github.com/Atomicwallet/arkecosystem-crypto-old"
+missing = true
 
 [[repo]]
 url = "https://github.com/Atomicwallet/arkecosystem-utils"
 
 [[repo]]
 url = "https://github.com/Atomicwallet/atomicswap"
+missing = true
 
 [[repo]]
 url = "https://github.com/Atomicwallet/AtomicWallet-Crypto-Icons"
 
 [[repo]]
 url = "https://github.com/Atomicwallet/atomicwallet.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/Atomicwallet/axios"
@@ -94,13 +97,11 @@ url = "https://github.com/Atomicwallet/cardano-serialization-lib-asmjs"
 url = "https://github.com/Atomicwallet/cardano-tools"
 
 [[repo]]
-url = "https://github.com/Atomicwallet/cardano-tools-repo"
-
-[[repo]]
 url = "https://github.com/Atomicwallet/cardano-wallet-asm"
 
 [[repo]]
 url = "https://github.com/Atomicwallet/coininfo"
+missing = true
 
 [[repo]]
 url = "https://github.com/Atomicwallet/coinselect"
@@ -112,7 +113,19 @@ url = "https://github.com/Atomicwallet/common"
 url = "https://github.com/Atomicwallet/ConseilJS"
 
 [[repo]]
+url = "https://github.com/Atomicwallet/cordova-plugin-badge"
+
+[[repo]]
+url = "https://github.com/Atomicwallet/cordova-plugin-fingerprint-aio"
+
+[[repo]]
 url = "https://github.com/Atomicwallet/cordova-plugin-ionic-webview"
+
+[[repo]]
+url = "https://github.com/Atomicwallet/cordova-plugin-local-notifications"
+
+[[repo]]
+url = "https://github.com/Atomicwallet/cordova-plugin-qrscanner"
 
 [[repo]]
 url = "https://github.com/Atomicwallet/curve25519-js"
@@ -142,6 +155,9 @@ url = "https://github.com/Atomicwallet/electron-builder"
 url = "https://github.com/Atomicwallet/eosjs-ecc"
 
 [[repo]]
+url = "https://github.com/Atomicwallet/FTSO-price-provider"
+
+[[repo]]
 url = "https://github.com/Atomicwallet/github-releases-notifier"
 
 [[repo]]
@@ -154,7 +170,11 @@ url = "https://github.com/Atomicwallet/hd-wallet-js"
 url = "https://github.com/Atomicwallet/hdkey-secp256r1"
 
 [[repo]]
+url = "https://github.com/Atomicwallet/hedera-sdk-js"
+
+[[repo]]
 url = "https://github.com/Atomicwallet/insight-lite-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/Atomicwallet/javascript-sdk"
@@ -173,6 +193,7 @@ url = "https://github.com/Atomicwallet/kin-node"
 
 [[repo]]
 url = "https://github.com/Atomicwallet/ledger-wallet-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/Atomicwallet/lisk-elements"
@@ -211,16 +232,30 @@ url = "https://github.com/Atomicwallet/oracle-java"
 url = "https://github.com/Atomicwallet/qrious"
 
 [[repo]]
+url = "https://github.com/Atomicwallet/qtumcore-lib"
+
+[[repo]]
 url = "https://github.com/Atomicwallet/qtumjs-lib"
 
 [[repo]]
 url = "https://github.com/Atomicwallet/quakejs"
+missing = true
+
+[[repo]]
+url = "https://github.com/Atomicwallet/sol-rayz"
 
 [[repo]]
 url = "https://github.com/Atomicwallet/tangata-manu-stack-docker"
 
 [[repo]]
+url = "https://github.com/Atomicwallet/tonweb"
+
+[[repo]]
+url = "https://github.com/Atomicwallet/tonweb-mnemonic"
+
+[[repo]]
 url = "https://github.com/Atomicwallet/trezor.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/Atomicwallet/tronscan-node-client"
@@ -233,3 +268,6 @@ url = "https://github.com/Atomicwallet/wasm"
 
 [[repo]]
 url = "https://github.com/Atomicwallet/waves-signature-adapter"
+
+[[repo]]
+url = "https://github.com/Atomicwallet/waves-transactions"

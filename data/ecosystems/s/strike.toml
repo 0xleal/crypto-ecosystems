@@ -14,9 +14,13 @@ url = "https://github.com/StrikeFinance/DeFi-Pulse-Adapters"
 
 [[repo]]
 url = "https://github.com/StrikeFinance/defi-vault"
+missing = true
 
 [[repo]]
 url = "https://github.com/StrikeFinance/strike-app"
+
+[[repo]]
+url = "https://github.com/StrikeFinance/strike-config"
 
 [[repo]]
 url = "https://github.com/StrikeFinance/strike-docs"

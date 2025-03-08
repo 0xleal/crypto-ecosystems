@@ -37,6 +37,9 @@ url = "https://github.com/sol-crystal/mean-core"
 url = "https://github.com/sol-crystal/rpclib"
 
 [[repo]]
+url = "https://github.com/sol-crystal/rustdesk"
+
+[[repo]]
 url = "https://github.com/sol-crystal/serum-dex-ui"
 
 [[repo]]
@@ -46,16 +49,12 @@ url = "https://github.com/sol-crystal/sg-verification"
 url = "https://github.com/sol-crystal/solana-safety-101"
 
 [[repo]]
-url = "https://github.com/sol-crystal/solana-unity-sdk"
-
-[[repo]]
 url = "https://github.com/sol-crystal/solana-unity3d-CSharp-Binding"
+missing = true
 
 [[repo]]
 url = "https://github.com/sol-crystal/solana-unity3d-ffi-export"
-
-[[repo]]
-url = "https://github.com/sol-crystal/solana-unity3d-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/sol-crystal/SolanaForUnity3D"

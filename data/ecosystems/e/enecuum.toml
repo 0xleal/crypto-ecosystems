@@ -17,9 +17,13 @@ url = "https://github.com/Enecuum/android-slim-app"
 
 [[repo]]
 url = "https://github.com/Enecuum/AndroidApp"
+missing = true
 
 [[repo]]
 url = "https://github.com/Enecuum/Block-Explorer"
+
+[[repo]]
+url = "https://github.com/Enecuum/chrome-extension"
 
 [[repo]]
 url = "https://github.com/Enecuum/dex-ui"
@@ -32,6 +36,7 @@ url = "https://github.com/Enecuum/docs"
 
 [[repo]]
 url = "https://github.com/Enecuum/enecuum.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/Enecuum/ENQ-ICO"
@@ -43,10 +48,16 @@ url = "https://github.com/Enecuum/enqm"
 url = "https://github.com/Enecuum/explorer"
 
 [[repo]]
+url = "https://github.com/Enecuum/faucet"
+
+[[repo]]
 url = "https://github.com/Enecuum/free-test"
 
 [[repo]]
 url = "https://github.com/Enecuum/hs-msgpack"
+
+[[repo]]
+url = "https://github.com/Enecuum/ios-trinity"
 
 [[repo]]
 url = "https://github.com/Enecuum/lib-crypto"
@@ -58,6 +69,9 @@ url = "https://github.com/Enecuum/mysql"
 url = "https://github.com/Enecuum/Node"
 
 [[repo]]
+url = "https://github.com/Enecuum/node-corp-site"
+
+[[repo]]
 url = "https://github.com/Enecuum/node-main"
 
 [[repo]]
@@ -65,6 +79,7 @@ url = "https://github.com/Enecuum/pi-calculus-and-logic"
 
 [[repo]]
 url = "https://github.com/Enecuum/PoW"
+missing = true
 
 [[repo]]
 url = "https://github.com/Enecuum/pvcn-hashloop"

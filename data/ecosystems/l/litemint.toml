@@ -25,4 +25,13 @@ url = "https://github.com/litemint/litemint-io-community-resources"
 url = "https://github.com/litemint/litemint-ios"
 
 [[repo]]
+url = "https://github.com/litemint/litemint-pfp-contract"
+
+[[repo]]
+url = "https://github.com/litemint/litemint-soroban-contracts"
+
+[[repo]]
 url = "https://github.com/litemint/litemint-web"
+
+[[repo]]
+url = "https://github.com/litemint/soroban-kit"

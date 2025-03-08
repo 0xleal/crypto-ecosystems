@@ -25,6 +25,12 @@ url = "https://github.com/Horizon-Protocol/horizon-js"
 url = "https://github.com/Horizon-Protocol/horizon-mintr"
 
 [[repo]]
+url = "https://github.com/Horizon-Protocol/horizon-misc"
+
+[[repo]]
+url = "https://github.com/Horizon-Protocol/horizon-perps-margin"
+
+[[repo]]
 url = "https://github.com/Horizon-Protocol/horizon-protocol.github.io"
 
 [[repo]]
@@ -49,7 +55,17 @@ url = "https://github.com/Horizon-Protocol/kwenta"
 url = "https://github.com/Horizon-Protocol/RewardEscrowV2Migration"
 
 [[repo]]
+url = "https://github.com/Horizon-Protocol/smart-margin"
+missing = true
+
+[[repo]]
 url = "https://github.com/Horizon-Protocol/synthetix-exchange"
+
+[[repo]]
+url = "https://github.com/Horizon-Protocol/testnet-contracts"
+
+[[repo]]
+url = "https://github.com/Horizon-Protocol/testnet-js-monorepo"
 
 [[repo]]
 url = "https://github.com/Horizon-Protocol/testnet-token-claim"

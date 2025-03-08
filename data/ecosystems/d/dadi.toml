@@ -35,9 +35,11 @@ url = "https://github.com/dadi/apidoc"
 
 [[repo]]
 url = "https://github.com/dadi/artillery-dino"
+missing = true
 
 [[repo]]
 url = "https://github.com/dadi/autodata"
+missing = true
 
 [[repo]]
 url = "https://github.com/dadi/boot"
@@ -59,9 +61,11 @@ url = "https://github.com/dadi/code-standards"
 
 [[repo]]
 url = "https://github.com/dadi/contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/dadi/dadi.tech"
+missing = true
 
 [[repo]]
 url = "https://github.com/dadi/docs"
@@ -79,16 +83,16 @@ url = "https://github.com/dadi/forum-redirects"
 url = "https://github.com/dadi/foundation"
 
 [[repo]]
-url = "https://github.com/dadi/fsm"
-
-[[repo]]
 url = "https://github.com/dadi/generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/dadi/gh-board"
+missing = true
 
 [[repo]]
 url = "https://github.com/dadi/joinus"
+missing = true
 
 [[repo]]
 url = "https://github.com/dadi/log-filter"
@@ -98,6 +102,7 @@ url = "https://github.com/dadi/logger"
 
 [[repo]]
 url = "https://github.com/dadi/metadata"
+missing = true
 
 [[repo]]
 url = "https://github.com/dadi/nodemailer-browser-transport"
@@ -107,6 +112,7 @@ url = "https://github.com/dadi/passport"
 
 [[repo]]
 url = "https://github.com/dadi/pattern-generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/dadi/preact-router"
@@ -131,6 +137,7 @@ url = "https://github.com/dadi/registry"
 
 [[repo]]
 url = "https://github.com/dadi/sample-photo-gallery"
+missing = true
 
 [[repo]]
 url = "https://github.com/dadi/smartcrop-sharp"
@@ -167,3 +174,7 @@ url = "https://github.com/dadi/web-sample-engine"
 
 [[repo]]
 url = "https://github.com/dadi/wp2md"
+missing = true
+
+[[repo]]
+url = "https://github.com/edge/fsm"

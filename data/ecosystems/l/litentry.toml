@@ -10,22 +10,50 @@ github_organizations = ["https://github.com/litentry"]
 url = "https://github.com/litentry/.github"
 
 [[repo]]
+url = "https://github.com/litentry/achinable-fetch-indexer-status-package"
+
+[[repo]]
 url = "https://github.com/litentry/admeta-hackathon"
+missing = true
 
 [[repo]]
 url = "https://github.com/litentry/akropolis-polkadot"
 
 [[repo]]
-url = "https://github.com/litentry/api-gateway"
+url = "https://github.com/litentry/app-substrate-common"
 
 [[repo]]
-url = "https://github.com/litentry/apps"
+url = "https://github.com/litentry/archived-litentry-mobile-app"
+
+[[repo]]
+url = "https://github.com/litentry/archived-litentry-mobile-app-old"
+
+[[repo]]
+url = "https://github.com/litentry/archived-litentry-web-app"
+
+[[repo]]
+url = "https://github.com/litentry/Astar"
+
+[[repo]]
+url = "https://github.com/litentry/astar-frame"
 
 [[repo]]
 url = "https://github.com/litentry/ChainBridge"
 
 [[repo]]
+url = "https://github.com/litentry/chainbridge-solidity"
+
+[[repo]]
 url = "https://github.com/litentry/chainbridge-substrate"
+
+[[repo]]
+url = "https://github.com/litentry/client-demo-app"
+
+[[repo]]
+url = "https://github.com/litentry/client-sdk-examples"
+
+[[repo]]
+url = "https://github.com/litentry/consecutive-workflow-action"
 
 [[repo]]
 url = "https://github.com/litentry/cumulus"
@@ -37,10 +65,23 @@ url = "https://github.com/litentry/data-analysis"
 url = "https://github.com/litentry/dotreasury"
 
 [[repo]]
+url = "https://github.com/litentry/DynamicAssertion"
+
+[[repo]]
+url = "https://github.com/litentry/eip155-chains"
+
+[[repo]]
+url = "https://github.com/litentry/ethereum"
+
+[[repo]]
+url = "https://github.com/litentry/ethereum-tee"
+
+[[repo]]
 url = "https://github.com/litentry/europa"
 
 [[repo]]
 url = "https://github.com/litentry/evm-processor"
+missing = true
 
 [[repo]]
 url = "https://github.com/litentry/extension"
@@ -49,16 +90,35 @@ url = "https://github.com/litentry/extension"
 url = "https://github.com/litentry/fork-off-substrate"
 
 [[repo]]
+url = "https://github.com/litentry/frontier"
+
+[[repo]]
 url = "https://github.com/litentry/governance2-testnet"
 
 [[repo]]
+url = "https://github.com/litentry/hackathons"
+
+[[repo]]
+url = "https://github.com/litentry/heima"
+
+[[repo]]
 url = "https://github.com/litentry/incubator-mesatee-sgx"
+
+[[repo]]
+url = "https://github.com/litentry/integritee-dev"
+
+[[repo]]
+url = "https://github.com/litentry/integritee-frontier"
 
 [[repo]]
 url = "https://github.com/litentry/integritee-node"
 
 [[repo]]
 url = "https://github.com/litentry/integritee-pallets"
+
+[[repo]]
+url = "https://github.com/litentry/integritee-worker"
+missing = true
 
 [[repo]]
 url = "https://github.com/litentry/litentry-api"
@@ -71,6 +131,9 @@ url = "https://github.com/litentry/litentry-authenticator"
 
 [[repo]]
 url = "https://github.com/litentry/litentry-authenticator-deprecated"
+
+[[repo]]
+url = "https://github.com/litentry/litentry-blockscout"
 
 [[repo]]
 url = "https://github.com/litentry/litentry-contract"
@@ -106,10 +169,16 @@ url = "https://github.com/litentry/litentry-node"
 url = "https://github.com/litentry/litentry-offchain-worker"
 
 [[repo]]
+url = "https://github.com/litentry/litentry-oracle"
+
+[[repo]]
 url = "https://github.com/litentry/litentry-pallets"
 
 [[repo]]
 url = "https://github.com/litentry/litentry-parachain"
+
+[[repo]]
+url = "https://github.com/litentry/litentry-privacy-policy"
 
 [[repo]]
 url = "https://github.com/litentry/litentry-registrar"
@@ -136,10 +205,20 @@ url = "https://github.com/litentry/litentry-web-app"
 url = "https://github.com/litentry/litentry-web-app-yew"
 
 [[repo]]
+url = "https://github.com/litentry/litentry-website-large-pages"
+missing = true
+
+[[repo]]
+url = "https://github.com/litentry/moonbeam-vendor-rpc"
+
+[[repo]]
 url = "https://github.com/litentry/nft-scanner"
 
 [[repo]]
 url = "https://github.com/litentry/occlum"
+
+[[repo]]
+url = "https://github.com/litentry/open-runtime-module-library"
 
 [[repo]]
 url = "https://github.com/litentry/pallet-teerex"
@@ -149,6 +228,9 @@ url = "https://github.com/litentry/polka-sign-in-oauth-server"
 
 [[repo]]
 url = "https://github.com/litentry/polkadot"
+
+[[repo]]
+url = "https://github.com/litentry/polkadot-js-apps"
 
 [[repo]]
 url = "https://github.com/litentry/polkadot-k8s-operator"
@@ -163,6 +245,12 @@ url = "https://github.com/litentry/polkadot_api_cpp"
 url = "https://github.com/litentry/PolkaSignIn"
 
 [[repo]]
+url = "https://github.com/litentry/precompile-utils"
+
+[[repo]]
+url = "https://github.com/litentry/projects-info"
+
+[[repo]]
 url = "https://github.com/litentry/push-notification"
 
 [[repo]]
@@ -172,10 +260,10 @@ url = "https://github.com/litentry/research-force"
 url = "https://github.com/litentry/rethinkdb-rs"
 
 [[repo]]
-url = "https://github.com/litentry/sgx-runtime"
+url = "https://github.com/litentry/RustCrypto-RSA"
 
 [[repo]]
-url = "https://github.com/litentry/SignerVerify"
+url = "https://github.com/litentry/sgx-runtime"
 
 [[repo]]
 url = "https://github.com/litentry/squid"
@@ -184,16 +272,14 @@ url = "https://github.com/litentry/squid"
 url = "https://github.com/litentry/squid-archives"
 
 [[repo]]
+url = "https://github.com/litentry/squid-balances-test"
+missing = true
+
+[[repo]]
 url = "https://github.com/litentry/ss58-registry"
 
 [[repo]]
 url = "https://github.com/litentry/staking-payouts"
-
-[[repo]]
-url = "https://github.com/litentry/subsquid-mappings"
-
-[[repo]]
-url = "https://github.com/litentry/subsquid-mappings-khala"
 
 [[repo]]
 url = "https://github.com/litentry/substrate-api-client"
@@ -208,16 +294,26 @@ url = "https://github.com/litentry/substrate-package"
 url = "https://github.com/litentry/substrate-subxt"
 
 [[repo]]
+url = "https://github.com/litentry/tee-microservice"
+
+[[repo]]
 url = "https://github.com/litentry/tee-worker"
+
+[[repo]]
+url = "https://github.com/litentry/token-bridge-transaction-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/litentry/token-migration-node"
 
 [[repo]]
-url = "https://github.com/litentry/Web3-collaboration"
+url = "https://github.com/litentry/vc-jsonschema"
 
 [[repo]]
-url = "https://github.com/litentry/worker"
+url = "https://github.com/litentry/vc-oracle-demo"
+
+[[repo]]
+url = "https://github.com/litentry/Web3-collaboration"
 
 [[repo]]
 url = "https://github.com/litentry/xcm-demo"

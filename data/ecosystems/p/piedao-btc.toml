@@ -64,9 +64,6 @@ url = "https://github.com/pie-dao/DeFi-Pulse-Adapters"
 url = "https://github.com/pie-dao/DefiLlama-Adapters"
 
 [[repo]]
-url = "https://github.com/pie-dao/diamond-2"
-
-[[repo]]
 url = "https://github.com/pie-dao/discourse"
 
 [[repo]]
@@ -89,9 +86,6 @@ url = "https://github.com/pie-dao/eth-tailwind"
 
 [[repo]]
 url = "https://github.com/pie-dao/experinator"
-
-[[repo]]
-url = "https://github.com/pie-dao/ExperiPie"
 
 [[repo]]
 url = "https://github.com/pie-dao/flour"
@@ -130,16 +124,15 @@ url = "https://github.com/pie-dao/mint"
 url = "https://github.com/pie-dao/mint-tailwind"
 
 [[repo]]
-url = "https://github.com/pie-dao/mono"
-
-[[repo]]
 url = "https://github.com/pie-dao/monorepo"
+missing = true
 
 [[repo]]
 url = "https://github.com/pie-dao/nestjs-backend"
 
 [[repo]]
 url = "https://github.com/pie-dao/oven-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/pie-dao/pie-analysis"
@@ -185,12 +178,7 @@ url = "https://github.com/pie-dao/pie-vault-tasks"
 
 [[repo]]
 url = "https://github.com/pie-dao/piedao-scripts"
-
-[[repo]]
-url = "https://github.com/pie-dao/piedao-subgraph-development"
-
-[[repo]]
-url = "https://github.com/pie-dao/piedao-subgraph-mainnet"
+missing = true
 
 [[repo]]
 url = "https://github.com/pie-dao/pies-subgraph"
@@ -202,13 +190,13 @@ url = "https://github.com/pie-dao/PieVaults"
 url = "https://github.com/pie-dao/PIPs"
 
 [[repo]]
-url = "https://github.com/pie-dao/poke-bot"
-
-[[repo]]
 url = "https://github.com/pie-dao/pool-management"
 
 [[repo]]
 url = "https://github.com/pie-dao/pools.piedao.org"
+
+[[repo]]
+url = "https://github.com/pie-dao/pools.piedao.org-1"
 
 [[repo]]
 url = "https://github.com/pie-dao/proxied-balancer-factory"
@@ -227,6 +215,7 @@ url = "https://github.com/pie-dao/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/pie-dao/snapshot.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/pie-dao/stove"
@@ -254,9 +243,6 @@ url = "https://github.com/pie-dao/usd.piedao.org"
 
 [[repo]]
 url = "https://github.com/pie-dao/utils"
-
-[[repo]]
-url = "https://github.com/pie-dao/vaults"
 
 [[repo]]
 url = "https://github.com/pie-dao/vedough-subgraph"

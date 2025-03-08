@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Baking Bad"
 
-sub_ecosystems = []
+sub_ecosystems = ["Atomex", "DipDup", "Juster Finance", "TzKT"]
 
 github_organizations = ["https://github.com/baking-bad"]
 
@@ -11,6 +11,7 @@ url = "https://github.com/baking-bad/bakers-registry-cli"
 
 [[repo]]
 url = "https://github.com/baking-bad/bbbox"
+missing = true
 
 [[repo]]
 url = "https://github.com/baking-bad/bcd"
@@ -28,19 +29,46 @@ url = "https://github.com/baking-bad/better-call-dev"
 url = "https://github.com/baking-bad/conseilpy"
 
 [[repo]]
+url = "https://github.com/baking-bad/crypto-ecosystems"
+
+[[repo]]
 url = "https://github.com/baking-bad/developers.tezos.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/baking-bad/elastic-s3-backup"
+
+[[repo]]
+url = "https://github.com/baking-bad/etherlink"
+
+[[repo]]
+url = "https://github.com/baking-bad/etherlink-bridge"
+
+[[repo]]
+url = "https://github.com/baking-bad/etherlink-governance"
+
+[[repo]]
+url = "https://github.com/baking-bad/etherlink-sandbox"
+
+[[repo]]
+url = "https://github.com/baking-bad/etherlink-watchtower"
+
+[[repo]]
+url = "https://github.com/baking-bad/fastcrypto"
+
+[[repo]]
+url = "https://github.com/baking-bad/getrandom"
 
 [[repo]]
 url = "https://github.com/baking-bad/matrix-dotnet-sdk"
 
 [[repo]]
 url = "https://github.com/baking-bad/matrix.org"
+missing = true
 
 [[repo]]
 url = "https://github.com/baking-bad/metadata"
+missing = true
 
 [[repo]]
 url = "https://github.com/baking-bad/michelson-kernel"
@@ -52,7 +80,11 @@ url = "https://github.com/baking-bad/michelson-labs"
 url = "https://github.com/baking-bad/netezos"
 
 [[repo]]
+url = "https://github.com/baking-bad/oceanus-shard"
+
+[[repo]]
 url = "https://github.com/baking-bad/postgrest-py"
+missing = true
 
 [[repo]]
 url = "https://github.com/baking-bad/pysignalr"
@@ -61,37 +93,73 @@ url = "https://github.com/baking-bad/pysignalr"
 url = "https://github.com/baking-bad/pytezos"
 
 [[repo]]
+url = "https://github.com/baking-bad/pytezos-core"
+
+[[repo]]
 url = "https://github.com/baking-bad/pytezos-labs"
+
+[[repo]]
+url = "https://github.com/baking-bad/rollup-bridge-indexer"
 
 [[repo]]
 url = "https://github.com/baking-bad/sandboxed-node"
 
 [[repo]]
+url = "https://github.com/baking-bad/sequencer"
+
+[[repo]]
 url = "https://github.com/baking-bad/smart-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/baking-bad/smartpy-cli"
 
 [[repo]]
+url = "https://github.com/baking-bad/stone-prover"
+
+[[repo]]
 url = "https://github.com/baking-bad/suredao"
+missing = true
 
 [[repo]]
 url = "https://github.com/baking-bad/tezos-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/baking-bad/tezos-dyor"
 
 [[repo]]
+url = "https://github.com/baking-bad/tezos-etherlink-bridge-front"
+
+[[repo]]
+url = "https://github.com/baking-bad/tezos-etherlink-bridge-ts-sdk"
+
+[[repo]]
+url = "https://github.com/baking-bad/tezos-market-sdk"
+
+[[repo]]
 url = "https://github.com/baking-bad/tezos-nft-sample"
 
 [[repo]]
-url = "https://github.com/baking-bad/tezos-node"
+url = "https://github.com/baking-bad/tezos-on-tezos"
+
+[[repo]]
+url = "https://github.com/baking-bad/tezos-rust-sdk"
+
+[[repo]]
+url = "https://github.com/baking-bad/tezos-unity-game"
+
+[[repo]]
+url = "https://github.com/baking-bad/ticketer-proto"
 
 [[repo]]
 url = "https://github.com/baking-bad/tzkt"
 
 [[repo]]
 url = "https://github.com/baking-bad/tzkt-pro"
+
+[[repo]]
+url = "https://github.com/baking-bad/unity-project-structure"
 
 [[repo]]
 url = "https://github.com/baking-bad/vscode-michelson-syntax"

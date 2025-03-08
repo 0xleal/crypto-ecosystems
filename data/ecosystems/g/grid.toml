@@ -7,7 +7,7 @@ github_organizations = ["https://github.com/GridPlus"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/GridPlus/0x-monorepo"
+url = "https://github.com/alex-miller-0/0x-monorepo"
 
 [[repo]]
 url = "https://github.com/GridPlus/abi-pack-builder"
@@ -34,6 +34,9 @@ url = "https://github.com/GridPlus/bls-eth-go-binary"
 url = "https://github.com/GridPlus/boot-firmwares-artik530s"
 
 [[repo]]
+url = "https://github.com/GridPlus/borc"
+
+[[repo]]
 url = "https://github.com/GridPlus/brand-assets"
 
 [[repo]]
@@ -56,6 +59,9 @@ url = "https://github.com/GridPlus/chainabstractionlayer"
 
 [[repo]]
 url = "https://github.com/GridPlus/chains"
+
+[[repo]]
+url = "https://github.com/GridPlus/chains-lib"
 
 [[repo]]
 url = "https://github.com/GridPlus/client"
@@ -112,6 +118,9 @@ url = "https://github.com/GridPlus/gridplus-react-native-crypto"
 url = "https://github.com/GridPlus/gridplus-sdk"
 
 [[repo]]
+url = "https://github.com/GridPlus/gridplus-sdk-example"
+
+[[repo]]
 url = "https://github.com/GridPlus/heroku-buildpack-nodejs"
 
 [[repo]]
@@ -131,18 +140,29 @@ url = "https://github.com/GridPlus/kwenta"
 
 [[repo]]
 url = "https://github.com/GridPlus/lao-xiong-code-test"
+missing = true
+
+[[repo]]
+url = "https://github.com/GridPlus/lattice-cli"
 
 [[repo]]
 url = "https://github.com/GridPlus/lattice-connect"
 
 [[repo]]
-url = "https://github.com/GridPlus/lattice-connector-endpoint"
+url = "https://github.com/GridPlus/lattice-connect-v2"
 
 [[repo]]
-url = "https://github.com/GridPlus/lattice-firmware-history"
+url = "https://github.com/GridPlus/lattice-eth2-utils"
+
+[[repo]]
+url = "https://github.com/GridPlus/lattice-gce-releases"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/lattice-manager"
+
+[[repo]]
+url = "https://github.com/GridPlus/lattice-software-releases"
 
 [[repo]]
 url = "https://github.com/GridPlus/level"
@@ -175,6 +195,9 @@ url = "https://github.com/GridPlus/metamask-mobile"
 url = "https://github.com/GridPlus/micro-ecc"
 
 [[repo]]
+url = "https://github.com/GridPlus/mqtt-backup-job"
+
+[[repo]]
 url = "https://github.com/GridPlus/MQTT.js"
 
 [[repo]]
@@ -191,18 +214,27 @@ url = "https://github.com/GridPlus/pc_simulator_sdl_eclipse"
 
 [[repo]]
 url = "https://github.com/GridPlus/phonon-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/phonon-card"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/phonon-client"
+missing = true
 
 [[repo]]
-url = "https://github.com/GridPlus/phonon-network"
+url = "https://github.com/GridPlus/phonon-protocol"
+missing = true
+
+[[repo]]
+url = "https://github.com/GridPlus/phonon-roadmap"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/phonon-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/plasma-mysql"
@@ -265,10 +297,11 @@ url = "https://github.com/GridPlus/snapshot"
 url = "https://github.com/GridPlus/station-extension"
 
 [[repo]]
-url = "https://github.com/GridPlus/status-keycard"
+url = "https://github.com/GridPlus/sushiswap-classic-exchange"
+missing = true
 
 [[repo]]
-url = "https://github.com/GridPlus/sushiswap-classic-exchange"
+url = "https://github.com/GridPlus/taho-extension"
 
 [[repo]]
 url = "https://github.com/GridPlus/test-dapp"
@@ -301,9 +334,6 @@ url = "https://github.com/GridPlus/utxo-token"
 url = "https://github.com/GridPlus/wallet"
 
 [[repo]]
-url = "https://github.com/GridPlus/wallet-web"
-
-[[repo]]
 url = "https://github.com/GridPlus/wallets"
 
 [[repo]]
@@ -311,6 +341,7 @@ url = "https://github.com/GridPlus/web3-react"
 
 [[repo]]
 url = "https://github.com/GridPlus/webapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/wolfssl"

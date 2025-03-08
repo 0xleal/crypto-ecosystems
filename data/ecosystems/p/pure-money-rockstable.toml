@@ -22,10 +22,16 @@ url = "https://github.com/PureMoney/express-oauth-server"
 url = "https://github.com/PureMoney/hdwallet-provider"
 
 [[repo]]
+url = "https://github.com/PureMoney/inflation-resistant-stablecoin"
+
+[[repo]]
 url = "https://github.com/PureMoney/Kubernetes-Starter-Kit-Developers"
 
 [[repo]]
 url = "https://github.com/PureMoney/liquity"
+
+[[repo]]
+url = "https://github.com/PureMoney/MengerianMoney"
 
 [[repo]]
 url = "https://github.com/PureMoney/neon-evm"
@@ -40,10 +46,19 @@ url = "https://github.com/PureMoney/Nethereum"
 url = "https://github.com/PureMoney/node-oauth2-server"
 
 [[repo]]
+url = "https://github.com/PureMoney/octane"
+
+[[repo]]
+url = "https://github.com/PureMoney/payment-system-contracts"
+
+[[repo]]
 url = "https://github.com/PureMoney/POS"
 
 [[repo]]
 url = "https://github.com/PureMoney/provider-engine"
+
+[[repo]]
+url = "https://github.com/PureMoney/react-coinbase-commerce"
 
 [[repo]]
 url = "https://github.com/PureMoney/react-typescript-chrome-extension-boilerplate"

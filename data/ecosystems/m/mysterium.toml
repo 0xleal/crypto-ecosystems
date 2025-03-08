@@ -3,9 +3,12 @@ title = "Mysterium"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/MysteriumNetwork"]
+github_organizations = ["https://github.com/mysteriumnetwork"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/mysteriumnetwork/ansible-role-myst"
+
 [[repo]]
 url = "https://github.com/mysteriumnetwork/api"
 
@@ -17,9 +20,13 @@ url = "https://github.com/mysteriumnetwork/AVADO-DNP-Mysterium-Server"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/bounty_transfers"
+missing = true
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/caddy-docker"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/cocoapodspecs"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/code-sign-action"
@@ -31,10 +38,19 @@ url = "https://github.com/mysteriumnetwork/config"
 url = "https://github.com/MysteriumNetwork/contracts"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/coredns"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/crawlers-examples"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/devbook"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/discovery"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/docker-haproxy-certbot"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/docs"
@@ -58,6 +74,9 @@ url = "https://github.com/mysteriumnetwork/electron-webpack"
 url = "https://github.com/mysteriumnetwork/envsubst"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/ethcheck"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/ethdiff"
 
 [[repo]]
@@ -65,6 +84,7 @@ url = "https://github.com/mysteriumnetwork/EventBus"
 
 [[repo]]
 url = "https://github.com/MysteriumNetwork/events"
+missing = true
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/everssl"
@@ -103,6 +123,9 @@ url = "https://github.com/mysteriumnetwork/go-rest"
 url = "https://github.com/mysteriumnetwork/go-virtualbox"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/go-win64api"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/go-wmi"
 
 [[repo]]
@@ -113,6 +136,9 @@ url = "https://github.com/mysteriumnetwork/gowinlog"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/gvisor"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/gvisor-legacy"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/hyperv-myst-provision"
@@ -136,7 +162,13 @@ url = "https://github.com/mysteriumnetwork/metrics"
 url = "https://github.com/mysteriumnetwork/mips"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/mmn-blog"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/mongobackup"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/msix"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/myst-dappnode-pkg"
@@ -148,25 +180,30 @@ url = "https://github.com/mysteriumnetwork/myst-launcher"
 url = "https://github.com/mysteriumnetwork/myst-launcher-osx"
 
 [[repo]]
-url = "https://github.com/mysteriumnetwork/myst-telegram-bot"
+url = "https://github.com/mysteriumnetwork/myst-launcher-release"
 
 [[repo]]
-url = "https://github.com/MysteriumNetwork/mysterion"
+url = "https://github.com/mysteriumnetwork/myst-telegram-bot"
 
 [[repo]]
 url = "https://github.com/MysteriumNetwork/mysterium-checkbot"
 
 [[repo]]
-url = "https://github.com/mysteriumnetwork/mysterium-logger"
+url = "https://github.com/mysteriumnetwork/mysterium-events"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/mysterium-mobile-provider"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/mysterium-vpn"
+missing = true
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/mysterium-vpn-desktop"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/mysterium-vpn-ios"
+missing = true
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/mysterium-vpn-js"
@@ -175,7 +212,7 @@ url = "https://github.com/mysteriumnetwork/mysterium-vpn-js"
 url = "https://github.com/mysteriumnetwork/mysterium-vpn-mobile"
 
 [[repo]]
-url = "https://github.com/mysteriumnetwork/mysterium-vpn2"
+url = "https://github.com/mysteriumnetwork/mysterium-vpn-release"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/MysteriumTests"
@@ -229,10 +266,15 @@ url = "https://github.com/mysteriumnetwork/pgbackup"
 url = "https://github.com/mysteriumnetwork/pgpbackup"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/pm2"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/research"
+missing = true
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/rewarder"
+missing = true
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/rewarder-smart-contracts"
@@ -247,16 +289,23 @@ url = "https://github.com/mysteriumnetwork/screensavers"
 url = "https://github.com/mysteriumnetwork/scylla-octopus"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/specs"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/tequilapi-webapp-tutorial"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/terms"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/token"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/token-v2"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/tokens-sender"
+missing = true
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/vend"
@@ -266,6 +315,7 @@ url = "https://github.com/mysteriumnetwork/vmbackup"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/vue-svg-loader"
+missing = true
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/w32"
@@ -280,7 +330,22 @@ url = "https://github.com/mysteriumnetwork/winter-is-coming"
 url = "https://github.com/mysteriumnetwork/winter-server"
 
 [[repo]]
+url = "https://github.com/mysteriumnetwork/wireguard-apple"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/wireguard-dart-sdk"
+
+[[repo]]
 url = "https://github.com/mysteriumnetwork/wireguard-go"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/wireguard_dart"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/wireguard_svc"
+
+[[repo]]
+url = "https://github.com/mysteriumnetwork/wireproxy"
 
 [[repo]]
 url = "https://github.com/mysteriumnetwork/workshop"

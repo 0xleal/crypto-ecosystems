@@ -16,13 +16,24 @@ url = "https://github.com/perpetual-protocol/assets"
 url = "https://github.com/perpetual-protocol/configurable-rights-pool"
 
 [[repo]]
+url = "https://github.com/perpetual-protocol/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/perpetual-protocol/ethereum-optimism.github.io"
+
+[[repo]]
 url = "https://github.com/perpetual-protocol/examples"
+
+[[repo]]
+url = "https://github.com/perpetual-protocol/immunefi-14204"
+missing = true
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-admin-safe-app"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-arbitrageur"
+missing = true
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-bounties"
@@ -55,13 +66,16 @@ url = "https://github.com/perpetual-protocol/perp-curie-periphery-contract"
 url = "https://github.com/perpetual-protocol/perp-curie-subgraph"
 
 [[repo]]
+url = "https://github.com/perpetual-protocol/perp-curie-vault-example"
+
+[[repo]]
+url = "https://github.com/perpetual-protocol/perp-docs"
+
+[[repo]]
 url = "https://github.com/perpetual-protocol/perp-lite"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-maker"
-
-[[repo]]
-url = "https://github.com/perpetual-protocol/perp-oracle"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-oracle-contract"
@@ -76,7 +90,7 @@ url = "https://github.com/perpetual-protocol/Perp-Press-Kit"
 url = "https://github.com/perpetual-protocol/perp-referral-contracts"
 
 [[repo]]
-url = "https://github.com/perpetual-protocol/perp-sdk"
+url = "https://github.com/perpetual-protocol/perp-v1-buyback"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-v2-referral-dashboard"
@@ -103,10 +117,20 @@ url = "https://github.com/perpetual-protocol/snapshot-spaces"
 url = "https://github.com/perpetual-protocol/snapshot.js"
 
 [[repo]]
+url = "https://github.com/perpetual-protocol/uniswap-v3-pools"
+
+[[repo]]
 url = "https://github.com/perpetual-protocol/use-ethereum"
+
+[[repo]]
+url = "https://github.com/perpetual-protocol/vault-kit-themed"
+missing = true
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/voting-escrow"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/ygift-ui"
+
+[[repo]]
+url = "https://github.com/perpetual-protocol/yield-server"

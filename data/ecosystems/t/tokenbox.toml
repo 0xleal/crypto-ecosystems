@@ -43,10 +43,10 @@ url = "https://github.com/zeriontech/defi-sdk-js-archived"
 url = "https://github.com/zeriontech/defi-sdk-py"
 
 [[repo]]
-url = "https://github.com/zeriontech/DTX"
+url = "https://github.com/zeriontech/DefiLlama-Adapters"
 
 [[repo]]
-url = "https://github.com/zeriontech/Encrypted-Ink"
+url = "https://github.com/zeriontech/DTX"
 
 [[repo]]
 url = "https://github.com/zeriontech/erc725alliance.github.io"
@@ -67,10 +67,16 @@ url = "https://github.com/zeriontech/frontend-registry"
 url = "https://github.com/zeriontech/genesis-collection-contracts"
 
 [[repo]]
-url = "https://github.com/zeriontech/genesis-collection-nft"
+url = "https://github.com/zeriontech/ginzap"
 
 [[repo]]
-url = "https://github.com/zeriontech/ginzap"
+url = "https://github.com/zeriontech/go-ethereum"
+
+[[repo]]
+url = "https://github.com/zeriontech/google-wire"
+
+[[repo]]
+url = "https://github.com/zeriontech/hardware-wallet-connection"
 
 [[repo]]
 url = "https://github.com/zeriontech/inmediate-contracts"
@@ -80,6 +86,7 @@ url = "https://github.com/zeriontech/nexo-token-smart-contracts"
 
 [[repo]]
 url = "https://github.com/zeriontech/payment_processor_documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/zeriontech/qchain-smart-contracts"
@@ -95,6 +102,9 @@ url = "https://github.com/zeriontech/slackin"
 
 [[repo]]
 url = "https://github.com/zeriontech/socialite-zerion"
+
+[[repo]]
+url = "https://github.com/zeriontech/solana-swift"
 
 [[repo]]
 url = "https://github.com/zeriontech/tcomb-prod"
@@ -130,6 +140,12 @@ url = "https://github.com/zeriontech/trueflip-smart-contracts"
 url = "https://github.com/zeriontech/try-ethereum"
 
 [[repo]]
+url = "https://github.com/zeriontech/wallet-core-android"
+
+[[repo]]
+url = "https://github.com/zeriontech/wallet-core-ios"
+
+[[repo]]
 url = "https://github.com/zeriontech/waves-presale"
 
 [[repo]]
@@ -143,3 +159,6 @@ url = "https://github.com/zeriontech/yc2019"
 
 [[repo]]
 url = "https://github.com/zeriontech/zerion-analytics"
+
+[[repo]]
+url = "https://github.com/zeriontech/zerion-wallet-extension"

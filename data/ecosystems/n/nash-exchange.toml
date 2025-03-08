@@ -41,6 +41,9 @@ url = "https://github.com/nash-io/btcdeb"
 url = "https://github.com/nash-io/cargo-release-action"
 
 [[repo]]
+url = "https://github.com/nash-io/covertool"
+
+[[repo]]
 url = "https://github.com/nash-io/crypto_compare"
 
 [[repo]]
@@ -48,6 +51,9 @@ url = "https://github.com/nash-io/discourse"
 
 [[repo]]
 url = "https://github.com/nash-io/discourse_api"
+
+[[repo]]
+url = "https://github.com/nash-io/elixir-browser"
 
 [[repo]]
 url = "https://github.com/nash-io/email_guard"
@@ -65,7 +71,17 @@ url = "https://github.com/nash-io/get_ip_intel"
 url = "https://github.com/nash-io/gommap"
 
 [[repo]]
+url = "https://github.com/nash-io/graphiql-workspace"
+
+[[repo]]
+url = "https://github.com/nash-io/hammer"
+
+[[repo]]
+url = "https://github.com/nash-io/hammer-backend-redis"
+
+[[repo]]
 url = "https://github.com/nash-io/hosts"
+missing = true
 
 [[repo]]
 url = "https://github.com/nash-io/http_client"
@@ -152,7 +168,11 @@ url = "https://github.com/nash-io/paper_trail"
 url = "https://github.com/nash-io/phishing"
 
 [[repo]]
+url = "https://github.com/nash-io/pigeon"
+
+[[repo]]
 url = "https://github.com/nash-io/psp_template"
+missing = true
 
 [[repo]]
 url = "https://github.com/nash-io/public-mpc-wallet"
@@ -189,6 +209,9 @@ url = "https://github.com/nash-io/rust-paillier"
 
 [[repo]]
 url = "https://github.com/nash-io/scrivener_ecto"
+
+[[repo]]
+url = "https://github.com/nash-io/scrypt_elixir"
 
 [[repo]]
 url = "https://github.com/nash-io/sendinblue"
@@ -296,19 +319,7 @@ url = "https://github.com/NeoResearch/csbiginteger-js"
 url = "https://github.com/NeoResearch/csbiginteger-py"
 
 [[repo]]
-url = "https://github.com/NeoResearch/csBigInteger.cpp"
-
-[[repo]]
-url = "https://github.com/NeoResearch/csBigInteger.js"
-
-[[repo]]
-url = "https://github.com/NeoResearch/csBigInteger.py"
-
-[[repo]]
 url = "https://github.com/NeoResearch/dappgram"
-
-[[repo]]
-url = "https://github.com/NeoResearch/dbft-report"
 
 [[repo]]
 url = "https://github.com/NeoResearch/dbft3-specification"
@@ -389,9 +400,6 @@ url = "https://github.com/NeoResearch/neo2-yellowpaper"
 url = "https://github.com/NeoResearch/neo3"
 
 [[repo]]
-url = "https://github.com/NeoResearch/neo3-cpp-core"
-
-[[repo]]
 url = "https://github.com/NeoResearch/neo3compiler-eco"
 
 [[repo]]
@@ -462,6 +470,3 @@ url = "https://github.com/NeoResearch/specification-neo3.0"
 
 [[repo]]
 url = "https://github.com/NeoResearch/templates-coding-patterns"
-
-[[repo]]
-url = "https://github.com/NeoResearch/yellowpaper"

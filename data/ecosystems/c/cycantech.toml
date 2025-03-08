@@ -13,10 +13,23 @@ url = "https://github.com/CycanTech/apps"
 url = "https://github.com/CycanTech/assets"
 
 [[repo]]
+url = "https://github.com/CycanTech/ChainBridge"
+
+[[repo]]
+url = "https://github.com/CycanTech/chainbridge-substrate-events"
+
+[[repo]]
+url = "https://github.com/CycanTech/chainbridge-utils"
+
+[[repo]]
+url = "https://github.com/CycanTech/Cycan"
+
+[[repo]]
 url = "https://github.com/CycanTech/cycan-uikit"
 
 [[repo]]
 url = "https://github.com/CycanTech/CycanNetwork"
+missing = true
 
 [[repo]]
 url = "https://github.com/CycanTech/cycanswap-sdk"
@@ -26,18 +39,26 @@ url = "https://github.com/CycanTech/CycanWallet"
 
 [[repo]]
 url = "https://github.com/CycanTech/Cyloan"
+missing = true
 
 [[repo]]
 url = "https://github.com/CycanTech/Cyreward"
+missing = true
 
 [[repo]]
 url = "https://github.com/CycanTech/Cyswap"
 
 [[repo]]
 url = "https://github.com/CycanTech/DAT"
+missing = true
+
+[[repo]]
+url = "https://github.com/CycanTech/Django3-Web"
+missing = true
 
 [[repo]]
 url = "https://github.com/CycanTech/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/CycanTech/ELC"
@@ -56,9 +77,14 @@ url = "https://github.com/CycanTech/eslint-config-cycan"
 
 [[repo]]
 url = "https://github.com/CycanTech/EverlastingNetwork"
+missing = true
+
+[[repo]]
+url = "https://github.com/CycanTech/frontier"
 
 [[repo]]
 url = "https://github.com/CycanTech/Grant-Milestone-Delivery"
+missing = true
 
 [[repo]]
 url = "https://github.com/CycanTech/GVM-Bridge"
@@ -71,18 +97,28 @@ url = "https://github.com/CycanTech/HippoWebsite"
 
 [[repo]]
 url = "https://github.com/CycanTech/Open-Grants-Program"
+missing = true
 
 [[repo]]
 url = "https://github.com/CycanTech/OpenFarmerOnAnchor"
+missing = true
 
 [[repo]]
 url = "https://github.com/CycanTech/patract-open-platform-program"
 
 [[repo]]
 url = "https://github.com/CycanTech/PolkaRobot"
+missing = true
 
 [[repo]]
 url = "https://github.com/CycanTech/store-contracts"
 
 [[repo]]
+url = "https://github.com/CycanTech/substrate"
+
+[[repo]]
 url = "https://github.com/CycanTech/tokens"
+
+[[repo]]
+url = "https://github.com/CycanTech/uniswapv3ink"
+missing = true

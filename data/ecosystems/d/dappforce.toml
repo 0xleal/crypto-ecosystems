@@ -7,7 +7,22 @@ github_organizations = ["https://github.com/dappforce"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/dappforce/bounties"
+url = "https://github.com/dappforce/awesome-subsocial"
+
+[[repo]]
+url = "https://github.com/dappforce/blockmeta"
+
+[[repo]]
+url = "https://github.com/dappforce/bridge"
+
+[[repo]]
+url = "https://github.com/dappforce/copyright-check"
+
+[[repo]]
+url = "https://github.com/dappforce/copyright-checker"
+
+[[repo]]
+url = "https://github.com/dappforce/customer-feedback-aggregator"
 
 [[repo]]
 url = "https://github.com/dappforce/dappforce-subsocial-faucet-bot"
@@ -37,13 +52,34 @@ url = "https://github.com/dappforce/devgrants"
 url = "https://github.com/dappforce/encointer-wallet-flutter"
 
 [[repo]]
+url = "https://github.com/dappforce/energy-faucet"
+
+[[repo]]
+url = "https://github.com/dappforce/epic-app"
+
+[[repo]]
+url = "https://github.com/dappforce/grill-notifications-service"
+
+[[repo]]
+url = "https://github.com/dappforce/grillchat"
+
+[[repo]]
+url = "https://github.com/dappforce/grillchat-light-ui"
+
+[[repo]]
 url = "https://github.com/dappforce/hydra"
 
 [[repo]]
 url = "https://github.com/dappforce/js-docs"
 
 [[repo]]
+url = "https://github.com/dappforce/light-grillchat"
+
+[[repo]]
 url = "https://github.com/dappforce/moonbeam"
+
+[[repo]]
+url = "https://github.com/dappforce/playground"
 
 [[repo]]
 url = "https://github.com/dappforce/polkadot"
@@ -52,10 +88,37 @@ url = "https://github.com/dappforce/polkadot"
 url = "https://github.com/dappforce/polkadot-apps"
 
 [[repo]]
+url = "https://github.com/dappforce/polkastats-ng"
+
+[[repo]]
+url = "https://github.com/dappforce/polkastats-subsocial"
+
+[[repo]]
+url = "https://github.com/dappforce/polkaverse"
+
+[[repo]]
+url = "https://github.com/dappforce/post4ever"
+
+[[repo]]
 url = "https://github.com/dappforce/rust-docs"
 
 [[repo]]
 url = "https://github.com/dappforce/statemine-token-lists"
+
+[[repo]]
+url = "https://github.com/dappforce/statescan-v2"
+
+[[repo]]
+url = "https://github.com/dappforce/sub-id-aggregator"
+
+[[repo]]
+url = "https://github.com/dappforce/subid"
+
+[[repo]]
+url = "https://github.com/dappforce/subid-api"
+
+[[repo]]
+url = "https://github.com/dappforce/subid-bridge"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial"
@@ -64,13 +127,19 @@ url = "https://github.com/dappforce/subsocial"
 url = "https://github.com/dappforce/subsocial-angular"
 
 [[repo]]
-url = "https://github.com/dappforce/subsocial-angular-example"
+url = "https://github.com/dappforce/subsocial-angular-template"
+
+[[repo]]
+url = "https://github.com/dappforce/subsocial-assests"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-bounties"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-contests"
+
+[[repo]]
+url = "https://github.com/dappforce/subsocial-data-hub-sdk"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-discord-bot"
@@ -80,6 +149,7 @@ url = "https://github.com/dappforce/subsocial-docs"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-flutter"
@@ -94,19 +164,30 @@ url = "https://github.com/dappforce/subsocial-graphql"
 url = "https://github.com/dappforce/subsocial-js"
 
 [[repo]]
-url = "https://github.com/dappforce/subsocial-node"
+url = "https://github.com/dappforce/subsocial-js-2"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-offchain"
 
 [[repo]]
+url = "https://github.com/dappforce/subsocial-offchain-1"
+missing = true
+
+[[repo]]
 url = "https://github.com/dappforce/subsocial-parachain"
 
 [[repo]]
-url = "https://github.com/dappforce/subsocial-react-example"
+url = "https://github.com/dappforce/subsocial-react-native"
 
 [[repo]]
-url = "https://github.com/dappforce/subsocial-react-native"
+url = "https://github.com/dappforce/subsocial-react-template"
+
+[[repo]]
+url = "https://github.com/dappforce/subsocial-solochain"
+
+[[repo]]
+url = "https://github.com/dappforce/subsocial-squid"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-starter"
@@ -115,7 +196,7 @@ url = "https://github.com/dappforce/subsocial-starter"
 url = "https://github.com/dappforce/subsocial-telegram-bot"
 
 [[repo]]
-url = "https://github.com/dappforce/subsocial-vue-example"
+url = "https://github.com/dappforce/subsocial-vue-template"
 
 [[repo]]
 url = "https://github.com/dappforce/subsocial-web-app"
@@ -134,3 +215,9 @@ url = "https://github.com/dappforce/twitter-example"
 
 [[repo]]
 url = "https://github.com/dappforce/Web3-collaboration"
+
+[[repo]]
+url = "https://github.com/dappforce/x-seller-squid"
+
+[[repo]]
+url = "https://github.com/dappforce/xsocial-testnet"

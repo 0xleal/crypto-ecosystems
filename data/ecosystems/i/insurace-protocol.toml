@@ -10,7 +10,11 @@ github_organizations = ["https://github.com/InsurAce-Protocol"]
 url = "https://github.com/InsurAce-Protocol/Announcements"
 
 [[repo]]
+url = "https://github.com/InsurAce-Protocol/app-plugin-insurace"
+
+[[repo]]
 url = "https://github.com/InsurAce-Protocol/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/contract-metadata"
@@ -22,6 +26,9 @@ url = "https://github.com/InsurAce-Protocol/DeFi-Pulse-Adapters"
 url = "https://github.com/InsurAce-Protocol/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/InsurAce-Protocol/ethr-status-registry"
+
+[[repo]]
 url = "https://github.com/InsurAce-Protocol/insurace-integration"
 
 [[repo]]
@@ -29,12 +36,26 @@ url = "https://github.com/InsurAce-Protocol/insurace-lbp"
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/projects"
+missing = true
+
+[[repo]]
+url = "https://github.com/InsurAce-Protocol/revocation-registry"
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/token-profile"
+missing = true
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/tokenlists"
+missing = true
+
+[[repo]]
+url = "https://github.com/InsurAce-Protocol/tokenomics-V2-contract-for-auditing"
+missing = true
 
 [[repo]]
 url = "https://github.com/InsurAce-Protocol/tokens"
+missing = true
+
+[[repo]]
+url = "https://github.com/InsurAce-Protocol/zapper-studio"

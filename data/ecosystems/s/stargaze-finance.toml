@@ -1,0 +1,10 @@
+# Ecosystem Level Information
+title = "Stargaze Finance"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/stargazeFi"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/stargazeFi/app"

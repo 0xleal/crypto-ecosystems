@@ -10,6 +10,15 @@ github_organizations = ["https://github.com/thesis"]
 url = "https://github.com/thesis/.github"
 
 [[repo]]
+url = "https://github.com/thesis/acre"
+
+[[repo]]
+url = "https://github.com/thesis/acre-ledger-app"
+
+[[repo]]
+url = "https://github.com/thesis/acre-ledger-hw-app"
+
+[[repo]]
 url = "https://github.com/thesis/airbitz-plugins"
 
 [[repo]]
@@ -23,6 +32,9 @@ url = "https://github.com/thesis/bernhard"
 
 [[repo]]
 url = "https://github.com/thesis/best-python-log-formatter"
+
+[[repo]]
+url = "https://github.com/thesis/bishop"
 
 [[repo]]
 url = "https://github.com/thesis/bitcoin-utxos"
@@ -49,6 +61,18 @@ url = "https://github.com/thesis/clj-webdriver"
 url = "https://github.com/thesis/coinbase_python"
 
 [[repo]]
+url = "https://github.com/thesis/curve-assets"
+
+[[repo]]
+url = "https://github.com/thesis/curve-external-integrations"
+
+[[repo]]
+url = "https://github.com/thesis/dapp-template"
+
+[[repo]]
+url = "https://github.com/thesis/Defense_Technical_Assessment"
+
+[[repo]]
 url = "https://github.com/thesis/django-auditlog"
 
 [[repo]]
@@ -56,6 +80,12 @@ url = "https://github.com/thesis/docker-bitcoind"
 
 [[repo]]
 url = "https://github.com/thesis/docker-buildpack"
+
+[[repo]]
+url = "https://github.com/thesis/erc4626"
+
+[[repo]]
+url = "https://github.com/thesis/ERC4626-Contracts"
 
 [[repo]]
 url = "https://github.com/thesis/eslint-config"
@@ -67,6 +97,9 @@ url = "https://github.com/thesis/eslint-config-typescript"
 url = "https://github.com/thesis/gcp-storage-bucket-action"
 
 [[repo]]
+url = "https://github.com/thesis/ghost-edition-theme-mailchimp"
+
+[[repo]]
 url = "https://github.com/thesis/github-action-create-annotations"
 
 [[repo]]
@@ -76,10 +109,19 @@ url = "https://github.com/thesis/grin-docker"
 url = "https://github.com/thesis/groovehq"
 
 [[repo]]
-url = "https://github.com/thesis/heimdall"
+url = "https://github.com/thesis/hardhat-helpers"
 
 [[repo]]
 url = "https://github.com/thesis/helm-charts-old"
+
+[[repo]]
+url = "https://github.com/thesis/hubot"
+
+[[repo]]
+url = "https://github.com/thesis/hubot-chat-testing"
+
+[[repo]]
+url = "https://github.com/thesis/hubot-discord"
 
 [[repo]]
 url = "https://github.com/thesis/hubot-even-better-help"
@@ -88,10 +130,25 @@ url = "https://github.com/thesis/hubot-even-better-help"
 url = "https://github.com/thesis/hubot-flowdock"
 
 [[repo]]
+url = "https://github.com/thesis/hubot-matrix"
+
+[[repo]]
+url = "https://github.com/thesis/hubot-shipit"
+
+[[repo]]
+url = "https://github.com/thesis/hubot-test-helper"
+
+[[repo]]
 url = "https://github.com/thesis/kube-dash"
 
 [[repo]]
 url = "https://github.com/thesis/lnd"
+
+[[repo]]
+url = "https://github.com/thesis/matrix-embed-widget"
+
+[[repo]]
+url = "https://github.com/thesis/mezo-dune-query"
 
 [[repo]]
 url = "https://github.com/thesis/natural-cron.js"
@@ -163,6 +220,9 @@ url = "https://github.com/thesis/socketIO-client"
 url = "https://github.com/thesis/sockfilter"
 
 [[repo]]
+url = "https://github.com/thesis/solhint-config"
+
+[[repo]]
 url = "https://github.com/thesis/solidity-contracts"
 
 [[repo]]
@@ -182,6 +242,12 @@ url = "https://github.com/thesis/terraform-module-template-repo"
 
 [[repo]]
 url = "https://github.com/thesis/testnet-python"
+
+[[repo]]
+url = "https://github.com/thesis/valkyrie"
+
+[[repo]]
+url = "https://github.com/thesis/valkyrie-thread-action"
 
 [[repo]]
 url = "https://github.com/thesis/vim-solidity"

@@ -3,80 +3,35 @@ title = "DeFi Saver"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/DecenterApps"]
+github_organizations = ["https://github.com/defisaver"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/DecenterApps/colonyHackathon"
+url = "https://github.com/defisaver/automation-sdk"
 
 [[repo]]
-url = "https://github.com/DecenterApps/community-gateway"
+url = "https://github.com/defisaver/curve-js"
 
 [[repo]]
-url = "https://github.com/DecenterApps/cosmos-sdk"
+url = "https://github.com/defisaver/DefiLlama-Adapters"
 
 [[repo]]
-url = "https://github.com/DecenterApps/Cryptage"
+url = "https://github.com/defisaver/defisaver-forkooor"
 
 [[repo]]
-url = "https://github.com/DecenterApps/CryptageCodeRedeem"
+url = "https://github.com/defisaver/defisaver-positions-sdk"
 
 [[repo]]
-url = "https://github.com/DecenterApps/CryptoBubbles"
+url = "https://github.com/defisaver/defisaver-sdk"
 
 [[repo]]
-url = "https://github.com/DecenterApps/Cryptographics"
+url = "https://github.com/defisaver/defisaver-token-icons"
 
 [[repo]]
-url = "https://github.com/DecenterApps/DappBoilerplate"
+url = "https://github.com/defisaver/defisaver-tokens"
 
 [[repo]]
-url = "https://github.com/DecenterApps/DAppStats"
+url = "https://github.com/defisaver/defisaver-v3-contracts"
 
 [[repo]]
-url = "https://github.com/DecenterApps/DeFi-Pulse-Adapters"
-
-[[repo]]
-url = "https://github.com/DecenterApps/DefiLlama-Adapters"
-
-[[repo]]
-url = "https://github.com/DecenterApps/defisaver-contracts"
-
-[[repo]]
-url = "https://github.com/DecenterApps/defisaver-open-defi-hackathon"
-
-[[repo]]
-url = "https://github.com/DecenterApps/defisaver-sdk"
-
-[[repo]]
-url = "https://github.com/DecenterApps/defisaver-tokens"
-
-[[repo]]
-url = "https://github.com/DecenterApps/defisaver-v3-contracts"
-
-[[repo]]
-url = "https://github.com/DecenterApps/EthPixel"
-
-[[repo]]
-url = "https://github.com/DecenterApps/Extend"
-
-[[repo]]
-url = "https://github.com/DecenterApps/HashAuction"
-
-[[repo]]
-url = "https://github.com/DecenterApps/LAF"
-
-[[repo]]
-url = "https://github.com/DecenterApps/MatchChannels"
-
-[[repo]]
-url = "https://github.com/DecenterApps/OpenKompany"
-
-[[repo]]
-url = "https://github.com/DecenterApps/Selenean"
-
-[[repo]]
-url = "https://github.com/DecenterApps/Smart-Hackathon-DApp"
-
-[[repo]]
-url = "https://github.com/DecenterApps/UpgradableContractsBoilerplate"
+url = "https://github.com/defisaver/ethbg-war-room"

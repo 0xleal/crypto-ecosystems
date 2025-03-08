@@ -29,6 +29,7 @@ url = "https://github.com/flowchain/devify-server"
 
 [[repo]]
 url = "https://github.com/flowchain/dextoken-community"
+missing = true
 
 [[repo]]
 url = "https://github.com/flowchain/fb0"
@@ -58,6 +59,9 @@ url = "https://github.com/flowchain/flowchain-rtos"
 url = "https://github.com/flowchain/flowchain-sim"
 
 [[repo]]
+url = "https://github.com/flowchain/flowchain.org"
+
+[[repo]]
 url = "https://github.com/flowchain/fully-homomorphic-encryption"
 
 [[repo]]
@@ -68,9 +72,6 @@ url = "https://github.com/flowchain/node-p2p-chord"
 
 [[repo]]
 url = "https://github.com/flowchain/node-redis"
-
-[[repo]]
-url = "https://github.com/flowchain/nrf52840-mdk"
 
 [[repo]]
 url = "https://github.com/flowchain/nrf52840-mdk-getting-started"

@@ -7,18 +7,6 @@ github_organizations = ["https://github.com/LayerXcom"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/LayerXcom/anonify"
-
-[[repo]]
-url = "https://github.com/LayerXcom/anonify-book"
-
-[[repo]]
-url = "https://github.com/LayerXcom/anonify-book-en"
-
-[[repo]]
-url = "https://github.com/LayerXcom/anonify-contracts"
-
-[[repo]]
 url = "https://github.com/LayerXcom/aws-vpc-with-terraform"
 
 [[repo]]
@@ -79,6 +67,12 @@ url = "https://github.com/LayerXcom/fc-web"
 url = "https://github.com/LayerXcom/freee-go"
 
 [[repo]]
+url = "https://github.com/LayerXcom/go-mysql"
+
+[[repo]]
+url = "https://github.com/LayerXcom/gorm"
+
+[[repo]]
 url = "https://github.com/LayerXcom/gram"
 
 [[repo]]
@@ -115,6 +109,9 @@ url = "https://github.com/LayerXcom/load-balancing"
 url = "https://github.com/LayerXcom/lx-sonic"
 
 [[repo]]
+url = "https://github.com/LayerXcom/next-navigation-guard"
+
+[[repo]]
 url = "https://github.com/LayerXcom/oo7"
 
 [[repo]]
@@ -125,6 +122,9 @@ url = "https://github.com/LayerXcom/plasma-mvp-vyper"
 
 [[repo]]
 url = "https://github.com/LayerXcom/polkadot.rs"
+
+[[repo]]
+url = "https://github.com/LayerXcom/pr-agent"
 
 [[repo]]
 url = "https://github.com/LayerXcom/prysm"
@@ -139,10 +139,16 @@ url = "https://github.com/LayerXcom/research-hunt-contract"
 url = "https://github.com/LayerXcom/safety-oracle"
 
 [[repo]]
+url = "https://github.com/LayerXcom/scim-examples"
+
+[[repo]]
 url = "https://github.com/LayerXcom/snarks-voting"
 
 [[repo]]
 url = "https://github.com/LayerXcom/stark-sol"
+
+[[repo]]
+url = "https://github.com/LayerXcom/terraform-provider-azuread"
 
 [[repo]]
 url = "https://github.com/LayerXcom/verified-plasma-contracts"

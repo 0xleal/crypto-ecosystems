@@ -17,6 +17,7 @@ url = "https://github.com/Coinversation/coinpro_erc20"
 
 [[repo]]
 url = "https://github.com/Coinversation/coinversation-compound"
+missing = true
 
 [[repo]]
 url = "https://github.com/Coinversation/coinversation-wasms"
@@ -26,6 +27,7 @@ url = "https://github.com/Coinversation/coinversation-website-en"
 
 [[repo]]
 url = "https://github.com/Coinversation/coinversation_dapp_ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/Coinversation/coinversation_server"
@@ -35,6 +37,9 @@ url = "https://github.com/Coinversation/Coinversation_token"
 
 [[repo]]
 url = "https://github.com/Coinversation/coinversation_website"
+
+[[repo]]
+url = "https://github.com/Coinversation/crowd_funding_dao_web_static"
 
 [[repo]]
 url = "https://github.com/Coinversation/cumulus"

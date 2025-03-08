@@ -7,7 +7,13 @@ github_organizations = ["https://github.com/humanprotocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/humanprotocol/.github"
+
+[[repo]]
 url = "https://github.com/humanprotocol/bugbounty"
+
+[[repo]]
+url = "https://github.com/humanprotocol/chains"
 
 [[repo]]
 url = "https://github.com/humanprotocol/chainsync"
@@ -31,6 +37,12 @@ url = "https://github.com/humanprotocol/eth-kvstore"
 url = "https://github.com/humanprotocol/fortune"
 
 [[repo]]
+url = "https://github.com/humanprotocol/frontend-challenge"
+
+[[repo]]
+url = "https://github.com/humanprotocol/governance"
+
+[[repo]]
 url = "https://github.com/humanprotocol/hmt-basemodels"
 
 [[repo]]
@@ -40,6 +52,9 @@ url = "https://github.com/humanprotocol/hmt-escrow"
 url = "https://github.com/humanprotocol/hmt-substrate"
 
 [[repo]]
+url = "https://github.com/humanprotocol/hmt-token"
+
+[[repo]]
 url = "https://github.com/humanprotocol/human-api"
 
 [[repo]]
@@ -47,9 +62,17 @@ url = "https://github.com/humanprotocol/human-api-substrate"
 
 [[repo]]
 url = "https://github.com/humanprotocol/human-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/humanprotocol/human-exchange-cvat"
+missing = true
+
+[[repo]]
+url = "https://github.com/humanprotocol/human-protocol"
+
+[[repo]]
+url = "https://github.com/humanprotocol/humanprotocol-discord-bot"
 
 [[repo]]
 url = "https://github.com/humanprotocol/humansubgraph"
@@ -61,6 +84,9 @@ url = "https://github.com/humanprotocol/inception-human-protocol"
 url = "https://github.com/humanprotocol/inpage-provider"
 
 [[repo]]
+url = "https://github.com/humanprotocol/meta-code-verify"
+
+[[repo]]
 url = "https://github.com/humanprotocol/metamask-extension"
 
 [[repo]]
@@ -70,10 +96,21 @@ url = "https://github.com/humanprotocol/mturk-bridge"
 url = "https://github.com/humanprotocol/Open-Grants-Program"
 
 [[repo]]
+url = "https://github.com/humanprotocol/proof-of-HUMANity"
+missing = true
+
+[[repo]]
 url = "https://github.com/humanprotocol/scaleai-bridge"
 
 [[repo]]
+url = "https://github.com/humanprotocol/skale-network"
+
+[[repo]]
 url = "https://github.com/humanprotocol/solana-human-protocol"
+
+[[repo]]
+url = "https://github.com/humanprotocol/unit-tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/humanprotocol/wiki"

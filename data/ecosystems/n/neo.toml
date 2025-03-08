@@ -1,11 +1,14 @@
 # Ecosystem Level Information
 title = "NEO"
 
-sub_ecosystems = ["Horizon Protocol", "Trinity"]
+sub_ecosystems = ["Horizon Protocol", "NeoBurger", "Poly Network", "Trinity", "Venly"]
 
 github_organizations = ["https://github.com/neo-project"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/0xbigbang/Neo-Wallet"
+
 [[repo]]
 url = "https://github.com/abalu/neogasliquid"
 
@@ -23,9 +26,11 @@ url = "https://github.com/alioriyadho/Neo"
 
 [[repo]]
 url = "https://github.com/ANDIT-Solutions/Neo-Affiliate"
+missing = true
 
 [[repo]]
 url = "https://github.com/ANDIT-Solutions/NEO-NEP5.1"
+missing = true
 
 [[repo]]
 url = "https://github.com/ansrivas/pyswitcheo"
@@ -41,9 +46,7 @@ url = "https://github.com/AxLabs/neo-privatenet-openwallet-docker"
 
 [[repo]]
 url = "https://github.com/be-neo/neoauth-serverless"
-
-[[repo]]
-url = "https://github.com/be-neo/neoblog"
+missing = true
 
 [[repo]]
 url = "https://github.com/BitMari/varimi"
@@ -113,9 +116,6 @@ url = "https://github.com/CityOfZion/neo-boa"
 
 [[repo]]
 url = "https://github.com/CityOfZion/neo-compiler-docker"
-
-[[repo]]
-url = "https://github.com/CityOfZion/neo-go"
 
 [[repo]]
 url = "https://github.com/CityOfZion/neo-go-sdk"
@@ -191,6 +191,7 @@ url = "https://github.com/Denisolt/adX-backend"
 
 [[repo]]
 url = "https://github.com/elightWorkspace/SmartContract"
+missing = true
 
 [[repo]]
 url = "https://github.com/ellmetha/ledgerlink-app"
@@ -202,10 +203,10 @@ url = "https://github.com/ellmetha/ledgerlink-contract"
 url = "https://github.com/ellmetha/neojsonrpc"
 
 [[repo]]
-url = "https://github.com/ext-studio/iwallic"
+url = "https://github.com/erikzhang/leveldb"
 
 [[repo]]
-url = "https://github.com/FabioRick/NEOGames"
+url = "https://github.com/ext-studio/iwallic"
 
 [[repo]]
 url = "https://github.com/friedhelmensch/GasClaim"
@@ -221,6 +222,10 @@ url = "https://github.com/hyunchel/neo-address-viewer"
 
 [[repo]]
 url = "https://github.com/IMIEx/imiex-dapp"
+missing = true
+
+[[repo]]
+url = "https://github.com/jeroenptrs/neoblog"
 
 [[repo]]
 url = "https://github.com/jlgaffney/Notary-Smart-Contract"
@@ -319,28 +324,28 @@ url = "https://github.com/neo-ngd/neoj"
 url = "https://github.com/neo-one-suite/neo-one"
 
 [[repo]]
+url = "https://github.com/neo-project/.github"
+
+[[repo]]
 url = "https://github.com/neo-project/docs"
 
 [[repo]]
 url = "https://github.com/neo-project/examples"
 
 [[repo]]
-url = "https://github.com/neo-project/examples-csharp"
-
-[[repo]]
 url = "https://github.com/neo-project/examples-java"
+missing = true
 
 [[repo]]
 url = "https://github.com/neo-project/examples-kotlin"
+missing = true
 
 [[repo]]
 url = "https://github.com/neo-project/global-blockchain-compliance-hub"
 
 [[repo]]
 url = "https://github.com/neo-project/governance"
-
-[[repo]]
-url = "https://github.com/neo-project/leveldb"
+missing = true
 
 [[repo]]
 url = "https://github.com/neo-project/neo"
@@ -350,10 +355,8 @@ tags = ["Protocol"]
 url = "https://github.com/neo-project/neo-blockchain-toolkit"
 
 [[repo]]
-url = "https://github.com/neo-project/neo-cli"
-
-[[repo]]
 url = "https://github.com/neo-project/neo-compiler"
+missing = true
 
 [[repo]]
 url = "https://github.com/neo-project/neo-debugger"
@@ -374,9 +377,6 @@ url = "https://github.com/neo-project/neo-express"
 url = "https://github.com/neo-project/neo-fx"
 
 [[repo]]
-url = "https://github.com/neo-project/neo-gui"
-
-[[repo]]
 url = "https://github.com/neo-project/neo-gui-2.x"
 
 [[repo]]
@@ -386,14 +386,14 @@ url = "https://github.com/neo-project/neo-modules"
 url = "https://github.com/neo-project/neo-node"
 
 [[repo]]
-url = "https://github.com/neo-project/neo-plugins"
-
-[[repo]]
 url = "https://github.com/neo-project/neo-visual-tracker"
 
 [[repo]]
 url = "https://github.com/neo-project/neo-vm"
 tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/neo-project/Neo.Cryptography.BLS12_381"
 
 [[repo]]
 url = "https://github.com/neo-project/neo.org"
@@ -412,15 +412,21 @@ url = "https://github.com/NeoNEXT/neoline"
 
 [[repo]]
 url = "https://github.com/NeoNEXT/neoline.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/NeoNEXT/neotube.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/NeoNEXT/squirrel"
+missing = true
 
 [[repo]]
 url = "https://github.com/NeoResearch/neo-unified-compilers"
+
+[[repo]]
+url = "https://github.com/NeoResearch/neo2-yellowpaper"
 
 [[repo]]
 url = "https://github.com/NeoResearch/neocompiler-eco"
@@ -430,9 +436,6 @@ url = "https://github.com/NeoResearch/neodev-cpp"
 
 [[repo]]
 url = "https://github.com/NeoResearch/neopt"
-
-[[repo]]
-url = "https://github.com/NeoResearch/yellowpaper"
 
 [[repo]]
 url = "https://github.com/neoverse/explorer"
@@ -445,15 +448,17 @@ url = "https://github.com/neow3j/neow3j-examples-java"
 
 [[repo]]
 url = "https://github.com/neow3j/neow3j-examples-kotlin"
+missing = true
 
 [[repo]]
 url = "https://github.com/nexgenenglish/neo-php"
 
 [[repo]]
-url = "https://github.com/ngdseattle/neo-blockchaintoolkit-library"
+url = "https://github.com/ngdenterprise/neo-blockchaintoolkit-library"
 
 [[repo]]
-url = "https://github.com/ngdseattle/visual-token-designer"
+url = "https://github.com/ngdenterprise/visual-token-designer"
+missing = true
 
 [[repo]]
 url = "https://github.com/nickfujita/neo-ns"
@@ -550,6 +555,7 @@ url = "https://github.com/prateek-adhikaree/sample-neo-java-demo"
 
 [[repo]]
 url = "https://github.com/r3dh4r7/neo-remote-commander"
+missing = true
 
 [[repo]]
 url = "https://github.com/Red4Sec/neo-resilience"
@@ -568,6 +574,10 @@ url = "https://github.com/rodoufu/neohelp"
 
 [[repo]]
 url = "https://github.com/Ryucoin/neovm-utils"
+missing = true
+
+[[repo]]
+url = "https://github.com/safudex/neologin"
 
 [[repo]]
 url = "https://github.com/Satoshinaire/trinity-cli"
@@ -582,19 +592,21 @@ url = "https://github.com/slimt623/neo-five-star-rating-smart-contract"
 url = "https://github.com/slipo/neo-scan-docker"
 
 [[repo]]
+url = "https://github.com/slynrick/NEOGames"
+
+[[repo]]
 url = "https://github.com/snowypowers/ansy"
 
 [[repo]]
 url = "https://github.com/TakeWingCo/NeoEthAtomicSwap"
+missing = true
 
 [[repo]]
 url = "https://github.com/talhaHavadar/neo-python-privnet-demo"
 
 [[repo]]
-url = "https://github.com/thach4567/Neo-Wallet"
-
-[[repo]]
 url = "https://github.com/the-neo-lounge/neo-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/ThomasLobker/KRYPTON"
@@ -613,6 +625,7 @@ url = "https://github.com/VishNuNairQA/BlockChain"
 
 [[repo]]
 url = "https://github.com/w3bprinz/neo-lookup-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/wecobble/gratitude"

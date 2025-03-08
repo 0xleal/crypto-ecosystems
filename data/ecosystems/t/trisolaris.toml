@@ -20,6 +20,10 @@ url = "https://github.com/trisolaris-labs/interface"
 
 [[repo]]
 url = "https://github.com/trisolaris-labs/sdk"
+missing = true
+
+[[repo]]
+url = "https://github.com/trisolaris-labs/subgraphs"
 
 [[repo]]
 url = "https://github.com/trisolaris-labs/tokens"

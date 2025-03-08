@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/airbloc"]
 # Repositories
 [[repo]]
 url = "https://github.com/airbloc/aero"
+missing = true
 
 [[repo]]
 url = "https://github.com/airbloc/airbloc-bigchaindb-proxy"
@@ -32,6 +33,7 @@ url = "https://github.com/airbloc/data-collector-sdk-android"
 
 [[repo]]
 url = "https://github.com/airbloc/dev-ops"
+missing = true
 
 [[repo]]
 url = "https://github.com/airbloc/ethornge"
@@ -68,6 +70,7 @@ url = "https://github.com/airbloc/solgen"
 
 [[repo]]
 url = "https://github.com/airbloc/tableau"
+missing = true
 
 [[repo]]
 url = "https://github.com/airbloc/token"

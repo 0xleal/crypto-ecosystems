@@ -22,6 +22,9 @@ url = "https://github.com/OpiumProtocol/client"
 url = "https://github.com/OpiumProtocol/crv.finance"
 
 [[repo]]
+url = "https://github.com/OpiumProtocol/defi-derivatives"
+
+[[repo]]
 url = "https://github.com/OpiumProtocol/DeFi-Pulse-Adapters"
 
 [[repo]]
@@ -64,13 +67,25 @@ url = "https://github.com/OpiumProtocol/oex-js"
 url = "https://github.com/OpiumProtocol/oex-python"
 
 [[repo]]
+url = "https://github.com/OpiumProtocol/ofi-deposits-scheduler-web3-function"
+
+[[repo]]
 url = "https://github.com/OpiumProtocol/ofi-pools-sdk"
+
+[[repo]]
+url = "https://github.com/OpiumProtocol/ofi-scheduled-deposits-resolver"
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/ofi-sdk"
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/oip"
+
+[[repo]]
+url = "https://github.com/OpiumProtocol/opium-auction-v2"
+
+[[repo]]
+url = "https://github.com/OpiumProtocol/opium-auction-v2-utils"
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/opium-call-option-example"
@@ -83,12 +98,17 @@ url = "https://github.com/OpiumProtocol/opium-finance"
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/opium-oneinch-liquidity-mining"
+missing = true
+
+[[repo]]
+url = "https://github.com/OpiumProtocol/opium-pools-v2"
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/opium-protocol-v2"
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/opium-staking-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/OpiumProtocol/opium-token"

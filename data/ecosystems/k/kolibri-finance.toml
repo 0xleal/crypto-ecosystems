@@ -31,6 +31,9 @@ url = "https://github.com/Hover-Labs/dao-vesting-vault-deployer"
 url = "https://github.com/Hover-Labs/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/Hover-Labs/farm-remediation"
+
+[[repo]]
 url = "https://github.com/Hover-Labs/kdao-airdrop"
 
 [[repo]]
@@ -44,6 +47,9 @@ url = "https://github.com/Hover-Labs/kolibri-docs"
 
 [[repo]]
 url = "https://github.com/Hover-Labs/kolibri-farms"
+
+[[repo]]
+url = "https://github.com/Hover-Labs/kolibri-frontend"
 
 [[repo]]
 url = "https://github.com/Hover-Labs/kolibri-govbot"

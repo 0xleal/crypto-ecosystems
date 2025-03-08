@@ -40,6 +40,9 @@ url = "https://github.com/BrightID/BrightID-Docs"
 url = "https://github.com/BrightID/BrightID-Explorer"
 
 [[repo]]
+url = "https://github.com/BrightID/brightid-javascript-sdk"
+
+[[repo]]
 url = "https://github.com/BrightID/BrightID-Meet"
 
 [[repo]]
@@ -70,10 +73,7 @@ url = "https://github.com/BrightID/BrightID-reporter-bot"
 url = "https://github.com/BrightID/BrightID-SmartContract"
 
 [[repo]]
-url = "https://github.com/BrightID/BrightID-Soulbound"
-
-[[repo]]
-url = "https://github.com/BrightID/BrightID-Soulbound-NFT"
+url = "https://github.com/BrightID/BrightID-Soulbound-Token"
 
 [[repo]]
 url = "https://github.com/BrightID/BrightID-Sponsorship-Subscriptions-Dashboard"
@@ -82,13 +82,10 @@ url = "https://github.com/BrightID/BrightID-Sponsorship-Subscriptions-Dashboard"
 url = "https://github.com/BrightID/BrightID-Supervisor"
 
 [[repo]]
-url = "https://github.com/BrightID/BrightID-Tools"
-
-[[repo]]
 url = "https://github.com/BrightID/BrightID-WebRTC"
 
 [[repo]]
-url = "https://github.com/BrightID/DAppNodePackage-IDChain"
+url = "https://github.com/BrightID/conviction-voting-discord-bot"
 
 [[repo]]
 url = "https://github.com/BrightID/DeepLinker"
@@ -115,25 +112,7 @@ url = "https://github.com/BrightID/goose-frontend-farms"
 url = "https://github.com/BrightID/hyperdrive-backup"
 
 [[repo]]
-url = "https://github.com/BrightID/IDChain"
-
-[[repo]]
-url = "https://github.com/BrightID/IDChain-Alert"
-
-[[repo]]
-url = "https://github.com/BrightID/IDChain-Dai-Converter"
-
-[[repo]]
-url = "https://github.com/BrightID/IDChain-Dai-Wrapper"
-
-[[repo]]
-url = "https://github.com/BrightID/IDChain-Faucet"
-
-[[repo]]
-url = "https://github.com/BrightID/idchain-omnibridge"
-
-[[repo]]
-url = "https://github.com/BrightID/IDChain-Relayer"
+url = "https://github.com/BrightID/identicall"
 
 [[repo]]
 url = "https://github.com/BrightID/ipfs-backup"
@@ -160,6 +139,9 @@ url = "https://github.com/BrightID/react-native-blur"
 url = "https://github.com/BrightID/react-native-camera"
 
 [[repo]]
+url = "https://github.com/BrightID/react-native-http-bridge"
+
+[[repo]]
 url = "https://github.com/BrightID/Sponsorship-Subscriptions-SmartContracts"
 
 [[repo]]
@@ -169,13 +151,31 @@ url = "https://github.com/BrightID/TheLAOProposal"
 url = "https://github.com/BrightID/tweetnacl-js"
 
 [[repo]]
-url = "https://github.com/BrightID/uniswap-info"
+url = "https://github.com/IDChain-eth/DAppNodePackage-IDChain"
 
 [[repo]]
-url = "https://github.com/BrightID/uniswap-interface"
+url = "https://github.com/IDChain-eth/IDChain"
 
 [[repo]]
-url = "https://github.com/BrightID/uniswap-sdk"
+url = "https://github.com/IDChain-eth/IDChain-Alert"
 
 [[repo]]
-url = "https://github.com/BrightID/uniswap-v2-subgraph"
+url = "https://github.com/IDChain-eth/IDChain-Dai-Converter"
+
+[[repo]]
+url = "https://github.com/IDChain-eth/IDChain-Faucet"
+
+[[repo]]
+url = "https://github.com/IDChain-eth/old-omnibridge"
+
+[[repo]]
+url = "https://github.com/IDChain-eth/uniswap-info"
+
+[[repo]]
+url = "https://github.com/IDChain-eth/uniswap-interface"
+
+[[repo]]
+url = "https://github.com/IDChain-eth/uniswap-sdk"
+
+[[repo]]
+url = "https://github.com/IDChain-eth/uniswap-v2-subgraph"

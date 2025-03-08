@@ -41,6 +41,7 @@ url = "https://github.com/CreamFi/cream-docs"
 
 [[repo]]
 url = "https://github.com/CreamFi/cream-tokenomics"
+missing = true
 
 [[repo]]
 url = "https://github.com/CreamFi/cream-voting-power"
@@ -64,16 +65,15 @@ url = "https://github.com/CreamFi/dsa-connectors"
 url = "https://github.com/CreamFi/dsa-resolvers"
 
 [[repo]]
-url = "https://github.com/CreamFi/dsl-connectors"
-
-[[repo]]
 url = "https://github.com/CreamFi/flashloan-playground"
 
 [[repo]]
 url = "https://github.com/CreamFi/forta-agent"
+missing = true
 
 [[repo]]
 url = "https://github.com/CreamFi/forta-agent-scripts"
+missing = true
 
 [[repo]]
 url = "https://github.com/CreamFi/ftm-validator"
@@ -128,6 +128,9 @@ url = "https://github.com/CreamFi/yearn-finance-v3"
 
 [[repo]]
 url = "https://github.com/CreamFi/yearn-lens"
+
+[[repo]]
+url = "https://github.com/CreamFi/yield-server"
 
 [[repo]]
 url = "https://github.com/CreamFi/yieldfarming"

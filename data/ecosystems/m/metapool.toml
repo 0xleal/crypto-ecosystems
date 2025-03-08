@@ -20,6 +20,13 @@ url = "https://github.com/Narwallets/bounties"
 
 [[repo]]
 url = "https://github.com/Narwallets/bundled-crypto-libs"
+missing = true
+
+[[repo]]
+url = "https://github.com/Narwallets/controlled-safe-transfers"
+
+[[repo]]
+url = "https://github.com/Narwallets/controlled_transfers"
 
 [[repo]]
 url = "https://github.com/Narwallets/core-contracts"
@@ -38,6 +45,7 @@ url = "https://github.com/Narwallets/Ecto"
 
 [[repo]]
 url = "https://github.com/Narwallets/eth-transaction-checker"
+missing = true
 
 [[repo]]
 url = "https://github.com/Narwallets/fast-sha256-js"
@@ -46,7 +54,12 @@ url = "https://github.com/Narwallets/fast-sha256-js"
 url = "https://github.com/Narwallets/js-sha256"
 
 [[repo]]
+url = "https://github.com/Narwallets/katherine-bond-operator"
+missing = true
+
+[[repo]]
 url = "https://github.com/Narwallets/katherine-fundraising"
+missing = true
 
 [[repo]]
 url = "https://github.com/Narwallets/lau-js-utils"
@@ -55,13 +68,14 @@ url = "https://github.com/Narwallets/lau-js-utils"
 url = "https://github.com/Narwallets/lau-near-utils"
 
 [[repo]]
-url = "https://github.com/Narwallets/meta-migrate"
+url = "https://github.com/Narwallets/liquid-staking-sdk"
 
 [[repo]]
 url = "https://github.com/Narwallets/meta-pool"
 
 [[repo]]
 url = "https://github.com/Narwallets/meta-pool-heartbeat"
+missing = true
 
 [[repo]]
 url = "https://github.com/Narwallets/meta-recipes"
@@ -71,6 +85,7 @@ url = "https://github.com/Narwallets/meta-token"
 
 [[repo]]
 url = "https://github.com/Narwallets/meta-token-cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/Narwallets/meta-vote"
@@ -83,9 +98,11 @@ url = "https://github.com/Narwallets/meta-yield-ic"
 
 [[repo]]
 url = "https://github.com/Narwallets/metamask-extension"
+missing = true
 
 [[repo]]
 url = "https://github.com/Narwallets/metapool-homepage"
+missing = true
 
 [[repo]]
 url = "https://github.com/Narwallets/narwallets-extension"
@@ -139,7 +156,14 @@ url = "https://github.com/Narwallets/sputnik-dao-2-ui-mainnet"
 url = "https://github.com/Narwallets/sputnik-dao-contract"
 
 [[repo]]
+url = "https://github.com/Narwallets/test-liquid-staking-sdk"
+
+[[repo]]
 url = "https://github.com/Narwallets/tweetnacl-js"
 
 [[repo]]
 url = "https://github.com/Narwallets/tweetnacl-ts"
+
+[[repo]]
+url = "https://github.com/Narwallets/wallet-selector"
+missing = true

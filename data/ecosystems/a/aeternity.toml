@@ -7,10 +7,22 @@ github_organizations = ["https://github.com/aeternity"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/aeternity/.github"
+
+[[repo]]
+url = "https://github.com/aeternity/acf-website"
+
+[[repo]]
+url = "https://github.com/aeternity/acurast-price-feed"
+
+[[repo]]
 url = "https://github.com/aeternity/ae-boilerplate-library"
 
 [[repo]]
 url = "https://github.com/aeternity/ae-channel-service"
+
+[[repo]]
+url = "https://github.com/aeternity/ae-client"
 
 [[repo]]
 url = "https://github.com/aeternity/ae-fork-monitor"
@@ -23,12 +35,16 @@ url = "https://github.com/aeternity/ae-monitor-backend"
 
 [[repo]]
 url = "https://github.com/aeternity/ae-monitor-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/ae-oracle-pricefeed"
 
 [[repo]]
 url = "https://github.com/aeternity/ae-token-migration-contract"
+
+[[repo]]
+url = "https://github.com/aeternity/ae-token-minter"
 
 [[repo]]
 url = "https://github.com/aeternity/ae_canary"
@@ -38,6 +54,9 @@ url = "https://github.com/aeternity/ae_mdw"
 
 [[repo]]
 url = "https://github.com/aeternity/ae_plugin"
+
+[[repo]]
+url = "https://github.com/aeternity/ae_zk_tools"
 
 [[repo]]
 url = "https://github.com/aeternity/aebytecode"
@@ -64,13 +83,19 @@ url = "https://github.com/aeternity/aecuckoo"
 url = "https://github.com/aeternity/aeminer"
 
 [[repo]]
+url = "https://github.com/aeternity/aemon"
+
+[[repo]]
 url = "https://github.com/aeternity/aeplugin_acct_ix"
 
 [[repo]]
 url = "https://github.com/aeternity/aeplugin_dev_mode"
 
 [[repo]]
-url = "https://github.com/aeternity/aepp-aeproject-js"
+url = "https://github.com/aeternity/aeplugin_rebar3"
+
+[[repo]]
+url = "https://github.com/aeternity/aeplugin_scm"
 
 [[repo]]
 url = "https://github.com/aeternity/aepp-aeproject-shape-angular"
@@ -106,13 +131,22 @@ url = "https://github.com/aeternity/aepp-base-remote-connection-backend"
 url = "https://github.com/aeternity/aepp-blockchain-explorer"
 
 [[repo]]
-url = "https://github.com/aeternity/aepp-boilerplate"
+url = "https://github.com/aeternity/aepp-boilerplate-angular"
+
+[[repo]]
+url = "https://github.com/aeternity/aepp-boilerplate-react"
 
 [[repo]]
 url = "https://github.com/aeternity/aepp-boilerplate-vue"
 
 [[repo]]
 url = "https://github.com/aeternity/aepp-boilerplate-vue-old"
+
+[[repo]]
+url = "https://github.com/aeternity/aepp-bridge"
+
+[[repo]]
+url = "https://github.com/aeternity/aepp-bridge-and-swap"
 
 [[repo]]
 url = "https://github.com/aeternity/aepp-calldata-js"
@@ -133,12 +167,6 @@ url = "https://github.com/aeternity/aepp-contracts"
 url = "https://github.com/aeternity/aepp-docs"
 
 [[repo]]
-url = "https://github.com/aeternity/aepp-drone-graffiti"
-
-[[repo]]
-url = "https://github.com/aeternity/aepp-drone-painting"
-
-[[repo]]
 url = "https://github.com/aeternity/aepp-faucet"
 
 [[repo]]
@@ -148,16 +176,8 @@ url = "https://github.com/aeternity/aepp-faucet-hc"
 url = "https://github.com/aeternity/aepp-faucet-nodejs"
 
 [[repo]]
-url = "https://github.com/aeternity/aepp-forgae-js"
-
-[[repo]]
-url = "https://github.com/aeternity/aepp-forgae-shape-angular"
-
-[[repo]]
-url = "https://github.com/aeternity/aepp-forgae-shape-react"
-
-[[repo]]
-url = "https://github.com/aeternity/aepp-forgae-shape-vue"
+url = "https://github.com/aeternity/aepp-ga-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/aepp-goggles"
@@ -172,16 +192,19 @@ url = "https://github.com/aeternity/aepp-governance"
 url = "https://github.com/aeternity/aepp-graffiti"
 
 [[repo]]
+url = "https://github.com/aeternity/aepp-hc-ui"
+
+[[repo]]
 url = "https://github.com/aeternity/aepp-hybrid-voting"
 
 [[repo]]
-url = "https://github.com/aeternity/aepp-identity"
+url = "https://github.com/aeternity/aepp-hyperchain"
 
 [[repo]]
-url = "https://github.com/aeternity/aepp-identity-remote-connection-backend"
+url = "https://github.com/aeternity/aepp-hyperchains-initiator"
 
 [[repo]]
-url = "https://github.com/aeternity/aepp-middleware"
+url = "https://github.com/aeternity/aepp-lqty"
 
 [[repo]]
 url = "https://github.com/aeternity/aepp-naming-example"
@@ -191,9 +214,6 @@ url = "https://github.com/aeternity/aepp-playground"
 
 [[repo]]
 url = "https://github.com/aeternity/aepp-prototypes"
-
-[[repo]]
-url = "https://github.com/aeternity/aepp-raendom"
 
 [[repo]]
 url = "https://github.com/aeternity/aepp-redeem"
@@ -227,6 +247,9 @@ url = "https://github.com/aeternity/aepp-showcases"
 
 [[repo]]
 url = "https://github.com/aeternity/aepp-sophia-examples"
+
+[[repo]]
+url = "https://github.com/aeternity/aepp-test"
 
 [[repo]]
 url = "https://github.com/aeternity/aepp-todolist"
@@ -286,19 +309,38 @@ url = "https://github.com/aeternity/aeproject"
 url = "https://github.com/aeternity/aerepl"
 
 [[repo]]
+url = "https://github.com/aeternity/aerepl-web"
+
+[[repo]]
 url = "https://github.com/aeternity/aerepl-web-bridge"
 
 [[repo]]
 url = "https://github.com/aeternity/aerepl_http"
 
 [[repo]]
+url = "https://github.com/aeternity/aescan"
+
+[[repo]]
+url = "https://github.com/aeternity/aescan-frontend-mvp"
+missing = true
+
+[[repo]]
 url = "https://github.com/aeternity/aeserialization"
+
+[[repo]]
+url = "https://github.com/aeternity/aeserialization-rust"
+
+[[repo]]
+url = "https://github.com/aeternity/aeserialization-rust-erl"
 
 [[repo]]
 url = "https://github.com/aeternity/aesim"
 
 [[repo]]
 url = "https://github.com/aeternity/aesophia"
+
+[[repo]]
+url = "https://github.com/aeternity/aesophia-vscode"
 
 [[repo]]
 url = "https://github.com/aeternity/aesophia_aci_encoder"
@@ -316,10 +358,10 @@ url = "https://github.com/aeternity/aesophia_rebar_plugin"
 url = "https://github.com/aeternity/aestratum_client"
 
 [[repo]]
-url = "https://github.com/aeternity/aestratum_jsonrpc"
+url = "https://github.com/aeternity/aestratum_lib"
 
 [[repo]]
-url = "https://github.com/aeternity/aestratum_lib"
+url = "https://github.com/aeternity/aestudio"
 
 [[repo]]
 url = "https://github.com/aeternity/aeternal"
@@ -356,6 +398,12 @@ url = "https://github.com/aeternity/aevarna"
 url = "https://github.com/aeternity/aex141-examples"
 
 [[repo]]
+url = "https://github.com/aeternity/aex141-nft-collection-example"
+
+[[repo]]
+url = "https://github.com/aeternity/aex141-nft-simple-marketplace"
+
+[[repo]]
 url = "https://github.com/aeternity/AEXs"
 
 [[repo]]
@@ -374,10 +422,17 @@ url = "https://github.com/aeternity/apt-repo"
 url = "https://github.com/aeternity/argon2-browser"
 
 [[repo]]
+url = "https://github.com/aeternity/argon2-js"
+
+[[repo]]
+url = "https://github.com/aeternity/argparse"
+
+[[repo]]
 url = "https://github.com/aeternity/awesome-aeternity"
 
 [[repo]]
 url = "https://github.com/aeternity/babel-plugin-transform-default-named-imports"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/base58check"
@@ -393,6 +448,7 @@ url = "https://github.com/aeternity/bip39"
 
 [[repo]]
 url = "https://github.com/aeternity/blakejs"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/BondingCurve"
@@ -402,12 +458,16 @@ url = "https://github.com/aeternity/bounties"
 
 [[repo]]
 url = "https://github.com/aeternity/brandguide"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/ci_art"
 
 [[repo]]
 url = "https://github.com/aeternity/coin-toss-game"
+
+[[repo]]
+url = "https://github.com/aeternity/contract-builder"
 
 [[repo]]
 url = "https://github.com/aeternity/contraect"
@@ -417,6 +477,7 @@ url = "https://github.com/aeternity/conversational-machine"
 
 [[repo]]
 url = "https://github.com/aeternity/cordova-plugin-airgap-secure-storage-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/cordova-plugin-openwith"
@@ -434,6 +495,9 @@ url = "https://github.com/aeternity/cuckoo"
 url = "https://github.com/aeternity/cuckoo-prebuilt"
 
 [[repo]]
+url = "https://github.com/aeternity/dao-fi-fusion-code-challenge"
+
+[[repo]]
 url = "https://github.com/aeternity/deprecated-middleware"
 
 [[repo]]
@@ -441,6 +505,10 @@ url = "https://github.com/aeternity/dev-tools"
 
 [[repo]]
 url = "https://github.com/aeternity/developers"
+missing = true
+
+[[repo]]
+url = "https://github.com/aeternity/dex-backend"
 
 [[repo]]
 url = "https://github.com/aeternity/dex-contracts-v2"
@@ -452,10 +520,17 @@ url = "https://github.com/aeternity/dex-ui"
 url = "https://github.com/aeternity/docker-builder"
 
 [[repo]]
+url = "https://github.com/aeternity/docs"
+
+[[repo]]
 url = "https://github.com/aeternity/documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/documentation-hub"
+
+[[repo]]
+url = "https://github.com/aeternity/downlevel-dts"
 
 [[repo]]
 url = "https://github.com/aeternity/eaex10"
@@ -483,12 +558,16 @@ url = "https://github.com/aeternity/elixir-node"
 
 [[repo]]
 url = "https://github.com/aeternity/elixir-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/embedded-jitsi"
 
 [[repo]]
 url = "https://github.com/aeternity/emcl"
+
+[[repo]]
+url = "https://github.com/aeternity/emusig2"
 
 [[repo]]
 url = "https://github.com/aeternity/enacl"
@@ -506,12 +585,6 @@ url = "https://github.com/aeternity/epbkdf2"
 url = "https://github.com/aeternity/eper"
 
 [[repo]]
-url = "https://github.com/aeternity/epoch"
-
-[[repo]]
-url = "https://github.com/aeternity/epoch-api-docs"
-
-[[repo]]
 url = "https://github.com/aeternity/epoch-rs"
 
 [[repo]]
@@ -525,6 +598,9 @@ url = "https://github.com/aeternity/erlang-lz4"
 
 [[repo]]
 url = "https://github.com/aeternity/erlang-nat"
+
+[[repo]]
+url = "https://github.com/aeternity/erlang-rocksdb"
 
 [[repo]]
 url = "https://github.com/aeternity/erlang-sha3"
@@ -545,6 +621,9 @@ url = "https://github.com/aeternity/exometer_core"
 url = "https://github.com/aeternity/fire-editor"
 
 [[repo]]
+url = "https://github.com/aeternity/ga-multisig-backend"
+
+[[repo]]
 url = "https://github.com/aeternity/ga-multisig-contract"
 
 [[repo]]
@@ -552,6 +631,9 @@ url = "https://github.com/aeternity/ga-multisig-ui"
 
 [[repo]]
 url = "https://github.com/aeternity/gb_merkle_trees"
+
+[[repo]]
+url = "https://github.com/aeternity/github-actions"
 
 [[repo]]
 url = "https://github.com/aeternity/gitops-apps"
@@ -578,7 +660,16 @@ url = "https://github.com/aeternity/hc_alpha"
 url = "https://github.com/aeternity/hd-wallet-js"
 
 [[repo]]
+url = "https://github.com/aeternity/helm-charts"
+
+[[repo]]
 url = "https://github.com/aeternity/homebrew-aeternity"
+
+[[repo]]
+url = "https://github.com/aeternity/hyperchain-starter-kit"
+
+[[repo]]
+url = "https://github.com/aeternity/hyperchains-configurator"
 
 [[repo]]
 url = "https://github.com/aeternity/hyperchains-contract"
@@ -591,9 +682,6 @@ url = "https://github.com/aeternity/hyperchains-whitepaper"
 
 [[repo]]
 url = "https://github.com/aeternity/hyperchains_playground"
-
-[[repo]]
-url = "https://github.com/aeternity/hyperchains_privatenet"
 
 [[repo]]
 url = "https://github.com/aeternity/id-manager-provider"
@@ -671,6 +759,12 @@ url = "https://github.com/aeternity/light-node"
 url = "https://github.com/aeternity/localnet"
 
 [[repo]]
+url = "https://github.com/aeternity/lqty-aepp"
+
+[[repo]]
+url = "https://github.com/aeternity/lqty-contracts"
+
+[[repo]]
 url = "https://github.com/aeternity/machine-image"
 
 [[repo]]
@@ -707,6 +801,9 @@ url = "https://github.com/aeternity/pos-aepp"
 url = "https://github.com/aeternity/pos-middleware"
 
 [[repo]]
+url = "https://github.com/aeternity/proof-of-passport"
+
+[[repo]]
 url = "https://github.com/aeternity/protocol"
 tags = ["Protocol"]
 
@@ -714,10 +811,10 @@ tags = ["Protocol"]
 url = "https://github.com/aeternity/pygments"
 
 [[repo]]
-url = "https://github.com/aeternity/r-ddle"
+url = "https://github.com/aeternity/qr-code-styling"
 
 [[repo]]
-url = "https://github.com/aeternity/re-publica"
+url = "https://github.com/aeternity/r-ddle"
 
 [[repo]]
 url = "https://github.com/aeternity/rebar3"
@@ -730,15 +827,17 @@ url = "https://github.com/aeternity/rebar3-ecrecover-prebuilt-plugin"
 
 [[repo]]
 url = "https://github.com/aeternity/rebar3-eqc-plugin"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/relx"
 
 [[repo]]
-url = "https://github.com/aeternity/rlp-go"
+url = "https://github.com/aeternity/remove-me--babel-plugin-transform-default-named-imports"
+missing = true
 
 [[repo]]
-url = "https://github.com/aeternity/rlpae"
+url = "https://github.com/aeternity/rlp-go"
 
 [[repo]]
 url = "https://github.com/aeternity/scrypto"
@@ -753,13 +852,22 @@ url = "https://github.com/aeternity/sdk-terraform"
 url = "https://github.com/aeternity/seed_generator"
 
 [[repo]]
+url = "https://github.com/aeternity/send-ae-script"
+
+[[repo]]
 url = "https://github.com/aeternity/slips"
+
+[[repo]]
+url = "https://github.com/aeternity/smart-contract-verifier"
+
+[[repo]]
+url = "https://github.com/aeternity/snarkjs"
 
 [[repo]]
 url = "https://github.com/aeternity/state-channel-demo"
 
 [[repo]]
-url = "https://github.com/aeternity/statechannel-devDemo-ui"
+url = "https://github.com/aeternity/state-channel-workshop"
 
 [[repo]]
 url = "https://github.com/aeternity/status-page"
@@ -771,13 +879,11 @@ url = "https://github.com/aeternity/sublime-sophia"
 url = "https://github.com/aeternity/superhero-avatars"
 
 [[repo]]
-url = "https://github.com/aeternity/superhero-button"
-
-[[repo]]
 url = "https://github.com/aeternity/superhero-button-react"
 
 [[repo]]
 url = "https://github.com/aeternity/superhero-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/superhero-ui"
@@ -798,6 +904,12 @@ url = "https://github.com/aeternity/swagger-js"
 url = "https://github.com/aeternity/swagger_endpoints"
 
 [[repo]]
+url = "https://github.com/aeternity/terraform-aws-aehc-demo"
+
+[[repo]]
+url = "https://github.com/aeternity/terraform-aws-aehc-testnet"
+
+[[repo]]
 url = "https://github.com/aeternity/terraform-aws-aenode-deploy"
 
 [[repo]]
@@ -813,6 +925,12 @@ url = "https://github.com/aeternity/terraform-aws-apps"
 url = "https://github.com/aeternity/terraform-aws-devnet"
 
 [[repo]]
+url = "https://github.com/aeternity/terraform-aws-hc-ae-testnet"
+
+[[repo]]
+url = "https://github.com/aeternity/terraform-aws-hyperchains"
+
+[[repo]]
 url = "https://github.com/aeternity/terraform-aws-mainnet"
 
 [[repo]]
@@ -820,6 +938,9 @@ url = "https://github.com/aeternity/terraform-aws-mainnet-api"
 
 [[repo]]
 url = "https://github.com/aeternity/terraform-aws-misc"
+
+[[repo]]
+url = "https://github.com/aeternity/terraform-aws-next"
 
 [[repo]]
 url = "https://github.com/aeternity/terraform-aws-superhero"
@@ -831,10 +952,13 @@ url = "https://github.com/aeternity/terraform-aws-testnet"
 url = "https://github.com/aeternity/terraform-aws-testnet-api"
 
 [[repo]]
+url = "https://github.com/aeternity/terraform-hetzner-k8s"
+
+[[repo]]
 url = "https://github.com/aeternity/terraform-orb"
 
 [[repo]]
-url = "https://github.com/aeternity/terraform_hetzner_k8s"
+url = "https://github.com/aeternity/TestsyncGBtoGH"
 
 [[repo]]
 url = "https://github.com/aeternity/tf-sdk-testnet"
@@ -858,13 +982,25 @@ url = "https://github.com/aeternity/token-registry"
 url = "https://github.com/aeternity/tool-paperwallets"
 
 [[repo]]
+url = "https://github.com/aeternity/tree-sitter-aesophia"
+
+[[repo]]
 url = "https://github.com/aeternity/tutorials"
 
 [[repo]]
 url = "https://github.com/aeternity/tx_xform"
 
 [[repo]]
+url = "https://github.com/aeternity/ubuntu-sshd"
+
+[[repo]]
+url = "https://github.com/aeternity/universe-two-haeckathon"
+
+[[repo]]
 url = "https://github.com/aeternity/uuid"
+
+[[repo]]
+url = "https://github.com/aeternity/Vanillae"
 
 [[repo]]
 url = "https://github.com/aeternity/vue-i18n-extract"
@@ -874,9 +1010,14 @@ url = "https://github.com/aeternity/vuex"
 
 [[repo]]
 url = "https://github.com/aeternity/web-dev"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/web-downloads"
+
+[[repo]]
+url = "https://github.com/aeternity/webextension-polyfill-ts"
+missing = true
 
 [[repo]]
 url = "https://github.com/aeternity/websocket_client"
@@ -892,3 +1033,6 @@ url = "https://github.com/aeternity/wordbazaar-contracts"
 
 [[repo]]
 url = "https://github.com/aeternity/wordbazaar-utils"
+
+[[repo]]
+url = "https://github.com/kryptokrauts/aepp-sdk-java"

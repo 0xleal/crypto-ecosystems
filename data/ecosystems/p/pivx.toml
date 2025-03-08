@@ -22,16 +22,25 @@ url = "https://github.com/PIVX-Project/bitsquare"
 url = "https://github.com/PIVX-Project/bls-signatures"
 
 [[repo]]
+url = "https://github.com/PIVX-Project/btchip-python"
+
+[[repo]]
 url = "https://github.com/PIVX-Project/CDG"
 
 [[repo]]
 url = "https://github.com/PIVX-Project/dashvend"
 
 [[repo]]
+url = "https://github.com/PIVX-Project/electrumx"
+
+[[repo]]
 url = "https://github.com/PIVX-Project/gitian.sigs"
 
 [[repo]]
 url = "https://github.com/PIVX-Project/insight-api-pivx"
+
+[[repo]]
+url = "https://github.com/PIVX-Project/librustzcash"
 
 [[repo]]
 url = "https://github.com/PIVX-Project/Official-PIVX-Graphics"
@@ -69,6 +78,9 @@ url = "https://github.com/PIVX-Project/PIVX-NGINX-Proxy"
 
 [[repo]]
 url = "https://github.com/PIVX-Project/PIVX-Paperwallet"
+
+[[repo]]
+url = "https://github.com/PIVX-Project/PIVX-python-discord-message-bot"
 
 [[repo]]
 url = "https://github.com/PIVX-Project/pivx-slack-tipbot"

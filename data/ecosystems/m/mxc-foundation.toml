@@ -7,6 +7,10 @@ github_organizations = ["https://github.com/mxc-foundation"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/mxc-foundation/campaign-statics"
+missing = true
+
+[[repo]]
 url = "https://github.com/mxc-foundation/chirpstack-application-server"
 
 [[repo]]
@@ -46,6 +50,15 @@ url = "https://github.com/mxc-foundation/lpwan-app-server"
 url = "https://github.com/mxc-foundation/lpwan-server"
 
 [[repo]]
+url = "https://github.com/mxc-foundation/MEP-1759-DApp-store"
+
+[[repo]]
+url = "https://github.com/mxc-foundation/MEP-1759-DApp-store-1"
+
+[[repo]]
+url = "https://github.com/mxc-foundation/MEP-1759-DApp-store-thumbnails"
+
+[[repo]]
 url = "https://github.com/mxc-foundation/mxc-blog"
 
 [[repo]]
@@ -56,6 +69,7 @@ url = "https://github.com/mxc-foundation/mxc-mapper-flutter"
 
 [[repo]]
 url = "https://github.com/mxc-foundation/mxc-shared-flutter"
+missing = true
 
 [[repo]]
 url = "https://github.com/mxc-foundation/mxc-wallet"

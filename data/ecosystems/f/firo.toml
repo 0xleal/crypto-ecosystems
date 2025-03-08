@@ -7,10 +7,10 @@ github_organizations = ["https://github.com/firoorg"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/firoorg/atomicDEX-Desktop"
+url = "https://github.com/firoorg/atomicswap"
 
 [[repo]]
-url = "https://github.com/firoorg/atomicswap"
+url = "https://github.com/firoorg/audits"
 
 [[repo]]
 url = "https://github.com/firoorg/aura-paper"
@@ -22,10 +22,16 @@ url = "https://github.com/firoorg/balloon"
 url = "https://github.com/firoorg/batm_public"
 
 [[repo]]
+url = "https://github.com/firoorg/bech32-buffer"
+
+[[repo]]
 url = "https://github.com/firoorg/bitcoind-rpc-zcoin"
 
 [[repo]]
 url = "https://github.com/firoorg/bitcore-firo"
+
+[[repo]]
+url = "https://github.com/firoorg/bitcore-firo-elysium"
 
 [[repo]]
 url = "https://github.com/firoorg/bitcore-message-zcoin"
@@ -35,9 +41,6 @@ url = "https://github.com/firoorg/bitcore-node-zcoin"
 
 [[repo]]
 url = "https://github.com/firoorg/bitcore-p2p-zcoin"
-
-[[repo]]
-url = "https://github.com/firoorg/bitcore-zcoin"
 
 [[repo]]
 url = "https://github.com/firoorg/blockbook"
@@ -55,6 +58,9 @@ url = "https://github.com/firoorg/bootstrap"
 url = "https://github.com/firoorg/bos-jansson"
 
 [[repo]]
+url = "https://github.com/firoorg/campfire"
+
+[[repo]]
 url = "https://github.com/firoorg/ccminer"
 
 [[repo]]
@@ -62,12 +68,11 @@ url = "https://github.com/firoorg/ccminer-msvc2015"
 
 [[repo]]
 url = "https://github.com/firoorg/ccs-back"
+missing = true
 
 [[repo]]
 url = "https://github.com/firoorg/ccs-front"
-
-[[repo]]
-url = "https://github.com/firoorg/ccs-proposals"
+missing = true
 
 [[repo]]
 url = "https://github.com/firoorg/community"
@@ -91,25 +96,16 @@ url = "https://github.com/firoorg/edge-currency-zcoin"
 url = "https://github.com/firoorg/electron"
 
 [[repo]]
-url = "https://github.com/firoorg/electrum-dash"
-
-[[repo]]
 url = "https://github.com/firoorg/electrum-firo"
 
 [[repo]]
 url = "https://github.com/firoorg/electrum-firo-archived"
 
 [[repo]]
-url = "https://github.com/firoorg/electrum-xzc"
-
-[[repo]]
 url = "https://github.com/firoorg/electrum-xzc-icons"
 
 [[repo]]
 url = "https://github.com/firoorg/electrum-xzc-locale"
-
-[[repo]]
-url = "https://github.com/firoorg/electrumx"
 
 [[repo]]
 url = "https://github.com/firoorg/electrumx-archived"
@@ -119,6 +115,9 @@ url = "https://github.com/firoorg/electrumx-firo"
 
 [[repo]]
 url = "https://github.com/firoorg/elysium-explorer"
+
+[[repo]]
+url = "https://github.com/firoorg/enKrypt"
 
 [[repo]]
 url = "https://github.com/firoorg/fcs"
@@ -133,6 +132,9 @@ url = "https://github.com/firoorg/firo"
 url = "https://github.com/firoorg/firo-client"
 
 [[repo]]
+url = "https://github.com/firoorg/firo-detached-sigs"
+
+[[repo]]
 url = "https://github.com/firoorg/firo-masternode-tool"
 
 [[repo]]
@@ -140,6 +142,12 @@ url = "https://github.com/firoorg/firo-paper-js"
 
 [[repo]]
 url = "https://github.com/firoorg/firo-site"
+
+[[repo]]
+url = "https://github.com/firoorg/firo-stratum-proxy"
+
+[[repo]]
+url = "https://github.com/firoorg/firo_discord_tipbot"
 
 [[repo]]
 url = "https://github.com/firoorg/firo_tipbot"
@@ -154,7 +162,13 @@ url = "https://github.com/firoorg/firologo"
 url = "https://github.com/firoorg/firominer"
 
 [[repo]]
+url = "https://github.com/firoorg/firomonitor"
+
+[[repo]]
 url = "https://github.com/firoorg/firorunner"
+
+[[repo]]
+url = "https://github.com/firoorg/funding"
 
 [[repo]]
 url = "https://github.com/firoorg/gitian-builder"
@@ -172,13 +186,16 @@ url = "https://github.com/firoorg/helsing-paper"
 url = "https://github.com/firoorg/insight-api"
 
 [[repo]]
-url = "https://github.com/firoorg/insight-api-zcoin"
+url = "https://github.com/firoorg/insight-api-firo"
 
 [[repo]]
 url = "https://github.com/firoorg/insight-ui-zcoin"
 
 [[repo]]
 url = "https://github.com/firoorg/ledger-wallet-chrome"
+
+[[repo]]
+url = "https://github.com/firoorg/libaura"
 
 [[repo]]
 url = "https://github.com/firoorg/libhdmint"
@@ -256,10 +273,14 @@ url = "https://github.com/firoorg/spark"
 url = "https://github.com/firoorg/spark-paper"
 
 [[repo]]
+url = "https://github.com/firoorg/sparkmobile"
+
+[[repo]]
 url = "https://github.com/firoorg/spats-paper"
 
 [[repo]]
 url = "https://github.com/firoorg/trezor-firmware"
+missing = true
 
 [[repo]]
 url = "https://github.com/firoorg/trezor-mcu"
@@ -284,9 +305,6 @@ url = "https://github.com/firoorg/xzcwallet"
 
 [[repo]]
 url = "https://github.com/firoorg/zauth"
-
-[[repo]]
-url = "https://github.com/firoorg/zcoin-paper-js"
 
 [[repo]]
 url = "https://github.com/firoorg/ZCoin-Seeder"
@@ -323,9 +341,6 @@ url = "https://github.com/firoorg/zeth"
 
 [[repo]]
 url = "https://github.com/firoorg/znode-tool"
-
-[[repo]]
-url = "https://github.com/firoorg/znode-tool-evo"
 
 [[repo]]
 url = "https://github.com/firoorg/znode-tools"

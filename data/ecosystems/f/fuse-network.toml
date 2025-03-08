@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/fuseio"]
 url = "https://github.com/fuseio/3box-onboard"
 
 [[repo]]
+url = "https://github.com/fuseio/account-abstraction"
+
+[[repo]]
+url = "https://github.com/fuseio/airdrop-dapp"
+
+[[repo]]
 url = "https://github.com/fuseio/airnode"
 
 [[repo]]
@@ -37,13 +43,42 @@ url = "https://github.com/fuseio/app-ethereum"
 url = "https://github.com/fuseio/assets"
 
 [[repo]]
+url = "https://github.com/fuseio/avail-light"
+
+[[repo]]
+url = "https://github.com/fuseio/avail-light-client-monitoring-service"
+
+[[repo]]
 url = "https://github.com/fuseio/base-x"
+missing = true
+
+[[repo]]
+url = "https://github.com/fuseio/BatchMintNFT-POC"
+
+[[repo]]
+url = "https://github.com/fuseio/blockscout-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/blockscout-terraform"
+missing = true
+
+[[repo]]
+url = "https://github.com/fuseio/bounties"
+
+[[repo]]
+url = "https://github.com/fuseio/bridge-analytics"
+
+[[repo]]
+url = "https://github.com/fuseio/bridge-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/bridge-contracts-archived"
+
+[[repo]]
+url = "https://github.com/fuseio/bridge-liquidity-scheduler"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/bridge-monitor"
@@ -58,13 +93,37 @@ url = "https://github.com/fuseio/bridge-subgraph"
 url = "https://github.com/fuseio/bridge-ui"
 
 [[repo]]
+url = "https://github.com/fuseio/bridge-v2-contracts"
+
+[[repo]]
+url = "https://github.com/fuseio/bridges-server"
+
+[[repo]]
+url = "https://github.com/fuseio/bundler"
+
+[[repo]]
 url = "https://github.com/fuseio/canonical-weth"
 
 [[repo]]
 url = "https://github.com/fuseio/chainabstractionlayer"
 
 [[repo]]
+url = "https://github.com/fuseio/chainlist"
+
+[[repo]]
+url = "https://github.com/fuseio/charge-webflow"
+
+[[repo]]
+url = "https://github.com/fuseio/charge_wallet_sdk"
+
+[[repo]]
+url = "https://github.com/fuseio/console-dapp"
+
+[[repo]]
 url = "https://github.com/fuseio/contract-metadata"
+
+[[repo]]
+url = "https://github.com/fuseio/contracts"
 
 [[repo]]
 url = "https://github.com/fuseio/CountryCodePicker"
@@ -82,16 +141,25 @@ url = "https://github.com/fuseio/dart-ethereum_address"
 url = "https://github.com/fuseio/default-token-list"
 
 [[repo]]
+url = "https://github.com/fuseio/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/fuseio/delegate-registry"
+
+[[repo]]
 url = "https://github.com/fuseio/deployment-bridge"
 
 [[repo]]
 url = "https://github.com/fuseio/deployment-playbooks"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/deployment-terraform"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/devops"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/dex-liquidity-provision"
@@ -103,16 +171,44 @@ url = "https://github.com/fuseio/docs"
 url = "https://github.com/fuseio/earn-sdk"
 
 [[repo]]
+url = "https://github.com/fuseio/eliza"
+
+[[repo]]
+url = "https://github.com/fuseio/erc20-subgraph"
+
+[[repo]]
+url = "https://github.com/fuseio/erc4337-subgraph"
+
+[[repo]]
+url = "https://github.com/fuseio/erigon-client"
+
+[[repo]]
 url = "https://github.com/fuseio/eth-block-tracker"
+
+[[repo]]
+url = "https://github.com/fuseio/eth_url_parser"
 
 [[repo]]
 url = "https://github.com/fuseio/ethereum-fuse-native-bridge-subgraphs"
 
 [[repo]]
+url = "https://github.com/fuseio/ethereum-multicall"
+
+[[repo]]
+url = "https://github.com/fuseio/example-scripts"
+
+[[repo]]
+url = "https://github.com/fuseio/examples"
+
+[[repo]]
 url = "https://github.com/fuseio/EZ-Flutter"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/FIPs"
+
+[[repo]]
+url = "https://github.com/fuseio/flash-faucet"
 
 [[repo]]
 url = "https://github.com/fuseio/flutter-segment"
@@ -121,7 +217,14 @@ url = "https://github.com/fuseio/flutter-segment"
 url = "https://github.com/fuseio/flutter-zendesk"
 
 [[repo]]
+url = "https://github.com/fuseio/flutter_injected_web3"
+
+[[repo]]
 url = "https://github.com/fuseio/flutter_svg_provider"
+
+[[repo]]
+url = "https://github.com/fuseio/frontend-assignment"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/fuse-blocks-subgraph"
@@ -133,10 +236,22 @@ url = "https://github.com/fuseio/fuse-bounties"
 url = "https://github.com/fuseio/fuse-bridge"
 
 [[repo]]
+url = "https://github.com/fuseio/fuse-bridge-v2"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-bridge-v2-dapp"
+
+[[repo]]
 url = "https://github.com/fuseio/fuse-cash-subgraph"
 
 [[repo]]
 url = "https://github.com/fuseio/fuse-dev-docs"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-docs"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-docs-v2"
 
 [[repo]]
 url = "https://github.com/fuseio/fuse-dollar"
@@ -146,6 +261,10 @@ url = "https://github.com/fuseio/fuse-explorer"
 
 [[repo]]
 url = "https://github.com/fuseio/fuse-funder"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-funder-bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/fuse-graph"
@@ -178,7 +297,13 @@ url = "https://github.com/fuseio/fuse-nft-contracts"
 url = "https://github.com/fuseio/fuse-nft-subgraph"
 
 [[repo]]
+url = "https://github.com/fuseio/fuse-paymasters"
+
+[[repo]]
 url = "https://github.com/fuseio/fuse-staking"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-staking-v2"
 
 [[repo]]
 url = "https://github.com/fuseio/fuse-studio"
@@ -202,6 +327,9 @@ url = "https://github.com/fuseio/fuse-wallet-contracts"
 url = "https://github.com/fuseio/fuse-wallet-old"
 
 [[repo]]
+url = "https://github.com/fuseio/fuse-webflow"
+
+[[repo]]
 url = "https://github.com/fuseio/fuse-website"
 
 [[repo]]
@@ -211,10 +339,23 @@ url = "https://github.com/fuseio/fuse.cash"
 url = "https://github.com/fuseio/Fuse_spark_test_script"
 
 [[repo]]
-url = "https://github.com/fuseio/fusefi-interface"
+url = "https://github.com/fuseio/fuse_wallet_sdk"
 
 [[repo]]
-url = "https://github.com/fuseio/fusefi-landing"
+url = "https://github.com/fuseio/fuse_wallet_sdk_web3auth_flutter_social_logins_example"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse_wallet_web_sdk"
+
+[[repo]]
+url = "https://github.com/fuseio/fusebox-backend"
+
+[[repo]]
+url = "https://github.com/fuseio/fusebox-web-sdk"
+
+[[repo]]
+url = "https://github.com/fuseio/fusefi-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/fuseswap-default-token-list"
@@ -235,22 +376,48 @@ url = "https://github.com/fuseio/fuseswap-service"
 url = "https://github.com/fuseio/fuseswap-subgraph"
 
 [[repo]]
-url = "https://github.com/fuseio/fuseswap-v2-core"
-
-[[repo]]
-url = "https://github.com/fuseio/fuseswap-v2-periphery"
-
-[[repo]]
 url = "https://github.com/fuseio/graphprotocol-infrastructure"
+
+[[repo]]
+url = "https://github.com/fuseio/grouped_list"
+missing = true
+
+[[repo]]
+url = "https://github.com/fuseio/hardhat"
 
 [[repo]]
 url = "https://github.com/fuseio/hdwallet-provider"
 
 [[repo]]
+url = "https://github.com/fuseio/hyperlane-registry"
+
+[[repo]]
 url = "https://github.com/fuseio/interact"
 
 [[repo]]
+url = "https://github.com/fuseio/layer-zero-subgraphs"
+
+[[repo]]
+url = "https://github.com/fuseio/lz-airdrop-addresses"
+
+[[repo]]
+url = "https://github.com/fuseio/lz-fuse-bridge"
+
+[[repo]]
+url = "https://github.com/fuseio/mainnet-testnet-bridge"
+
+[[repo]]
+url = "https://github.com/fuseio/metamask-extension"
+missing = true
+
+[[repo]]
+url = "https://github.com/fuseio/migrate-funds-to-smart-account"
+
+[[repo]]
 url = "https://github.com/fuseio/mnid_dart"
+
+[[repo]]
+url = "https://github.com/fuseio/mobile-provider"
 
 [[repo]]
 url = "https://github.com/fuseio/monitoring-service"
@@ -259,22 +426,34 @@ url = "https://github.com/fuseio/monitoring-service"
 url = "https://github.com/fuseio/multi-rewards"
 
 [[repo]]
-url = "https://github.com/fuseio/nestat-node"
+url = "https://github.com/fuseio/native-yield-contracts"
 
 [[repo]]
 url = "https://github.com/fuseio/nethermind"
 
 [[repo]]
-url = "https://github.com/fuseio/netstat-dashboard"
+url = "https://github.com/fuseio/nethermind-client"
 
 [[repo]]
-url = "https://github.com/fuseio/nft-subgraph"
+url = "https://github.com/fuseio/netstats-agent"
+
+[[repo]]
+url = "https://github.com/fuseio/netstats-dashboard"
+
+[[repo]]
+url = "https://github.com/fuseio/node-sale-dapp"
 
 [[repo]]
 url = "https://github.com/fuseio/node-walletconnect-bridge"
 
 [[repo]]
+url = "https://github.com/fuseio/nodesale-reward-distribution-core"
+
+[[repo]]
 url = "https://github.com/fuseio/notification-service"
+
+[[repo]]
+url = "https://github.com/fuseio/old-bridge"
 
 [[repo]]
 url = "https://github.com/fuseio/omnibridge-ui"
@@ -287,6 +466,9 @@ url = "https://github.com/fuseio/optimism"
 
 [[repo]]
 url = "https://github.com/fuseio/pegswap-contracts"
+
+[[repo]]
+url = "https://github.com/fuseio/pendle-core-v2-public"
 
 [[repo]]
 url = "https://github.com/fuseio/poa-chain-spec"
@@ -316,6 +498,15 @@ url = "https://github.com/fuseio/pooltogether-contracts"
 url = "https://github.com/fuseio/projects"
 
 [[repo]]
+url = "https://github.com/fuseio/roulette-game"
+
+[[repo]]
+url = "https://github.com/fuseio/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/fuseio/safe-config-service"
+
+[[repo]]
 url = "https://github.com/fuseio/safe-contracts"
 
 [[repo]]
@@ -331,7 +522,17 @@ url = "https://github.com/fuseio/safe-react"
 url = "https://github.com/fuseio/safe-transaction-service"
 
 [[repo]]
+url = "https://github.com/fuseio/safe-wallet-web"
+
+[[repo]]
+url = "https://github.com/fuseio/scheduler_slack_alerts"
+missing = true
+
+[[repo]]
 url = "https://github.com/fuseio/solui"
+
+[[repo]]
+url = "https://github.com/fuseio/spark-faucet"
 
 [[repo]]
 url = "https://github.com/fuseio/subscription-service"
@@ -341,6 +542,9 @@ url = "https://github.com/fuseio/test-repo"
 
 [[repo]]
 url = "https://github.com/fuseio/tixlfinance-community-data"
+
+[[repo]]
+url = "https://github.com/fuseio/token-list"
 
 [[repo]]
 url = "https://github.com/fuseio/token-lists"
@@ -373,19 +577,41 @@ url = "https://github.com/fuseio/truffle-default-builder"
 url = "https://github.com/fuseio/truffle-hdwallet-provider"
 
 [[repo]]
+url = "https://github.com/fuseio/tutorial-template"
+
+[[repo]]
 url = "https://github.com/fuseio/uniswap-python"
+
+[[repo]]
+url = "https://github.com/fuseio/userop.dart"
+
+[[repo]]
+url = "https://github.com/fuseio/variance-dart"
+
+[[repo]]
+url = "https://github.com/fuseio/viem"
+
+[[repo]]
+url = "https://github.com/fuseio/voltage-liquidity-monitor"
 
 [[repo]]
 url = "https://github.com/fuseio/wallet"
 
 [[repo]]
+url = "https://github.com/fuseio/wallet-backend"
+
+[[repo]]
 url = "https://github.com/fuseio/wallet-connect-dart"
+missing = true
 
 [[repo]]
 url = "https://github.com/fuseio/wallet-connect-flutter"
 
 [[repo]]
 url = "https://github.com/fuseio/wallet-connect-poc"
+
+[[repo]]
+url = "https://github.com/fuseio/wallet_backend"
 
 [[repo]]
 url = "https://github.com/fuseio/wallet_core"
@@ -400,7 +626,29 @@ url = "https://github.com/fuseio/walletconnect-monorepo"
 url = "https://github.com/fuseio/walletconnect-registry"
 
 [[repo]]
+url = "https://github.com/fuseio/web3-provider"
+
+[[repo]]
 url = "https://github.com/fuseio/web3-provider-engine"
 
 [[repo]]
 url = "https://github.com/fuseio/web3-react"
+
+[[repo]]
+url = "https://github.com/fuseio/web3dart_builders"
+missing = true
+
+[[repo]]
+url = "https://github.com/fuseio/wrapped-asset-bridge"
+
+[[repo]]
+url = "https://github.com/fuseio/xERC20"
+
+[[repo]]
+url = "https://github.com/voltfinance/fuseswap-v2-periphery"
+
+[[repo]]
+url = "https://github.com/voltfinance/voltage-dex-core"
+
+[[repo]]
+url = "https://github.com/voltfinance/voltage-landing"

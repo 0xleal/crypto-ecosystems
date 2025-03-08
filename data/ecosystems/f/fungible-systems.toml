@@ -10,7 +10,16 @@ github_organizations = ["https://github.com/fungible-systems"]
 url = "https://github.com/fungible-systems/bird-count"
 
 [[repo]]
+url = "https://github.com/fungible-systems/bns-x"
+
+[[repo]]
+url = "https://github.com/fungible-systems/chainhook"
+
+[[repo]]
 url = "https://github.com/fungible-systems/clarigen"
+
+[[repo]]
+url = "https://github.com/fungible-systems/clarinet"
 
 [[repo]]
 url = "https://github.com/fungible-systems/clarity.tmbundle"
@@ -34,10 +43,19 @@ url = "https://github.com/fungible-systems/hasura-graphql-metadata-db-only"
 url = "https://github.com/fungible-systems/hestia"
 
 [[repo]]
+url = "https://github.com/fungible-systems/hub"
+
+[[repo]]
 url = "https://github.com/fungible-systems/jotai-query-toolkit"
 
 [[repo]]
 url = "https://github.com/fungible-systems/marketplace-partners"
+
+[[repo]]
+url = "https://github.com/fungible-systems/micro-gaia-hub"
+
+[[repo]]
+url = "https://github.com/fungible-systems/micro-packed"
 
 [[repo]]
 url = "https://github.com/fungible-systems/micro-stacks"
@@ -55,16 +73,26 @@ url = "https://github.com/fungible-systems/micro-stacks-monorepo"
 url = "https://github.com/fungible-systems/micro-stacks-nextjs"
 
 [[repo]]
-url = "https://github.com/fungible-systems/micro-stacks-react"
+url = "https://github.com/fungible-systems/micro-stacks-nextjs-example"
 
 [[repo]]
 url = "https://github.com/fungible-systems/micro-stacks-remix-example"
 
 [[repo]]
+url = "https://github.com/fungible-systems/micro-stacks-svelte-example"
+
+[[repo]]
 url = "https://github.com/fungible-systems/micro-stacks-vue3"
+missing = true
+
+[[repo]]
+url = "https://github.com/fungible-systems/multisafe-ui"
 
 [[repo]]
 url = "https://github.com/fungible-systems/nelson-ui"
+
+[[repo]]
+url = "https://github.com/fungible-systems/nextra"
 
 [[repo]]
 url = "https://github.com/fungible-systems/nft-nyc-exclusive-app"
@@ -74,6 +102,9 @@ url = "https://github.com/fungible-systems/noble-hashes"
 
 [[repo]]
 url = "https://github.com/fungible-systems/noble-secp256k1"
+
+[[repo]]
+url = "https://github.com/fungible-systems/nouns-builder"
 
 [[repo]]
 url = "https://github.com/fungible-systems/nox.sh"
@@ -101,6 +132,9 @@ url = "https://github.com/fungible-systems/render-stacks"
 
 [[repo]]
 url = "https://github.com/fungible-systems/reservoir-indexer"
+
+[[repo]]
+url = "https://github.com/fungible-systems/rn-expo-crypto-example"
 
 [[repo]]
 url = "https://github.com/fungible-systems/rx"

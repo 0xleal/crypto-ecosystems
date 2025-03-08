@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/ArcBlock"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ArcBlock/.github"
+
+[[repo]]
 url = "https://github.com/ArcBlock/abi"
 
 [[repo]]
@@ -34,6 +37,9 @@ url = "https://github.com/ArcBlock/action-lint-pull-request-title"
 url = "https://github.com/ArcBlock/action-version-check"
 
 [[repo]]
+url = "https://github.com/ArcBlock/ai-codereviewer"
+
+[[repo]]
 url = "https://github.com/ArcBlock/ans"
 
 [[repo]]
@@ -44,6 +50,7 @@ url = "https://github.com/ArcBlock/apollo-ios"
 
 [[repo]]
 url = "https://github.com/ArcBlock/arc-bridge-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/arc-wallet-js-api"
@@ -76,6 +83,12 @@ url = "https://github.com/ArcBlock/ArcBlock-Token"
 url = "https://github.com/ArcBlock/ArmsComponent-Template"
 
 [[repo]]
+url = "https://github.com/ArcBlock/assisted-viewing-lighthouse"
+
+[[repo]]
+url = "https://github.com/ArcBlock/axon"
+
+[[repo]]
 url = "https://github.com/ArcBlock/base58.ex"
 
 [[repo]]
@@ -89,6 +102,9 @@ url = "https://github.com/ArcBlock/block_keys"
 
 [[repo]]
 url = "https://github.com/ArcBlock/blockchain-network-on-kubernetes"
+
+[[repo]]
+url = "https://github.com/ArcBlock/blockchain-site"
 
 [[repo]]
 url = "https://github.com/ArcBlock/blocklet-spec"
@@ -113,6 +129,7 @@ url = "https://github.com/ArcBlock/code-coverage-assistant"
 
 [[repo]]
 url = "https://github.com/ArcBlock/colorcore"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/community-plugin-didlogo"
@@ -128,9 +145,7 @@ url = "https://github.com/ArcBlock/dappideas"
 
 [[repo]]
 url = "https://github.com/ArcBlock/dappsys"
-
-[[repo]]
-url = "https://github.com/ArcBlock/devcon"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/devcon-2020"
@@ -145,13 +160,13 @@ url = "https://github.com/ArcBlock/did-connect-examples"
 url = "https://github.com/ArcBlock/did-method-registry"
 
 [[repo]]
+url = "https://github.com/ArcBlock/did-motif"
+
+[[repo]]
 url = "https://github.com/ArcBlock/did-motif-android"
 
 [[repo]]
 url = "https://github.com/ArcBlock/did-motif-ios"
-
-[[repo]]
-url = "https://github.com/ArcBlock/did-rollup-contract"
 
 [[repo]]
 url = "https://github.com/ArcBlock/DID-Wallet-Issues"
@@ -167,6 +182,7 @@ url = "https://github.com/ArcBlock/drivelist"
 
 [[repo]]
 url = "https://github.com/ArcBlock/ds-token"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/DSBridge-IOS"
@@ -187,6 +203,9 @@ url = "https://github.com/ArcBlock/EIPs"
 url = "https://github.com/ArcBlock/eslint-config"
 
 [[repo]]
+url = "https://github.com/ArcBlock/ethereum-optimism.github.io"
+
+[[repo]]
 url = "https://github.com/ArcBlock/event-chain"
 
 [[repo]]
@@ -196,10 +215,7 @@ url = "https://github.com/ArcBlock/ex-abci"
 url = "https://github.com/ArcBlock/ex-abci-proto"
 
 [[repo]]
-url = "https://github.com/ArcBlock/ex_abci"
-
-[[repo]]
-url = "https://github.com/ArcBlock/ex_abci_proto"
+url = "https://github.com/ArcBlock/file-stream-rotator"
 
 [[repo]]
 url = "https://github.com/ArcBlock/forge-abi"
@@ -239,6 +255,7 @@ url = "https://github.com/ArcBlock/forge-java-starter"
 
 [[repo]]
 url = "https://github.com/ArcBlock/forge-javascript-starters"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/forge-js"
@@ -280,6 +297,9 @@ url = "https://github.com/ArcBlock/HackathonDevCon2020"
 url = "https://github.com/ArcBlock/invitation-factory"
 
 [[repo]]
+url = "https://github.com/ArcBlock/is-valid-domain"
+
+[[repo]]
 url = "https://github.com/ArcBlock/java-code-styles"
 
 [[repo]]
@@ -319,6 +339,12 @@ url = "https://github.com/ArcBlock/nedb"
 url = "https://github.com/ArcBlock/nft-marketplace"
 
 [[repo]]
+url = "https://github.com/ArcBlock/node-amp-message"
+
+[[repo]]
+url = "https://github.com/ArcBlock/node-http-proxy"
+
+[[repo]]
 url = "https://github.com/ArcBlock/node-solid-server"
 
 [[repo]]
@@ -332,6 +358,7 @@ url = "https://github.com/ArcBlock/ocap-javascript-sdk"
 
 [[repo]]
 url = "https://github.com/ArcBlock/ocap-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/ocap-react-native-starter"
@@ -347,6 +374,7 @@ url = "https://github.com/ArcBlock/ocap-vue-starter"
 
 [[repo]]
 url = "https://github.com/ArcBlock/open-assets-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArcBlock/parity-ethereum"
@@ -355,13 +383,22 @@ url = "https://github.com/ArcBlock/parity-ethereum"
 url = "https://github.com/ArcBlock/play-abtnode-with-docker"
 
 [[repo]]
+url = "https://github.com/ArcBlock/pm2"
+
+[[repo]]
 url = "https://github.com/ArcBlock/pm2-events"
+
+[[repo]]
+url = "https://github.com/ArcBlock/pm2-io-apm"
 
 [[repo]]
 url = "https://github.com/ArcBlock/pretty-ms"
 
 [[repo]]
 url = "https://github.com/ArcBlock/protobuf-elixir"
+
+[[repo]]
+url = "https://github.com/ArcBlock/puppeteer"
 
 [[repo]]
 url = "https://github.com/ArcBlock/qldb"
@@ -380,6 +417,12 @@ url = "https://github.com/ArcBlock/rule-parser"
 
 [[repo]]
 url = "https://github.com/ArcBlock/rust-sdk-example"
+
+[[repo]]
+url = "https://github.com/ArcBlock/SimpleWebAuthn"
+
+[[repo]]
+url = "https://github.com/ArcBlock/Solana.Swift"
 
 [[repo]]
 url = "https://github.com/ArcBlock/SQLite.swift"
@@ -439,4 +482,13 @@ url = "https://github.com/ArcBlock/weekly-digest"
 url = "https://github.com/ArcBlock/Whitepaper"
 
 [[repo]]
+url = "https://github.com/ArcBlock/winston-daily-rotate-file"
+
+[[repo]]
 url = "https://github.com/ArcBlock/www-docs"
+
+[[repo]]
+url = "https://github.com/ArcBlock/xbytes"
+
+[[repo]]
+url = "https://github.com/blocklet/did-connect-v2-demo"

@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/btcpayserver"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/btcpayserver/addons-vandekul"
+
+[[repo]]
+url = "https://github.com/btcpayserver/app"
+
+[[repo]]
 url = "https://github.com/btcpayserver/bitpay-plugin-for-nopcommerce"
 
 [[repo]]
@@ -14,6 +20,15 @@ url = "https://github.com/btcpayserver/bitpay-rails"
 
 [[repo]]
 url = "https://github.com/btcpayserver/blog"
+
+[[repo]]
+url = "https://github.com/btcpayserver/btcp"
+
+[[repo]]
+url = "https://github.com/btcpayserver/btcpay-grandnode-plugin"
+
+[[repo]]
+url = "https://github.com/btcpayserver/btcpay-nopcommerce-plugin"
 
 [[repo]]
 url = "https://github.com/btcpayserver/btcpay-python"
@@ -55,13 +70,28 @@ url = "https://github.com/btcpayserver/btcpayserver-installer"
 url = "https://github.com/btcpayserver/btcpayserver-media"
 
 [[repo]]
+url = "https://github.com/btcpayserver/btcpayserver-monero-plugin"
+
+[[repo]]
 url = "https://github.com/btcpayserver/btcpayserver-php-client"
+
+[[repo]]
+url = "https://github.com/btcpayserver/btcpayserver-plugin-builder"
+
+[[repo]]
+url = "https://github.com/btcpayserver/btcpayserver-plugin-template"
 
 [[repo]]
 url = "https://github.com/btcpayserver/btcpayserver-plugins"
 
 [[repo]]
+url = "https://github.com/btcpayserver/btcpayserver-zcash-plugin"
+
+[[repo]]
 url = "https://github.com/btcpayserver/BTCPayServer.BIP78"
+
+[[repo]]
+url = "https://github.com/btcpayserver/BTCPayServer.BoltCardTools"
 
 [[repo]]
 url = "https://github.com/btcpayserver/BTCPayServer.Lightning"
@@ -77,12 +107,17 @@ url = "https://github.com/btcpayserver/btcpayserverslackbot"
 
 [[repo]]
 url = "https://github.com/btcpayserver/BTCPayThemes"
+missing = true
 
 [[repo]]
 url = "https://github.com/btcpayserver/btcTransmuter"
 
 [[repo]]
 url = "https://github.com/btcpayserver/commerce_btcpay"
+
+[[repo]]
+url = "https://github.com/btcpayserver/d-btcpayserver"
+missing = true
 
 [[repo]]
 url = "https://github.com/btcpayserver/db-doc-generator"
@@ -106,10 +141,19 @@ url = "https://github.com/btcpayserver/docker-woocommerce"
 url = "https://github.com/btcpayserver/dockerfile-deps"
 
 [[repo]]
+url = "https://github.com/btcpayserver/DotNetCorePlugins"
+
+[[repo]]
+url = "https://github.com/btcpayserver/dstrukt-btcpayserver"
+
+[[repo]]
 url = "https://github.com/btcpayserver/eclair"
 
 [[repo]]
 url = "https://github.com/btcpayserver/foundation.btcpayserver.org"
+
+[[repo]]
+url = "https://github.com/btcpayserver/grandnode"
 
 [[repo]]
 url = "https://github.com/btcpayserver/java-bitpay-client"
@@ -124,6 +168,9 @@ url = "https://github.com/btcpayserver/ledgerwebsocket"
 url = "https://github.com/btcpayserver/lightning"
 
 [[repo]]
+url = "https://github.com/btcpayserver/lnbook"
+
+[[repo]]
 url = "https://github.com/btcpayserver/lnd"
 
 [[repo]]
@@ -134,6 +181,15 @@ url = "https://github.com/btcpayserver/magento2-plugin"
 
 [[repo]]
 url = "https://github.com/btcpayserver/node-btcpay"
+
+[[repo]]
+url = "https://github.com/btcpayserver/nopcommerce"
+
+[[repo]]
+url = "https://github.com/btcpayserver/odoo"
+
+[[repo]]
+url = "https://github.com/btcpayserver/opencart"
 
 [[repo]]
 url = "https://github.com/btcpayserver/organization"
@@ -157,16 +213,34 @@ url = "https://github.com/btcpayserver/prestashop-plugin-legacy"
 url = "https://github.com/btcpayserver/ruby-client"
 
 [[repo]]
+url = "https://github.com/btcpayserver/shopify-app"
+
+[[repo]]
+url = "https://github.com/btcpayserver/slides"
+
+[[repo]]
+url = "https://github.com/btcpayserver/Smartstore.BTCPayServer"
+
+[[repo]]
 url = "https://github.com/btcpayserver/trezor-webpack-wrapper"
 
 [[repo]]
+url = "https://github.com/btcpayserver/ur-registry"
+
+[[repo]]
 url = "https://github.com/btcpayserver/whmcs-plugin"
+
+[[repo]]
+url = "https://github.com/btcpayserver/wix"
 
 [[repo]]
 url = "https://github.com/btcpayserver/woocommerce-greenfield-plugin"
 
 [[repo]]
 url = "https://github.com/btcpayserver/woocommerce-plugin"
+
+[[repo]]
+url = "https://github.com/btcpayserver/xenforo"
 
 [[repo]]
 url = "https://github.com/btcpayserver/zapier"

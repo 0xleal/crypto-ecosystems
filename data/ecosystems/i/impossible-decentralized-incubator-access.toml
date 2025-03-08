@@ -19,10 +19,16 @@ url = "https://github.com/ImpossibleFinance/avax-tokenlist"
 url = "https://github.com/ImpossibleFinance/avaxsummit-hackathon-starter-pack"
 
 [[repo]]
+url = "https://github.com/ImpossibleFinance/Axelar-cross-chain-distributor"
+
+[[repo]]
 url = "https://github.com/ImpossibleFinance/boba-community-tokenlist"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/bridging-token-standard"
+
+[[repo]]
+url = "https://github.com/ImpossibleFinance/buidl-on-solana-starterpack"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/chainidmasterjson"
@@ -34,7 +40,13 @@ url = "https://github.com/ImpossibleFinance/chainlist"
 url = "https://github.com/ImpossibleFinance/chains"
 
 [[repo]]
+url = "https://github.com/ImpossibleFinance/darkforest-local"
+
+[[repo]]
 url = "https://github.com/ImpossibleFinance/dflobbies"
+
+[[repo]]
+url = "https://github.com/ImpossibleFinance/EVM-Research"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/ido-pool"
@@ -46,7 +58,17 @@ url = "https://github.com/ImpossibleFinance/if-create2-deployer"
 url = "https://github.com/ImpossibleFinance/impossible-blog"
 
 [[repo]]
+url = "https://github.com/ImpossibleFinance/impossible-farm"
+
+[[repo]]
+url = "https://github.com/ImpossibleFinance/Impossible-finance-IDO"
+
+[[repo]]
 url = "https://github.com/ImpossibleFinance/impossible-front-v1"
+missing = true
+
+[[repo]]
+url = "https://github.com/ImpossibleFinance/impossible-node-sale"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/impossible-staking"
@@ -64,6 +86,9 @@ url = "https://github.com/ImpossibleFinance/impossible-swap-info"
 url = "https://github.com/ImpossibleFinance/impossible-swap-sdk"
 
 [[repo]]
+url = "https://github.com/ImpossibleFinance/impossible-tiered-sale"
+
+[[repo]]
 url = "https://github.com/ImpossibleFinance/impossible-tokens"
 
 [[repo]]
@@ -76,7 +101,16 @@ url = "https://github.com/ImpossibleFinance/impossiblechainlist"
 url = "https://github.com/ImpossibleFinance/launchpad-contracts"
 
 [[repo]]
+url = "https://github.com/ImpossibleFinance/multichain-framework-deprecated"
+
+[[repo]]
 url = "https://github.com/ImpossibleFinance/pancake-swap-interface"
+
+[[repo]]
+url = "https://github.com/ImpossibleFinance/quest-contracts"
+
+[[repo]]
+url = "https://github.com/ImpossibleFinance/solana-launchpad-config"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/solarbeam-tokenlist"
@@ -86,3 +120,4 @@ url = "https://github.com/ImpossibleFinance/sparkle-ifswap"
 
 [[repo]]
 url = "https://github.com/ImpossibleFinance/v2-swap-sdk"
+missing = true

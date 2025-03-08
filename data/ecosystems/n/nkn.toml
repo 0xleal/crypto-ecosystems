@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/nknorg"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/nknorg/active-address"
+
+[[repo]]
 url = "https://github.com/nknorg/coniks-go"
 
 [[repo]]
@@ -26,6 +29,10 @@ url = "https://github.com/nknorg/encrypted-stream"
 
 [[repo]]
 url = "https://github.com/nknorg/eth-resolver-go"
+
+[[repo]]
+url = "https://github.com/nknorg/eth-resolver-go-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/nknorg/example-kaizen"
@@ -58,10 +65,16 @@ url = "https://github.com/nknorg/gopass"
 url = "https://github.com/nknorg/goproxy"
 
 [[repo]]
+url = "https://github.com/nknorg/http-resolver-go"
+
+[[repo]]
 url = "https://github.com/nknorg/ip-range-to-cidr"
 
 [[repo]]
 url = "https://github.com/nknorg/keytransparency"
+
+[[repo]]
+url = "https://github.com/nknorg/mockconn-go"
 
 [[repo]]
 url = "https://github.com/nknorg/nBounty"
@@ -73,10 +86,10 @@ url = "https://github.com/nknorg/NchatDemo"
 url = "https://github.com/nknorg/nconnect"
 
 [[repo]]
-url = "https://github.com/nknorg/ncp"
+url = "https://github.com/nknorg/ncp-go"
 
 [[repo]]
-url = "https://github.com/nknorg/ncp-go"
+url = "https://github.com/nknorg/ncp-go-graph"
 
 [[repo]]
 url = "https://github.com/nknorg/ncp-js"
@@ -113,15 +126,22 @@ url = "https://github.com/nknorg/nkn-java-sdk"
 
 [[repo]]
 url = "https://github.com/nknorg/nkn-mining"
+missing = true
 
 [[repo]]
 url = "https://github.com/nknorg/nkn-multiclient-js"
+
+[[repo]]
+url = "https://github.com/nknorg/nkn-node-sampler"
 
 [[repo]]
 url = "https://github.com/nknorg/nkn-protocols"
 
 [[repo]]
 url = "https://github.com/nknorg/nkn-sdk-android"
+
+[[repo]]
+url = "https://github.com/nknorg/nkn-sdk-cpp"
 
 [[repo]]
 url = "https://github.com/nknorg/nkn-sdk-flutter"
@@ -151,6 +171,10 @@ url = "https://github.com/nknorg/nkn-tuna-session"
 url = "https://github.com/nknorg/nkn-tunnel"
 
 [[repo]]
+url = "https://github.com/nknorg/nkn-tunnel-1"
+missing = true
+
+[[repo]]
 url = "https://github.com/nknorg/nkn-utility"
 
 [[repo]]
@@ -164,6 +188,7 @@ url = "https://github.com/nknorg/nkngomobile"
 
 [[repo]]
 url = "https://github.com/nknorg/NKNMobileWallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/nknorg/nMobile"

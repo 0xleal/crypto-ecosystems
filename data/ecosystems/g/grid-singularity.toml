@@ -8,24 +8,25 @@ github_organizations = ["https://github.com/gridsingularity"]
 # Repositories
 [[repo]]
 url = "https://github.com/gridsingularity/canvas-node-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/d3a"
-
-[[repo]]
-url = "https://github.com/gridsingularity/d3a-api-client"
-
-[[repo]]
-url = "https://github.com/gridsingularity/d3a-blockchain"
-
-[[repo]]
-url = "https://github.com/gridsingularity/d3a-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/devops_challenge"
+missing = true
+
+[[repo]]
+url = "https://github.com/gridsingularity/DEX-Grants-Program"
 
 [[repo]]
 url = "https://github.com/gridsingularity/fun-with-graphs"
+missing = true
+
+[[repo]]
+url = "https://github.com/gridsingularity/gsy-decentralized-exchange"
 
 [[repo]]
 url = "https://github.com/gridsingularity/gsy-dex"
@@ -40,22 +41,29 @@ url = "https://github.com/gridsingularity/gsy-e-sdk"
 url = "https://github.com/gridsingularity/gsy-framework"
 
 [[repo]]
+url = "https://github.com/gridsingularity/gsy-matching-engine-sdk"
+
+[[repo]]
 url = "https://github.com/gridsingularity/gsy-myco-sdk"
 
 [[repo]]
 url = "https://github.com/gridsingularity/gsy-parachain"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/hackathon_uniswap_model"
 
 [[repo]]
 url = "https://github.com/gridsingularity/interview_tasks"
+missing = true
 
 [[repo]]
-url = "https://github.com/gridsingularity/myco-api-client"
+url = "https://github.com/gridsingularity/kubespray"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/myco_client_rust"
+missing = true
 
 [[repo]]
 url = "https://github.com/gridsingularity/open-sustainable-technology"

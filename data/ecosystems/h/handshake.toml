@@ -13,7 +13,11 @@ url = "https://github.com/handshake-org/bcfg"
 url = "https://github.com/handshake-org/bcuckoo"
 
 [[repo]]
+url = "https://github.com/handshake-org/bfilter"
+
+[[repo]]
 url = "https://github.com/handshake-org/blog"
+missing = true
 
 [[repo]]
 url = "https://github.com/handshake-org/bns"
@@ -32,6 +36,7 @@ url = "https://github.com/handshake-org/handshake-web"
 
 [[repo]]
 url = "https://github.com/handshake-org/HandshakeWebsite"
+missing = true
 
 [[repo]]
 url = "https://github.com/handshake-org/hdns"
@@ -56,6 +61,9 @@ url = "https://github.com/handshake-org/hs-miner"
 
 [[repo]]
 url = "https://github.com/handshake-org/hs-names"
+
+[[repo]]
+url = "https://github.com/handshake-org/hs-names-2023"
 
 [[repo]]
 url = "https://github.com/handshake-org/hs-rosetta"
@@ -95,24 +103,21 @@ url = "https://github.com/HandshakeAlliance/handshakealliance.org"
 
 [[repo]]
 url = "https://github.com/HandshakeAlliance/HandyMiner-CLI"
+missing = true
 
 [[repo]]
 url = "https://github.com/HandshakeAlliance/HandyMiner-GUI"
+missing = true
 
 [[repo]]
 url = "https://github.com/HandshakeAlliance/hindexer"
-
-[[repo]]
-url = "https://github.com/HandshakeAlliance/HNScan"
-
-[[repo]]
-url = "https://github.com/HandshakeAlliance/hnscan-backend"
 
 [[repo]]
 url = "https://github.com/HandshakeAlliance/hs-client-go"
 
 [[repo]]
 url = "https://github.com/HandshakeAlliance/hsd"
+missing = true
 
 [[repo]]
 url = "https://github.com/HandshakeAlliance/hstratum"
@@ -128,6 +133,12 @@ url = "https://github.com/HandshakeAlliance/nomenclate-js"
 
 [[repo]]
 url = "https://github.com/HandshakeAlliance/testnet-faucet"
+
+[[repo]]
+url = "https://github.com/HNScan/HNScan"
+
+[[repo]]
+url = "https://github.com/HNScan/hnscan-backend"
 
 [[repo]]
 url = "https://github.com/kyokan/bob-wallet"

@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/WazirX"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/WazirX/Bulletin-Android"
+
+[[repo]]
+url = "https://github.com/WazirX/Bulletin-iOS"
+
+[[repo]]
+url = "https://github.com/WazirX/hummingbot"
+
+[[repo]]
 url = "https://github.com/WazirX/slate"
 
 [[repo]]

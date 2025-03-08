@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/loomnetwork"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/CryptozombiesHQ/cryptozombies-lesson-code"
+
+[[repo]]
+url = "https://github.com/jdowning100/SocialToken"
+
+[[repo]]
 url = "https://github.com/loomnetwork/ansible-nomad"
 
 [[repo]]
@@ -28,16 +34,7 @@ url = "https://github.com/loomnetwork/blockscout"
 url = "https://github.com/loomnetwork/browser-solc"
 
 [[repo]]
-url = "https://github.com/loomnetwork/client"
-
-[[repo]]
 url = "https://github.com/loomnetwork/cocos-sdk"
-
-[[repo]]
-url = "https://github.com/loomnetwork/cryptozombie-lessons"
-
-[[repo]]
-url = "https://github.com/loomnetwork/cryptozombies-lesson-code"
 
 [[repo]]
 url = "https://github.com/loomnetwork/dashboard"
@@ -52,6 +49,12 @@ url = "https://github.com/loomnetwork/delegation-api-docs"
 url = "https://github.com/loomnetwork/e2e"
 
 [[repo]]
+url = "https://github.com/loomnetwork/era-contracts"
+
+[[repo]]
+url = "https://github.com/loomnetwork/era-zkEVM-assembly"
+
+[[repo]]
 url = "https://github.com/loomnetwork/erc721x"
 
 [[repo]]
@@ -59,9 +62,6 @@ url = "https://github.com/loomnetwork/eth-cli"
 
 [[repo]]
 url = "https://github.com/loomnetwork/eth-contract-metadata"
-
-[[repo]]
-url = "https://github.com/loomnetwork/eth-signing-demo"
 
 [[repo]]
 url = "https://github.com/loomnetwork/ethcontract"
@@ -214,9 +214,6 @@ url = "https://github.com/loomnetwork/plasma-cash"
 url = "https://github.com/loomnetwork/plasma-cli"
 
 [[repo]]
-url = "https://github.com/loomnetwork/plasma-erc721"
-
-[[repo]]
 url = "https://github.com/loomnetwork/plasma-indexer"
 
 [[repo]]
@@ -224,6 +221,7 @@ url = "https://github.com/loomnetwork/plasma-paper"
 
 [[repo]]
 url = "https://github.com/loomnetwork/Relentless"
+missing = true
 
 [[repo]]
 url = "https://github.com/loomnetwork/rollout_ui2"
@@ -347,6 +345,9 @@ url = "https://github.com/loomnetwork/yubihsm-go"
 
 [[repo]]
 url = "https://github.com/loomnetwork/zb_game_mode"
+
+[[repo]]
+url = "https://github.com/loomnetwork/zkloom-examples"
 
 [[repo]]
 url = "https://github.com/loomnetwork/zombie-battleground-api"

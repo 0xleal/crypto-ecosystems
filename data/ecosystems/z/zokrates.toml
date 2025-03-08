@@ -7,8 +7,7 @@ github_organizations = ["https://github.com/Zokrates"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/compositeapp/ZKPlayground"
-tags = ["Developer Tool"]
+url = "https://github.com/MoonfishApp/ZKPlayground"
 
 [[repo]]
 url = "https://github.com/Zokrates/cross-circle"
@@ -33,6 +32,12 @@ url = "https://github.com/Zokrates/ZoKrates"
 
 [[repo]]
 url = "https://github.com/Zokrates/zokrates-js"
+
+[[repo]]
+url = "https://github.com/Zokrates/zokrates-nextjs-demo"
+
+[[repo]]
+url = "https://github.com/Zokrates/zokrates-playground"
 
 [[repo]]
 url = "https://github.com/Zokrates/zokrates-remix-plugin"

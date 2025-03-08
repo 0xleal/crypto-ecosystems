@@ -13,13 +13,23 @@ url = "https://github.com/symmetryinvestments/AggregatePrinter"
 url = "https://github.com/symmetryinvestments/autowrap"
 
 [[repo]]
+url = "https://github.com/symmetryinvestments/bird"
+
+[[repo]]
 url = "https://github.com/symmetryinvestments/bitfinex-d"
+missing = true
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/bud"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/clrbridge"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/color"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/concepts"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/concurrency"
@@ -34,6 +44,19 @@ url = "https://github.com/symmetryinvestments/D-YAML"
 url = "https://github.com/symmetryinvestments/ddepstographviz"
 
 [[repo]]
+url = "https://github.com/symmetryinvestments/digitalocean_d"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/dlang-requests"
+missing = true
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/dmd"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/dmd-umbrella"
+
+[[repo]]
 url = "https://github.com/symmetryinvestments/dockerfile-dlang"
 
 [[repo]]
@@ -41,9 +64,13 @@ url = "https://github.com/symmetryinvestments/dotnetcore-d"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/dovecot-extractsent-d"
+missing = true
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/dsemver"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/dub"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/dubproxy"
@@ -61,10 +88,14 @@ url = "https://github.com/symmetryinvestments/faked"
 url = "https://github.com/symmetryinvestments/feedly"
 
 [[repo]]
+url = "https://github.com/symmetryinvestments/gha-setup-ninja"
+
+[[repo]]
 url = "https://github.com/symmetryinvestments/gpo-d"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/graphqld"
+missing = true
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/iban"
@@ -77,9 +108,11 @@ url = "https://github.com/symmetryinvestments/influx-d"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/interview-projects"
+missing = true
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/jobs-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/jsonneD"
@@ -104,6 +137,7 @@ url = "https://github.com/symmetryinvestments/kerberos-d"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/kraken-d"
+missing = true
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/LazyArgs"
@@ -133,6 +167,10 @@ url = "https://github.com/symmetryinvestments/libzfs-core-d"
 url = "https://github.com/symmetryinvestments/libzip-d"
 
 [[repo]]
+url = "https://github.com/symmetryinvestments/lubeck"
+missing = true
+
+[[repo]]
 url = "https://github.com/symmetryinvestments/lxc-d"
 
 [[repo]]
@@ -140,6 +178,15 @@ url = "https://github.com/symmetryinvestments/mathgl"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/mir-algorithm"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/mir-core"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/mir-cpuid"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/mir-ion"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/mkernel-d"
@@ -154,10 +201,16 @@ url = "https://github.com/symmetryinvestments/mongo-standalone"
 url = "https://github.com/symmetryinvestments/mrss"
 
 [[repo]]
+url = "https://github.com/symmetryinvestments/mupdf-d"
+
+[[repo]]
 url = "https://github.com/symmetryinvestments/nanomsg-wrapper"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/ninja"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/nomad-driver-podman"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/overview"
@@ -166,16 +219,30 @@ url = "https://github.com/symmetryinvestments/overview"
 url = "https://github.com/symmetryinvestments/Pegged"
 
 [[repo]]
+url = "https://github.com/symmetryinvestments/phobos"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/prebuilt-podman"
+
+[[repo]]
 url = "https://github.com/symmetryinvestments/python-dpp-nanomsg"
 
 [[repo]]
+url = "https://github.com/symmetryinvestments/python-jsonconversion"
+
+[[repo]]
 url = "https://github.com/symmetryinvestments/quandl-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/rabbitmq-d"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/recruiting"
+missing = true
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/reggae"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/security-info-d"
@@ -188,6 +255,12 @@ url = "https://github.com/symmetryinvestments/smbclient-d"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/smimeasym"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/snappy"
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/snmp_exporter"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/sspi-d"
@@ -220,10 +293,17 @@ url = "https://github.com/symmetryinvestments/symmetry-tika-api"
 url = "https://github.com/symmetryinvestments/symmetry-vultr-api"
 
 [[repo]]
+url = "https://github.com/symmetryinvestments/symmetry_thrift_d"
+
+[[repo]]
 url = "https://github.com/symmetryinvestments/systemd-postfix-blocked-d"
 
 [[repo]]
+url = "https://github.com/symmetryinvestments/terraform-provider-netbox"
+
+[[repo]]
 url = "https://github.com/symmetryinvestments/trace_utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/trello-d"
@@ -236,6 +316,10 @@ url = "https://github.com/symmetryinvestments/udt_d"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/uncrustify"
+missing = true
+
+[[repo]]
+url = "https://github.com/symmetryinvestments/unit-threaded"
 
 [[repo]]
 url = "https://github.com/symmetryinvestments/vcard-d"

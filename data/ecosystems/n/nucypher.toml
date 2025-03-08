@@ -10,10 +10,23 @@ github_organizations = ["https://github.com/nucypher"]
 url = "https://github.com/nucypher/aes256gcm-nacl"
 
 [[repo]]
+url = "https://github.com/nucypher/alpha-leaks-demo"
+
+[[repo]]
 url = "https://github.com/nucypher/apistar"
+missing = true
+
+[[repo]]
+url = "https://github.com/nucypher/Arc"
+
+[[repo]]
+url = "https://github.com/nucypher/atxm"
 
 [[repo]]
 url = "https://github.com/nucypher/bytestringSplitter"
+
+[[repo]]
+url = "https://github.com/nucypher/chainlist"
 
 [[repo]]
 url = "https://github.com/nucypher/confirm-activity-doc"
@@ -37,13 +50,21 @@ url = "https://github.com/nucypher/DarkIntegers.jl"
 url = "https://github.com/nucypher/dbaas-ui"
 
 [[repo]]
+url = "https://github.com/nucypher/deforum-taco"
+
+[[repo]]
 url = "https://github.com/nucypher/ethereum-contract-registry"
+missing = true
+
+[[repo]]
+url = "https://github.com/nucypher/ferveo"
 
 [[repo]]
 url = "https://github.com/nucypher/goUmbral"
 
 [[repo]]
 url = "https://github.com/nucypher/hackathon"
+missing = true
 
 [[repo]]
 url = "https://github.com/nucypher/hadoop-oss"
@@ -56,9 +77,14 @@ url = "https://github.com/nucypher/HEAAN.jl"
 
 [[repo]]
 url = "https://github.com/nucypher/interim-pre-app-docs"
+missing = true
+
+[[repo]]
+url = "https://github.com/nucypher/irys-provenance-toolkit"
 
 [[repo]]
 url = "https://github.com/nucypher/kademlia"
+missing = true
 
 [[repo]]
 url = "https://github.com/nucypher/kafka-as-module-oss"
@@ -80,6 +106,12 @@ url = "https://github.com/nucypher/mining-paper"
 
 [[repo]]
 url = "https://github.com/nucypher/mock-net"
+
+[[repo]]
+url = "https://github.com/nucypher/multicall.py"
+
+[[repo]]
+url = "https://github.com/nucypher/network-keys"
 
 [[repo]]
 url = "https://github.com/nucypher/nube"
@@ -112,6 +144,9 @@ url = "https://github.com/nucypher/nucypher-monitor"
 url = "https://github.com/nucypher/nucypher-ops"
 
 [[repo]]
+url = "https://github.com/nucypher/nucypher-porter"
+
+[[repo]]
 url = "https://github.com/nucypher/nucypher-pre-python"
 
 [[repo]]
@@ -122,6 +157,9 @@ url = "https://github.com/nucypher/nucypher-ts"
 
 [[repo]]
 url = "https://github.com/nucypher/nucypher-ts-demo"
+
+[[repo]]
+url = "https://github.com/nucypher/nucypher-ts-demo-tdec"
 
 [[repo]]
 url = "https://github.com/nucypher/nufhe"
@@ -136,7 +174,19 @@ url = "https://github.com/nucypher/numerology"
 url = "https://github.com/nucypher/NuSnap"
 
 [[repo]]
+url = "https://github.com/nucypher/orbis-demo"
+missing = true
+
+[[repo]]
+url = "https://github.com/nucypher/orbis-taco-forum"
+missing = true
+
+[[repo]]
 url = "https://github.com/nucypher/persistent"
+
+[[repo]]
+url = "https://github.com/nucypher/placeholder"
+missing = true
 
 [[repo]]
 url = "https://github.com/nucypher/protocol"
@@ -152,6 +202,7 @@ url = "https://github.com/nucypher/pyUmbral"
 
 [[repo]]
 url = "https://github.com/nucypher/rpcudp"
+missing = true
 
 [[repo]]
 url = "https://github.com/nucypher/rust-umbral"
@@ -184,7 +235,61 @@ url = "https://github.com/nucypher/stakeit.space"
 url = "https://github.com/nucypher/Sunscreen_public"
 
 [[repo]]
+url = "https://github.com/nucypher/supply-endpoint"
+
+[[repo]]
 url = "https://github.com/nucypher/t-merkle-distributor"
+missing = true
+
+[[repo]]
+url = "https://github.com/nucypher/taco-ardrive-demo"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-composedb"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-coordinator-subgraph"
+missing = true
+
+[[repo]]
+url = "https://github.com/nucypher/taco-docs"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-lighthouse-demo"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-orbisdb"
+missing = true
+
+[[repo]]
+url = "https://github.com/nucypher/taco-orbisdb-demo"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-rewards-bot"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-spy"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-staking-analysis"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-subgraph"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-subgraphs"
+
+[[repo]]
+url = "https://github.com/nucypher/taco-web"
+
+[[repo]]
+url = "https://github.com/nucypher/tacobot"
+
+[[repo]]
+url = "https://github.com/nucypher/tdec-nft-example"
+
+[[repo]]
+url = "https://github.com/nucypher/tdec-sandbox"
 
 [[repo]]
 url = "https://github.com/nucypher/telegram-fetcher"
@@ -193,13 +298,18 @@ url = "https://github.com/nucypher/telegram-fetcher"
 url = "https://github.com/nucypher/TFHE.jl"
 
 [[repo]]
+url = "https://github.com/nucypher/train45"
+
+[[repo]]
 url = "https://github.com/nucypher/umbral-doc"
 
 [[repo]]
 url = "https://github.com/nucypher/validator-profiles"
+missing = true
 
 [[repo]]
 url = "https://github.com/nucypher/vanguard"
+missing = true
 
 [[repo]]
 url = "https://github.com/nucypher/vehicle-data-exchange"

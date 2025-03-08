@@ -14,18 +14,24 @@ url = "https://github.com/darkforest-eth/client"
 
 [[repo]]
 url = "https://github.com/darkforest-eth/contracts-starter"
+missing = true
 
 [[repo]]
 url = "https://github.com/darkforest-eth/darkforest-v0.3"
+
+[[repo]]
+url = "https://github.com/darkforest-eth/darkforest-v0.6"
 
 [[repo]]
 url = "https://github.com/darkforest-eth/developer-guides"
 
 [[repo]]
 url = "https://github.com/darkforest-eth/developer-guides-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/darkforest-eth/empire-contract-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/darkforest-eth/eth"

@@ -40,6 +40,12 @@ url = "https://github.com/airalab/airalab.io"
 url = "https://github.com/airalab/airapkgs"
 
 [[repo]]
+url = "https://github.com/airalab/airrohr-firmware-flasher"
+
+[[repo]]
+url = "https://github.com/airalab/altruist-firmware"
+
+[[repo]]
 url = "https://github.com/airalab/ansible-robonomics-network"
 
 [[repo]]
@@ -79,16 +85,16 @@ url = "https://github.com/airalab/dapp-de-simulation"
 url = "https://github.com/airalab/dapp-railway-game"
 
 [[repo]]
-url = "https://github.com/airalab/dapp-robonomics.network"
-
-[[repo]]
 url = "https://github.com/airalab/dapp-validator-simple"
 
 [[repo]]
 url = "https://github.com/airalab/dapp.robonomics.network"
 
 [[repo]]
-url = "https://github.com/airalab/de_direct"
+url = "https://github.com/airalab/data-harvester-dapp"
+
+[[repo]]
+url = "https://github.com/airalab/demo-academy-hackjlab"
 
 [[repo]]
 url = "https://github.com/airalab/devcon5"
@@ -118,9 +124,6 @@ url = "https://github.com/airalab/gacka-chu-provider"
 url = "https://github.com/airalab/gaka-chu-dapp"
 
 [[repo]]
-url = "https://github.com/airalab/gaka-chu.online"
-
-[[repo]]
 url = "https://github.com/airalab/get-robonomics-network"
 
 [[repo]]
@@ -128,6 +131,27 @@ url = "https://github.com/airalab/github-ipfs"
 
 [[repo]]
 url = "https://github.com/airalab/habit"
+
+[[repo]]
+url = "https://github.com/airalab/hardware"
+
+[[repo]]
+url = "https://github.com/airalab/hikikomori-tamagotchi"
+
+[[repo]]
+url = "https://github.com/airalab/hikkikomory-tamagotchi"
+
+[[repo]]
+url = "https://github.com/airalab/home-assistant-blueprints"
+
+[[repo]]
+url = "https://github.com/airalab/home-assistant-themes"
+
+[[repo]]
+url = "https://github.com/airalab/home-assistant-web3-build"
+
+[[repo]]
+url = "https://github.com/airalab/homeassistant-robonomics-integration"
 
 [[repo]]
 url = "https://github.com/airalab/hs-web3"
@@ -148,7 +172,13 @@ url = "https://github.com/airalab/iiot_data_secure"
 url = "https://github.com/airalab/ipci_iot_poc"
 
 [[repo]]
+url = "https://github.com/airalab/ipfs-addon"
+
+[[repo]]
 url = "https://github.com/airalab/learning-center"
+
+[[repo]]
+url = "https://github.com/airalab/lk-frontend-academy"
 
 [[repo]]
 url = "https://github.com/airalab/mobi_grand_challenge"
@@ -169,6 +199,9 @@ url = "https://github.com/airalab/online-school-2022-lesson2"
 url = "https://github.com/airalab/online-school-2022-lesson4"
 
 [[repo]]
+url = "https://github.com/airalab/otaberu"
+
+[[repo]]
 url = "https://github.com/airalab/polkadot"
 
 [[repo]]
@@ -184,6 +217,29 @@ url = "https://github.com/airalab/railway-market-switch"
 url = "https://github.com/airalab/robonomics"
 
 [[repo]]
+url = "https://github.com/airalab/robonomics-1"
+
+[[repo]]
+url = "https://github.com/airalab/robonomics-2"
+missing = true
+
+[[repo]]
+url = "https://github.com/airalab/robonomics-3"
+missing = true
+
+[[repo]]
+url = "https://github.com/airalab/robonomics-4"
+missing = true
+
+[[repo]]
+url = "https://github.com/airalab/robonomics-5"
+missing = true
+
+[[repo]]
+url = "https://github.com/airalab/robonomics-6"
+missing = true
+
+[[repo]]
 url = "https://github.com/airalab/robonomics-client-cpp"
 
 [[repo]]
@@ -193,10 +249,19 @@ url = "https://github.com/airalab/robonomics-grant-program"
 url = "https://github.com/airalab/robonomics-grant-results"
 
 [[repo]]
-url = "https://github.com/airalab/robonomics-grants-program"
+url = "https://github.com/airalab/robonomics-hass-utils"
+
+[[repo]]
+url = "https://github.com/airalab/Robonomics-HomeAssistant-image"
+
+[[repo]]
+url = "https://github.com/airalab/robonomics-interface"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics-js"
+
+[[repo]]
+url = "https://github.com/airalab/robonomics-ros2"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics-smarthome"
@@ -214,19 +279,37 @@ url = "https://github.com/airalab/robonomics-tools"
 url = "https://github.com/airalab/robonomics-wiki"
 
 [[repo]]
+url = "https://github.com/airalab/robonomics-wiki-deprecation-notifier"
+
+[[repo]]
 url = "https://github.com/airalab/robonomics-winter-school-2018"
+
+[[repo]]
+url = "https://github.com/airalab/robonomics-winter-school-2021"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics.academy"
 
 [[repo]]
+url = "https://github.com/airalab/robonomics.app"
+
+[[repo]]
 url = "https://github.com/airalab/robonomics.cloud"
+
+[[repo]]
+url = "https://github.com/airalab/robonomics.cloud-some-old-dapp"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics.events"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics.network"
+
+[[repo]]
+url = "https://github.com/airalab/robonomics.protocol"
+
+[[repo]]
+url = "https://github.com/airalab/robonomics.sensors.tasmota"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics_comm"
@@ -239,6 +322,9 @@ url = "https://github.com/airalab/robonomics_dev"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics_game"
+
+[[repo]]
+url = "https://github.com/airalab/Robonomics_on_Ethereum_Wiki"
 
 [[repo]]
 url = "https://github.com/airalab/robonomics_specs"
@@ -259,16 +345,19 @@ url = "https://github.com/airalab/RoSeMAN"
 url = "https://github.com/airalab/sensors-connectivity"
 
 [[repo]]
+url = "https://github.com/airalab/sensors-software"
+
+[[repo]]
 url = "https://github.com/airalab/sensors.robonomics.network"
+
+[[repo]]
+url = "https://github.com/airalab/sensors.social"
 
 [[repo]]
 url = "https://github.com/airalab/spot-sdk.education"
 
 [[repo]]
 url = "https://github.com/airalab/substrate"
-
-[[repo]]
-url = "https://github.com/airalab/substrate-node-robonomics"
 
 [[repo]]
 url = "https://github.com/airalab/substrate-ros"
@@ -295,7 +384,19 @@ url = "https://github.com/airalab/Web3-collaboration"
 url = "https://github.com/airalab/web3tech.space"
 
 [[repo]]
+url = "https://github.com/airalab/webflasher"
+
+[[repo]]
 url = "https://github.com/airalab/xcm-robobank-prototype"
 
 [[repo]]
 url = "https://github.com/airalab/xrt-lp-rewards"
+
+[[repo]]
+url = "https://github.com/DistributedSky/drone_passport_agent"
+
+[[repo]]
+url = "https://github.com/merklebot/telescope.merklebot.com"
+
+[[repo]]
+url = "https://github.com/Multi-Agent-io/gaka-chu.online"

@@ -10,7 +10,13 @@ github_organizations = ["https://github.com/steem-monsters"]
 url = "https://github.com/steem-monsters/assets"
 
 [[repo]]
+url = "https://github.com/steem-monsters/atom"
+
+[[repo]]
 url = "https://github.com/steem-monsters/bridge-example"
+
+[[repo]]
+url = "https://github.com/steem-monsters/bytebuffer.js"
 
 [[repo]]
 url = "https://github.com/steem-monsters/dec-market-maker"
@@ -22,10 +28,16 @@ url = "https://github.com/steem-monsters/decode"
 url = "https://github.com/steem-monsters/default-token-list"
 
 [[repo]]
+url = "https://github.com/steem-monsters/dhive-sl"
+
+[[repo]]
 url = "https://github.com/steem-monsters/external-bridge"
 
 [[repo]]
 url = "https://github.com/steem-monsters/external-chain"
+
+[[repo]]
+url = "https://github.com/steem-monsters/glx-dao"
 
 [[repo]]
 url = "https://github.com/steem-monsters/guild-automation"
@@ -38,9 +50,16 @@ url = "https://github.com/steem-monsters/hive-key-master"
 
 [[repo]]
 url = "https://github.com/steem-monsters/hive-keychain"
+missing = true
 
 [[repo]]
 url = "https://github.com/steem-monsters/pg-querybuilder"
+
+[[repo]]
+url = "https://github.com/steem-monsters/runi-bridge"
+
+[[repo]]
+url = "https://github.com/steem-monsters/sl-Hive.NET"
 
 [[repo]]
 url = "https://github.com/steem-monsters/splinterlands-hive-engine"
@@ -52,13 +71,13 @@ url = "https://github.com/steem-monsters/splinterlands-js"
 url = "https://github.com/steem-monsters/splinterlands-js-client"
 
 [[repo]]
+url = "https://github.com/steem-monsters/splinterlands-playground"
+
+[[repo]]
 url = "https://github.com/steem-monsters/sps-dao"
 
 [[repo]]
 url = "https://github.com/steem-monsters/sps-minter"
-
-[[repo]]
-url = "https://github.com/steem-monsters/sscjs"
 
 [[repo]]
 url = "https://github.com/steem-monsters/steem-interface"

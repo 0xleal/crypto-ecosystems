@@ -10,10 +10,14 @@ github_organizations = ["https://github.com/confio"]
 url = "https://github.com/confio/amino-test-suite"
 
 [[repo]]
+url = "https://github.com/confio/assetlists"
+
+[[repo]]
 url = "https://github.com/confio/burner-chains"
 
 [[repo]]
 url = "https://github.com/confio/chain-registry"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/chat.tgrade.finance"
@@ -22,7 +26,16 @@ url = "https://github.com/confio/chat.tgrade.finance"
 url = "https://github.com/confio/cosmjs-types"
 
 [[repo]]
+url = "https://github.com/confio/cosmonaut"
+
+[[repo]]
 url = "https://github.com/confio/cosmos-hd-key-derivation-spec"
+
+[[repo]]
+url = "https://github.com/confio/cosmwasm-tracing-api"
+
+[[repo]]
+url = "https://github.com/confio/cosmwasm-tracing-ui"
 
 [[repo]]
 url = "https://github.com/confio/credible-chain"
@@ -31,10 +44,22 @@ url = "https://github.com/confio/credible-chain"
 url = "https://github.com/confio/crev-proofs"
 
 [[repo]]
+url = "https://github.com/confio/cw-ibc-demo"
+
+[[repo]]
 url = "https://github.com/confio/decode_raw"
 
 [[repo]]
+url = "https://github.com/confio/dsrv-poap"
+
+[[repo]]
+url = "https://github.com/confio/emeris-utils"
+
+[[repo]]
 url = "https://github.com/confio/eth-atomic-swap"
+
+[[repo]]
+url = "https://github.com/confio/funding"
 
 [[repo]]
 url = "https://github.com/confio/go-ext-wasm"
@@ -47,6 +72,7 @@ url = "https://github.com/confio/go-wasm"
 
 [[repo]]
 url = "https://github.com/confio/iavl"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/ibc"
@@ -55,7 +81,7 @@ url = "https://github.com/confio/ibc"
 url = "https://github.com/confio/ibc-go"
 
 [[repo]]
-url = "https://github.com/confio/ics23"
+url = "https://github.com/confio/ibc-tests-ics20"
 
 [[repo]]
 url = "https://github.com/confio/ics23-iavl"
@@ -80,15 +106,19 @@ url = "https://github.com/confio/mask"
 
 [[repo]]
 url = "https://github.com/confio/matadores-backlog-collection"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/nym"
 
 [[repo]]
+url = "https://github.com/confio/osmo-oracle"
+
+[[repo]]
 url = "https://github.com/confio/osmosis"
 
 [[repo]]
-url = "https://github.com/confio/osmosis-bindings"
+url = "https://github.com/confio/osmosis-frontend"
 
 [[repo]]
 url = "https://github.com/confio/pbstream"
@@ -106,10 +136,10 @@ url = "https://github.com/confio/proofs-ethereum"
 url = "https://github.com/confio/proofs-merk"
 
 [[repo]]
-url = "https://github.com/confio/public-testnets"
+url = "https://github.com/confio/rand"
 
 [[repo]]
-url = "https://github.com/confio/rand"
+url = "https://github.com/confio/relayer-ci-images"
 
 [[repo]]
 url = "https://github.com/confio/rust-decimal"
@@ -121,6 +151,12 @@ url = "https://github.com/confio/tfi"
 url = "https://github.com/confio/tgrade"
 
 [[repo]]
+url = "https://github.com/confio/tgrade-app"
+
+[[repo]]
+url = "https://github.com/confio/tgrade-contracts"
+
+[[repo]]
 url = "https://github.com/confio/tgrade-docs"
 
 [[repo]]
@@ -128,9 +164,6 @@ url = "https://github.com/confio/tgrade-multisig"
 
 [[repo]]
 url = "https://github.com/confio/tgrade-networks"
-
-[[repo]]
-url = "https://github.com/confio/tinygo"
 
 [[repo]]
 url = "https://github.com/confio/token-finder"
@@ -146,6 +179,7 @@ url = "https://github.com/confio/wasm-opt"
 
 [[repo]]
 url = "https://github.com/confio/wasmer"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/weave-js"
@@ -155,3 +189,12 @@ url = "https://github.com/confio/weave-ops"
 
 [[repo]]
 url = "https://github.com/confio/wevops"
+
+[[repo]]
+url = "https://github.com/cosmos/ics23"
+
+[[repo]]
+url = "https://github.com/CosmWasm/tinygo"
+
+[[repo]]
+url = "https://github.com/osmosis-labs/bindings"

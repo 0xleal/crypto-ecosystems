@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/BarnBridge"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/BarnBridge/.github"
+
+[[repo]]
 url = "https://github.com/BarnBridge/aave-aip"
 
 [[repo]]
@@ -35,6 +38,7 @@ url = "https://github.com/BarnBridge/barnbridge-frontend"
 
 [[repo]]
 url = "https://github.com/BarnBridge/barnbridge-IaC"
+missing = true
 
 [[repo]]
 url = "https://github.com/BarnBridge/BarnBridge-PM"
@@ -44,6 +48,7 @@ url = "https://github.com/BarnBridge/BarnBridge-Polygon"
 
 [[repo]]
 url = "https://github.com/BarnBridge/BarnBridge-SmartExposure"
+missing = true
 
 [[repo]]
 url = "https://github.com/BarnBridge/BarnBridge-SmartYieldBonds"
@@ -91,6 +96,14 @@ url = "https://github.com/BarnBridge/DeFi-Pulse-Adapters"
 url = "https://github.com/BarnBridge/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/BarnBridge/DefiLlama-Adapters-old"
+missing = true
+
+[[repo]]
+url = "https://github.com/BarnBridge/delphi-ii"
+missing = true
+
+[[repo]]
 url = "https://github.com/BarnBridge/ethwheels"
 
 [[repo]]
@@ -103,6 +116,10 @@ url = "https://github.com/BarnBridge/Meme-Competitions"
 url = "https://github.com/BarnBridge/meminero"
 
 [[repo]]
+url = "https://github.com/BarnBridge/PRBProxyOnboardAction"
+missing = true
+
+[[repo]]
 url = "https://github.com/BarnBridge/Project-Call-Notes-"
 
 [[repo]]
@@ -112,7 +129,24 @@ url = "https://github.com/BarnBridge/safe-apps-list"
 url = "https://github.com/BarnBridge/sc-graphs"
 
 [[repo]]
+url = "https://github.com/BarnBridge/security"
+
+[[repo]]
 url = "https://github.com/BarnBridge/SmartAlpha"
 
 [[repo]]
 url = "https://github.com/BarnBridge/SmartYield-Cream-Distributor"
+missing = true
+
+[[repo]]
+url = "https://github.com/BarnBridge/tenderly-poc"
+missing = true
+
+[[repo]]
+url = "https://github.com/BarnBridge/token-conversion"
+
+[[repo]]
+url = "https://github.com/BarnBridge/veToken"
+
+[[repo]]
+url = "https://github.com/BarnBridge/yield-server"

@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/sideshift"]
 url = "https://github.com/sideshift/apollo-server-restrict-introspection"
 
 [[repo]]
+url = "https://github.com/sideshift/balancer-labs-assets"
+
+[[repo]]
 url = "https://github.com/sideshift/bitcore"
 
 [[repo]]
@@ -20,12 +23,19 @@ url = "https://github.com/sideshift/bitcore-lib-cash"
 
 [[repo]]
 url = "https://github.com/sideshift/cake_wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/sideshift/cashshufflejs-web"
 
 [[repo]]
 url = "https://github.com/sideshift/cryptocurrency-icons"
+
+[[repo]]
+url = "https://github.com/sideshift/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/sideshift/DefiLlama-yield-server"
 
 [[repo]]
 url = "https://github.com/sideshift/edge-exchange-plugins"
@@ -55,6 +65,9 @@ url = "https://github.com/sideshift/io-ts"
 url = "https://github.com/sideshift/js-stellar-base"
 
 [[repo]]
+url = "https://github.com/sideshift/monero-docker"
+
+[[repo]]
 url = "https://github.com/sideshift/nodes"
 
 [[repo]]
@@ -80,3 +93,6 @@ url = "https://github.com/sideshift/toolkit"
 
 [[repo]]
 url = "https://github.com/sideshift/Wallet"
+
+[[repo]]
+url = "https://github.com/sideshift/zapper-fi-studio"

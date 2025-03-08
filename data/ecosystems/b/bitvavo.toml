@@ -10,6 +10,15 @@ github_organizations = ["https://github.com/bitvavo"]
 url = "https://github.com/bitvavo/action-package-version-bump"
 
 [[repo]]
+url = "https://github.com/bitvavo/akhq"
+
+[[repo]]
+url = "https://github.com/bitvavo/avsc2avdl"
+
+[[repo]]
+url = "https://github.com/bitvavo/faro-web-sdk"
+
+[[repo]]
 url = "https://github.com/bitvavo/gh-actions-collection"
 
 [[repo]]
@@ -19,7 +28,11 @@ url = "https://github.com/bitvavo/go-bitvavo-api"
 url = "https://github.com/bitvavo/java-bitvavo-api"
 
 [[repo]]
+url = "https://github.com/bitvavo/kafka-ui"
+
+[[repo]]
 url = "https://github.com/bitvavo/mysql-migrations"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitvavo/nestjs-yalc"
@@ -32,3 +45,26 @@ url = "https://github.com/bitvavo/php-bitvavo-api"
 
 [[repo]]
 url = "https://github.com/bitvavo/python-bitvavo-api"
+
+[[repo]]
+url = "https://github.com/bitvavo/reusable-workflows"
+missing = true
+
+[[repo]]
+url = "https://github.com/bitvavo/shortener-slack-bot"
+missing = true
+
+[[repo]]
+url = "https://github.com/bitvavo/teleport-pre-upgrade-simulation"
+missing = true
+
+[[repo]]
+url = "https://github.com/bitvavo/terraform-provider-checkly"
+missing = true
+
+[[repo]]
+url = "https://github.com/bitvavo/terraform-provider-mysql"
+
+[[repo]]
+url = "https://github.com/bitvavo/test-oauth"
+missing = true

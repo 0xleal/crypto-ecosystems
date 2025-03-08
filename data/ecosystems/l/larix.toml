@@ -10,13 +10,12 @@ github_organizations = ["https://github.com/ProjectLarix"]
 url = "https://github.com/ProjectLarix/anchor"
 
 [[repo]]
-url = "https://github.com/ProjectLarix/larix-api"
-
-[[repo]]
 url = "https://github.com/ProjectLarix/larix-api-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProjectLarix/larix-front-end"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProjectLarix/larix-lending"
@@ -26,9 +25,6 @@ url = "https://github.com/ProjectLarix/larix-lending-anchor"
 
 [[repo]]
 url = "https://github.com/ProjectLarix/larix-lending-client"
-
-[[repo]]
-url = "https://github.com/ProjectLarix/Larix-Lending-Project-Rep"
 
 [[repo]]
 url = "https://github.com/ProjectLarix/larix-sdk"
@@ -44,6 +40,7 @@ url = "https://github.com/ProjectLarix/multisig-ui"
 
 [[repo]]
 url = "https://github.com/ProjectLarix/ProjectLarix-Larix-Lending-Project-Rep"
+missing = true
 
 [[repo]]
 url = "https://github.com/ProjectLarix/solana-program-library"

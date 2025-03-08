@@ -64,9 +64,6 @@ url = "https://github.com/blockmason/hexo-migrator-medium.com"
 url = "https://github.com/blockmason/java.docker"
 
 [[repo]]
-url = "https://github.com/blockmason/link-gochain-onboarding"
-
-[[repo]]
 url = "https://github.com/blockmason/link-gochain-onboarding---OLD"
 
 [[repo]]
@@ -119,6 +116,7 @@ url = "https://github.com/blockmason/microservices-demo"
 
 [[repo]]
 url = "https://github.com/blockmason/mobile-dapp-wrapper"
+missing = true
 
 [[repo]]
 url = "https://github.com/blockmason/monothereum"

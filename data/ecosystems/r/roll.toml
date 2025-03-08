@@ -31,4 +31,7 @@ url = "https://github.com/TuringAdvisoryGroup/roll-smart-contracts-public"
 url = "https://github.com/TuringAdvisoryGroup/roll-ui"
 
 [[repo]]
+url = "https://github.com/TuringAdvisoryGroup/tryrolljs"
+
+[[repo]]
 url = "https://github.com/TuringAdvisoryGroup/uniswap-frontend"

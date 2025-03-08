@@ -7,10 +7,14 @@ github_organizations = ["https://github.com/credmark"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/credmark/abi-sql-view-generator"
+
+[[repo]]
 url = "https://github.com/credmark/assets"
 
 [[repo]]
 url = "https://github.com/credmark/blockchain-etl-streaming"
+missing = true
 
 [[repo]]
 url = "https://github.com/credmark/cmk-launch-contracts"
@@ -23,9 +27,7 @@ url = "https://github.com/credmark/credmark-model-framework-py"
 
 [[repo]]
 url = "https://github.com/credmark/credmark-model-runner-api"
-
-[[repo]]
-url = "https://github.com/credmark/credmark-model-sdk-py"
+missing = true
 
 [[repo]]
 url = "https://github.com/credmark/credmark-models-notebook"
@@ -34,7 +36,19 @@ url = "https://github.com/credmark/credmark-models-notebook"
 url = "https://github.com/credmark/credmark-models-py"
 
 [[repo]]
-url = "https://github.com/credmark/credmark-sanity-studio"
+url = "https://github.com/credmark/credmark-ops-frontend"
+
+[[repo]]
+url = "https://github.com/credmark/credmark-protocol-contracts"
+
+[[repo]]
+url = "https://github.com/credmark/credmark-risk-and-research"
+
+[[repo]]
+url = "https://github.com/credmark/credmark-sdk-py"
+
+[[repo]]
+url = "https://github.com/credmark/credmark-terminal"
 
 [[repo]]
 url = "https://github.com/credmark/credmark-website"
@@ -53,9 +67,13 @@ url = "https://github.com/credmark/default-token-list"
 
 [[repo]]
 url = "https://github.com/credmark/drizzle-react-components"
+missing = true
 
 [[repo]]
 url = "https://github.com/credmark/ethereum-etl"
+
+[[repo]]
+url = "https://github.com/credmark/ethereum-proxy-etl"
 
 [[repo]]
 url = "https://github.com/credmark/helm-charts"
@@ -64,10 +82,19 @@ url = "https://github.com/credmark/helm-charts"
 url = "https://github.com/credmark/legal"
 
 [[repo]]
+url = "https://github.com/credmark/node-sql-parser"
+
+[[repo]]
+url = "https://github.com/credmark/openapi-python-client"
+
+[[repo]]
 url = "https://github.com/credmark/polygon-etl"
 
 [[repo]]
 url = "https://github.com/credmark/position-strategies"
+
+[[repo]]
+url = "https://github.com/credmark/product-backlog"
 
 [[repo]]
 url = "https://github.com/credmark/protocol-access-contracts"
@@ -80,6 +107,7 @@ url = "https://github.com/credmark/protocol-Info-credmark"
 
 [[repo]]
 url = "https://github.com/credmark/pymaker"
+missing = true
 
 [[repo]]
 url = "https://github.com/credmark/research-gitbook"
@@ -88,10 +116,17 @@ url = "https://github.com/credmark/research-gitbook"
 url = "https://github.com/credmark/research-resources"
 
 [[repo]]
+url = "https://github.com/credmark/snowflake-external-functions"
+
+[[repo]]
+url = "https://github.com/credmark/TLS"
+
+[[repo]]
 url = "https://github.com/credmark/token-api"
 
 [[repo]]
 url = "https://github.com/credmark/uniswap-v3-staker"
+missing = true
 
 [[repo]]
 url = "https://github.com/credmark/web3.py"

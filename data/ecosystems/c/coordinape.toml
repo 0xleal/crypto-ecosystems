@@ -16,10 +16,26 @@ url = "https://github.com/coordinape/coordinape-backend"
 url = "https://github.com/coordinape/coordinape-protocol"
 
 [[repo]]
+url = "https://github.com/coordinape/discord-bot"
+
+[[repo]]
 url = "https://github.com/coordinape/docs"
+
+[[repo]]
+url = "https://github.com/coordinape/eliza"
+
+[[repo]]
+url = "https://github.com/coordinape/magic-admin-js"
 
 [[repo]]
 url = "https://github.com/coordinape/scaffold-eth"
 
 [[repo]]
 url = "https://github.com/coordinape/scaffold-ui"
+missing = true
+
+[[repo]]
+url = "https://github.com/coordinape/serverlessmrp"
+
+[[repo]]
+url = "https://github.com/coordinape/vite-plugin-vercel"

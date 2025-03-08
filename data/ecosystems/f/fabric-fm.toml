@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/FabricLabs"]
 url = "https://github.com/FabricLabs/.github"
 
 [[repo]]
+url = "https://github.com/FabricLabs/aedes"
+
+[[repo]]
 url = "https://github.com/FabricLabs/bcoin"
 
 [[repo]]
@@ -17,6 +20,9 @@ url = "https://github.com/FabricLabs/bitauth"
 
 [[repo]]
 url = "https://github.com/FabricLabs/bitcoin-kit-universal"
+
+[[repo]]
+url = "https://github.com/FabricLabs/bitcoin.org"
 
 [[repo]]
 url = "https://github.com/FabricLabs/bitcore"
@@ -67,6 +73,9 @@ url = "https://github.com/FabricLabs/ethereum-kit-universal"
 url = "https://github.com/FabricLabs/fabric"
 
 [[repo]]
+url = "https://github.com/FabricLabs/fabric-auth-middleware"
+
+[[repo]]
 url = "https://github.com/FabricLabs/fabric-connect"
 
 [[repo]]
@@ -74,15 +83,31 @@ url = "https://github.com/FabricLabs/fabric-discord"
 
 [[repo]]
 url = "https://github.com/FabricLabs/fabric-ethereum"
+missing = true
+
+[[repo]]
+url = "https://github.com/FabricLabs/fabric-github"
+
+[[repo]]
+url = "https://github.com/FabricLabs/fabric-google"
 
 [[repo]]
 url = "https://github.com/FabricLabs/fabric-http"
 
 [[repo]]
-url = "https://github.com/FabricLabs/fabric-hub"
+url = "https://github.com/FabricLabs/fabric-matrix"
 
 [[repo]]
-url = "https://github.com/FabricLabs/fabric-matrix"
+url = "https://github.com/FabricLabs/fabric-meshtastic"
+
+[[repo]]
+url = "https://github.com/FabricLabs/fabric-mqtt"
+
+[[repo]]
+url = "https://github.com/FabricLabs/fabric-nostr"
+
+[[repo]]
+url = "https://github.com/FabricLabs/fabric-poc"
 
 [[repo]]
 url = "https://github.com/FabricLabs/fabric-turntable"
@@ -92,6 +117,12 @@ url = "https://github.com/FabricLabs/fabric-twilio"
 
 [[repo]]
 url = "https://github.com/FabricLabs/fabric-twitter"
+
+[[repo]]
+url = "https://github.com/FabricLabs/fabric-upnp"
+
+[[repo]]
+url = "https://github.com/FabricLabs/fabric-webhooks"
 
 [[repo]]
 url = "https://github.com/FabricLabs/fabric-zapier"
@@ -154,16 +185,25 @@ url = "https://github.com/FabricLabs/idlerpg"
 url = "https://github.com/FabricLabs/idlerpg-bot"
 
 [[repo]]
+url = "https://github.com/FabricLabs/jade"
+
+[[repo]]
+url = "https://github.com/FabricLabs/jigg"
+
+[[repo]]
 url = "https://github.com/FabricLabs/jsdoc"
 
 [[repo]]
 url = "https://github.com/FabricLabs/keyhub"
 
 [[repo]]
-url = "https://github.com/FabricLabs/light-client"
+url = "https://github.com/FabricLabs/labs.fabric.pub"
 
 [[repo]]
 url = "https://github.com/FabricLabs/maki"
+
+[[repo]]
+url = "https://github.com/FabricLabs/matrix-appservice-email"
 
 [[repo]]
 url = "https://github.com/FabricLabs/Matrix-CRDT"
@@ -181,10 +221,31 @@ url = "https://github.com/FabricLabs/matrix-react-sdk"
 url = "https://github.com/FabricLabs/matrix-static"
 
 [[repo]]
+url = "https://github.com/FabricLabs/mempool"
+
+[[repo]]
+url = "https://github.com/FabricLabs/meshtastic-web"
+
+[[repo]]
+url = "https://github.com/FabricLabs/meta"
+
+[[repo]]
+url = "https://github.com/FabricLabs/ministark"
+
+[[repo]]
+url = "https://github.com/FabricLabs/mjolnir"
+
+[[repo]]
+url = "https://github.com/FabricLabs/mux"
+
+[[repo]]
 url = "https://github.com/FabricLabs/nebulet"
 
 [[repo]]
 url = "https://github.com/FabricLabs/nixpkgs"
+
+[[repo]]
+url = "https://github.com/FabricLabs/node-nat-upnp"
 
 [[repo]]
 url = "https://github.com/FabricLabs/node-os-initramfs"
@@ -193,7 +254,13 @@ url = "https://github.com/FabricLabs/node-os-initramfs"
 url = "https://github.com/FabricLabs/nodeOS"
 
 [[repo]]
+url = "https://github.com/FabricLabs/nostream"
+
+[[repo]]
 url = "https://github.com/FabricLabs/open-ssl-kit-universal"
+
+[[repo]]
+url = "https://github.com/FabricLabs/peerjs-server"
 
 [[repo]]
 url = "https://github.com/FabricLabs/PeerTube"
@@ -203,9 +270,19 @@ url = "https://github.com/FabricLabs/png-to-ico"
 
 [[repo]]
 url = "https://github.com/FabricLabs/Portal-Beta"
+missing = true
 
 [[repo]]
 url = "https://github.com/FabricLabs/portal-feed"
+
+[[repo]]
+url = "https://github.com/FabricLabs/portal-mobile"
+
+[[repo]]
+url = "https://github.com/FabricLabs/price-feed"
+
+[[repo]]
+url = "https://github.com/FabricLabs/proofofcombat"
 
 [[repo]]
 url = "https://github.com/FabricLabs/purity"
@@ -229,6 +306,9 @@ url = "https://github.com/FabricLabs/rpg"
 url = "https://github.com/FabricLabs/secp256k1-kit-universal"
 
 [[repo]]
+url = "https://github.com/FabricLabs/sensemaker"
+
+[[repo]]
 url = "https://github.com/FabricLabs/shell"
 
 [[repo]]
@@ -244,13 +324,22 @@ url = "https://github.com/FabricLabs/synapse"
 url = "https://github.com/FabricLabs/sync"
 
 [[repo]]
+url = "https://github.com/FabricLabs/tapleaf-circuits"
+
+[[repo]]
 url = "https://github.com/FabricLabs/to.fabric.pub"
 
 [[repo]]
-url = "https://github.com/FabricLabs/web"
+url = "https://github.com/FabricLabs/verse"
 
 [[repo]]
 url = "https://github.com/FabricLabs/whitepaper"
+
+[[repo]]
+url = "https://github.com/FabricLabs/wiki"
+
+[[repo]]
+url = "https://github.com/FabricLabs/workerd"
 
 [[repo]]
 url = "https://github.com/FabricLabs/workspace"

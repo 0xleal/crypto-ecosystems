@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/Bytom", "https://github.com/project-
 
 # Repositories
 [[repo]]
+url = "https://github.com/Bytom/AISupport"
+
+[[repo]]
 url = "https://github.com/Bytom/BApp-redpacket"
 
 [[repo]]
@@ -29,6 +32,9 @@ url = "https://github.com/Bytom/bystack"
 
 [[repo]]
 url = "https://github.com/Bytom/bystack-dashboard"
+
+[[repo]]
+url = "https://github.com/Bytom/bystack-docs"
 
 [[repo]]
 url = "https://github.com/Bytom/bytom"
@@ -71,9 +77,6 @@ url = "https://github.com/Bytom/bytom-node-sdk"
 url = "https://github.com/Bytom/bytom-python"
 
 [[repo]]
-url = "https://github.com/Bytom/bytom-spanner"
-
-[[repo]]
 url = "https://github.com/Bytom/bytom-spv"
 
 [[repo]]
@@ -87,9 +90,11 @@ url = "https://github.com/Bytom/bytom.js"
 
 [[repo]]
 url = "https://github.com/Bytom/bytom2-gm"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/community"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/Contracts"
@@ -107,25 +112,22 @@ url = "https://github.com/Bytom/equity-console"
 url = "https://github.com/Bytom/faucet"
 
 [[repo]]
-url = "https://github.com/Bytom/gin-tools"
-
-[[repo]]
 url = "https://github.com/Bytom/homebrew-bytom"
 
 [[repo]]
 url = "https://github.com/Bytom/maze-bot"
 
 [[repo]]
+url = "https://github.com/Bytom/maze-digital-android"
+
+[[repo]]
+url = "https://github.com/Bytom/MazeGuruOnePrompt"
+
+[[repo]]
 url = "https://github.com/Bytom/MazeSupport"
 
 [[repo]]
 url = "https://github.com/Bytom/mov-mmdk"
-
-[[repo]]
-url = "https://github.com/Bytom/movApiDoc"
-
-[[repo]]
-url = "https://github.com/Bytom/pybtm"
 
 [[repo]]
 url = "https://github.com/Bytom/python-bytomlib"
@@ -138,9 +140,13 @@ url = "https://github.com/Bytom/shuttle"
 
 [[repo]]
 url = "https://github.com/Bytom/slips"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/spanner"
+
+[[repo]]
+url = "https://github.com/Bytom/stable-diffusion-webui"
 
 [[repo]]
 url = "https://github.com/Bytom/summoner"
@@ -153,18 +159,23 @@ url = "https://github.com/Bytom/SuperTx-periphery"
 
 [[repo]]
 url = "https://github.com/Bytom/sushiswap"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/sushiswap-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/tss-lib"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/uniswap-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/uniswap-org"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/vapor"

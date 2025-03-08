@@ -7,4 +7,5 @@ github_organizations = []
 
 # Repositories
 [[repo]]
-url = "https://github.com/defiat-crypto/defiat"
+url = "https://github.com/defiat-crypto/defiat-frontend"
+missing = true

@@ -28,10 +28,17 @@ url = "https://github.com/valist-io/example-go-multi-platform"
 url = "https://github.com/valist-io/example-next-app"
 
 [[repo]]
+url = "https://github.com/valist-io/example-phaser-game"
+
+[[repo]]
 url = "https://github.com/valist-io/example-projects"
 
 [[repo]]
 url = "https://github.com/valist-io/example-releases"
+missing = true
+
+[[repo]]
+url = "https://github.com/valist-io/fastly-compute"
 
 [[repo]]
 url = "https://github.com/valist-io/gasless"
@@ -52,7 +59,17 @@ url = "https://github.com/valist-io/go-ipfs-git"
 url = "https://github.com/valist-io/homebrew-valist"
 
 [[repo]]
+url = "https://github.com/valist-io/IPFS-lit-valist"
+
+[[repo]]
+url = "https://github.com/valist-io/keygen"
+
+[[repo]]
 url = "https://github.com/valist-io/leo"
+
+[[repo]]
+url = "https://github.com/valist-io/mixpanel-sync"
+missing = true
 
 [[repo]]
 url = "https://github.com/valist-io/near-api-go"
@@ -76,6 +93,9 @@ url = "https://github.com/valist-io/validator-rust"
 url = "https://github.com/valist-io/valist"
 
 [[repo]]
+url = "https://github.com/valist-io/valist-chainsafe-gaming-starter"
+
+[[repo]]
 url = "https://github.com/valist-io/valist-cli"
 
 [[repo]]
@@ -83,6 +103,9 @@ url = "https://github.com/valist-io/valist-contracts"
 
 [[repo]]
 url = "https://github.com/valist-io/valist-docs"
+
+[[repo]]
+url = "https://github.com/valist-io/valist-fvm"
 
 [[repo]]
 url = "https://github.com/valist-io/valist-github-action"
@@ -98,9 +121,13 @@ url = "https://github.com/valist-io/valist-js"
 
 [[repo]]
 url = "https://github.com/valist-io/valist-meta"
+missing = true
 
 [[repo]]
 url = "https://github.com/valist-io/valist-near"
+
+[[repo]]
+url = "https://github.com/valist-io/valist-one-click"
 
 [[repo]]
 url = "https://github.com/valist-io/valist-opengsn"
@@ -109,13 +136,13 @@ url = "https://github.com/valist-io/valist-opengsn"
 url = "https://github.com/valist-io/valist-subgraph"
 
 [[repo]]
-url = "https://github.com/valist-io/valist-web"
-
-[[repo]]
 url = "https://github.com/valist-io/wagmi"
 
 [[repo]]
 url = "https://github.com/valist-io/wagmi-magic-connector"
+
+[[repo]]
+url = "https://github.com/valist-io/web3-game-assets-tut"
 
 [[repo]]
 url = "https://github.com/valist-io/web3.unity"

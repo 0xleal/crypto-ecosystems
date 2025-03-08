@@ -7,7 +7,19 @@ github_organizations = ["https://github.com/newtonproject"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/newtonproject/AEPs"
+
+[[repo]]
+url = "https://github.com/newtonproject/audit"
+
+[[repo]]
 url = "https://github.com/newtonproject/blockscout"
+
+[[repo]]
+url = "https://github.com/newtonproject/CirculatingSupply"
+
+[[repo]]
+url = "https://github.com/newtonproject/community"
 
 [[repo]]
 url = "https://github.com/newtonproject/contractcommander"
@@ -16,10 +28,8 @@ url = "https://github.com/newtonproject/contractcommander"
 url = "https://github.com/newtonproject/contracts"
 
 [[repo]]
-url = "https://github.com/newtonproject/dapp_demo"
-
-[[repo]]
 url = "https://github.com/newtonproject/developer_plan"
+missing = true
 
 [[repo]]
 url = "https://github.com/newtonproject/docs"
@@ -29,15 +39,29 @@ url = "https://github.com/newtonproject/docs-style-guide"
 
 [[repo]]
 url = "https://github.com/newtonproject/docs.newtonproject.org"
+missing = true
 
 [[repo]]
 url = "https://github.com/newtonproject/ecosystem-projects"
 
 [[repo]]
+url = "https://github.com/newtonproject/evt-integration-newkeeper"
+
+[[repo]]
+url = "https://github.com/newtonproject/evt-lib"
+
+[[repo]]
+url = "https://github.com/newtonproject/evt-solution-docs"
+
+[[repo]]
 url = "https://github.com/newtonproject/evt-standard"
 
 [[repo]]
-url = "https://github.com/newtonproject/hep-provider"
+url = "https://github.com/newtonproject/evt-toolchain"
+
+[[repo]]
+url = "https://github.com/newtonproject/evt-tutorials"
+missing = true
 
 [[repo]]
 url = "https://github.com/newtonproject/hep-provoder-js"
@@ -47,9 +71,6 @@ url = "https://github.com/newtonproject/hep-sdk"
 
 [[repo]]
 url = "https://github.com/newtonproject/hep-sdk-php"
-
-[[repo]]
-url = "https://github.com/newtonproject/hep-sdk.php"
 
 [[repo]]
 url = "https://github.com/newtonproject/HEP-specification"
@@ -76,9 +97,6 @@ url = "https://github.com/newtonproject/newbridge.network"
 url = "https://github.com/newtonproject/newchain"
 
 [[repo]]
-url = "https://github.com/newtonproject/newchain-account.py"
-
-[[repo]]
 url = "https://github.com/newtonproject/newchain-api-express"
 
 [[repo]]
@@ -86,21 +104,13 @@ url = "https://github.com/newtonproject/newchain-blind"
 
 [[repo]]
 url = "https://github.com/newtonproject/newchain-deploy"
+missing = true
 
 [[repo]]
 url = "https://github.com/newtonproject/newchain-dump"
 
 [[repo]]
 url = "https://github.com/newtonproject/newchain-faucet"
-
-[[repo]]
-url = "https://github.com/newtonproject/newchain-hdkey"
-
-[[repo]]
-url = "https://github.com/newtonproject/newchain-keyfile"
-
-[[repo]]
-url = "https://github.com/newtonproject/newchain-keys.py"
 
 [[repo]]
 url = "https://github.com/newtonproject/newchain-lib-account-py"
@@ -136,10 +146,8 @@ url = "https://github.com/newtonproject/newchain-lib-web3-js"
 url = "https://github.com/newtonproject/newchain-lib-web3-py"
 
 [[repo]]
-url = "https://github.com/newtonproject/newchain-lib.js"
-
-[[repo]]
 url = "https://github.com/newtonproject/newchain-nodes"
+missing = true
 
 [[repo]]
 url = "https://github.com/newtonproject/newchain-notify"
@@ -154,24 +162,6 @@ url = "https://github.com/newtonproject/newchain-sdk-example"
 url = "https://github.com/newtonproject/newchain-specs"
 
 [[repo]]
-url = "https://github.com/newtonproject/newchain-web3.js"
-
-[[repo]]
-url = "https://github.com/newtonproject/newchain-web3.py"
-
-[[repo]]
-url = "https://github.com/newtonproject/newchainjs-block"
-
-[[repo]]
-url = "https://github.com/newtonproject/newchainjs-tx"
-
-[[repo]]
-url = "https://github.com/newtonproject/newchainjs-util"
-
-[[repo]]
-url = "https://github.com/newtonproject/newchainjs-wallet"
-
-[[repo]]
 url = "https://github.com/newtonproject/newcommander"
 
 [[repo]]
@@ -179,12 +169,15 @@ url = "https://github.com/newtonproject/newdocs-hugo"
 
 [[repo]]
 url = "https://github.com/newtonproject/NewEx-openapi"
+missing = true
 
 [[repo]]
 url = "https://github.com/newtonproject/NewExplorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/newtonproject/NewKit"
+missing = true
 
 [[repo]]
 url = "https://github.com/newtonproject/newpay-hep-android"
@@ -193,16 +186,14 @@ url = "https://github.com/newtonproject/newpay-hep-android"
 url = "https://github.com/newtonproject/newpay-hep-ios"
 
 [[repo]]
-url = "https://github.com/newtonproject/NewPaySDK-Android"
-
-[[repo]]
-url = "https://github.com/newtonproject/NewPaySDK-iOS"
+url = "https://github.com/newtonproject/newton-2.0-papers"
 
 [[repo]]
 url = "https://github.com/newtonproject/newton-whitepaper"
 
 [[repo]]
 url = "https://github.com/newtonproject/newton-www"
+missing = true
 
 [[repo]]
 url = "https://github.com/newtonproject/newtonproject-org-website"
@@ -215,15 +206,13 @@ url = "https://github.com/newtonproject/newusd"
 
 [[repo]]
 url = "https://github.com/newtonproject/slips"
-
-[[repo]]
-url = "https://github.com/newtonproject/style-guide"
-
-[[repo]]
-url = "https://github.com/newtonproject/swift-style-guide"
+missing = true
 
 [[repo]]
 url = "https://github.com/newtonproject/tests"
 
 [[repo]]
 url = "https://github.com/newtonproject/tokencommander"
+
+[[repo]]
+url = "https://github.com/newtonproject/workshop"

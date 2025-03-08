@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/Revain"]
 # Repositories
 [[repo]]
 url = "https://github.com/Revain/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/Revain/design"
@@ -31,7 +32,7 @@ url = "https://github.com/Revain/revain.github.io"
 url = "https://github.com/Revain/REVAINTokenTRON"
 
 [[repo]]
-url = "https://github.com/Revain/REVETHToken"
+url = "https://github.com/Revain/Token"
 
 [[repo]]
-url = "https://github.com/Revain/Token"
+url = "https://github.com/Revain/voting-contract"

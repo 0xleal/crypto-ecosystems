@@ -17,15 +17,20 @@ url = "https://github.com/radicle-dev/bloom_filter_simple"
 
 [[repo]]
 url = "https://github.com/radicle-dev/cli-prototype"
+missing = true
 
 [[repo]]
 url = "https://github.com/radicle-dev/cocopoco"
+missing = true
 
 [[repo]]
-url = "https://github.com/radicle-dev/compound-governance-subgraph"
+url = "https://github.com/radicle-dev/discord-digest"
 
 [[repo]]
 url = "https://github.com/radicle-dev/drips-app"
+
+[[repo]]
+url = "https://github.com/radicle-dev/drips-app-v2"
 
 [[repo]]
 url = "https://github.com/radicle-dev/drips-contracts"
@@ -41,6 +46,10 @@ url = "https://github.com/radicle-dev/drips-periphery"
 
 [[repo]]
 url = "https://github.com/radicle-dev/drips-sdk-examples"
+missing = true
+
+[[repo]]
+url = "https://github.com/radicle-dev/drips-subgraph"
 
 [[repo]]
 url = "https://github.com/radicle-dev/ed25519-zebra"
@@ -50,9 +59,6 @@ url = "https://github.com/radicle-dev/eslint-plugin-cypress"
 
 [[repo]]
 url = "https://github.com/radicle-dev/ethereum-l2-notes"
-
-[[repo]]
-url = "https://github.com/radicle-dev/funding-contracts"
 
 [[repo]]
 url = "https://github.com/radicle-dev/garden"
@@ -73,6 +79,12 @@ url = "https://github.com/radicle-dev/git2-rs"
 url = "https://github.com/radicle-dev/gnosis-safe-subgraph"
 
 [[repo]]
+url = "https://github.com/radicle-dev/growth"
+
+[[repo]]
+url = "https://github.com/radicle-dev/heartwood"
+
+[[repo]]
 url = "https://github.com/radicle-dev/homebrew-client-tools"
 
 [[repo]]
@@ -83,9 +95,11 @@ url = "https://github.com/radicle-dev/img"
 
 [[repo]]
 url = "https://github.com/radicle-dev/InfluxDBClient-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/radicle-dev/infra"
+missing = true
 
 [[repo]]
 url = "https://github.com/radicle-dev/ipfs-camp-radicle"
@@ -113,6 +127,7 @@ url = "https://github.com/radicle-dev/micro-ci"
 
 [[repo]]
 url = "https://github.com/radicle-dev/notes"
+missing = true
 
 [[repo]]
 url = "https://github.com/radicle-dev/old.radicle.xyz"
@@ -142,9 +157,6 @@ url = "https://github.com/radicle-dev/rad-xyz"
 url = "https://github.com/radicle-dev/radgov"
 
 [[repo]]
-url = "https://github.com/radicle-dev/radicle"
-
-[[repo]]
 url = "https://github.com/radicle-dev/radicle-alpha"
 
 [[repo]]
@@ -163,9 +175,6 @@ url = "https://github.com/radicle-dev/radicle-client-services"
 url = "https://github.com/radicle-dev/radicle-client-services-e2e-tests"
 
 [[repo]]
-url = "https://github.com/radicle-dev/radicle-client-tools"
-
-[[repo]]
 url = "https://github.com/radicle-dev/radicle-cloud"
 
 [[repo]]
@@ -175,19 +184,25 @@ url = "https://github.com/radicle-dev/radicle-contracts"
 url = "https://github.com/radicle-dev/radicle-decisions"
 
 [[repo]]
-url = "https://github.com/radicle-dev/radicle-docs"
+url = "https://github.com/radicle-dev/radicle-design-system"
 
 [[repo]]
-url = "https://github.com/radicle-dev/radicle-drips"
+url = "https://github.com/radicle-dev/radicle-desktop"
+
+[[repo]]
+url = "https://github.com/radicle-dev/radicle-docs"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle-drips-docs"
 
 [[repo]]
-url = "https://github.com/radicle-dev/radicle-drips-hub"
+url = "https://github.com/radicle-dev/radicle-ed25519-compact"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle-faucet"
+
+[[repo]]
+url = "https://github.com/radicle-dev/radicle-git"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle-git-ext"
@@ -202,10 +217,10 @@ url = "https://github.com/radicle-dev/radicle-governance-subgraph"
 url = "https://github.com/radicle-dev/radicle-grants"
 
 [[repo]]
-url = "https://github.com/radicle-dev/radicle-http-api"
+url = "https://github.com/radicle-dev/radicle-interface"
 
 [[repo]]
-url = "https://github.com/radicle-dev/radicle-interface"
+url = "https://github.com/radicle-dev/radicle-keri"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle-keystore"
@@ -220,22 +235,22 @@ url = "https://github.com/radicle-dev/radicle-link"
 url = "https://github.com/radicle-dev/radicle-orgs"
 
 [[repo]]
-url = "https://github.com/radicle-dev/radicle-orgs-subgraph"
+url = "https://github.com/radicle-dev/radicle-petgraph"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle-registry"
 
 [[repo]]
-url = "https://github.com/radicle-dev/radicle-run"
-
-[[repo]]
-url = "https://github.com/radicle-dev/radicle-streaming"
+url = "https://github.com/radicle-dev/radicle-ssh"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle-subgraph"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle-surf"
+
+[[repo]]
+url = "https://github.com/radicle-dev/radicle-tui"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle-upstream"
@@ -248,18 +263,17 @@ url = "https://github.com/radicle-dev/radicle.blog"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle.ch"
+missing = true
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle.foundation"
+missing = true
 
 [[repo]]
 url = "https://github.com/radicle-dev/radicle.network-landing"
 
 [[repo]]
-url = "https://github.com/radicle-dev/radicle.registry.xyz"
-
-[[repo]]
-url = "https://github.com/radicle-dev/radicle.xyz"
+url = "https://github.com/radicle-dev/radicle.xyz-old"
 
 [[repo]]
 url = "https://github.com/radicle-dev/radmail"
@@ -271,13 +285,17 @@ url = "https://github.com/radicle-dev/registry-spec"
 url = "https://github.com/radicle-dev/registry.radicle.xyz"
 
 [[repo]]
+url = "https://github.com/radicle-dev/rips"
+missing = true
+
+[[repo]]
 url = "https://github.com/radicle-dev/rusb"
 
 [[repo]]
 url = "https://github.com/radicle-dev/rust-kv"
 
 [[repo]]
-url = "https://github.com/radicle-dev/semilattice"
+url = "https://github.com/radicle-dev/rust-netservices"
 
 [[repo]]
 url = "https://github.com/radicle-dev/semilog"
@@ -290,6 +308,10 @@ url = "https://github.com/radicle-dev/svelte-click-outside"
 
 [[repo]]
 url = "https://github.com/radicle-dev/sybil-interface"
+
+[[repo]]
+url = "https://github.com/radicle-dev/tinro"
+missing = true
 
 [[repo]]
 url = "https://github.com/radicle-dev/tracing-bug"
@@ -305,6 +327,10 @@ url = "https://github.com/radicle-dev/trustwallet-assets"
 
 [[repo]]
 url = "https://github.com/radicle-dev/twemoji-svg-assets"
+
+[[repo]]
+url = "https://github.com/radicle-dev/walletconnect-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/radicle-dev/walletconnect-test-wallet"
@@ -323,3 +349,4 @@ url = "https://github.com/radicle-dev/workstreams-app"
 
 [[repo]]
 url = "https://github.com/radicle-dev/workstreams-contracts"
+missing = true

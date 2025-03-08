@@ -7,16 +7,18 @@ github_organizations = ["https://github.com/legalthings"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/improved-php-library/base58-php-ext"
+
+[[repo]]
+url = "https://github.com/jasny/sso"
+
+[[repo]]
 url = "https://github.com/legalthings/1.5-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/legalthings/1.5-website"
-
-[[repo]]
-url = "https://github.com/legalthings/anchor"
-
-[[repo]]
-url = "https://github.com/legalthings/anchor-verification-component"
+missing = true
 
 [[repo]]
 url = "https://github.com/legalthings/angular-awesome-signature"
@@ -49,9 +51,6 @@ url = "https://github.com/legalthings/angular-signature"
 url = "https://github.com/legalthings/angular-template-injection"
 
 [[repo]]
-url = "https://github.com/legalthings/api-gateway"
-
-[[repo]]
 url = "https://github.com/legalthings/authorizer"
 
 [[repo]]
@@ -62,9 +61,6 @@ url = "https://github.com/legalthings/autodocx-client"
 
 [[repo]]
 url = "https://github.com/legalthings/base58-php-compat"
-
-[[repo]]
-url = "https://github.com/legalthings/base58-php-ext"
 
 [[repo]]
 url = "https://github.com/legalthings/CKEditorFootnotes"
@@ -88,18 +84,6 @@ url = "https://github.com/legalthings/docker-fpm-php"
 url = "https://github.com/legalthings/docker-nginx"
 
 [[repo]]
-url = "https://github.com/legalthings/docker-public-node"
-
-[[repo]]
-url = "https://github.com/legalthings/docker-public-node-proxy"
-
-[[repo]]
-url = "https://github.com/legalthings/docker-public-node-testnet"
-
-[[repo]]
-url = "https://github.com/legalthings/docker-rabbitmq"
-
-[[repo]]
 url = "https://github.com/legalthings/document-merger"
 
 [[repo]]
@@ -118,12 +102,6 @@ url = "https://github.com/legalthings/elasticsearch-php"
 url = "https://github.com/legalthings/eth-contract-metadata"
 
 [[repo]]
-url = "https://github.com/legalthings/event-chain"
-
-[[repo]]
-url = "https://github.com/legalthings/event-dispatcher"
-
-[[repo]]
 url = "https://github.com/legalthings/extend-native-js"
 
 [[repo]]
@@ -134,6 +112,7 @@ url = "https://github.com/legalthings/fillthedoc-documentation"
 
 [[repo]]
 url = "https://github.com/legalthings/firm24-webapp-editor"
+missing = true
 
 [[repo]]
 url = "https://github.com/legalthings/grunt-bump"
@@ -197,6 +176,7 @@ url = "https://github.com/legalthings/legalmail-client"
 
 [[repo]]
 url = "https://github.com/legalthings/legalpdfworker"
+missing = true
 
 [[repo]]
 url = "https://github.com/legalthings/legalthings-cdn"
@@ -212,6 +192,7 @@ url = "https://github.com/legalthings/legalthings.one"
 
 [[repo]]
 url = "https://github.com/legalthings/letsflow-documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/legalthings/letsflow-php-examples"
@@ -220,70 +201,24 @@ url = "https://github.com/legalthings/letsflow-php-examples"
 url = "https://github.com/legalthings/letsflow.io"
 
 [[repo]]
-url = "https://github.com/legalthings/livecontracts-specs"
-
-[[repo]]
-url = "https://github.com/legalthings/livecontracts-tester"
-
-[[repo]]
 url = "https://github.com/legalthings/livecontracts-tutorial"
+missing = true
 
 [[repo]]
 url = "https://github.com/legalthings/livecontracts.io"
 
 [[repo]]
 url = "https://github.com/legalthings/lpoi-emulator"
+missing = true
 
 [[repo]]
 url = "https://github.com/legalthings/lt-nest-starter"
 
 [[repo]]
-url = "https://github.com/legalthings/lto"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-api.java"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-api.js"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-api.php"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-crypto"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-deepdive"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-marshall"
-
-[[repo]]
 url = "https://github.com/legalthings/lto-network-frontend"
 
 [[repo]]
-url = "https://github.com/legalthings/lto-playground"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-signature-generator"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-stats-service"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-transactions"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-ui"
-
-[[repo]]
-url = "https://github.com/legalthings/lto-viewer"
-
-[[repo]]
 url = "https://github.com/legalthings/lto-website"
-
-[[repo]]
-url = "https://github.com/legalthings/lto.network"
 
 [[repo]]
 url = "https://github.com/legalthings/lto.network-website"
@@ -293,12 +228,6 @@ url = "https://github.com/legalthings/ltone-ethereum-js"
 
 [[repo]]
 url = "https://github.com/legalthings/ltone-projection-js"
-
-[[repo]]
-url = "https://github.com/legalthings/ltone-visualizer"
-
-[[repo]]
-url = "https://github.com/legalthings/mongodb-rest"
 
 [[repo]]
 url = "https://github.com/legalthings/mongodb-session-handler"
@@ -335,6 +264,7 @@ url = "https://github.com/legalthings/php-code-quality"
 
 [[repo]]
 url = "https://github.com/legalthings/private-data-manager"
+missing = true
 
 [[repo]]
 url = "https://github.com/legalthings/registration-verhees"
@@ -344,9 +274,7 @@ url = "https://github.com/legalthings/registration-z24"
 
 [[repo]]
 url = "https://github.com/legalthings/riskmodel"
-
-[[repo]]
-url = "https://github.com/legalthings/sso"
+missing = true
 
 [[repo]]
 url = "https://github.com/legalthings/sso-broker-client"
@@ -361,10 +289,8 @@ url = "https://github.com/legalthings/sugarcrm-client"
 url = "https://github.com/legalthings/table-of-contents-json"
 
 [[repo]]
-url = "https://github.com/legalthings/tokensale"
-
-[[repo]]
 url = "https://github.com/legalthings/TrustWallet-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/legalthings/waves-php"
@@ -380,3 +306,85 @@ url = "https://github.com/legalthings/web3-server"
 
 [[repo]]
 url = "https://github.com/legalthings/workflow-engine"
+
+[[repo]]
+url = "https://github.com/ltonetwork/anchor-verification"
+
+[[repo]]
+url = "https://github.com/ltonetwork/api-gateway"
+
+[[repo]]
+url = "https://github.com/ltonetwork/docker-public-node"
+
+[[repo]]
+url = "https://github.com/ltonetwork/docker-public-node-proxy"
+missing = true
+
+[[repo]]
+url = "https://github.com/ltonetwork/docker-public-node-testnet"
+
+[[repo]]
+url = "https://github.com/ltonetwork/docker-rabbitmq"
+
+[[repo]]
+url = "https://github.com/ltonetwork/documentation"
+
+[[repo]]
+url = "https://github.com/ltonetwork/event-chain"
+
+[[repo]]
+url = "https://github.com/ltonetwork/event-dispatcher"
+
+[[repo]]
+url = "https://github.com/ltonetwork/indexer"
+
+[[repo]]
+url = "https://github.com/ltonetwork/livecontracts-tester"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-api.java"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-api.js"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-api.php"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-crypto"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-deepdive"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-erc20-token"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-eventchain-viewer"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-marshall"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-playground"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-public-node"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-signature-generator"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-stats-service"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-transactions"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-wallet"
+
+[[repo]]
+url = "https://github.com/ltonetwork/lto-workflow-visualizer"
+
+[[repo]]
+url = "https://github.com/ltonetwork/mongodb-rest"

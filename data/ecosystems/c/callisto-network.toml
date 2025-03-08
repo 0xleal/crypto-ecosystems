@@ -25,7 +25,7 @@ url = "https://github.com/EthereumCommonwealth/BitcoinTalkANN"
 url = "https://github.com/EthereumCommonwealth/block-reward"
 
 [[repo]]
-url = "https://github.com/EthereumCommonwealth/blue-app-eth"
+url = "https://github.com/EthereumCommonwealth/bridge-soy-finance"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/bsc-relayer"
@@ -46,19 +46,28 @@ url = "https://github.com/EthereumCommonwealth/Callisto-Media-Kit"
 url = "https://github.com/EthereumCommonwealth/Callisto-MultiSigWallet"
 
 [[repo]]
+url = "https://github.com/EthereumCommonwealth/callisto-network-webpage"
+
+[[repo]]
 url = "https://github.com/EthereumCommonwealth/Callisto-Snapshot"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/Callisto-Testnet-Faucet"
 
 [[repo]]
-url = "https://github.com/EthereumCommonwealth/Callisto-To-Eos-swap"
-
-[[repo]]
 url = "https://github.com/EthereumCommonwealth/Callisto-Website"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/CallistoBridge"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/CallistoDAO"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/callistonetwork-landing"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/callistonetwork-landing-backup"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/change-now"
@@ -79,16 +88,70 @@ url = "https://github.com/EthereumCommonwealth/clo-explorer"
 url = "https://github.com/EthereumCommonwealth/clo-netstats"
 
 [[repo]]
+url = "https://github.com/EthereumCommonwealth/CLOIP"
+
+[[repo]]
 url = "https://github.com/EthereumCommonwealth/Cold-staking"
 
 [[repo]]
+url = "https://github.com/EthereumCommonwealth/CommunityRequests"
+
+[[repo]]
 url = "https://github.com/EthereumCommonwealth/Crosschain-token-swaps"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/d223_mass_sender"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/DappTransition"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/DecentralizedMiningPool"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/dex223-auto-listing-subgraph"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Dex223-contracts"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Dex223-core"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Dex223-dev"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/dex223-ico-frontpage"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/dex223-liquidations-engine"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Dex223-listings"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Dex223-media-kit"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Dex223-periphery"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Dex223-periphery-doublestandard"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Dex223-Scripts"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/dex223-subgraph"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/dex223-substream"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/dex223-substream-auto-listing"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Dex223-UI"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/DexNS"
@@ -100,7 +163,16 @@ url = "https://github.com/EthereumCommonwealth/ECNS"
 url = "https://github.com/EthereumCommonwealth/EOS-resource-delegator"
 
 [[repo]]
+url = "https://github.com/EthereumCommonwealth/eos-smart-contract-security-best-practices"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/ERC-223-ecosystem"
+
+[[repo]]
 url = "https://github.com/EthereumCommonwealth/ERC223-Compatible-MultiSigWallet"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/erc223-ico"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/ERC223-token-standard"
@@ -121,10 +193,25 @@ url = "https://github.com/EthereumCommonwealth/ethereum-classic-multisig"
 url = "https://github.com/EthereumCommonwealth/ethereum-commonwealth-website"
 
 [[repo]]
+url = "https://github.com/EthereumCommonwealth/ethereum-org-website"
+
+[[repo]]
 url = "https://github.com/EthereumCommonwealth/ethereumcommonwealth.github.io"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/etherwallet"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Experimental-Dex223-core"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Experimental-Dex223-dev"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Experimental-Dex223-periphery"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/Experimental-Dex223-periphery-doublestandard"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/financial-state"
@@ -143,6 +230,9 @@ url = "https://github.com/EthereumCommonwealth/GNT-emergency-extractor-contract"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/go-callisto"
+
+[[repo]]
+url = "https://github.com/EthereumCommonwealth/go-callisto-backup"
 
 [[repo]]
 url = "https://github.com/EthereumCommonwealth/go-ethereum"
@@ -193,9 +283,6 @@ url = "https://github.com/EthereumCommonwealth/Roadmap"
 url = "https://github.com/EthereumCommonwealth/rust-callisto"
 
 [[repo]]
-url = "https://github.com/EthereumCommonwealth/smart-contracts"
-
-[[repo]]
 url = "https://github.com/EthereumCommonwealth/swap-clo-eos"
 
 [[repo]]
@@ -220,6 +307,9 @@ url = "https://github.com/EthereumCommonwealth/tornado-core"
 url = "https://github.com/EthereumCommonwealth/Treasury"
 
 [[repo]]
+url = "https://github.com/EthereumCommonwealth/twitter-together"
+
+[[repo]]
 url = "https://github.com/EthereumCommonwealth/viperid"
 
 [[repo]]
@@ -227,72 +317,94 @@ url = "https://github.com/EthereumCommonwealth/websnark"
 
 [[repo]]
 url = "https://github.com/spacechain/bootrom"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/Callisto_opensource_client"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/Callisto_opensource_hardware"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/Callisto_opensource_otp_app"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/Callisto_opensource_server"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/Callisto_opensource_software"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/dapp-v2-upgrade"
 
 [[repo]]
 url = "https://github.com/spacechain/gnss-baseband"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/jcore-cpu"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/jcore-jx"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/jcore-soc"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceChain-Board"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceChain-Chip"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceChain-Launches"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceChain-OS"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceChain_Electrum"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceChain_Hardware"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceChain_Qtum"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceChainOS_AllwinnerH3"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceNode_2018.10"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceNode_Client_ISS"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceNode_ISS"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/SpaceNode_Server_ISS"
+missing = true
 
 [[repo]]
 url = "https://github.com/spacechain/token"

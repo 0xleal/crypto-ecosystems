@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/MyWishPlatform"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/DucatusX/ducatus_merchant_api"
+
+[[repo]]
 url = "https://github.com/MyWishPlatform/airdrop-contract"
 
 [[repo]]
@@ -38,6 +41,7 @@ url = "https://github.com/MyWishPlatform/contracts"
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/crosschain_swap_backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/crosschain_swap_sign"
@@ -49,9 +53,6 @@ url = "https://github.com/MyWishPlatform/crowdsale"
 url = "https://github.com/MyWishPlatform/delayed-payment"
 
 [[repo]]
-url = "https://github.com/MyWishPlatform/ducatus-widget-backend"
-
-[[repo]]
 url = "https://github.com/MyWishPlatform/ducatus_exchange_backend"
 
 [[repo]]
@@ -61,13 +62,11 @@ url = "https://github.com/MyWishPlatform/ducatus_faucet"
 url = "https://github.com/MyWishPlatform/ducatus_gold_coin"
 
 [[repo]]
-url = "https://github.com/MyWishPlatform/ducatus_merchant_api"
-
-[[repo]]
 url = "https://github.com/MyWishPlatform/ducatus_merchant_scanner"
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/ducatusx_swap_backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/ducxwill_scanner"
@@ -128,6 +127,7 @@ url = "https://github.com/MyWishPlatform/game-assets-contract"
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/hex-credit"
+missing = true
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/ico-crowdsale"
@@ -164,9 +164,11 @@ url = "https://github.com/MyWishPlatform/lost-key-old"
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/multisig_bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/multisig_crosschain_swap_backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/mywill_backend"
@@ -179,9 +181,6 @@ url = "https://github.com/MyWishPlatform/mywill_scanner"
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/mywill_sign"
-
-[[repo]]
-url = "https://github.com/MyWishPlatform/mywish2"
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/mywish_contract_deployer"
@@ -296,9 +295,6 @@ url = "https://github.com/MyWishPlatform/wish-burner"
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/wish_swap"
-
-[[repo]]
-url = "https://github.com/MyWishPlatform/wish_swap_backend"
 
 [[repo]]
 url = "https://github.com/MyWishPlatform/xdc-connect"

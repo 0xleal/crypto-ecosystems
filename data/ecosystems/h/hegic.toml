@@ -14,6 +14,10 @@ url = "https://github.com/hegic/contracts-v1"
 
 [[repo]]
 url = "https://github.com/hegic/contracts-v888"
+missing = true
+
+[[repo]]
+url = "https://github.com/hegic/contracts-v888.0.1"
 
 [[repo]]
 url = "https://github.com/hegic/cryptoanonsense"
@@ -34,13 +38,13 @@ url = "https://github.com/hegic/hegic-frontend"
 url = "https://github.com/hegic/hegic-hardcore-beta"
 
 [[repo]]
-url = "https://github.com/hegic/Hegic-protocol-v8888"
-
-[[repo]]
 url = "https://github.com/hegic/Hegic-v8888"
 
 [[repo]]
 url = "https://github.com/hegic/Hegic-v8888-release-deck"
+
+[[repo]]
+url = "https://github.com/hegic/herge-pages"
 
 [[repo]]
 url = "https://github.com/hegic/initial-bonding-curve-offering"

@@ -17,9 +17,13 @@ url = "https://github.com/althea-net/actix-web-httpauth"
 
 [[repo]]
 url = "https://github.com/althea-net/althea-android"
+missing = true
 
 [[repo]]
 url = "https://github.com/althea-net/althea-chain"
+
+[[repo]]
+url = "https://github.com/althea-net/althea-chain-docs"
 
 [[repo]]
 url = "https://github.com/althea-net/althea-dash"
@@ -29,6 +33,12 @@ url = "https://github.com/althea-net/althea-demo"
 
 [[repo]]
 url = "https://github.com/althea-net/althea-firmware"
+
+[[repo]]
+url = "https://github.com/althea-net/althea-L1"
+
+[[repo]]
+url = "https://github.com/althea-net/althea-L1-docs"
 
 [[repo]]
 url = "https://github.com/althea-net/Althea-Node-Locator"
@@ -41,6 +51,7 @@ url = "https://github.com/althea-net/althea-site"
 
 [[repo]]
 url = "https://github.com/althea-net/althea-site-deluxe"
+missing = true
 
 [[repo]]
 url = "https://github.com/althea-net/althea-whitepaper"
@@ -53,6 +64,13 @@ url = "https://github.com/althea-net/althea_rs"
 
 [[repo]]
 url = "https://github.com/althea-net/altheahoods"
+missing = true
+
+[[repo]]
+url = "https://github.com/althea-net/altheajs"
+
+[[repo]]
+url = "https://github.com/althea-net/altheajs-example"
 
 [[repo]]
 url = "https://github.com/althea-net/aragon-node-list"
@@ -82,16 +100,32 @@ url = "https://github.com/althea-net/batman-sim"
 url = "https://github.com/althea-net/batman-sim-go"
 
 [[repo]]
+url = "https://github.com/althea-net/bech32-ibc"
+
+[[repo]]
 url = "https://github.com/althea-net/bounty_hunter"
 
 [[repo]]
+url = "https://github.com/althea-net/Canto"
+
+[[repo]]
+url = "https://github.com/althea-net/canto-docs"
+
+[[repo]]
+url = "https://github.com/althea-net/chains"
+
+[[repo]]
 url = "https://github.com/althea-net/clarity"
+
+[[repo]]
+url = "https://github.com/althea-net/community"
 
 [[repo]]
 url = "https://github.com/althea-net/compressed_log"
 
 [[repo]]
 url = "https://github.com/althea-net/compressed_log_sink"
+missing = true
 
 [[repo]]
 url = "https://github.com/althea-net/contact"
@@ -103,7 +137,16 @@ url = "https://github.com/althea-net/cosmos-gravity-bridge"
 url = "https://github.com/althea-net/cosmos-hub-governance"
 
 [[repo]]
+url = "https://github.com/althea-net/cosmos-rbuilder"
+
+[[repo]]
 url = "https://github.com/althea-net/cosmos-rust"
+
+[[repo]]
+url = "https://github.com/althea-net/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/althea-net/CrocSwap-protocol"
 
 [[repo]]
 url = "https://github.com/althea-net/deep_space"
@@ -118,7 +161,16 @@ url = "https://github.com/althea-net/dev_slice"
 url = "https://github.com/althea-net/efectivo-web"
 
 [[repo]]
+url = "https://github.com/althea-net/ethermint"
+
+[[repo]]
 url = "https://github.com/althea-net/eui48"
+
+[[repo]]
+url = "https://github.com/althea-net/evm-chains"
+
+[[repo]]
+url = "https://github.com/althea-net/exit-root-of-trust-server"
 
 [[repo]]
 url = "https://github.com/althea-net/frankendao"
@@ -127,7 +179,7 @@ url = "https://github.com/althea-net/frankendao"
 url = "https://github.com/althea-net/freeDiameter"
 
 [[repo]]
-url = "https://github.com/althea-net/gaia"
+url = "https://github.com/althea-net/gaia-ica"
 
 [[repo]]
 url = "https://github.com/althea-net/generate-ipv6-address"
@@ -137,9 +189,7 @@ url = "https://github.com/althea-net/gh-issue-stats"
 
 [[repo]]
 url = "https://github.com/althea-net/ghost-theme"
-
-[[repo]]
-url = "https://github.com/althea-net/gravity"
+missing = true
 
 [[repo]]
 url = "https://github.com/althea-net/guac"
@@ -151,10 +201,20 @@ url = "https://github.com/althea-net/guac_rs"
 url = "https://github.com/althea-net/hocnet-spec"
 
 [[repo]]
+url = "https://github.com/althea-net/ibc-go"
+
+[[repo]]
+url = "https://github.com/althea-net/ibc-test-chain"
+
+[[repo]]
+url = "https://github.com/althea-net/ifi-hackathon-altheajs"
+
+[[repo]]
 url = "https://github.com/althea-net/image-assets"
 
 [[repo]]
 url = "https://github.com/althea-net/installer"
+missing = true
 
 [[repo]]
 url = "https://github.com/althea-net/ip-keeper"
@@ -169,13 +229,22 @@ url = "https://github.com/althea-net/issue-tracker"
 url = "https://github.com/althea-net/issue-warehouse"
 
 [[repo]]
+url = "https://github.com/althea-net/keplr-chain-registry"
+
+[[repo]]
 url = "https://github.com/althea-net/keylte"
+
+[[repo]]
+url = "https://github.com/althea-net/liquid-infrastructure-contracts"
 
 [[repo]]
 url = "https://github.com/althea-net/lunie-deploy-scripts"
 
 [[repo]]
 url = "https://github.com/althea-net/map-server"
+
+[[repo]]
+url = "https://github.com/althea-net/nethermind"
 
 [[repo]]
 url = "https://github.com/althea-net/netviz"
@@ -196,10 +265,26 @@ url = "https://github.com/althea-net/openwrt"
 url = "https://github.com/althea-net/packages"
 
 [[repo]]
-url = "https://github.com/althea-net/peggy"
+url = "https://github.com/althea-net/physical-node"
 
 [[repo]]
-url = "https://github.com/althea-net/physical-node"
+url = "https://github.com/althea-net/proto"
+
+[[repo]]
+url = "https://github.com/althea-net/rita"
+
+[[repo]]
+url = "https://github.com/althea-net/rita-dash"
+
+[[repo]]
+url = "https://github.com/althea-net/rita-exit-dash"
+
+[[repo]]
+url = "https://github.com/althea-net/rita-firmware"
+
+[[repo]]
+url = "https://github.com/althea-net/rita-installer"
+missing = true
 
 [[repo]]
 url = "https://github.com/althea-net/router-rescue"
@@ -217,7 +302,11 @@ url = "https://github.com/althea-net/serde-rlp"
 url = "https://github.com/althea-net/simple-bidirectional-erc20-channel"
 
 [[repo]]
+url = "https://github.com/althea-net/space-station"
+
+[[repo]]
 url = "https://github.com/althea-net/staging.althea.net"
+missing = true
 
 [[repo]]
 url = "https://github.com/althea-net/stat-collector"

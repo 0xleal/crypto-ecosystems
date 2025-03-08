@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/cybercongress"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/cybercongress/.github"
+
+[[repo]]
 url = "https://github.com/cybercongress/aragon-auction-app"
 
 [[repo]]
@@ -19,19 +22,28 @@ url = "https://github.com/cybercongress/aragon-vesting-app"
 url = "https://github.com/cybercongress/bdjuno"
 
 [[repo]]
+url = "https://github.com/cybercongress/boom"
+
+[[repo]]
+url = "https://github.com/cybercongress/booster"
+
+[[repo]]
 url = "https://github.com/cybercongress/brain"
 
 [[repo]]
-url = "https://github.com/cybercongress/CAPP"
+url = "https://github.com/cybercongress/celatone-frontend"
 
 [[repo]]
 url = "https://github.com/cybercongress/chaingear"
 
 [[repo]]
-url = "https://github.com/cybercongress/congress"
+url = "https://github.com/cybercongress/cometbft"
 
 [[repo]]
 url = "https://github.com/cybercongress/cosmos-address-tool"
+
+[[repo]]
+url = "https://github.com/cybercongress/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/cybercongress/cosmosvanity"
@@ -46,7 +58,12 @@ url = "https://github.com/cybercongress/cw-cyber"
 url = "https://github.com/cybercongress/cw-cybergift"
 
 [[repo]]
+url = "https://github.com/cybercongress/cw-deep"
+missing = true
+
+[[repo]]
 url = "https://github.com/cybercongress/cw-merkleth-distributor"
+missing = true
 
 [[repo]]
 url = "https://github.com/cybercongress/cyb"
@@ -56,12 +73,16 @@ url = "https://github.com/cybercongress/cyb-archeology"
 
 [[repo]]
 url = "https://github.com/cybercongress/cyb-channel"
+missing = true
 
 [[repo]]
 url = "https://github.com/cybercongress/cyb-cli"
 
 [[repo]]
 url = "https://github.com/cybercongress/cyb-snap"
+
+[[repo]]
+url = "https://github.com/cybercongress/cyb-ts"
 
 [[repo]]
 url = "https://github.com/cybercongress/cyb-virus"
@@ -73,25 +94,25 @@ url = "https://github.com/cybercongress/cybaca"
 url = "https://github.com/cybercongress/cyber"
 
 [[repo]]
-url = "https://github.com/cybercongress/cyber-cosmwasm"
-
-[[repo]]
-url = "https://github.com/cybercongress/cyber-foundation"
-
-[[repo]]
-url = "https://github.com/cybercongress/cyber-js"
-
-[[repo]]
 url = "https://github.com/cybercongress/cyber-markets"
 
 [[repo]]
+url = "https://github.com/cybercongress/cyber-pruner"
+
+[[repo]]
 url = "https://github.com/cybercongress/cyber-search"
+
+[[repo]]
+url = "https://github.com/cybercongress/cyber-ts"
 
 [[repo]]
 url = "https://github.com/cybercongress/cyber-wasm-contracts"
 
 [[repo]]
 url = "https://github.com/cybercongress/cyberadmin"
+
+[[repo]]
+url = "https://github.com/cybercongress/cybercongress"
 
 [[repo]]
 url = "https://github.com/cybercongress/cyberd-balances"
@@ -106,16 +127,28 @@ url = "https://github.com/cybercongress/cyberindex"
 url = "https://github.com/cybercongress/cyberindex-euler"
 
 [[repo]]
+url = "https://github.com/cybercongress/cybernet"
+
+[[repo]]
 url = "https://github.com/cybercongress/cybernode"
 
 [[repo]]
 url = "https://github.com/cybercongress/cybernomics"
 
 [[repo]]
-url = "https://github.com/cybercongress/delegation-toolkit"
+url = "https://github.com/cybercongress/cybertensor"
 
 [[repo]]
-url = "https://github.com/cybercongress/dot-cyber"
+url = "https://github.com/cybercongress/cybertensor-developer-docs"
+
+[[repo]]
+url = "https://github.com/cybercongress/cybertensor-subnet-template"
+
+[[repo]]
+url = "https://github.com/cybercongress/cyberver"
+
+[[repo]]
+url = "https://github.com/cybercongress/delegation-toolkit"
 
 [[repo]]
 url = "https://github.com/cybercongress/dysonsphere"
@@ -124,13 +157,23 @@ url = "https://github.com/cybercongress/dysonsphere"
 url = "https://github.com/cybercongress/episode-1"
 
 [[repo]]
+url = "https://github.com/cybercongress/exo"
+
+[[repo]]
 url = "https://github.com/cybercongress/foundation"
 
 [[repo]]
 url = "https://github.com/cybercongress/galt"
 
 [[repo]]
+url = "https://github.com/cybercongress/go-cyb"
+
+[[repo]]
 url = "https://github.com/cybercongress/go-cyber"
+
+[[repo]]
+url = "https://github.com/cybercongress/go-cyber-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/cybercongress/gravity"
@@ -145,10 +188,8 @@ url = "https://github.com/cybercongress/js-amino"
 url = "https://github.com/cybercongress/js-cosmos"
 
 [[repo]]
-url = "https://github.com/cybercongress/js-cyber"
-
-[[repo]]
 url = "https://github.com/cybercongress/js-ipfs"
+missing = true
 
 [[repo]]
 url = "https://github.com/cybercongress/juno"
@@ -166,10 +207,34 @@ url = "https://github.com/cybercongress/networks"
 url = "https://github.com/cybercongress/port"
 
 [[repo]]
+url = "https://github.com/cybercongress/prime"
+
+[[repo]]
+url = "https://github.com/cybercongress/prism"
+
+[[repo]]
+url = "https://github.com/cybercongress/prompting"
+
+[[repo]]
+url = "https://github.com/cybercongress/pussy-landing"
+
+[[repo]]
+url = "https://github.com/cybercongress/pussy.meme"
+
+[[repo]]
+url = "https://github.com/cybercongress/soft3.js"
+
+[[repo]]
+url = "https://github.com/cybercongress/ton-connect-wasm"
+
+[[repo]]
 url = "https://github.com/cybercongress/validators-investigation"
 
 [[repo]]
 url = "https://github.com/cybercongress/vesting-companion"
+
+[[repo]]
+url = "https://github.com/cybercongress/warp"
 
 [[repo]]
 url = "https://github.com/cybercongress/wasmd"

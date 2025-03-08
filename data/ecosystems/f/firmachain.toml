@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/FirmaChain"]
 url = "https://github.com/FirmaChain/amino-js"
 
 [[repo]]
+url = "https://github.com/FirmaChain/assetlists"
+
+[[repo]]
 url = "https://github.com/FirmaChain/bdjuno"
 
 [[repo]]
@@ -19,16 +22,25 @@ url = "https://github.com/FirmaChain/bdjuno-healthcheck-scheduler"
 url = "https://github.com/FirmaChain/chain-registry"
 
 [[repo]]
+url = "https://github.com/FirmaChain/cli"
+
+[[repo]]
 url = "https://github.com/FirmaChain/colosseum-test-app"
 
 [[repo]]
 url = "https://github.com/FirmaChain/contract"
 
 [[repo]]
-url = "https://github.com/FirmaChain/contract-notarization-app"
+url = "https://github.com/FirmaChain/Contract-PoC"
 
 [[repo]]
-url = "https://github.com/FirmaChain/Contract-PoC"
+url = "https://github.com/FirmaChain/contract-verification-app"
+
+[[repo]]
+url = "https://github.com/FirmaChain/contract-verification-landing"
+
+[[repo]]
+url = "https://github.com/FirmaChain/contract-verification-tool"
 
 [[repo]]
 url = "https://github.com/FirmaChain/cosmjs"
@@ -43,10 +55,19 @@ url = "https://github.com/FirmaChain/cosmos-sdk"
 url = "https://github.com/FirmaChain/cosmwasm"
 
 [[repo]]
+url = "https://github.com/FirmaChain/cw-nfts"
+
+[[repo]]
+url = "https://github.com/FirmaChain/cw-plus"
+
+[[repo]]
 url = "https://github.com/FirmaChain/econtract"
 
 [[repo]]
 url = "https://github.com/FirmaChain/EIPs"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firma-cw-craft-tool"
 
 [[repo]]
 url = "https://github.com/FirmaChain/firma-js"
@@ -61,6 +82,9 @@ url = "https://github.com/FirmaChain/firma-js_old"
 url = "https://github.com/FirmaChain/firma-kepler-wallet-sample"
 
 [[repo]]
+url = "https://github.com/FirmaChain/firma-keplr-wallet-sample"
+
+[[repo]]
 url = "https://github.com/FirmaChain/firma-station"
 
 [[repo]]
@@ -73,10 +97,49 @@ url = "https://github.com/FirmaChain/firma-station-mobile"
 url = "https://github.com/FirmaChain/FirmaChain"
 
 [[repo]]
+url = "https://github.com/FirmaChain/firmachain-contract-sample"
+
+[[repo]]
 url = "https://github.com/FirmaChain/firmachain-cosmwasm-testingtool"
 
 [[repo]]
-url = "https://github.com/FirmaChain/firmachain-devnet-imperium"
+url = "https://github.com/FirmaChain/firmachain-cosmwasm-tool"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-bwb-airdrop-server"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-bwb-airdrop-web"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-bwb-contract-web"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-bwb-nft-register-web"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-bwb-nft-server"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-bwb-nft-web"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-udc-airdrop-server"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-udc-airdrop-web"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-udc-server"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-udc-swap-server"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-udc-swap-web"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-event-udc-web"
 
 [[repo]]
 url = "https://github.com/FirmaChain/FirmaChain-Explorer"
@@ -94,13 +157,22 @@ url = "https://github.com/FirmaChain/FirmaChain-Faucet-old"
 url = "https://github.com/FirmaChain/firmachain-genesis-converter"
 
 [[repo]]
+url = "https://github.com/FirmaChain/firmachain-ibc-osmosis-web"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-ibc-relayer-explorer"
+
+[[repo]]
 url = "https://github.com/FirmaChain/firmachain-installer"
 
 [[repo]]
-url = "https://github.com/FirmaChain/FirmaChain-Launch"
+url = "https://github.com/FirmaChain/firmachain-koala-dmts-hub-web"
 
 [[repo]]
-url = "https://github.com/FirmaChain/FirmaChain-Launch-Testnet"
+url = "https://github.com/FirmaChain/firmachain-koala-dmts-landing-web"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-koala-event-web"
 
 [[repo]]
 url = "https://github.com/FirmaChain/firmachain-mainnet-augustus"
@@ -109,10 +181,28 @@ url = "https://github.com/FirmaChain/firmachain-mainnet-augustus"
 url = "https://github.com/FirmaChain/firmachain-market-api"
 
 [[repo]]
+url = "https://github.com/FirmaChain/firmachain-nft-explorer"
+
+[[repo]]
 url = "https://github.com/FirmaChain/firmachain-swap-web"
 
 [[repo]]
 url = "https://github.com/FirmaChain/firmachain-testnet-colosseum"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmachain-wallet-connect-relay"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmastation-restake-api"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmastation-restake-healthcheck"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmastation-restake-scheduler"
+
+[[repo]]
+url = "https://github.com/FirmaChain/firmastation-restake-web"
 
 [[repo]]
 url = "https://github.com/FirmaChain/go-ethereum"
@@ -122,6 +212,12 @@ url = "https://github.com/FirmaChain/go-filecoin"
 
 [[repo]]
 url = "https://github.com/FirmaChain/ibc-rs"
+
+[[repo]]
+url = "https://github.com/FirmaChain/juno"
+
+[[repo]]
+url = "https://github.com/FirmaChain/keplr-chain-registry"
 
 [[repo]]
 url = "https://github.com/FirmaChain/ledger-app-builder"
@@ -157,9 +253,6 @@ url = "https://github.com/FirmaChain/stabledocs"
 url = "https://github.com/FirmaChain/starport"
 
 [[repo]]
-url = "https://github.com/FirmaChain/starport-installer"
-
-[[repo]]
 url = "https://github.com/FirmaChain/telegram-community-bot"
 
 [[repo]]
@@ -170,6 +263,15 @@ url = "https://github.com/FirmaChain/testnet"
 
 [[repo]]
 url = "https://github.com/FirmaChain/tokens-info"
+
+[[repo]]
+url = "https://github.com/FirmaChain/validator-identity-crawler"
+
+[[repo]]
+url = "https://github.com/FirmaChain/walletconnect-monorepo"
+
+[[repo]]
+url = "https://github.com/FirmaChain/web-examples"
 
 [[repo]]
 url = "https://github.com/FirmaChain/whitepaper"

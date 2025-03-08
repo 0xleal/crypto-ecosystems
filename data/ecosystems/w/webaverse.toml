@@ -7,7 +7,35 @@ github_organizations = ["https://github.com/webaverse"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/webaverse-studios/cog-automatic1111"
+
+[[repo]]
+url = "https://github.com/webaverse-studios/StableDiffusionServer"
+
+[[repo]]
+url = "https://github.com/webaverse/3d-photo-inpainting"
+missing = true
+
+[[repo]]
+url = "https://github.com/webaverse/3D_Photo_Inpainting"
+
+[[repo]]
+url = "https://github.com/webaverse/AdelaiDepth"
+
+[[repo]]
+url = "https://github.com/webaverse/aesthetics-wiki-scraper"
+
+[[repo]]
 url = "https://github.com/webaverse/aframe-demo"
+
+[[repo]]
+url = "https://github.com/webaverse/ai-research"
+
+[[repo]]
+url = "https://github.com/webaverse/ai-test-task-content"
+
+[[repo]]
+url = "https://github.com/webaverse/angel-island"
 
 [[repo]]
 url = "https://github.com/webaverse/api-backend"
@@ -19,16 +47,25 @@ url = "https://github.com/webaverse/api-docs"
 url = "https://github.com/webaverse/app"
 
 [[repo]]
+url = "https://github.com/webaverse/app-archive"
+
+[[repo]]
 url = "https://github.com/webaverse/app-wasm"
 
 [[repo]]
 url = "https://github.com/webaverse/arena"
 
 [[repo]]
+url = "https://github.com/webaverse/ARLDM"
+
+[[repo]]
 url = "https://github.com/webaverse/arrow-loader"
 
 [[repo]]
 url = "https://github.com/webaverse/assets"
+
+[[repo]]
+url = "https://github.com/webaverse/asteroids"
 
 [[repo]]
 url = "https://github.com/webaverse/atmospheric-sky"
@@ -46,13 +83,34 @@ url = "https://github.com/webaverse/aurora-sky"
 url = "https://github.com/webaverse/auth-server"
 
 [[repo]]
+url = "https://github.com/webaverse/automated-tests"
+
+[[repo]]
 url = "https://github.com/webaverse/avatar-models"
+
+[[repo]]
+url = "https://github.com/webaverse/avatar-optimizer"
+
+[[repo]]
+url = "https://github.com/webaverse/AvatarCreator"
+
+[[repo]]
+url = "https://github.com/webaverse/avatars"
+
+[[repo]]
+url = "https://github.com/webaverse/avatars-wasm"
 
 [[repo]]
 url = "https://github.com/webaverse/awesome-xrpackage"
 
 [[repo]]
 url = "https://github.com/webaverse/awp"
+
+[[repo]]
+url = "https://github.com/webaverse/ax"
+
+[[repo]]
+url = "https://github.com/webaverse/axe"
 
 [[repo]]
 url = "https://github.com/webaverse/backups"
@@ -64,13 +122,28 @@ url = "https://github.com/webaverse/ball"
 url = "https://github.com/webaverse/barrier"
 
 [[repo]]
+url = "https://github.com/webaverse/baseball-bat"
+
+[[repo]]
 url = "https://github.com/webaverse/basiheart"
+
+[[repo]]
+url = "https://github.com/webaverse/birds"
 
 [[repo]]
 url = "https://github.com/webaverse/blabble"
 
 [[repo]]
+url = "https://github.com/webaverse/blender-pipeline-example"
+
+[[repo]]
 url = "https://github.com/webaverse/blender-plugin"
+
+[[repo]]
+url = "https://github.com/webaverse/blender-retargeter"
+
+[[repo]]
+url = "https://github.com/webaverse/BLIP"
 
 [[repo]]
 url = "https://github.com/webaverse/blob"
@@ -91,6 +164,9 @@ url = "https://github.com/webaverse/boilerplate"
 url = "https://github.com/webaverse/bomb"
 
 [[repo]]
+url = "https://github.com/webaverse/BoostingMonocularDepth"
+
+[[repo]]
 url = "https://github.com/webaverse/bow"
 
 [[repo]]
@@ -103,16 +179,25 @@ url = "https://github.com/webaverse/branch"
 url = "https://github.com/webaverse/bridge-section"
 
 [[repo]]
+url = "https://github.com/webaverse/briefkasten-screenshot"
+
+[[repo]]
 url = "https://github.com/webaverse/broom"
 
 [[repo]]
 url = "https://github.com/webaverse/btc-coin"
 
 [[repo]]
+url = "https://github.com/webaverse/cannon"
+
+[[repo]]
 url = "https://github.com/webaverse/canyon"
 
 [[repo]]
 url = "https://github.com/webaverse/cards"
+
+[[repo]]
+url = "https://github.com/webaverse/cartoon-sword"
 
 [[repo]]
 url = "https://github.com/webaverse/cat-in-hat"
@@ -127,10 +212,31 @@ url = "https://github.com/webaverse/channel-old"
 url = "https://github.com/webaverse/character-stats-banner"
 
 [[repo]]
+url = "https://github.com/webaverse/characters"
+
+[[repo]]
+url = "https://github.com/webaverse/characterstudio"
+
+[[repo]]
 url = "https://github.com/webaverse/chest"
 
 [[repo]]
+url = "https://github.com/webaverse/city"
+
+[[repo]]
 url = "https://github.com/webaverse/classroom"
+
+[[repo]]
+url = "https://github.com/webaverse/CLIP-Caption-Reward"
+
+[[repo]]
+url = "https://github.com/webaverse/clipseg"
+
+[[repo]]
+url = "https://github.com/webaverse/cloud-cards"
+
+[[repo]]
+url = "https://github.com/webaverse/cloud-sea"
 
 [[repo]]
 url = "https://github.com/webaverse/code-ai"
@@ -145,10 +251,26 @@ url = "https://github.com/webaverse/codevember-2021"
 url = "https://github.com/webaverse/combined-pod"
 
 [[repo]]
+url = "https://github.com/webaverse/compile-server"
+missing = true
+
+[[repo]]
 url = "https://github.com/webaverse/compiler"
 
 [[repo]]
+url = "https://github.com/webaverse/compiler-old"
+
+[[repo]]
+url = "https://github.com/webaverse/content"
+
+[[repo]]
 url = "https://github.com/webaverse/contracts"
+
+[[repo]]
+url = "https://github.com/webaverse/core-modules"
+
+[[repo]]
+url = "https://github.com/webaverse/core-modules-studios"
 
 [[repo]]
 url = "https://github.com/webaverse/crowd"
@@ -179,6 +301,7 @@ url = "https://github.com/webaverse/dance"
 
 [[repo]]
 url = "https://github.com/webaverse/dash-effect"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/dashboard"
@@ -190,13 +313,31 @@ url = "https://github.com/webaverse/dc-wasm"
 url = "https://github.com/webaverse/dcl"
 
 [[repo]]
+url = "https://github.com/webaverse/ddc"
+
+[[repo]]
+url = "https://github.com/webaverse/DeepCalib"
+
+[[repo]]
+url = "https://github.com/webaverse/DeepSM"
+
+[[repo]]
 url = "https://github.com/webaverse/default-scene"
+
+[[repo]]
+url = "https://github.com/webaverse/demon-dog"
 
 [[repo]]
 url = "https://github.com/webaverse/desert-hill"
 
 [[repo]]
+url = "https://github.com/webaverse/detectron2"
+
+[[repo]]
 url = "https://github.com/webaverse/dialog"
+
+[[repo]]
+url = "https://github.com/webaverse/diffsound"
 
 [[repo]]
 url = "https://github.com/webaverse/directions"
@@ -214,16 +355,31 @@ url = "https://github.com/webaverse/discord-lambda"
 url = "https://github.com/webaverse/docs"
 
 [[repo]]
+url = "https://github.com/webaverse/donut"
+
+[[repo]]
 url = "https://github.com/webaverse/download-directory.github.io"
 
 [[repo]]
 url = "https://github.com/webaverse/dragon-mount"
 
 [[repo]]
+url = "https://github.com/webaverse/dramatron"
+
+[[repo]]
 url = "https://github.com/webaverse/dreadnought"
 
 [[repo]]
+url = "https://github.com/webaverse/dream-textures"
+
+[[repo]]
+url = "https://github.com/webaverse/dream-textures-depth-pipeline"
+
+[[repo]]
 url = "https://github.com/webaverse/drop"
+
+[[repo]]
+url = "https://github.com/webaverse/drop-chest-test"
 
 [[repo]]
 url = "https://github.com/webaverse/drop-contracts"
@@ -235,6 +391,9 @@ url = "https://github.com/webaverse/dropstorm"
 url = "https://github.com/webaverse/dual-contouring-terrain"
 
 [[repo]]
+url = "https://github.com/webaverse/dummy"
+
+[[repo]]
 url = "https://github.com/webaverse/dust-particles"
 
 [[repo]]
@@ -242,6 +401,9 @@ url = "https://github.com/webaverse/editaverse"
 
 [[repo]]
 url = "https://github.com/webaverse/editaverse-voxels"
+
+[[repo]]
+url = "https://github.com/webaverse/endpoints"
 
 [[repo]]
 url = "https://github.com/webaverse/eth-coin"
@@ -256,6 +418,9 @@ url = "https://github.com/webaverse/ethereum-bot"
 url = "https://github.com/webaverse/example-scene"
 
 [[repo]]
+url = "https://github.com/webaverse/express-activitypub"
+
+[[repo]]
 url = "https://github.com/webaverse/eyeblaster"
 
 [[repo]]
@@ -268,10 +433,19 @@ url = "https://github.com/webaverse/fae"
 url = "https://github.com/webaverse/fairy"
 
 [[repo]]
+url = "https://github.com/webaverse/fan"
+
+[[repo]]
 url = "https://github.com/webaverse/filter"
 
 [[repo]]
 url = "https://github.com/webaverse/firefly"
+
+[[repo]]
+url = "https://github.com/webaverse/fireworks"
+
+[[repo]]
+url = "https://github.com/webaverse/floating-homespace"
 
 [[repo]]
 url = "https://github.com/webaverse/floating-island"
@@ -310,16 +484,22 @@ url = "https://github.com/webaverse/forever"
 url = "https://github.com/webaverse/fox"
 
 [[repo]]
-url = "https://github.com/webaverse/fruit"
+url = "https://github.com/webaverse/fx-textures"
 
 [[repo]]
-url = "https://github.com/webaverse/fx-textures"
+url = "https://github.com/webaverse/game-contracts"
 
 [[repo]]
 url = "https://github.com/webaverse/gan"
 
 [[repo]]
 url = "https://github.com/webaverse/gauntlets"
+
+[[repo]]
+url = "https://github.com/webaverse/get-wsl-address"
+
+[[repo]]
+url = "https://github.com/webaverse/GET3D"
 
 [[repo]]
 url = "https://github.com/webaverse/ghost"
@@ -332,6 +512,9 @@ url = "https://github.com/webaverse/glaive"
 
 [[repo]]
 url = "https://github.com/webaverse/globes"
+
+[[repo]]
+url = "https://github.com/webaverse/gradio"
 
 [[repo]]
 url = "https://github.com/webaverse/graph"
@@ -349,7 +532,7 @@ url = "https://github.com/webaverse/greenhill"
 url = "https://github.com/webaverse/gremlins"
 
 [[repo]]
-url = "https://github.com/webaverse/grid"
+url = "https://github.com/webaverse/gun"
 
 [[repo]]
 url = "https://github.com/webaverse/h"
@@ -361,10 +544,19 @@ url = "https://github.com/webaverse/hackathon"
 url = "https://github.com/webaverse/halo"
 
 [[repo]]
+url = "https://github.com/webaverse/heightfield"
+
+[[repo]]
 url = "https://github.com/webaverse/heli"
 
 [[repo]]
+url = "https://github.com/webaverse/helicopter"
+
+[[repo]]
 url = "https://github.com/webaverse/helm"
+
+[[repo]]
+url = "https://github.com/webaverse/holdee"
 
 [[repo]]
 url = "https://github.com/webaverse/home"
@@ -373,10 +565,16 @@ url = "https://github.com/webaverse/home"
 url = "https://github.com/webaverse/homespace"
 
 [[repo]]
+url = "https://github.com/webaverse/homespace-island"
+
+[[repo]]
 url = "https://github.com/webaverse/homespace_new"
 
 [[repo]]
 url = "https://github.com/webaverse/hookshot"
+
+[[repo]]
+url = "https://github.com/webaverse/hoverboard"
 
 [[repo]]
 url = "https://github.com/webaverse/hovercraft"
@@ -389,6 +587,9 @@ url = "https://github.com/webaverse/hubs"
 
 [[repo]]
 url = "https://github.com/webaverse/icu"
+
+[[repo]]
+url = "https://github.com/webaverse/imaginAIry"
 
 [[repo]]
 url = "https://github.com/webaverse/inapp-preview"
@@ -410,6 +611,7 @@ url = "https://github.com/webaverse/ipfs-backend"
 
 [[repo]]
 url = "https://github.com/webaverse/Joe_GreenHill"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/katana"
@@ -436,16 +638,37 @@ url = "https://github.com/webaverse/lib"
 url = "https://github.com/webaverse/light-flicker"
 
 [[repo]]
+url = "https://github.com/webaverse/lightsaber"
+
+[[repo]]
 url = "https://github.com/webaverse/lisk"
+
+[[repo]]
+url = "https://github.com/webaverse/LJSpeechTools"
 
 [[repo]]
 url = "https://github.com/webaverse/localstorage"
 
 [[repo]]
+url = "https://github.com/webaverse/lod-tracker"
+
+[[repo]]
 url = "https://github.com/webaverse/loot-assets"
 
 [[repo]]
+url = "https://github.com/webaverse/lora"
+
+[[repo]]
+url = "https://github.com/webaverse/lore-engine"
+
+[[repo]]
+url = "https://github.com/webaverse/lore-engine2"
+
+[[repo]]
 url = "https://github.com/webaverse/m3taloot"
+
+[[repo]]
+url = "https://github.com/webaverse/m3taloot-new"
 
 [[repo]]
 url = "https://github.com/webaverse/machine-gun"
@@ -458,6 +681,18 @@ url = "https://github.com/webaverse/Magrathea"
 
 [[repo]]
 url = "https://github.com/webaverse/marching-cube-example"
+
+[[repo]]
+url = "https://github.com/webaverse/marketplace"
+
+[[repo]]
+url = "https://github.com/webaverse/Mask2Former"
+
+[[repo]]
+url = "https://github.com/webaverse/mastodon"
+
+[[repo]]
+url = "https://github.com/webaverse/Material-Map-Generator"
 
 [[repo]]
 url = "https://github.com/webaverse/mediasoup"
@@ -493,7 +728,10 @@ url = "https://github.com/webaverse/metaverse-server"
 url = "https://github.com/webaverse/metaverse-utils"
 
 [[repo]]
-url = "https://github.com/webaverse/metaversefile"
+url = "https://github.com/webaverse/metaversefile-api"
+
+[[repo]]
+url = "https://github.com/webaverse/MiDaS"
 
 [[repo]]
 url = "https://github.com/webaverse/mirror"
@@ -502,13 +740,23 @@ url = "https://github.com/webaverse/mirror"
 url = "https://github.com/webaverse/missile"
 
 [[repo]]
+url = "https://github.com/webaverse/Mixture2Music_Official"
+
+[[repo]]
 url = "https://github.com/webaverse/moon-station"
 
 [[repo]]
 url = "https://github.com/webaverse/moonbird"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/morpher"
+
+[[repo]]
+url = "https://github.com/webaverse/motion-diffusion-model"
+
+[[repo]]
+url = "https://github.com/webaverse/motor-boat"
 
 [[repo]]
 url = "https://github.com/webaverse/multiplayer"
@@ -517,10 +765,22 @@ url = "https://github.com/webaverse/multiplayer"
 url = "https://github.com/webaverse/multiplayer-backend"
 
 [[repo]]
+url = "https://github.com/webaverse/multiplayer-do"
+
+[[repo]]
+url = "https://github.com/webaverse/Music-Emotion-Recognition"
+
+[[repo]]
 url = "https://github.com/webaverse/neon-club"
 
 [[repo]]
 url = "https://github.com/webaverse/neon-curve-lines"
+
+[[repo]]
+url = "https://github.com/webaverse/neural-namer"
+
+[[repo]]
+url = "https://github.com/webaverse/NeuralLift-360"
 
 [[repo]]
 url = "https://github.com/webaverse/nft.storage-uploader"
@@ -532,10 +792,34 @@ url = "https://github.com/webaverse/night-skybox"
 url = "https://github.com/webaverse/npc"
 
 [[repo]]
+url = "https://github.com/webaverse/npc-configurator"
+
+[[repo]]
+url = "https://github.com/webaverse/npcs"
+
+[[repo]]
+url = "https://github.com/webaverse/null-text-inversion"
+
+[[repo]]
+url = "https://github.com/webaverse/offscreen-engine"
+
+[[repo]]
 url = "https://github.com/webaverse/ores"
 
 [[repo]]
+url = "https://github.com/webaverse/OrientedPointSampling"
+
+[[repo]]
 url = "https://github.com/webaverse/origin-tablet"
+
+[[repo]]
+url = "https://github.com/webaverse/ot-shard"
+
+[[repo]]
+url = "https://github.com/webaverse/ov-seg"
+
+[[repo]]
+url = "https://github.com/webaverse/parallax"
 
 [[repo]]
 url = "https://github.com/webaverse/parcels"
@@ -553,7 +837,28 @@ url = "https://github.com/webaverse/party"
 url = "https://github.com/webaverse/pedestal"
 
 [[repo]]
+url = "https://github.com/webaverse/phone-edit-tool"
+
+[[repo]]
+url = "https://github.com/webaverse/physics-car"
+
+[[repo]]
+url = "https://github.com/webaverse/physics-stick"
+
+[[repo]]
+url = "https://github.com/webaverse/physics-wall"
+
+[[repo]]
+url = "https://github.com/webaverse/physics-wasm"
+
+[[repo]]
 url = "https://github.com/webaverse/physicscube"
+
+[[repo]]
+url = "https://github.com/webaverse/physicsheightfield"
+
+[[repo]]
+url = "https://github.com/webaverse/physicsplane"
 
 [[repo]]
 url = "https://github.com/webaverse/piano"
@@ -562,19 +867,34 @@ url = "https://github.com/webaverse/piano"
 url = "https://github.com/webaverse/pickaxe"
 
 [[repo]]
+url = "https://github.com/webaverse/pirate-ship"
+
+[[repo]]
 url = "https://github.com/webaverse/pistol"
 
 [[repo]]
 url = "https://github.com/webaverse/pistol-old"
 
 [[repo]]
+url = "https://github.com/webaverse/pix2struct"
+
+[[repo]]
 url = "https://github.com/webaverse/pixelsplosion"
+
+[[repo]]
+url = "https://github.com/webaverse/pixiv-three-vrm"
 
 [[repo]]
 url = "https://github.com/webaverse/plane"
 
 [[repo]]
+url = "https://github.com/webaverse/PlaneFitting"
+
+[[repo]]
 url = "https://github.com/webaverse/planet"
+
+[[repo]]
+url = "https://github.com/webaverse/planets"
 
 [[repo]]
 url = "https://github.com/webaverse/plant-particle"
@@ -586,10 +906,22 @@ url = "https://github.com/webaverse/plants"
 url = "https://github.com/webaverse/platemail"
 
 [[repo]]
+url = "https://github.com/webaverse/player-position-reset"
+
+[[repo]]
 url = "https://github.com/webaverse/plaza"
 
 [[repo]]
 url = "https://github.com/webaverse/pocketsphinx.js"
+
+[[repo]]
+url = "https://github.com/webaverse/point-e"
+
+[[repo]]
+url = "https://github.com/webaverse/Poisson_flow"
+
+[[repo]]
+url = "https://github.com/webaverse/pokemon-cards-css"
 
 [[repo]]
 url = "https://github.com/webaverse/portal"
@@ -601,13 +933,37 @@ url = "https://github.com/webaverse/potion"
 url = "https://github.com/webaverse/preauthenticator"
 
 [[repo]]
+url = "https://github.com/webaverse/preview"
+
+[[repo]]
 url = "https://github.com/webaverse/preview-backend"
 
 [[repo]]
 url = "https://github.com/webaverse/preview-lambda"
 
 [[repo]]
+url = "https://github.com/webaverse/previewer"
+
+[[repo]]
+url = "https://github.com/webaverse/private-jet"
+
+[[repo]]
+url = "https://github.com/webaverse/procgen-app"
+
+[[repo]]
+url = "https://github.com/webaverse/procgen-assets"
+
+[[repo]]
+url = "https://github.com/webaverse/procgen-skybox"
+
+[[repo]]
+url = "https://github.com/webaverse/procgen-wasm"
+
+[[repo]]
 url = "https://github.com/webaverse/proto-sandbox"
+
+[[repo]]
+url = "https://github.com/webaverse/qdrant"
 
 [[repo]]
 url = "https://github.com/webaverse/qrvr"
@@ -622,13 +978,31 @@ url = "https://github.com/webaverse/ramp"
 url = "https://github.com/webaverse/redis-server"
 
 [[repo]]
+url = "https://github.com/webaverse/RGBDPlaneDetection"
+
+[[repo]]
 url = "https://github.com/webaverse/rifle"
 
 [[repo]]
 url = "https://github.com/webaverse/rifleVR"
 
 [[repo]]
+url = "https://github.com/webaverse/rocket-launcher"
+
+[[repo]]
 url = "https://github.com/webaverse/rollercoaster"
+
+[[repo]]
+url = "https://github.com/webaverse/sawed-off"
+
+[[repo]]
+url = "https://github.com/webaverse/sc_depth_pl"
+
+[[repo]]
+url = "https://github.com/webaverse/scene-scale-diffusion"
+
+[[repo]]
+url = "https://github.com/webaverse/scenes"
 
 [[repo]]
 url = "https://github.com/webaverse/scifi-door"
@@ -640,13 +1014,27 @@ url = "https://github.com/webaverse/scissors"
 url = "https://github.com/webaverse/scripts"
 
 [[repo]]
+url = "https://github.com/webaverse/sd-depth"
+
+[[repo]]
+url = "https://github.com/webaverse/season0"
+missing = true
+
+[[repo]]
 url = "https://github.com/webaverse/sfx"
 
 [[repo]]
+url = "https://github.com/webaverse/shield"
+
+[[repo]]
 url = "https://github.com/webaverse/shishi-voicepack"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/shooting-range"
+
+[[repo]]
+url = "https://github.com/webaverse/short-sword"
 
 [[repo]]
 url = "https://github.com/webaverse/shrimp-game"
@@ -715,6 +1103,12 @@ url = "https://github.com/webaverse/silsword"
 url = "https://github.com/webaverse/simple-application"
 
 [[repo]]
+url = "https://github.com/webaverse/simple-water"
+
+[[repo]]
+url = "https://github.com/webaverse/skateboard"
+
+[[repo]]
 url = "https://github.com/webaverse/skybox"
 
 [[repo]]
@@ -722,6 +1116,12 @@ url = "https://github.com/webaverse/skybox-360"
 
 [[repo]]
 url = "https://github.com/webaverse/skybox-anime"
+
+[[repo]]
+url = "https://github.com/webaverse/skybox-terrain"
+
+[[repo]]
+url = "https://github.com/webaverse/snowball"
 
 [[repo]]
 url = "https://github.com/webaverse/sonic-boom"
@@ -745,6 +1145,27 @@ url = "https://github.com/webaverse/spawn-section"
 url = "https://github.com/webaverse/sprite-avatar"
 
 [[repo]]
+url = "https://github.com/webaverse/stable-diffusion"
+
+[[repo]]
+url = "https://github.com/webaverse/stable-diffusion-videos"
+
+[[repo]]
+url = "https://github.com/webaverse/stable-diffusion-webui"
+
+[[repo]]
+url = "https://github.com/webaverse/stable-diffusion-webui-old"
+
+[[repo]]
+url = "https://github.com/webaverse/stable-dreamfusion"
+
+[[repo]]
+url = "https://github.com/webaverse/StableDiffusionServer"
+
+[[repo]]
+url = "https://github.com/webaverse/StackBlur"
+
+[[repo]]
 url = "https://github.com/webaverse/stacks"
 
 [[repo]]
@@ -752,6 +1173,10 @@ url = "https://github.com/webaverse/stadium"
 
 [[repo]]
 url = "https://github.com/webaverse/stall"
+
+[[repo]]
+url = "https://github.com/webaverse/storystudio"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/street"
@@ -763,10 +1188,22 @@ url = "https://github.com/webaverse/street-assets"
 url = "https://github.com/webaverse/street-base"
 
 [[repo]]
+url = "https://github.com/webaverse/street-blue"
+
+[[repo]]
+url = "https://github.com/webaverse/street-contents"
+
+[[repo]]
 url = "https://github.com/webaverse/street-green"
 
 [[repo]]
 url = "https://github.com/webaverse/styleguide"
+
+[[repo]]
+url = "https://github.com/webaverse/sun-skydome"
+
+[[repo]]
+url = "https://github.com/webaverse/SuperResolutionAnimeDiffusion"
 
 [[repo]]
 url = "https://github.com/webaverse/sword"
@@ -781,6 +1218,12 @@ url = "https://github.com/webaverse/tanabata_city"
 url = "https://github.com/webaverse/templates"
 
 [[repo]]
+url = "https://github.com/webaverse/test-tasks"
+
+[[repo]]
+url = "https://github.com/webaverse/Thin-Plate-Spline-Motion-Model"
+
+[[repo]]
 url = "https://github.com/webaverse/three"
 
 [[repo]]
@@ -788,6 +1231,15 @@ url = "https://github.com/webaverse/three-old"
 
 [[repo]]
 url = "https://github.com/webaverse/three-vrm"
+
+[[repo]]
+url = "https://github.com/webaverse/three-vrm-core"
+
+[[repo]]
+url = "https://github.com/webaverse/three-vrm-materials-mtoon"
+
+[[repo]]
+url = "https://github.com/webaverse/three-vrm-springbone"
 
 [[repo]]
 url = "https://github.com/webaverse/three.js"
@@ -799,10 +1251,16 @@ url = "https://github.com/webaverse/threejs-demo"
 url = "https://github.com/webaverse/tiktalknet"
 
 [[repo]]
+url = "https://github.com/webaverse/tilemap"
+
+[[repo]]
 url = "https://github.com/webaverse/title-card"
 
 [[repo]]
 url = "https://github.com/webaverse/title-card-text"
+
+[[repo]]
+url = "https://github.com/webaverse/ToMe"
 
 [[repo]]
 url = "https://github.com/webaverse/torch"
@@ -823,7 +1281,16 @@ url = "https://github.com/webaverse/tree-animation"
 url = "https://github.com/webaverse/treehouse"
 
 [[repo]]
+url = "https://github.com/webaverse/trees"
+
+[[repo]]
+url = "https://github.com/webaverse/triggerconvex"
+
+[[repo]]
 url = "https://github.com/webaverse/triggercube"
+
+[[repo]]
+url = "https://github.com/webaverse/triggerplane"
 
 [[repo]]
 url = "https://github.com/webaverse/TTS"
@@ -832,7 +1299,13 @@ url = "https://github.com/webaverse/TTS"
 url = "https://github.com/webaverse/turret"
 
 [[repo]]
+url = "https://github.com/webaverse/tvtropes-scraper"
+
+[[repo]]
 url = "https://github.com/webaverse/twilight-sky"
+
+[[repo]]
+url = "https://github.com/webaverse/ui-components"
 
 [[repo]]
 url = "https://github.com/webaverse/unity-webxr-export"
@@ -841,7 +1314,13 @@ url = "https://github.com/webaverse/unity-webxr-export"
 url = "https://github.com/webaverse/unity-webxr-export-plugin"
 
 [[repo]]
+url = "https://github.com/webaverse/unityexporter"
+
+[[repo]]
 url = "https://github.com/webaverse/uzi"
+
+[[repo]]
+url = "https://github.com/webaverse/vat"
 
 [[repo]]
 url = "https://github.com/webaverse/vehicle-lab"
@@ -850,7 +1329,13 @@ url = "https://github.com/webaverse/vehicle-lab"
 url = "https://github.com/webaverse/ventilation"
 
 [[repo]]
+url = "https://github.com/webaverse/voice-engine"
+
+[[repo]]
 url = "https://github.com/webaverse/vrc"
+
+[[repo]]
+url = "https://github.com/webaverse/wallet-bot"
 
 [[repo]]
 url = "https://github.com/webaverse/water"
@@ -859,7 +1344,11 @@ url = "https://github.com/webaverse/water"
 url = "https://github.com/webaverse/wavefunctioncollapse"
 
 [[repo]]
+url = "https://github.com/webaverse/weaviate-server"
+
+[[repo]]
 url = "https://github.com/webaverse/weba-site-qr-pdf"
+missing = true
 
 [[repo]]
 url = "https://github.com/webaverse/weba-wallet"
@@ -877,10 +1366,28 @@ url = "https://github.com/webaverse/webaverse.com"
 url = "https://github.com/webaverse/webaverse.link"
 
 [[repo]]
+url = "https://github.com/webaverse/website-scam-detection"
+
+[[repo]]
 url = "https://github.com/webaverse/website-static"
 
 [[repo]]
+url = "https://github.com/webaverse/websocket-proxy"
+
+[[repo]]
 url = "https://github.com/webaverse/whitepaper"
+
+[[repo]]
+url = "https://github.com/webaverse/wiki"
+
+[[repo]]
+url = "https://github.com/webaverse/wikipedia-scraper"
+
+[[repo]]
+url = "https://github.com/webaverse/Wind-documentation"
+
+[[repo]]
+url = "https://github.com/webaverse/windmill"
 
 [[repo]]
 url = "https://github.com/webaverse/witch-hat"
@@ -925,7 +1432,16 @@ url = "https://github.com/webaverse/xrpackage-threejs-template"
 url = "https://github.com/webaverse/xrpk"
 
 [[repo]]
-url = "https://github.com/webaverse/z"
+url = "https://github.com/webaverse/zesty-market-app"
+
+[[repo]]
+url = "https://github.com/webaverse/zine"
+
+[[repo]]
+url = "https://github.com/webaverse/zine-aux"
+
+[[repo]]
+url = "https://github.com/webaverse/zine-runtime"
 
 [[repo]]
 url = "https://github.com/webaverse/zjs"

@@ -7,6 +7,21 @@ github_organizations = ["https://github.com/pooltogether"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/GenerationSoftware/foundry-winner-calc"
+
+[[repo]]
+url = "https://github.com/GenerationSoftware/pt-v5-draw-auction"
+
+[[repo]]
+url = "https://github.com/GenerationSoftware/pt-v5-prize-pool"
+
+[[repo]]
+url = "https://github.com/GenerationSoftware/pt-v5-twab-controller"
+
+[[repo]]
+url = "https://github.com/GenerationSoftware/pt-v5-vault"
+
+[[repo]]
 url = "https://github.com/pooltogether/aave-v3-yield-source"
 
 [[repo]]
@@ -88,10 +103,19 @@ url = "https://github.com/pooltogether/discord-webhook-bot--eth-events"
 url = "https://github.com/pooltogether/documentation"
 
 [[repo]]
+url = "https://github.com/pooltogether/draw-calculator-cli"
+
+[[repo]]
 url = "https://github.com/pooltogether/draw-calculators-js"
 
 [[repo]]
+url = "https://github.com/pooltogether/dune-abstractions"
+
+[[repo]]
 url = "https://github.com/pooltogether/EIPs"
+
+[[repo]]
+url = "https://github.com/pooltogether/ERC5164"
 
 [[repo]]
 url = "https://github.com/pooltogether/eth-contract-metadata"
@@ -121,6 +145,9 @@ url = "https://github.com/pooltogether/evm-chains-extended"
 url = "https://github.com/pooltogether/fixed-point"
 
 [[repo]]
+url = "https://github.com/pooltogether/foundry-template"
+
+[[repo]]
 url = "https://github.com/pooltogether/ganache-fork"
 
 [[repo]]
@@ -131,6 +158,9 @@ url = "https://github.com/pooltogether/Gitcoin_Grants_Round_9_Bounties"
 
 [[repo]]
 url = "https://github.com/pooltogether/governance"
+
+[[repo]]
+url = "https://github.com/pooltogether/governance-ui"
 
 [[repo]]
 url = "https://github.com/pooltogether/graphql-query-template"
@@ -166,9 +196,6 @@ url = "https://github.com/pooltogether/loot-box-subgraph"
 url = "https://github.com/pooltogether/merkle-distributor"
 
 [[repo]]
-url = "https://github.com/pooltogether/multi-token-faucet"
-
-[[repo]]
 url = "https://github.com/pooltogether/multi-token-listener"
 
 [[repo]]
@@ -185,6 +212,9 @@ url = "https://github.com/pooltogether/network-rollout"
 
 [[repo]]
 url = "https://github.com/pooltogether/nft-campaign-scripts"
+
+[[repo]]
+url = "https://github.com/pooltogether/nft-sale"
 
 [[repo]]
 url = "https://github.com/pooltogether/nfts"
@@ -223,13 +253,11 @@ url = "https://github.com/pooltogether/pods-v3-autotask"
 url = "https://github.com/pooltogether/pods-v3-contracts"
 
 [[repo]]
-url = "https://github.com/pooltogether/pool-app"
-
-[[repo]]
 url = "https://github.com/pooltogether/pool-kpi-dashboard"
 
 [[repo]]
 url = "https://github.com/pooltogether/pool-shared-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/pooltogether/pool-tokenomics-testnet"
@@ -242,6 +270,9 @@ url = "https://github.com/pooltogether/pooltogether--brand-assets"
 
 [[repo]]
 url = "https://github.com/pooltogether/pooltogether-api-monorepo"
+
+[[repo]]
+url = "https://github.com/pooltogether/pooltogether-client-monorepo"
 
 [[repo]]
 url = "https://github.com/pooltogether/pooltogether-community-ui"
@@ -265,9 +296,6 @@ url = "https://github.com/pooltogether/pooltogether-generic-registry"
 url = "https://github.com/pooltogether/pooltogether-governance-subgraph"
 
 [[repo]]
-url = "https://github.com/pooltogether/pooltogether-governance-ui"
-
-[[repo]]
 url = "https://github.com/pooltogether/pooltogether-hooks"
 
 [[repo]]
@@ -286,9 +314,6 @@ url = "https://github.com/pooltogether/pooltogether-migrate-v3"
 url = "https://github.com/pooltogether/pooltogether-mstable"
 
 [[repo]]
-url = "https://github.com/pooltogether/pooltogether-operations-contracts"
-
-[[repo]]
 url = "https://github.com/pooltogether/pooltogether-pod-builder-ui"
 
 [[repo]]
@@ -296,12 +321,6 @@ url = "https://github.com/pooltogether/pooltogether-pod-contracts"
 
 [[repo]]
 url = "https://github.com/pooltogether/pooltogether-pod-contracts--old"
-
-[[repo]]
-url = "https://github.com/pooltogether/pooltogether-pods-interface"
-
-[[repo]]
-url = "https://github.com/pooltogether/pooltogether-pods-operations"
 
 [[repo]]
 url = "https://github.com/pooltogether/pooltogether-pods-registry"
@@ -322,9 +341,6 @@ url = "https://github.com/pooltogether/pooltogether-pool-contracts"
 url = "https://github.com/pooltogether/pooltogether-prizepool-registry"
 
 [[repo]]
-url = "https://github.com/pooltogether/pooltogether-prizepool-upkeep"
-
-[[repo]]
 url = "https://github.com/pooltogether/pooltogether-prizestrategy-upkeep"
 
 [[repo]]
@@ -337,12 +353,6 @@ url = "https://github.com/pooltogether/pooltogether-proxy-factory-package"
 url = "https://github.com/pooltogether/pooltogether-react-components"
 
 [[repo]]
-url = "https://github.com/pooltogether/pooltogether-react-tailwind-ui"
-
-[[repo]]
-url = "https://github.com/pooltogether/pooltogether-reference-pool-ui"
-
-[[repo]]
 url = "https://github.com/pooltogether/pooltogether-reserve-contracts"
 
 [[repo]]
@@ -350,9 +360,6 @@ url = "https://github.com/pooltogether/pooltogether-rng-contracts"
 
 [[repo]]
 url = "https://github.com/pooltogether/pooltogether-skeleton-ui"
-
-[[repo]]
-url = "https://github.com/pooltogether/pooltogether-stats-ui"
 
 [[repo]]
 url = "https://github.com/pooltogether/pooltogether-subgraph"
@@ -388,25 +395,32 @@ url = "https://github.com/pooltogether/pooltogetherjs"
 url = "https://github.com/pooltogether/pooltogetherjs-example-dapp"
 
 [[repo]]
+url = "https://github.com/pooltogether/Pooly-Minters"
+
+[[repo]]
 url = "https://github.com/pooltogether/prize-api-schema"
 
 [[repo]]
 url = "https://github.com/pooltogether/prize-chunker"
 
 [[repo]]
+url = "https://github.com/pooltogether/prize-protocol-simulation"
+
+[[repo]]
 url = "https://github.com/pooltogether/prize-strategy-app"
 
 [[repo]]
-url = "https://github.com/pooltogether/protocol-yield-source-interface"
+url = "https://github.com/pooltogether/retroactive-query"
 
 [[repo]]
-url = "https://github.com/pooltogether/retroactive-query"
+url = "https://github.com/pooltogether/ring-buffer-lib"
 
 [[repo]]
 url = "https://github.com/pooltogether/ripcord"
 
 [[repo]]
 url = "https://github.com/pooltogether/rng-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/pooltogether/scd-mcd-migration"
@@ -463,7 +477,7 @@ url = "https://github.com/pooltogether/true-winner-calculation"
 url = "https://github.com/pooltogether/truffle-extract"
 
 [[repo]]
-url = "https://github.com/pooltogether/tsunami-app"
+url = "https://github.com/pooltogether/twab-delegator-subgraph"
 
 [[repo]]
 url = "https://github.com/pooltogether/twab-rewards-subgraph"
@@ -473,6 +487,10 @@ url = "https://github.com/pooltogether/twab-subgraph"
 
 [[repo]]
 url = "https://github.com/pooltogether/uniform-random-number"
+missing = true
+
+[[repo]]
+url = "https://github.com/pooltogether/user-docs"
 
 [[repo]]
 url = "https://github.com/pooltogether/v3-ui"
@@ -484,13 +502,16 @@ url = "https://github.com/pooltogether/v4-admin-dashboard"
 url = "https://github.com/pooltogether/v4-autotask-lib"
 
 [[repo]]
+url = "https://github.com/pooltogether/v4-autotasks"
+
+[[repo]]
+url = "https://github.com/pooltogether/v4-beacon-goerli-drawbeacon-autotask"
+
+[[repo]]
+url = "https://github.com/pooltogether/v4-beacon-goerli-lockandpush-autotask"
+
+[[repo]]
 url = "https://github.com/pooltogether/v4-beacon-mainnet-lockandpush-autotask"
-
-[[repo]]
-url = "https://github.com/pooltogether/v4-beacon-rinkeby-drawbeacon-autotask"
-
-[[repo]]
-url = "https://github.com/pooltogether/v4-beacon-rinkeby-lockandpush-autotask"
 
 [[repo]]
 url = "https://github.com/pooltogether/v4-cli"
@@ -508,19 +529,22 @@ url = "https://github.com/pooltogether/v4-docs"
 url = "https://github.com/pooltogether/v4-draw-results"
 
 [[repo]]
-url = "https://github.com/pooltogether/v4-js"
-
-[[repo]]
-url = "https://github.com/pooltogether/v4-js-client"
-
-[[repo]]
 url = "https://github.com/pooltogether/v4-mainnet"
+
+[[repo]]
+url = "https://github.com/pooltogether/v4-optimism-prizeflush-autotask"
 
 [[repo]]
 url = "https://github.com/pooltogether/v4-periphery"
 
 [[repo]]
 url = "https://github.com/pooltogether/v4-pool-data"
+
+[[repo]]
+url = "https://github.com/pooltogether/v4-prizes-subgraph"
+
+[[repo]]
+url = "https://github.com/pooltogether/v4-receiver-arbitrumGoerli-lockandpush-autotask"
 
 [[repo]]
 url = "https://github.com/pooltogether/v4-receiver-avalanche-lockandpush-autotask"
@@ -535,7 +559,7 @@ url = "https://github.com/pooltogether/v4-receiver-mumbai-lockandpush-autotask"
 url = "https://github.com/pooltogether/v4-receiver-optimism-lockandpush-autotask"
 
 [[repo]]
-url = "https://github.com/pooltogether/v4-receiver-optimismKovan-lockandpush-autotask"
+url = "https://github.com/pooltogether/v4-receiver-optimismGoerli-lockandpush-autotask"
 
 [[repo]]
 url = "https://github.com/pooltogether/v4-receiver-polygon-lockandpush-autotask"
@@ -571,6 +595,67 @@ url = "https://github.com/pooltogether/v4-ui"
 url = "https://github.com/pooltogether/v4-utils-js"
 
 [[repo]]
+url = "https://github.com/pooltogether/v5-autotasks"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-batch-create-fake-users"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-cgda-liquidator"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-cli"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-draw-auction"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-draw-beacon"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-draw-results"
+missing = true
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-liquidator"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-prize-pool"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-prize-pool-subgraph"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-randao-simulation"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-simulation"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-testnet"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-twab-controller"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-twab-controller-subgraph"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-user-faker"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-utils-js"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-vault"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-vrgda-claimer"
+
+[[repo]]
+url = "https://github.com/pooltogether/v5-vrgda-claimer-simulation"
+
+[[repo]]
 url = "https://github.com/pooltogether/Waffle"
 
 [[repo]]
@@ -590,3 +675,10 @@ url = "https://github.com/pooltogether/yield-source-interface"
 
 [[repo]]
 url = "https://github.com/pooltogether/zapper-integration"
+missing = true
+
+[[repo]]
+url = "https://github.com/pooltogether/zapper-studio"
+
+[[repo]]
+url = "https://github.com/pooltogether/zk-eth-rng"

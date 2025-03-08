@@ -13,6 +13,9 @@ url = "https://github.com/boardroom-inc/boardroom-bot-discord"
 url = "https://github.com/boardroom-inc/boardroom-discord-bot"
 
 [[repo]]
+url = "https://github.com/boardroom-inc/Boardroom-live-protocols"
+
+[[repo]]
 url = "https://github.com/boardroom-inc/daohaus-supergraph"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/boardroom-inc/dgov-hackathon"
 
 [[repo]]
 url = "https://github.com/boardroom-inc/documentation"
+
+[[repo]]
+url = "https://github.com/boardroom-inc/gov-sdk"
 
 [[repo]]
 url = "https://github.com/boardroom-inc/maker-governance-subgraph"
@@ -32,6 +38,9 @@ url = "https://github.com/boardroom-inc/protocol-Info"
 
 [[repo]]
 url = "https://github.com/boardroom-inc/snapshot-hub"
+
+[[repo]]
+url = "https://github.com/boardroom-inc/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/boardroom-inc/snapshot.js"

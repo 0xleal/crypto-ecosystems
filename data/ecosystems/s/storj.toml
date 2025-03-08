@@ -7,16 +7,29 @@ github_organizations = ["https://github.com/storj"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/storj-thirdparty/FileZilla"
+
+[[repo]]
+url = "https://github.com/storj-thirdparty/qnap-gateway-app"
+
+[[repo]]
+url = "https://github.com/storj-thirdparty/qnap-storagenode-app"
+
+[[repo]]
 url = "https://github.com/storj/.github"
 
 [[repo]]
+url = "https://github.com/storj/access-empty-passphrase-checker"
+
+[[repo]]
+url = "https://github.com/storj/access-python"
+
+[[repo]]
 url = "https://github.com/storj/alpha-scripts"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/android-libstorj"
-
-[[repo]]
-url = "https://github.com/storj/android-libuplink"
 
 [[repo]]
 url = "https://github.com/storj/apt-transport-storj"
@@ -49,6 +62,9 @@ url = "https://github.com/storj/bridge-gui"
 url = "https://github.com/storj/bridge-gui-vue"
 
 [[repo]]
+url = "https://github.com/storj/briskitall"
+
+[[repo]]
 url = "https://github.com/storj/browser"
 
 [[repo]]
@@ -76,16 +92,23 @@ url = "https://github.com/storj/complex"
 url = "https://github.com/storj/core"
 
 [[repo]]
+url = "https://github.com/storj/crypto-batch-payment"
+
+[[repo]]
 url = "https://github.com/storj/dashborj"
 
 [[repo]]
 url = "https://github.com/storj/data-analytics"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/data-api"
 
 [[repo]]
 url = "https://github.com/storj/dbx"
+
+[[repo]]
+url = "https://github.com/storj/design-docs"
 
 [[repo]]
 url = "https://github.com/storj/dev-meetings"
@@ -100,6 +123,9 @@ url = "https://github.com/storj/dms"
 url = "https://github.com/storj/docker-golang"
 
 [[repo]]
+url = "https://github.com/storj/docker-registry"
+
+[[repo]]
 url = "https://github.com/storj/docs"
 
 [[repo]]
@@ -112,22 +138,27 @@ url = "https://github.com/storj/drpc"
 url = "https://github.com/storj/drpc-cpp"
 
 [[repo]]
+url = "https://github.com/storj/edge"
+
+[[repo]]
 url = "https://github.com/storj/eslint-storj"
 
 [[repo]]
-url = "https://github.com/storj/file-sharing-app"
+url = "https://github.com/storj/eventkit"
 
 [[repo]]
-url = "https://github.com/storj/filezilla"
+url = "https://github.com/storj/exp-spanner"
+
+[[repo]]
+url = "https://github.com/storj/file-sharing-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/freenas-storagenode-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/fuzz-corpus"
-
-[[repo]]
-url = "https://github.com/storj/gateway"
 
 [[repo]]
 url = "https://github.com/storj/gateway-mint"
@@ -139,10 +170,14 @@ url = "https://github.com/storj/gateway-mt"
 url = "https://github.com/storj/gateway-st"
 
 [[repo]]
+url = "https://github.com/storj/gcfAccess"
+
+[[repo]]
 url = "https://github.com/storj/gerrit-codeowners"
 
 [[repo]]
 url = "https://github.com/storj/go-libstorj"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/gomodproxy"
@@ -152,6 +187,7 @@ url = "https://github.com/storj/gospace"
 
 [[repo]]
 url = "https://github.com/storj/grpc-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/heroku-addon"
@@ -160,7 +196,19 @@ url = "https://github.com/storj/heroku-addon"
 url = "https://github.com/storj/heroku-email-service"
 
 [[repo]]
+url = "https://github.com/storj/homebrew-tap"
+
+[[repo]]
+url = "https://github.com/storj/huggingface-hub-storj-patch"
+
+[[repo]]
 url = "https://github.com/storj/illustrated"
+
+[[repo]]
+url = "https://github.com/storj/infectious"
+
+[[repo]]
+url = "https://github.com/storj/infectious-cpp"
 
 [[repo]]
 url = "https://github.com/storj/integration"
@@ -173,6 +221,9 @@ url = "https://github.com/storj/ipfs-demo"
 
 [[repo]]
 url = "https://github.com/storj/ipfs-go-ds-storj"
+
+[[repo]]
+url = "https://github.com/storj/ipfs-index-provider"
 
 [[repo]]
 url = "https://github.com/storj/ipfs-user-mapping-proxy"
@@ -190,6 +241,9 @@ url = "https://github.com/storj/kademlia"
 url = "https://github.com/storj/kfs"
 
 [[repo]]
+url = "https://github.com/storj/laas"
+
+[[repo]]
 url = "https://github.com/storj/libstorj"
 
 [[repo]]
@@ -200,9 +254,6 @@ url = "https://github.com/storj/lint"
 
 [[repo]]
 url = "https://github.com/storj/minio"
-
-[[repo]]
-url = "https://github.com/storj/mint"
 
 [[repo]]
 url = "https://github.com/storj/mongodb-adapter"
@@ -218,15 +269,22 @@ url = "https://github.com/storj/node-libstorj"
 
 [[repo]]
 url = "https://github.com/storj/node-storj3"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/nodegeo"
+missing = true
+
+[[repo]]
+url = "https://github.com/storj/nsdf-fuse"
 
 [[repo]]
 url = "https://github.com/storj/objectmap"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/one-click-hugo-cms"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/perftester"
@@ -239,12 +297,15 @@ url = "https://github.com/storj/private"
 
 [[repo]]
 url = "https://github.com/storj/project-storj-365"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/proto"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/protobuf"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/pullypusher"
@@ -256,19 +317,8 @@ url = "https://github.com/storj/pushy-cat"
 url = "https://github.com/storj/python-libstorj"
 
 [[repo]]
-url = "https://github.com/storj/qnap-app"
-
-[[repo]]
-url = "https://github.com/storj/qnap-gateway-app"
-
-[[repo]]
-url = "https://github.com/storj/qnap-storagenode-app"
-
-[[repo]]
 url = "https://github.com/storj/qnap-storagenode-gui"
-
-[[repo]]
-url = "https://github.com/storj/qnap-storagnode-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/rclone"
@@ -281,18 +331,22 @@ url = "https://github.com/storj/roadmap"
 
 [[repo]]
 url = "https://github.com/storj/rocketchat"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/ruby-libstorj"
-
-[[repo]]
-url = "https://github.com/storj/s3-tests"
 
 [[repo]]
 url = "https://github.com/storj/s3link"
 
 [[repo]]
 url = "https://github.com/storj/sandbox"
+
+[[repo]]
+url = "https://github.com/storj/secure-stable-diffusion"
+
+[[repo]]
+url = "https://github.com/storj/secure-stable-diffusion-runpod"
 
 [[repo]]
 url = "https://github.com/storj/service-auditor"
@@ -311,21 +365,21 @@ url = "https://github.com/storj/service-storage-models"
 
 [[repo]]
 url = "https://github.com/storj/share-ssl-validator"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/sips"
 
 [[repo]]
 url = "https://github.com/storj/slate"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/sno-registration"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/splunk-s3-tests"
-
-[[repo]]
-url = "https://github.com/storj/stargate"
 
 [[repo]]
 url = "https://github.com/storj/statreceiver"
@@ -340,6 +394,9 @@ url = "https://github.com/storj/statusify"
 url = "https://github.com/storj/storagenode-deb"
 
 [[repo]]
+url = "https://github.com/storj/storagenode-docker"
+
+[[repo]]
 url = "https://github.com/storj/storj"
 
 [[repo]]
@@ -350,21 +407,20 @@ url = "https://github.com/storj/storj-analytics"
 
 [[repo]]
 url = "https://github.com/storj/storj-automation"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/storj-bounty-program"
 
 [[repo]]
 url = "https://github.com/storj/storj-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/storj-crypto"
 
 [[repo]]
 url = "https://github.com/storj/storj-express"
-
-[[repo]]
-url = "https://github.com/storj/storj-filezilla"
 
 [[repo]]
 url = "https://github.com/storj/storj-miniproxy"
@@ -377,12 +433,14 @@ url = "https://github.com/storj/storj-node-heroku-example"
 
 [[repo]]
 url = "https://github.com/storj/storj-node-qnap"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/storj-python-sdk"
 
 [[repo]]
 url = "https://github.com/storj/storj-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/storj-vendor"
@@ -395,6 +453,7 @@ url = "https://github.com/storj/storj.js"
 
 [[repo]]
 url = "https://github.com/storj/storjmap"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/storjpics"
@@ -416,9 +475,11 @@ url = "https://github.com/storj/storjspace"
 
 [[repo]]
 url = "https://github.com/storj/synology-gateway-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/synology-storagenode-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/tardigrade-blog"
@@ -436,6 +497,9 @@ url = "https://github.com/storj/team-metainfo"
 url = "https://github.com/storj/template"
 
 [[repo]]
+url = "https://github.com/storj/terraform-provider-storj"
+
+[[repo]]
 url = "https://github.com/storj/test-path-corpus"
 
 [[repo]]
@@ -443,6 +507,7 @@ url = "https://github.com/storj/up"
 
 [[repo]]
 url = "https://github.com/storj/updatekate"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/uplink"
@@ -461,18 +526,27 @@ url = "https://github.com/storj/uplink-java"
 
 [[repo]]
 url = "https://github.com/storj/uplink-nodejs"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/uplink-python"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/uplink-swift"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/utp-go"
 
 [[repo]]
 url = "https://github.com/storj/uuid-mailer"
+
+[[repo]]
+url = "https://github.com/storj/valdi-cli"
+
+[[repo]]
+url = "https://github.com/storj/valdi-perf-testing"
 
 [[repo]]
 url = "https://github.com/storj/velero-plugin"
@@ -482,9 +556,11 @@ url = "https://github.com/storj/watchtower"
 
 [[repo]]
 url = "https://github.com/storj/westerndigital-gateway-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/westerndigital-storagenode-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/storj/wherearemytokens"

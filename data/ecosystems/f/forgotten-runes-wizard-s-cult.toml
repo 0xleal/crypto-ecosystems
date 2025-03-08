@@ -11,9 +11,13 @@ url = "https://github.com/forgottenrunes/.github"
 
 [[repo]]
 url = "https://github.com/forgottenrunes/book-of-lore-backupooor"
+missing = true
 
 [[repo]]
 url = "https://github.com/forgottenrunes/bookoflore-subgraph"
+
+[[repo]]
+url = "https://github.com/forgottenrunes/build-on-forgotten-runes"
 
 [[repo]]
 url = "https://github.com/forgottenrunes/community-projects"
@@ -23,9 +27,7 @@ url = "https://github.com/forgottenrunes/forgotten-runes-contracts"
 
 [[repo]]
 url = "https://github.com/forgottenrunes/forgotten-runes-website"
-
-[[repo]]
-url = "https://github.com/forgottenrunes/frwc-data"
+missing = true
 
 [[repo]]
 url = "https://github.com/forgottenrunes/LostGrimoire"
@@ -38,6 +40,7 @@ url = "https://github.com/forgottenrunes/revoke.cash"
 
 [[repo]]
 url = "https://github.com/forgottenrunes/runiverse-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/forgottenrunes/wizzypedia"

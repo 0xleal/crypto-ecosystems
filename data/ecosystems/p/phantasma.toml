@@ -7,10 +7,26 @@ github_organizations = ["https://github.com/phantasma-io"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/phantasma-io/.github"
+
+[[repo]]
+url = "https://github.com/phantasma-io/app-phantasma"
+
+[[repo]]
+url = "https://github.com/phantasma-io/app-phantasma-new"
+
+[[repo]]
+url = "https://github.com/phantasma-io/cman"
+
+[[repo]]
 url = "https://github.com/phantasma-io/Ecto"
 
 [[repo]]
+url = "https://github.com/phantasma-io/ledger-app-database"
+
+[[repo]]
 url = "https://github.com/phantasma-io/neo"
+missing = true
 
 [[repo]]
 url = "https://github.com/phantasma-io/neon-wallet"
@@ -19,10 +35,64 @@ url = "https://github.com/phantasma-io/neon-wallet"
 url = "https://github.com/phantasma-io/OTC"
 
 [[repo]]
+url = "https://github.com/phantasma-io/Phantasma-Airdrop"
+
+[[repo]]
+url = "https://github.com/phantasma-io/phantasma-bigint-test-generator"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-Blocks"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-Contracts"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-CPP"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-Deposit"
+
+[[repo]]
 url = "https://github.com/phantasma-io/phantasma-go"
 
 [[repo]]
+url = "https://github.com/phantasma-io/phantasma-go-admin-tools"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-Godot"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-Hub"
+
+[[repo]]
+url = "https://github.com/phantasma-io/phantasma-js-hw"
+
+[[repo]]
+url = "https://github.com/phantasma-io/phantasma-ng"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-node-examples"
+
+[[repo]]
+url = "https://github.com/phantasma-io/phantasma-poa-common"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-Py"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-Rust"
+
+[[repo]]
 url = "https://github.com/phantasma-io/phantasma-ts"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-UnityPackage"
+
+[[repo]]
+url = "https://github.com/phantasma-io/Phantasma-UnitySDK"
+
+[[repo]]
+url = "https://github.com/phantasma-io/PhantasmaAI"
 
 [[repo]]
 url = "https://github.com/phantasma-io/PhantasmaAssembler"
@@ -73,13 +143,16 @@ url = "https://github.com/phantasma-io/PhantasmaRpcClient"
 url = "https://github.com/phantasma-io/PhantasmaSDK"
 
 [[repo]]
-url = "https://github.com/phantasma-io/PhantasmaSpook"
+url = "https://github.com/phantasma-io/PhantasmaSpecs"
 
 [[repo]]
 url = "https://github.com/phantasma-io/PhantasmaWallet"
 
 [[repo]]
 url = "https://github.com/phantasma-io/Poltergeist"
+
+[[repo]]
+url = "https://github.com/phantasma-io/PoltergeistLite"
 
 [[repo]]
 url = "https://github.com/phantasma-io/soul-neo-plugins"

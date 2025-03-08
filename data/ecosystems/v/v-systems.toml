@@ -7,19 +7,17 @@ github_organizations = ["https://github.com/virtualeconomy"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/daraproject/go-wiktionary-parse"
+missing = true
+
+[[repo]]
 url = "https://github.com/virtualeconomy/batm_public_vsystems"
 
 [[repo]]
-url = "https://github.com/virtualeconomy/codename_felix_frontend"
-
-[[repo]]
-url = "https://github.com/virtualeconomy/connect"
+url = "https://github.com/virtualeconomy/collection-list"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/cs-v-sdk"
-
-[[repo]]
-url = "https://github.com/virtualeconomy/doc-it"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/docker-v-systems"
@@ -34,16 +32,20 @@ url = "https://github.com/virtualeconomy/document"
 url = "https://github.com/virtualeconomy/felix_frontend"
 
 [[repo]]
+url = "https://github.com/virtualeconomy/go-explorer-frontend"
+
+[[repo]]
 url = "https://github.com/virtualeconomy/go-v-sdk"
 
 [[repo]]
-url = "https://github.com/virtualeconomy/go-wiktionary-parse"
+url = "https://github.com/virtualeconomy/go-vsys"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/java-v-sdk"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/js-v-min-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/virtualeconomy/js-v-sdk"
@@ -53,6 +55,7 @@ url = "https://github.com/virtualeconomy/js-vsys"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/kube-chart"
+missing = true
 
 [[repo]]
 url = "https://github.com/virtualeconomy/ledger-app-vsystems"
@@ -62,6 +65,7 @@ url = "https://github.com/virtualeconomy/leveldbjni"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/merchant-chart"
+missing = true
 
 [[repo]]
 url = "https://github.com/virtualeconomy/nft_token_indexer"
@@ -71,9 +75,7 @@ url = "https://github.com/virtualeconomy/oscpy"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/petal-network"
-
-[[repo]]
-url = "https://github.com/virtualeconomy/py-v-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/virtualeconomy/py-vsys"
@@ -86,6 +88,10 @@ url = "https://github.com/virtualeconomy/pyvsystems_rewards"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/rcs-chart"
+missing = true
+
+[[repo]]
+url = "https://github.com/virtualeconomy/tokenlist"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/trezor-firmware-vsystems"
@@ -110,6 +116,7 @@ url = "https://github.com/virtualeconomy/v-systems"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/v-systems-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/virtualeconomy/v-wallet-generator"
@@ -119,9 +126,17 @@ url = "https://github.com/virtualeconomy/v-wallet-gui"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/vcloud-doc"
+missing = true
+
+[[repo]]
+url = "https://github.com/virtualeconomy/vkube-cli"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/vswap-ui"
+missing = true
+
+[[repo]]
+url = "https://github.com/virtualeconomy/vsys-toolkit"
 
 [[repo]]
 url = "https://github.com/virtualeconomy/vsystems-ledger-js"

@@ -7,13 +7,11 @@ github_organizations = ["https://github.com/wagerr"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/wagerr/app-bitcoin-new"
-
-[[repo]]
 url = "https://github.com/wagerr/app-wgr-new"
 
 [[repo]]
 url = "https://github.com/wagerr/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/wagerr/BetLikeANinjaAssets"
@@ -68,6 +66,7 @@ url = "https://github.com/wagerr/leveldb"
 
 [[repo]]
 url = "https://github.com/wagerr/mediapack"
+missing = true
 
 [[repo]]
 url = "https://github.com/wagerr/mnchecker"
@@ -77,9 +76,6 @@ url = "https://github.com/wagerr/trustwallet-assets"
 
 [[repo]]
 url = "https://github.com/wagerr/univalue"
-
-[[repo]]
-url = "https://github.com/wagerr/VirtualBoxGuide"
 
 [[repo]]
 url = "https://github.com/wagerr/wagerr"
@@ -92,15 +88,13 @@ url = "https://github.com/wagerr/wagerr-binance-bridge"
 
 [[repo]]
 url = "https://github.com/wagerr/wagerr-blockchain-snapshot-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/wagerr/Wagerr-Blockchain-Snapshots"
 
 [[repo]]
 url = "https://github.com/wagerr/Wagerr-Blockchain-Snapshots-OLD"
-
-[[repo]]
-url = "https://github.com/wagerr/Wagerr-Blockchain-Snapshotsv4"
 
 [[repo]]
 url = "https://github.com/wagerr/Wagerr-Crosschain-BSC-Contract"
@@ -113,9 +107,6 @@ url = "https://github.com/wagerr/wagerr-detached-sigs"
 
 [[repo]]
 url = "https://github.com/wagerr/Wagerr-Docs"
-
-[[repo]]
-url = "https://github.com/wagerr/wagerr-electron"
 
 [[repo]]
 url = "https://github.com/wagerr/wagerr-electron-app"
@@ -131,9 +122,6 @@ url = "https://github.com/wagerr/wagerr-explorer"
 
 [[repo]]
 url = "https://github.com/wagerr/wagerr-explorer-old"
-
-[[repo]]
-url = "https://github.com/wagerr/Wagerr-FAQ"
 
 [[repo]]
 url = "https://github.com/wagerr/wagerr-multiwallet"

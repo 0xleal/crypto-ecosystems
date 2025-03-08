@@ -52,9 +52,6 @@ url = "https://github.com/CoTraderCore/cot-stake-contract"
 url = "https://github.com/CoTraderCore/COT-Tokens-DAO1L"
 
 [[repo]]
-url = "https://github.com/CoTraderCore/CoTrade-SDK"
-
-[[repo]]
 url = "https://github.com/CoTraderCore/CoTrader-BSC-Subgraph"
 
 [[repo]]
@@ -65,12 +62,11 @@ url = "https://github.com/CoTraderCore/CoTrader-DAO-wallet"
 
 [[repo]]
 url = "https://github.com/CoTraderCore/CoTrader-DEX"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoTraderCore/CoTrader-DEX-SDK"
-
-[[repo]]
-url = "https://github.com/CoTraderCore/CoTrader-DEX-SDK-buld"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoTraderCore/CoTrader-DEX-SDK-buld-main"
@@ -80,6 +76,10 @@ url = "https://github.com/CoTraderCore/CoTrader-DEX-SDK-v1"
 
 [[repo]]
 url = "https://github.com/CoTraderCore/CoTrader-DEX-UI-v1"
+
+[[repo]]
+url = "https://github.com/CoTraderCore/cotrader-eth-api-2022"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoTraderCore/cotrader-frontend"
@@ -94,10 +94,22 @@ url = "https://github.com/CoTraderCore/cotrader-frontend-polygon"
 url = "https://github.com/CoTraderCore/cotrader-landing"
 
 [[repo]]
-url = "https://github.com/CoTraderCore/CoTrader-Paraswap"
+url = "https://github.com/CoTraderCore/CoTrader-SDK"
 
 [[repo]]
-url = "https://github.com/CoTraderCore/CoTrader-SDK"
+url = "https://github.com/CoTraderCore/CoTrader-UI-2023"
+
+[[repo]]
+url = "https://github.com/CoTraderCore/CoTrader-UI-2023-BASE"
+
+[[repo]]
+url = "https://github.com/CoTraderCore/CoTrader-UI-2023-BNB"
+
+[[repo]]
+url = "https://github.com/CoTraderCore/CoTrader-UI-2023-ETH"
+
+[[repo]]
+url = "https://github.com/CoTraderCore/CoTrader-UI-2023-MATIC"
 
 [[repo]]
 url = "https://github.com/CoTraderCore/Crowdsale-Contracts-Assembly"
@@ -139,13 +151,11 @@ url = "https://github.com/CoTraderCore/Rebalance"
 url = "https://github.com/CoTraderCore/SC-latest"
 
 [[repo]]
-url = "https://github.com/CoTraderCore/SF-FETCH"
-
-[[repo]]
 url = "https://github.com/CoTraderCore/SF-FETCH-deprecated"
 
 [[repo]]
 url = "https://github.com/CoTraderCore/SF-FETCH-NEW-LOGIC"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoTraderCore/SF-FETCH-NFTs"
@@ -157,13 +167,11 @@ url = "https://github.com/CoTraderCore/SF-FETCH-PRODUCTION"
 url = "https://github.com/CoTraderCore/SF-FETCH-WITH-SALE"
 
 [[repo]]
-url = "https://github.com/CoTraderCore/SF-FETCH-WITH-SALE-WITHOUT-LD"
-
-[[repo]]
 url = "https://github.com/CoTraderCore/smart-funds-v1"
 
 [[repo]]
 url = "https://github.com/CoTraderCore/smart-funds-v10-BSC"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoTraderCore/smart-funds-v2"
@@ -173,6 +181,7 @@ url = "https://github.com/CoTraderCore/smart-funds-v3"
 
 [[repo]]
 url = "https://github.com/CoTraderCore/smart-funds-v3-with-Uniswap"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoTraderCore/smart-funds-v4"
@@ -193,6 +202,9 @@ url = "https://github.com/CoTraderCore/smart-funds-v7-BNB-chain"
 url = "https://github.com/CoTraderCore/smart-funds-v8"
 
 [[repo]]
+url = "https://github.com/CoTraderCore/smart-funds-v9-BASE"
+
+[[repo]]
 url = "https://github.com/CoTraderCore/smart-funds-v9-BSC"
 
 [[repo]]
@@ -209,15 +221,19 @@ url = "https://github.com/CoTraderCore/SmartEscrow"
 
 [[repo]]
 url = "https://github.com/CoTraderCore/SmartFunds-supporting-Bancor"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoTraderCore/SmartFunds-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoTraderCore/SmartFunds-with-Compound"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoTraderCore/SmartFunds-with-Pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoTraderCore/STAKE-MINTABLE-POLY"

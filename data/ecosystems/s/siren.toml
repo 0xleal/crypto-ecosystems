@@ -22,7 +22,17 @@ url = "https://github.com/sirenmarkets/DeFi-Pulse-Adapters"
 url = "https://github.com/sirenmarkets/docs"
 
 [[repo]]
+url = "https://github.com/sirenmarkets/GammaProtocol"
+missing = true
+
+[[repo]]
+url = "https://github.com/sirenmarkets/hardhat-storage-layout"
+
+[[repo]]
 url = "https://github.com/sirenmarkets/liquidity-staker"
+
+[[repo]]
+url = "https://github.com/sirenmarkets/python-decouple"
 
 [[repo]]
 url = "https://github.com/sirenmarkets/SIPs"

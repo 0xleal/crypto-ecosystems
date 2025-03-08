@@ -10,7 +10,13 @@ github_organizations = ["https://github.com/polkastarter"]
 url = "https://github.com/polkastarter/assets"
 
 [[repo]]
+url = "https://github.com/polkastarter/axelar-configs"
+
+[[repo]]
 url = "https://github.com/polkastarter/dapp-release-notes"
+
+[[repo]]
+url = "https://github.com/polkastarter/digest-sha3-ruby"
 
 [[repo]]
 url = "https://github.com/polkastarter/Grant-Milestone-Delivery"
@@ -20,6 +26,7 @@ url = "https://github.com/polkastarter/Open-Grants-Program"
 
 [[repo]]
 url = "https://github.com/polkastarter/owners-manual"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkastarter/polkastarter-crowdloan"
@@ -37,7 +44,16 @@ url = "https://github.com/polkastarter/PolkastarterToken"
 url = "https://github.com/polkastarter/random-seed"
 
 [[repo]]
+url = "https://github.com/polkastarter/random-seed-prevrandao"
+
+[[repo]]
 url = "https://github.com/polkastarter/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/polkastarter/staking-pols"
+
+[[repo]]
+url = "https://github.com/polkastarter/staking-pols-v2"
+
+[[repo]]
+url = "https://github.com/polkastarter/xERC20"

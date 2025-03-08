@@ -19,6 +19,10 @@ url = "https://github.com/cowri/balancer-v2-monorepo"
 url = "https://github.com/cowri/blockchain-security-contacts"
 
 [[repo]]
+url = "https://github.com/cowri/bro-kwons-booty-subgraphs"
+missing = true
+
+[[repo]]
 url = "https://github.com/cowri/clone-factory"
 
 [[repo]]
@@ -40,6 +44,15 @@ url = "https://github.com/cowri/dapptools"
 url = "https://github.com/cowri/DeFi-Pulse-Adapters"
 
 [[repo]]
+url = "https://github.com/cowri/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/cowri/defillama-server"
+
+[[repo]]
+url = "https://github.com/cowri/dimension-adapters"
+
+[[repo]]
 url = "https://github.com/cowri/discourse_docker"
 
 [[repo]]
@@ -50,6 +63,9 @@ url = "https://github.com/cowri/erc20"
 
 [[repo]]
 url = "https://github.com/cowri/eth-contract-metadata"
+
+[[repo]]
+url = "https://github.com/cowri/eth-denver-adapter-workshop"
 
 [[repo]]
 url = "https://github.com/cowri/frax-solidity"
@@ -65,6 +81,7 @@ url = "https://github.com/cowri/klab"
 
 [[repo]]
 url = "https://github.com/cowri/liquidity-dao"
+missing = true
 
 [[repo]]
 url = "https://github.com/cowri/loihi"
@@ -88,16 +105,29 @@ url = "https://github.com/cowri/shell-protocol-v1"
 url = "https://github.com/cowri/shell-protocol-v1-lp-analysis"
 
 [[repo]]
+url = "https://github.com/cowri/shell-protocol-v2-forta-agents"
+
+[[repo]]
+url = "https://github.com/cowri/shell-protocol-v2-subgraphs"
+
+[[repo]]
+url = "https://github.com/cowri/shell-protocol-v3"
+
+[[repo]]
 url = "https://github.com/cowri/shell-solidity-v1"
 
 [[repo]]
 url = "https://github.com/cowri/shell-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/cowri/ships"
 
 [[repo]]
 url = "https://github.com/cowri/SIPs"
+
+[[repo]]
+url = "https://github.com/cowri/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/cowri/solidity-bytes-utils"

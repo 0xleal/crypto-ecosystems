@@ -7,13 +7,38 @@ github_organizations = ["https://github.com/omise"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/Alainy/OmiseGo-Go-SDK"
+url = "https://github.com/alainfonhof/OmiseGo-Go-SDK"
+
+[[repo]]
+url = "https://github.com/empongpat/simple-smart-contracts"
 
 [[repo]]
 url = "https://github.com/jet86/plasma-tools"
 
 [[repo]]
+url = "https://github.com/KongZ/graylog-plugin-custom-alert-condition"
+
+[[repo]]
+url = "https://github.com/KongZ/graylog-plugin-function-check-diff"
+
+[[repo]]
+url = "https://github.com/KongZ/graylog-plugin-google-cloud-pubsub"
+
+[[repo]]
+url = "https://github.com/KongZ/graylog-plugin-slack"
+
+[[repo]]
+url = "https://github.com/KongZ/graylog-plugin-slack-notification"
+
+[[repo]]
+url = "https://github.com/omgnetwork/elixir-omg"
+
+[[repo]]
+url = "https://github.com/omise/.github"
+
+[[repo]]
 url = "https://github.com/omise/active_merchant"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/banks-logo"
@@ -23,6 +48,7 @@ url = "https://github.com/omise/bluepine"
 
 [[repo]]
 url = "https://github.com/omise/bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/card-network-logos"
@@ -35,27 +61,14 @@ url = "https://github.com/omise/challenges"
 
 [[repo]]
 url = "https://github.com/omise/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/examples"
 
 [[repo]]
 url = "https://github.com/omise/girlscout"
-
-[[repo]]
-url = "https://github.com/omise/graylog-plugin-custom-alert-condition"
-
-[[repo]]
-url = "https://github.com/omise/graylog-plugin-function-check-diff"
-
-[[repo]]
-url = "https://github.com/omise/graylog-plugin-google-cloud-pubsub"
-
-[[repo]]
-url = "https://github.com/omise/graylog-plugin-slack"
-
-[[repo]]
-url = "https://github.com/omise/graylog-plugin-slack-notification"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/omise-android"
@@ -65,6 +78,9 @@ url = "https://github.com/omise/omise-android-example"
 
 [[repo]]
 url = "https://github.com/omise/omise-ansible-woocommerce"
+
+[[repo]]
+url = "https://github.com/omise/omise-dart"
 
 [[repo]]
 url = "https://github.com/omise/omise-dotnet"
@@ -119,34 +135,39 @@ url = "https://github.com/omise/omise-woocommerce"
 
 [[repo]]
 url = "https://github.com/omise/omise.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/omise.js-example"
 
 [[repo]]
+url = "https://github.com/omise/omise_dart"
+
+[[repo]]
+url = "https://github.com/omise/omise_flutter"
+
+[[repo]]
 url = "https://github.com/omise/opsworks_sidekiq"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/ossec-cookbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/persistkit"
 
 [[repo]]
 url = "https://github.com/omise/postman-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/spree-omise"
 
 [[repo]]
 url = "https://github.com/omise/spree_demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/omise/validator.js"
-
-[[repo]]
-url = "https://github.com/omisego/elixir-omg"
-tags = ["Protocol"]
-
-[[repo]]
-url = "https://github.com/shinzenkoru/simple-smart-contracts"
+missing = true

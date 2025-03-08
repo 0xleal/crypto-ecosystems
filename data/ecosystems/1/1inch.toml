@@ -7,217 +7,16 @@ github_organizations = ["https://github.com/1inch", "https://github.com/1inch-ex
 
 # Repositories
 [[repo]]
-url = "https://github.com/1inch-exchange/1gas.io"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1hop"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1inch-liquidity-protocol"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1inch-liquidity-protocol-audits"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1inch-token"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1inch-uni-addresses"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1inch-v2-audits"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1inch-v2-contracts"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1inchProtocol"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1IPs"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1lend.io"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/1x.ag"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/AirSwap.js"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/alpha-wallet-android"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/alpha-wallet-ios"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/approved.zone"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/arc"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/Arweavify"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/assets"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/awesome-nmap-grep"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/aws-cli"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/backend-replacement"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/BalancerRegistry"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/bancor-contracts"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/bancor-sdk"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/BEARROWING"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/bZx-monorepo"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/chainlink"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/chi"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/contract-metadata"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/cors-anywhere"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/DepoSet"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/dexcandles"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/discover-dapps"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/Donatocracy"
-
-[[repo]]
 url = "https://github.com/1inch-exchange/eth-contract-metadata"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/eth-node-healthcheck"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/eth-sig-util"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/ethers.js"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/evm-trace"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/excluded-uni-airdrop-users"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/gasprice"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/gDAI.io"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/gnosis.1inch.exchange"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/governance-contracts"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/infra"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/jobocar"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/LimitSwap"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/LimitSwapSubgraph"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/mooniswap"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/mooniswap-info"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/mooniswap-interface"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/mooniswap-sdk"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/mooniswap-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/1inch-exchange/mooniswap-v2-subgraph"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/MultiKyber"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/MultiToken"
+missing = true
 
 [[repo]]
 url = "https://github.com/1inch-exchange/node-walletconnect-bridge"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/nuTube.network"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/offchain-oracle"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/openzeppelin-gsn-provider"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/penetration-tools"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/protocol-v2"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/QRToken"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/SecLists"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/solidty-selector-miner"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/tabookey-gasless"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/textmessage.eth"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/unbundle.multitoken"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/VIC.cards"
-
-[[repo]]
-url = "https://github.com/1inch-exchange/web3.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/1inch/1gas.io"
@@ -241,6 +40,12 @@ url = "https://github.com/1inch/1inch-liquidity-protocol-audits"
 url = "https://github.com/1inch/1inch-merch-contract"
 
 [[repo]]
+url = "https://github.com/1inch/1inch-sdk"
+
+[[repo]]
+url = "https://github.com/1inch/1inch-sdk-go"
+
+[[repo]]
 url = "https://github.com/1inch/1inch-token"
 
 [[repo]]
@@ -254,9 +59,11 @@ url = "https://github.com/1inch/1inch-v2-contracts"
 
 [[repo]]
 url = "https://github.com/1inch/1inchProtocol"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/1inch/1inchwallet.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/1inch/1IPs"
@@ -268,7 +75,16 @@ url = "https://github.com/1inch/1lend.io"
 url = "https://github.com/1inch/1x.ag"
 
 [[repo]]
+url = "https://github.com/1inch/address-token"
+
+[[repo]]
+url = "https://github.com/1inch/address-token-miner"
+
+[[repo]]
 url = "https://github.com/1inch/aip"
+
+[[repo]]
+url = "https://github.com/1inch/airswap-protocols"
 
 [[repo]]
 url = "https://github.com/1inch/AirSwap.js"
@@ -322,6 +138,9 @@ url = "https://github.com/1inch/bancor-contracts"
 url = "https://github.com/1inch/bancor-sdk"
 
 [[repo]]
+url = "https://github.com/1inch/BCSwiftDCBOR"
+
+[[repo]]
 url = "https://github.com/1inch/BEARROWING"
 
 [[repo]]
@@ -340,10 +159,25 @@ url = "https://github.com/1inch/brownie"
 url = "https://github.com/1inch/bZx-monorepo"
 
 [[repo]]
+url = "https://github.com/1inch/calldata-compressor"
+
+[[repo]]
+url = "https://github.com/1inch/candles-subgraph"
+
+[[repo]]
 url = "https://github.com/1inch/chainlink"
 
 [[repo]]
 url = "https://github.com/1inch/chi"
+
+[[repo]]
+url = "https://github.com/1inch/clones-with-immutable-args"
+
+[[repo]]
+url = "https://github.com/1inch/CloudInAppMessaging"
+
+[[repo]]
+url = "https://github.com/1inch/community"
 
 [[repo]]
 url = "https://github.com/1inch/contract-metadata"
@@ -355,13 +189,31 @@ url = "https://github.com/1inch/cors-anywhere"
 url = "https://github.com/1inch/create3"
 
 [[repo]]
-url = "https://github.com/1inch/cumulative-merkle-drop"
+url = "https://github.com/1inch/cross-chain-resolver-example"
+
+[[repo]]
+url = "https://github.com/1inch/cross-chain-sdk"
+
+[[repo]]
+url = "https://github.com/1inch/cross-chain-swap"
+
+[[repo]]
+url = "https://github.com/1inch/DECS-whitepaper"
+
+[[repo]]
+url = "https://github.com/1inch/delegating"
 
 [[repo]]
 url = "https://github.com/1inch/DepoSet"
 
 [[repo]]
 url = "https://github.com/1inch/desktop-dapp"
+
+[[repo]]
+url = "https://github.com/1inch/dev-portal-101"
+
+[[repo]]
+url = "https://github.com/1inch/dev-portal-apis-examples"
 
 [[repo]]
 url = "https://github.com/1inch/dexcandles"
@@ -374,6 +226,7 @@ url = "https://github.com/1inch/Donatocracy"
 
 [[repo]]
 url = "https://github.com/1inch/EIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/1inch/EllipticCurveKeyPair"
@@ -382,13 +235,31 @@ url = "https://github.com/1inch/EllipticCurveKeyPair"
 url = "https://github.com/1inch/embedded-widget"
 
 [[repo]]
+url = "https://github.com/1inch/ERADICATE2"
+
+[[repo]]
+url = "https://github.com/1inch/ERADICATE3"
+
+[[repo]]
+url = "https://github.com/1inch/ERC-XXXX"
+
+[[repo]]
+url = "https://github.com/1inch/erc20-pods"
+
+[[repo]]
 url = "https://github.com/1inch/ERC3652"
+
+[[repo]]
+url = "https://github.com/1inch/eslint-config"
 
 [[repo]]
 url = "https://github.com/1inch/eth-node-healthcheck"
 
 [[repo]]
 url = "https://github.com/1inch/eth-sig-util"
+
+[[repo]]
+url = "https://github.com/1inch/ethers-rs"
 
 [[repo]]
 url = "https://github.com/1inch/ethers.js"
@@ -406,9 +277,6 @@ url = "https://github.com/1inch/excluded-uni-airdrop-users"
 url = "https://github.com/1inch/farming"
 
 [[repo]]
-url = "https://github.com/1inch/farming-contracts"
-
-[[repo]]
 url = "https://github.com/1inch/fee-collector"
 
 [[repo]]
@@ -416,6 +284,21 @@ url = "https://github.com/1inch/fixed-rate-swap"
 
 [[repo]]
 url = "https://github.com/1inch/FLEX"
+
+[[repo]]
+url = "https://github.com/1inch/foundry-zksync-coverage-demo"
+
+[[repo]]
+url = "https://github.com/1inch/fusion-101"
+
+[[repo]]
+url = "https://github.com/1inch/fusion-resolver-example"
+
+[[repo]]
+url = "https://github.com/1inch/fusion-sdk"
+
+[[repo]]
+url = "https://github.com/1inch/gas-comparison"
 
 [[repo]]
 url = "https://github.com/1inch/gasprice"
@@ -433,10 +316,14 @@ url = "https://github.com/1inch/go-ethereum"
 url = "https://github.com/1inch/governance-contracts"
 
 [[repo]]
+url = "https://github.com/1inch/hardhat-tracer"
+
+[[repo]]
 url = "https://github.com/1inch/infra"
 
 [[repo]]
 url = "https://github.com/1inch/job-management-framework-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/1inch/jobocar"
@@ -445,10 +332,22 @@ url = "https://github.com/1inch/jobocar"
 url = "https://github.com/1inch/ledger-asset-dapps"
 
 [[repo]]
+url = "https://github.com/1inch/limit-order-parser"
+
+[[repo]]
 url = "https://github.com/1inch/limit-order-protocol"
 
 [[repo]]
 url = "https://github.com/1inch/limit-order-protocol-utils"
+
+[[repo]]
+url = "https://github.com/1inch/limit-order-sdk"
+
+[[repo]]
+url = "https://github.com/1inch/limit-order-sdk-py"
+
+[[repo]]
+url = "https://github.com/1inch/limit-order-settlement"
 
 [[repo]]
 url = "https://github.com/1inch/LimitSwapSubgraph"
@@ -458,6 +357,12 @@ url = "https://github.com/1inch/liquidity-protocol"
 
 [[repo]]
 url = "https://github.com/1inch/merkle-distribution"
+
+[[repo]]
+url = "https://github.com/1inch/mixpanel-android"
+
+[[repo]]
+url = "https://github.com/1inch/mixpanel-swift-archive"
 
 [[repo]]
 url = "https://github.com/1inch/mooniswap"
@@ -484,19 +389,34 @@ url = "https://github.com/1inch/MultiKyber"
 url = "https://github.com/1inch/MultiToken-old"
 
 [[repo]]
+url = "https://github.com/1inch/NewWeb3.swift"
+
+[[repo]]
 url = "https://github.com/1inch/nuTube.network"
 
 [[repo]]
-url = "https://github.com/1inch/offchain-oracle"
+url = "https://github.com/1inch/openzeppelin-contracts"
+
+[[repo]]
+url = "https://github.com/1inch/openzeppelin-contracts-upgradeable"
 
 [[repo]]
 url = "https://github.com/1inch/openzeppelin-gsn-provider"
+
+[[repo]]
+url = "https://github.com/1inch/paymaster-zksync"
 
 [[repo]]
 url = "https://github.com/1inch/penetration-tools"
 
 [[repo]]
 url = "https://github.com/1inch/permit-signed-approvals-utils"
+
+[[repo]]
+url = "https://github.com/1inch/permit2"
+
+[[repo]]
+url = "https://github.com/1inch/profanity2"
 
 [[repo]]
 url = "https://github.com/1inch/PromiseKit"
@@ -506,6 +426,12 @@ url = "https://github.com/1inch/protocol-v2"
 
 [[repo]]
 url = "https://github.com/1inch/QRToken"
+
+[[repo]]
+url = "https://github.com/1inch/rainbowkit"
+
+[[repo]]
+url = "https://github.com/1inch/redoc"
 
 [[repo]]
 url = "https://github.com/1inch/ScrollCounter"
@@ -523,6 +449,15 @@ url = "https://github.com/1inch/secp256k1.swift"
 url = "https://github.com/1inch/shieldy"
 
 [[repo]]
+url = "https://github.com/1inch/simple-1inch-proxy"
+
+[[repo]]
+url = "https://github.com/1inch/solidity"
+
+[[repo]]
+url = "https://github.com/1inch/solidity-audit-checklist"
+
+[[repo]]
 url = "https://github.com/1inch/solidity-dispatcher-miner"
 
 [[repo]]
@@ -532,10 +467,19 @@ url = "https://github.com/1inch/solidity-selector-miner"
 url = "https://github.com/1inch/solidity-utils"
 
 [[repo]]
+url = "https://github.com/1inch/solmate"
+
+[[repo]]
 url = "https://github.com/1inch/spot-price-aggregator"
 
 [[repo]]
+url = "https://github.com/1inch/st1inch"
+
+[[repo]]
 url = "https://github.com/1inch/Starscream"
+
+[[repo]]
+url = "https://github.com/1inch/SwiftGenPlugin"
 
 [[repo]]
 url = "https://github.com/1inch/tabookey-gasless"
@@ -547,22 +491,44 @@ url = "https://github.com/1inch/telegraf"
 url = "https://github.com/1inch/textmessage.eth"
 
 [[repo]]
+url = "https://github.com/1inch/token-plugins"
+
+[[repo]]
 url = "https://github.com/1inch/trimport"
 
 [[repo]]
-url = "https://github.com/1inch/tx-confirm-data-bulder"
+url = "https://github.com/1inch/ts-byte-utils"
+
+[[repo]]
+url = "https://github.com/1inch/ts-byte-utils-lib"
+
+[[repo]]
+url = "https://github.com/1inch/tsconfig"
 
 [[repo]]
 url = "https://github.com/1inch/tx-decoder"
+missing = true
 
 [[repo]]
 url = "https://github.com/1inch/unbundle.multitoken"
+
+[[repo]]
+url = "https://github.com/1inch/uniswap-interface"
+
+[[repo]]
+url = "https://github.com/1inch/universal-router"
+
+[[repo]]
+url = "https://github.com/1inch/URKit"
 
 [[repo]]
 url = "https://github.com/1inch/vested-token"
 
 [[repo]]
 url = "https://github.com/1inch/VIC.cards"
+
+[[repo]]
+url = "https://github.com/1inch/wallet-core"
 
 [[repo]]
 url = "https://github.com/1inch/walletconnect-monorepo"
@@ -572,6 +538,9 @@ url = "https://github.com/1inch/walletconnect-registry"
 
 [[repo]]
 url = "https://github.com/1inch/WalletConnectSwift"
+
+[[repo]]
+url = "https://github.com/1inch/WalletConnectSwiftV2"
 
 [[repo]]
 url = "https://github.com/1inch/watchmarket"
@@ -584,3 +553,6 @@ url = "https://github.com/1inch/Web3.swift"
 
 [[repo]]
 url = "https://github.com/1inch/web3swift"
+
+[[repo]]
+url = "https://github.com/1inch/yield-server"

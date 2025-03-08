@@ -40,6 +40,9 @@ url = "https://github.com/useverto/design"
 url = "https://github.com/useverto/desktop"
 
 [[repo]]
+url = "https://github.com/useverto/flex"
+
+[[repo]]
 url = "https://github.com/useverto/hook"
 
 [[repo]]
@@ -59,6 +62,7 @@ url = "https://github.com/useverto/js"
 
 [[repo]]
 url = "https://github.com/useverto/kpis"
+missing = true
 
 [[repo]]
 url = "https://github.com/useverto/lib"

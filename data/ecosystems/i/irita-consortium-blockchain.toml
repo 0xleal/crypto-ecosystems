@@ -7,25 +7,51 @@ github_organizations = ["https://github.com/bianjieai"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/bianjieai/avata-abis"
+
+[[repo]]
 url = "https://github.com/bianjieai/avata-auth"
 
 [[repo]]
+url = "https://github.com/bianjieai/avata-demos"
+
+[[repo]]
+url = "https://github.com/bianjieai/avata-sdk-go"
+
+[[repo]]
+url = "https://github.com/bianjieai/avata-sdk-java"
+
+[[repo]]
+url = "https://github.com/bianjieai/avata-sdk-php"
+
+[[repo]]
 url = "https://github.com/bianjieai/bsn-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/bsn-wenchang.bianjie.ai"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/bsnhub-sdk-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/bsnhub-service-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/bsnhub-service-relayer"
+missing = true
+
+[[repo]]
+url = "https://github.com/bianjieai/chain-parser"
 
 [[repo]]
 url = "https://github.com/bianjieai/chainlink"
+
+[[repo]]
+url = "https://github.com/bianjieai/cometbft"
 
 [[repo]]
 url = "https://github.com/bianjieai/cosmos-sdk"
@@ -34,13 +60,31 @@ url = "https://github.com/bianjieai/cosmos-sdk"
 url = "https://github.com/bianjieai/cosmos-sync"
 
 [[repo]]
+url = "https://github.com/bianjieai/cosmos-vrf"
+
+[[repo]]
+url = "https://github.com/bianjieai/cosmos-vrf-provider"
+
+[[repo]]
+url = "https://github.com/bianjieai/cosmos-wallet-ibest"
+
+[[repo]]
+url = "https://github.com/bianjieai/ddc-go"
+missing = true
+
+[[repo]]
 url = "https://github.com/bianjieai/ddc-sdk-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/ddc-sdk-java"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/ethermint"
+
+[[repo]]
+url = "https://github.com/bianjieai/gon-testnets"
 
 [[repo]]
 url = "https://github.com/bianjieai/ibc"
@@ -49,13 +93,24 @@ url = "https://github.com/bianjieai/ibc"
 url = "https://github.com/bianjieai/ibc-go"
 
 [[repo]]
+url = "https://github.com/bianjieai/ibc-relayer-go"
+
+[[repo]]
+url = "https://github.com/bianjieai/icndev"
+
+[[repo]]
+url = "https://github.com/bianjieai/icndev-server"
+
+[[repo]]
 url = "https://github.com/bianjieai/ics721-demo"
 
 [[repo]]
 url = "https://github.com/bianjieai/iobscan-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/iobscan-explorer-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/iobscan-ibc-explorer"
@@ -64,13 +119,10 @@ url = "https://github.com/bianjieai/iobscan-ibc-explorer"
 url = "https://github.com/bianjieai/iobscan-ibc-explorer-backend"
 
 [[repo]]
+url = "https://github.com/bianjieai/irismod"
+
+[[repo]]
 url = "https://github.com/bianjieai/irita"
-
-[[repo]]
-url = "https://github.com/bianjieai/irita-explorer"
-
-[[repo]]
-url = "https://github.com/bianjieai/irita-explorer-backend"
 
 [[repo]]
 url = "https://github.com/bianjieai/irita-link-adapter"
@@ -88,10 +140,8 @@ url = "https://github.com/bianjieai/irita-sdk-js"
 url = "https://github.com/bianjieai/irita-signer-java"
 
 [[repo]]
-url = "https://github.com/bianjieai/irita-sync"
-
-[[repo]]
 url = "https://github.com/bianjieai/irita.bianjie.ai"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/iritamod"
@@ -101,6 +151,10 @@ url = "https://github.com/bianjieai/iritamod-sdk-go"
 
 [[repo]]
 url = "https://github.com/bianjieai/launch"
+missing = true
+
+[[repo]]
+url = "https://github.com/bianjieai/nft-transfer"
 
 [[repo]]
 url = "https://github.com/bianjieai/opb-docs"
@@ -115,7 +169,11 @@ url = "https://github.com/bianjieai/opb-sdk-go"
 url = "https://github.com/bianjieai/opb-sdk-java"
 
 [[repo]]
+url = "https://github.com/bianjieai/OSSRH-88911"
+
+[[repo]]
 url = "https://github.com/bianjieai/rainbow.one"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/service-sdk-java"
@@ -127,6 +185,17 @@ url = "https://github.com/bianjieai/sm-crypto-js"
 url = "https://github.com/bianjieai/solidity-protobuf"
 
 [[repo]]
+url = "https://github.com/bianjieai/spartan-cosmos"
+
+[[repo]]
+url = "https://github.com/bianjieai/spartan-sdk-go"
+missing = true
+
+[[repo]]
+url = "https://github.com/bianjieai/spartan-sdk-java"
+missing = true
+
+[[repo]]
 url = "https://github.com/bianjieai/tendermint"
 
 [[repo]]
@@ -134,6 +203,7 @@ url = "https://github.com/bianjieai/tibc"
 
 [[repo]]
 url = "https://github.com/bianjieai/tibc-ddc"
+missing = true
 
 [[repo]]
 url = "https://github.com/bianjieai/tibc-go"
@@ -148,10 +218,21 @@ url = "https://github.com/bianjieai/tibc-sdk-go"
 url = "https://github.com/bianjieai/tibc-solidity"
 
 [[repo]]
+url = "https://github.com/bianjieai/tm-db"
+
+[[repo]]
 url = "https://github.com/bianjieai/vscode-ext-irita-wasm"
+
+[[repo]]
+url = "https://github.com/bianjieai/vue-json-pretty"
 
 [[repo]]
 url = "https://github.com/bianjieai/wasmd"
 
 [[repo]]
+url = "https://github.com/bianjieai/wenchang.bianjie.ai"
+missing = true
+
+[[repo]]
 url = "https://github.com/bianjieai/www.bianjie.ai"
+missing = true

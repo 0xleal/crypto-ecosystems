@@ -1,5 +1,5 @@
 # Ecosystem Level Information
-title = " Certus One"
+title = "Certus One"
 
 sub_ecosystems = []
 
@@ -53,6 +53,7 @@ url = "https://github.com/certusone/kb"
 
 [[repo]]
 url = "https://github.com/certusone/metaplex"
+missing = true
 
 [[repo]]
 url = "https://github.com/certusone/near_exporter"
@@ -61,16 +62,18 @@ url = "https://github.com/certusone/near_exporter"
 url = "https://github.com/certusone/oyster"
 
 [[repo]]
-url = "https://github.com/certusone/proxy-model.py"
+url = "https://github.com/certusone/portal-bridge-ui"
 
 [[repo]]
-url = "https://github.com/certusone/radiance"
+url = "https://github.com/certusone/proxy-model.py"
+missing = true
 
 [[repo]]
 url = "https://github.com/certusone/santa"
 
 [[repo]]
 url = "https://github.com/certusone/solana-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/certusone/solana_exporter"
@@ -100,40 +103,51 @@ url = "https://github.com/certusone/tm_exporter"
 url = "https://github.com/certusone/ton_cpp_exporter"
 
 [[repo]]
-url = "https://github.com/certusone/tpuproxy"
-
-[[repo]]
 url = "https://github.com/certusone/validator-profiles"
 
 [[repo]]
 url = "https://github.com/certusone/vouch"
+missing = true
 
 [[repo]]
-url = "https://github.com/certusone/wormhole"
-
-[[repo]]
-url = "https://github.com/certusone/wormhole-examples"
-
-[[repo]]
-url = "https://github.com/certusone/wormhole-icco"
-
-[[repo]]
-url = "https://github.com/certusone/wormhole-nativeswap-example"
-
-[[repo]]
-url = "https://github.com/certusone/wormhole-networks"
-
-[[repo]]
-url = "https://github.com/certusone/wormhole-relayer-list"
+url = "https://github.com/certusone/wormhole-entropybitcom"
 
 [[repo]]
 url = "https://github.com/certusone/wormhole-stats"
-
-[[repo]]
-url = "https://github.com/certusone/wormhole-token-list"
-
-[[repo]]
-url = "https://github.com/certusone/xdapp-book"
+missing = true
 
 [[repo]]
 url = "https://github.com/certusone/yubihsm-go"
+
+[[repo]]
+url = "https://github.com/firedancer-io/radiance"
+
+[[repo]]
+url = "https://github.com/wormhole-foundation/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/wormhole-foundation/example-portal-fast-withdrawal"
+
+[[repo]]
+url = "https://github.com/wormhole-foundation/example-wormhole-lending"
+
+[[repo]]
+url = "https://github.com/wormhole-foundation/wasmd"
+
+[[repo]]
+url = "https://github.com/wormhole-foundation/wormhole-circle-integration"
+
+[[repo]]
+url = "https://github.com/wormhole-foundation/wormhole-examples"
+
+[[repo]]
+url = "https://github.com/wormhole-foundation/wormhole-icco"
+
+[[repo]]
+url = "https://github.com/wormhole-foundation/wormhole-networks"
+
+[[repo]]
+url = "https://github.com/wormhole-foundation/wormhole-relayer-list"
+
+[[repo]]
+url = "https://github.com/wormhole-foundation/wormhole-token-list"

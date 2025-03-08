@@ -8,12 +8,14 @@ github_organizations = ["https://github.com/ArkaneNetwork"]
 # Repositories
 [[repo]]
 url = "https://github.com/ArkaneNetwork/aeternity-node-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/api-docs"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/arkane-authentication-provider"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/arkane-connect"
@@ -26,36 +28,46 @@ url = "https://github.com/ArkaneNetwork/Arketype"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/blockchain-providers"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/blockscout"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/browserstack-automate-typescript-base"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/browserstack-automate-typescript-base-example"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/code-examples"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/content-management"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/Curriculum"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/DevoxxDemo"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/docs-capsule"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/docs-widget"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/documentation"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/ERC1155"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/error-pages"
@@ -65,12 +77,15 @@ url = "https://github.com/ArkaneNetwork/ethereum-developer-tools-list"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/ethereum-node-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/Flint"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/frontend-test-alex-k"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/hedera-improvement-proposal"
@@ -79,13 +94,26 @@ url = "https://github.com/ArkaneNetwork/hedera-improvement-proposal"
 url = "https://github.com/ArkaneNetwork/js-example"
 
 [[repo]]
+url = "https://github.com/ArkaneNetwork/koen-test"
+missing = true
+
+[[repo]]
 url = "https://github.com/ArkaneNetwork/libsass-maven-plugin"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/litecoinj"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/mobile-android-example"
 
 [[repo]]
+url = "https://github.com/ArkaneNetwork/onepassword-scim"
+
+[[repo]]
 url = "https://github.com/ArkaneNetwork/pancake-swap-interface"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/react-demo"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/safe-apps-sdk"
@@ -104,9 +132,14 @@ url = "https://github.com/ArkaneNetwork/spring-boot-java-example"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/spring-boot-kotlin-example"
+missing = true
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/token-assets"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/tron-node-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/truffle-arkane-provider"
@@ -115,7 +148,17 @@ url = "https://github.com/ArkaneNetwork/truffle-arkane-provider"
 url = "https://github.com/ArkaneNetwork/TruffleDemo"
 
 [[repo]]
+url = "https://github.com/ArkaneNetwork/Unity-SDK"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/Unity-SDK-Samples"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/UnrealEngine-SDK"
+
+[[repo]]
 url = "https://github.com/ArkaneNetwork/vechain-node-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/vue-crisp-chat"
@@ -127,13 +170,34 @@ url = "https://github.com/ArkaneNetwork/vue-intercom"
 url = "https://github.com/ArkaneNetwork/vuelidate.ts"
 
 [[repo]]
+url = "https://github.com/ArkaneNetwork/wagmi-dev-references"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/walletconnect-guide"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/walletconnect-web-examples"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/WalletConnectFlutterV2"
+
+[[repo]]
 url = "https://github.com/ArkaneNetwork/web3-arkane-provider"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/web3-arkane-provider-example"
 
 [[repo]]
+url = "https://github.com/ArkaneNetwork/web3-onboard"
+
+[[repo]]
 url = "https://github.com/ArkaneNetwork/web3-provider-engine"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/web3-react"
+
+[[repo]]
+url = "https://github.com/ArkaneNetwork/web3-react-venly"
 
 [[repo]]
 url = "https://github.com/ArkaneNetwork/web3j"

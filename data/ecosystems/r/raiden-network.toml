@@ -38,6 +38,7 @@ url = "https://github.com/raiden-network/microraiden"
 
 [[repo]]
 url = "https://github.com/raiden-network/paywall"
+missing = true
 
 [[repo]]
 url = "https://github.com/raiden-network/paywall-legacy"
@@ -49,13 +50,13 @@ url = "https://github.com/raiden-network/performance-analysis-tool"
 url = "https://github.com/raiden-network/prometheus"
 
 [[repo]]
-url = "https://github.com/raiden-network/py-raiden-proxy"
-
-[[repo]]
 url = "https://github.com/raiden-network/raiden"
 
 [[repo]]
 url = "https://github.com/raiden-network/raiden-api-client"
+
+[[repo]]
+url = "https://github.com/raiden-network/raiden-common"
 
 [[repo]]
 url = "https://github.com/raiden-network/raiden-contracts"
@@ -68,9 +69,6 @@ url = "https://github.com/raiden-network/raiden-echo-node"
 
 [[repo]]
 url = "https://github.com/raiden-network/raiden-ethcc-2021"
-
-[[repo]]
-url = "https://github.com/raiden-network/raiden-installer"
 
 [[repo]]
 url = "https://github.com/raiden-network/raiden-known-servers-metrics-sd"
@@ -95,9 +93,6 @@ url = "https://github.com/raiden-network/raiden-synapse-modules"
 
 [[repo]]
 url = "https://github.com/raiden-network/raiden-token"
-
-[[repo]]
-url = "https://github.com/raiden-network/raiden-transport"
 
 [[repo]]
 url = "https://github.com/raiden-network/raiden-wizard"

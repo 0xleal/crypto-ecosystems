@@ -11,12 +11,17 @@ url = "https://github.com/QuarkChain/chains"
 
 [[repo]]
 url = "https://github.com/QuarkChain/coolwallet3-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/QuarkChain/crowdsale-whitelist"
 
 [[repo]]
+url = "https://github.com/QuarkChain/dblog"
+
+[[repo]]
 url = "https://github.com/QuarkChain/dollar"
+missing = true
 
 [[repo]]
 url = "https://github.com/QuarkChain/DynamicMerkleTree"
@@ -26,6 +31,12 @@ url = "https://github.com/QuarkChain/ens-app"
 
 [[repo]]
 url = "https://github.com/QuarkChain/equalizer-info"
+
+[[repo]]
+url = "https://github.com/QuarkChain/eth-storage"
+
+[[repo]]
+url = "https://github.com/QuarkChain/ethfs-uploader"
 
 [[repo]]
 url = "https://github.com/QuarkChain/ethminer"
@@ -58,7 +69,17 @@ url = "https://github.com/QuarkChain/L2Bridge"
 url = "https://github.com/QuarkChain/ledger-qkc-app"
 
 [[repo]]
+url = "https://github.com/QuarkChain/op-geth"
+
+[[repo]]
 url = "https://github.com/QuarkChain/open-cryptofate"
+missing = true
+
+[[repo]]
+url = "https://github.com/QuarkChain/optimism"
+
+[[repo]]
+url = "https://github.com/QuarkChain/pm"
 
 [[repo]]
 url = "https://github.com/QuarkChain/pyquarkchain"
@@ -80,6 +101,9 @@ url = "https://github.com/QuarkChain/QPocket-Android"
 
 [[repo]]
 url = "https://github.com/QuarkChain/QPocket-iOS"
+
+[[repo]]
+url = "https://github.com/QuarkChain/qrobot"
 
 [[repo]]
 url = "https://github.com/QuarkChain/qswap-core"
@@ -109,6 +133,9 @@ url = "https://github.com/QuarkChain/relayer"
 url = "https://github.com/QuarkChain/staking-contracts"
 
 [[repo]]
+url = "https://github.com/QuarkChain/swc-doc"
+
+[[repo]]
 url = "https://github.com/QuarkChain/tendermintx"
 
 [[repo]]
@@ -119,6 +146,7 @@ url = "https://github.com/QuarkChain/tqkc-bounty-lottery"
 
 [[repo]]
 url = "https://github.com/QuarkChain/tron-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/QuarkChain/tss-lib"
@@ -127,16 +155,20 @@ url = "https://github.com/QuarkChain/tss-lib"
 url = "https://github.com/QuarkChain/uni-interface"
 
 [[repo]]
-url = "https://github.com/QuarkChain/uniswap-info"
-
-[[repo]]
 url = "https://github.com/QuarkChain/uniswap-v2-sdk"
 
 [[repo]]
 url = "https://github.com/QuarkChain/uniswap-v3-core"
+missing = true
 
 [[repo]]
-url = "https://github.com/QuarkChain/w3q-deploy-comment"
+url = "https://github.com/QuarkChain/w3box"
+
+[[repo]]
+url = "https://github.com/QuarkChain/w3drive"
+
+[[repo]]
+url = "https://github.com/QuarkChain/w3mail"
 
 [[repo]]
 url = "https://github.com/QuarkChain/w3q-deployer"

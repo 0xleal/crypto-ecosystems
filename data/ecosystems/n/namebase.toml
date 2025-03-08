@@ -25,6 +25,9 @@ url = "https://github.com/namebasehq/bdb"
 url = "https://github.com/namebasehq/coredns"
 
 [[repo]]
+url = "https://github.com/namebasehq/decentralized-slds"
+
+[[repo]]
 url = "https://github.com/namebasehq/decentralized-static"
 
 [[repo]]
@@ -37,13 +40,19 @@ url = "https://github.com/namebasehq/ejs-loader"
 url = "https://github.com/namebasehq/exchange-api"
 
 [[repo]]
-url = "https://github.com/namebasehq/exchange-api-documentation"
-
-[[repo]]
 url = "https://github.com/namebasehq/gatsby-plugin-webfonts"
 
 [[repo]]
+url = "https://github.com/namebasehq/gitbook-developer-docs"
+
+[[repo]]
+url = "https://github.com/namebasehq/gitbook-learning-center"
+
+[[repo]]
 url = "https://github.com/namebasehq/handover"
+
+[[repo]]
+url = "https://github.com/namebasehq/handshake-contracts"
 
 [[repo]]
 url = "https://github.com/namebasehq/Handshake-Extension"
@@ -67,6 +76,12 @@ url = "https://github.com/namebasehq/hdns"
 url = "https://github.com/namebasehq/helm"
 
 [[repo]]
+url = "https://github.com/namebasehq/hns-id-mm-snap"
+
+[[repo]]
+url = "https://github.com/namebasehq/hns-id-subgraph"
+
+[[repo]]
 url = "https://github.com/namebasehq/hnsd"
 
 [[repo]]
@@ -74,6 +89,7 @@ url = "https://github.com/namebasehq/hs-airdrop"
 
 [[repo]]
 url = "https://github.com/namebasehq/hs-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/namebasehq/hs-names"
@@ -95,6 +111,7 @@ url = "https://github.com/namebasehq/namebase-types"
 
 [[repo]]
 url = "https://github.com/namebasehq/namer-news-frontend-svelte-poc"
+missing = true
 
 [[repo]]
 url = "https://github.com/namebasehq/nodejs-skynet"
@@ -103,7 +120,19 @@ url = "https://github.com/namebasehq/nodejs-skynet"
 url = "https://github.com/namebasehq/og-image"
 
 [[repo]]
+url = "https://github.com/namebasehq/punycode.js"
+
+[[repo]]
+url = "https://github.com/namebasehq/sia-handshake-gateway"
+
+[[repo]]
 url = "https://github.com/namebasehq/simple-hsd-wrapper"
 
 [[repo]]
 url = "https://github.com/namebasehq/txtdirect"
+
+[[repo]]
+url = "https://github.com/namebasehq/uniswap-widgets"
+
+[[repo]]
+url = "https://github.com/namebasehq/wallet-id"

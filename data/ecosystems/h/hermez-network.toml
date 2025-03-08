@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/hermeznetwork"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/0xPolygonHermez/blockscout"
+
+[[repo]]
+url = "https://github.com/0xPolygonHermez/zkevm-bridge-ui"
+
+[[repo]]
 url = "https://github.com/hermeznetwork/0xhack"
 
 [[repo]]
@@ -14,12 +20,6 @@ url = "https://github.com/hermeznetwork/assets"
 
 [[repo]]
 url = "https://github.com/hermeznetwork/batch-explorer"
-
-[[repo]]
-url = "https://github.com/hermeznetwork/blockscout"
-
-[[repo]]
-url = "https://github.com/hermeznetwork/bridge-ui"
 
 [[repo]]
 url = "https://github.com/hermeznetwork/circuits"
@@ -40,13 +40,7 @@ url = "https://github.com/hermeznetwork/docs"
 url = "https://github.com/hermeznetwork/drand_verify"
 
 [[repo]]
-url = "https://github.com/hermeznetwork/eslint-config-hermez"
-
-[[repo]]
 url = "https://github.com/hermeznetwork/ethereumjs-monorepo"
-
-[[repo]]
-url = "https://github.com/hermeznetwork/FFT_Benchmark"
 
 [[repo]]
 url = "https://github.com/hermeznetwork/go-code-style"
@@ -88,9 +82,6 @@ url = "https://github.com/hermeznetwork/hermezio-homepage"
 url = "https://github.com/hermeznetwork/hermezjs"
 
 [[repo]]
-url = "https://github.com/hermeznetwork/hermeznetwork.github.io"
-
-[[repo]]
 url = "https://github.com/hermeznetwork/hez-matic-merge"
 
 [[repo]]
@@ -104,12 +95,15 @@ url = "https://github.com/hermeznetwork/jsondiff"
 
 [[repo]]
 url = "https://github.com/hermeznetwork/node-env"
+missing = true
 
 [[repo]]
 url = "https://github.com/hermeznetwork/phase2ceremony_1"
+missing = true
 
 [[repo]]
 url = "https://github.com/hermeznetwork/phase2ceremony_2"
+missing = true
 
 [[repo]]
 url = "https://github.com/hermeznetwork/phase2ceremony_3"
@@ -128,6 +122,7 @@ url = "https://github.com/hermeznetwork/tracerr"
 
 [[repo]]
 url = "https://github.com/hermeznetwork/uniswap-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/hermeznetwork/uniswap-tokenlists"
@@ -137,3 +132,7 @@ url = "https://github.com/hermeznetwork/wallet-ui"
 
 [[repo]]
 url = "https://github.com/hermeznetwork/zkevmdoc-public"
+missing = true
+
+[[repo]]
+url = "https://github.com/iden3/eslint-config-react-ts"

@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Pyth Network"
 
-sub_ecosystems = []
+sub_ecosystems = ["Thales"]
 
 github_organizations = ["https://github.com/pyth-network"]
 
@@ -10,25 +10,62 @@ github_organizations = ["https://github.com/pyth-network"]
 url = "https://github.com/pyth-network/audit-reports"
 
 [[repo]]
+url = "https://github.com/pyth-network/beacon"
+
+[[repo]]
+url = "https://github.com/pyth-network/charts"
+
+[[repo]]
+url = "https://github.com/pyth-network/data-scientist-take-home"
+missing = true
+
+[[repo]]
 url = "https://github.com/pyth-network/defillama-server"
+missing = true
+
+[[repo]]
+url = "https://github.com/pyth-network/documentation"
 
 [[repo]]
 url = "https://github.com/pyth-network/ecosystem"
 
 [[repo]]
+url = "https://github.com/pyth-network/example-publisher"
+
+[[repo]]
 url = "https://github.com/pyth-network/governance"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/pyth-network/governance-ui"
 
 [[repo]]
+url = "https://github.com/pyth-network/grant-program"
+
+[[repo]]
 url = "https://github.com/pyth-network/nft-distributor"
+missing = true
 
 [[repo]]
 url = "https://github.com/pyth-network/oracle-sandbox"
 
 [[repo]]
+url = "https://github.com/pyth-network/per"
+
+[[repo]]
+url = "https://github.com/pyth-network/price-feeds-metadata"
+
+[[repo]]
+url = "https://github.com/pyth-network/program-admin"
+
+[[repo]]
+url = "https://github.com/pyth-network/program-authority-escrow"
+
+[[repo]]
 url = "https://github.com/pyth-network/publisher-utils"
+
+[[repo]]
+url = "https://github.com/pyth-network/pyth-agent"
 
 [[repo]]
 url = "https://github.com/pyth-network/pyth-client"
@@ -43,13 +80,22 @@ url = "https://github.com/pyth-network/pyth-client-py"
 url = "https://github.com/pyth-network/pyth-client-rs"
 
 [[repo]]
+url = "https://github.com/pyth-network/pyth-crosschain"
+
+[[repo]]
+url = "https://github.com/pyth-network/pyth-crosschain-internal"
+missing = true
+
+[[repo]]
 url = "https://github.com/pyth-network/pyth-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/pyth-network/pyth-gitbook"
 
 [[repo]]
 url = "https://github.com/pyth-network/pyth-hsm"
+missing = true
 
 [[repo]]
 url = "https://github.com/pyth-network/pyth-js"
@@ -73,10 +119,16 @@ url = "https://github.com/pyth-network/pyth-sdk-solidity"
 url = "https://github.com/pyth-network/pyth-serum"
 
 [[repo]]
-url = "https://github.com/pyth-network/pyth2wormhole"
+url = "https://github.com/pyth-network/pythnet"
 
 [[repo]]
-url = "https://github.com/pyth-network/serum-pyth"
+url = "https://github.com/pyth-network/solana-exporter"
+
+[[repo]]
+url = "https://github.com/pyth-network/solana-program-library"
 
 [[repo]]
 url = "https://github.com/pyth-network/solmeet-workshop-june-22"
+
+[[repo]]
+url = "https://github.com/pyth-network/w3f-pyth-poc-v2"

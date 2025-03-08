@@ -13,7 +13,18 @@ url = "https://github.com/chainapsis/astro-canvas"
 url = "https://github.com/chainapsis/astro-canvas-frontend"
 
 [[repo]]
-url = "https://github.com/chainapsis/cosmodal"
+url = "https://github.com/chainapsis/cicd-test"
+
+[[repo]]
+url = "https://github.com/chainapsis/cicd-test-temp"
+missing = true
+
+[[repo]]
+url = "https://github.com/chainapsis/cicd-test-test"
+missing = true
+
+[[repo]]
+url = "https://github.com/chainapsis/cometbft"
 
 [[repo]]
 url = "https://github.com/chainapsis/cosmos-sdk"
@@ -28,6 +39,9 @@ url = "https://github.com/chainapsis/cosmosjs"
 url = "https://github.com/chainapsis/cosmosjs-dist"
 
 [[repo]]
+url = "https://github.com/chainapsis/dydx-v4-testnets"
+
+[[repo]]
 url = "https://github.com/chainapsis/ethereum-interchain-account"
 
 [[repo]]
@@ -37,7 +51,13 @@ url = "https://github.com/chainapsis/everett-hackathon"
 url = "https://github.com/chainapsis/gaia"
 
 [[repo]]
+url = "https://github.com/chainapsis/gaia-indexer"
+
+[[repo]]
 url = "https://github.com/chainapsis/GameOfZones"
+
+[[repo]]
+url = "https://github.com/chainapsis/get-starknet"
 
 [[repo]]
 url = "https://github.com/chainapsis/ics"
@@ -49,16 +69,61 @@ url = "https://github.com/chainapsis/kepler-extension"
 url = "https://github.com/chainapsis/kepler-hackathon"
 
 [[repo]]
+url = "https://github.com/chainapsis/keplr-app-registry"
+
+[[repo]]
+url = "https://github.com/chainapsis/keplr-chain-registry"
+
+[[repo]]
+url = "https://github.com/chainapsis/keplr-contract-registry"
+
+[[repo]]
+url = "https://github.com/chainapsis/keplr-dYdX-indexer"
+missing = true
+
+[[repo]]
 url = "https://github.com/chainapsis/keplr-example"
 
 [[repo]]
-url = "https://github.com/chainapsis/keplr-extension"
+url = "https://github.com/chainapsis/keplr-fiat-on-off-ramp-registry"
+
+[[repo]]
+url = "https://github.com/chainapsis/keplr-liquid-staking-registry"
 
 [[repo]]
 url = "https://github.com/chainapsis/keplr-wallet"
 
 [[repo]]
+url = "https://github.com/chainapsis/live-codeing"
+
+[[repo]]
+url = "https://github.com/chainapsis/live-coding"
+
+[[repo]]
+url = "https://github.com/chainapsis/live-coding-backend"
+
+[[repo]]
+url = "https://github.com/chainapsis/live-coding-frontend"
+missing = true
+
+[[repo]]
+url = "https://github.com/chainapsis/live-coding2"
+missing = true
+
+[[repo]]
+url = "https://github.com/chainapsis/namada-interface"
+
+[[repo]]
+url = "https://github.com/chainapsis/node-walletconnect-bridge"
+
+[[repo]]
 url = "https://github.com/chainapsis/osmosis"
+
+[[repo]]
+url = "https://github.com/chainapsis/osmosis-base-fee-bot"
+
+[[repo]]
+url = "https://github.com/chainapsis/osmosis-indexer"
 
 [[repo]]
 url = "https://github.com/chainapsis/phishing-block-list"
@@ -70,7 +135,16 @@ url = "https://github.com/chainapsis/relayer"
 url = "https://github.com/chainapsis/SecretNetwork"
 
 [[repo]]
+url = "https://github.com/chainapsis/tendermint-indexer"
+
+[[repo]]
 url = "https://github.com/chainapsis/terra-oracle"
 
 [[repo]]
 url = "https://github.com/chainapsis/ts-amino"
+
+[[repo]]
+url = "https://github.com/chainapsis/walletconnect-docs"
+
+[[repo]]
+url = "https://github.com/cosmology-tech/cosmodal"

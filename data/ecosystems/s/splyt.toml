@@ -7,76 +7,77 @@ github_organizations = ["https://github.com/splytcore"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/shopxlabs/Hosted_Hackathon_CryptoLife"
+
+[[repo]]
+url = "https://github.com/shopxlabs/Open-Grants-Program"
+
+[[repo]]
+url = "https://github.com/shopxlabs/SHOPX_BlockchainViewer"
+
+[[repo]]
+url = "https://github.com/shopxlabs/SHOPX_Polkadot"
+
+[[repo]]
+url = "https://github.com/shopxlabs/SHOPX_TCPeNFT_depricated"
+
+[[repo]]
+url = "https://github.com/shopxlabs/Splyt_BlockchainViewer"
+
+[[repo]]
+url = "https://github.com/shopxlabs/Splyt_Polkadot"
+
+[[repo]]
+url = "https://github.com/shopxlabs/Splyt_TCPeNFT_depricated"
+
+[[repo]]
 url = "https://github.com/splytcore/assets"
-
-[[repo]]
-url = "https://github.com/splytcore/CryptoLife"
-
-[[repo]]
-url = "https://github.com/splytcore/Hosted_Hackathon_CryptoLife"
-
-[[repo]]
-url = "https://github.com/splytcore/Open-Grants-Program"
-
-[[repo]]
-url = "https://github.com/splytcore/Splyt.Shopify"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/Splyt_alpha"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/Splyt_Backend"
-
-[[repo]]
-url = "https://github.com/splytcore/Splyt_BlockchainViewer"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/Splyt_BountyTracker"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/Splyt_Core"
-
-[[repo]]
-url = "https://github.com/splytcore/Splyt_Polkadot"
-
-[[repo]]
-url = "https://github.com/splytcore/Splyt_Protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/Splyt_SDK"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/Splyt_Shopify"
-
-[[repo]]
-url = "https://github.com/splytcore/Splyt_TCPeNFT"
-
-[[repo]]
-url = "https://github.com/splytcore/Splyt_TCPeNFT_depricated"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/splytBountyTracker"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/SplytCore"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/splytcoreui"
-
-[[repo]]
-url = "https://github.com/splytcore/splytcoreuiv1"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/SplytOG"
-
-[[repo]]
-url = "https://github.com/splytcore/splytprotocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/splytsdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/splytcore/SplytTracker"
-
-[[repo]]
-url = "https://github.com/splytcore/splytviewer"
+missing = true

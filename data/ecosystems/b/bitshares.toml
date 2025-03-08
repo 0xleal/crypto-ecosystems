@@ -25,6 +25,12 @@ url = "https://github.com/bitshares/alt-react"
 url = "https://github.com/bitshares/alt-utils"
 
 [[repo]]
+url = "https://github.com/bitshares/app-push-services"
+
+[[repo]]
+url = "https://github.com/bitshares/astro-ui"
+
+[[repo]]
 url = "https://github.com/bitshares/awesome-bitshares"
 
 [[repo]]
@@ -53,6 +59,9 @@ url = "https://github.com/bitshares/bitshares-fc"
 url = "https://github.com/bitshares/BitShares-Gateway"
 
 [[repo]]
+url = "https://github.com/bitshares/BitShares-Gateway-old"
+
+[[repo]]
 url = "https://github.com/bitshares/bitshares-gitian"
 
 [[repo]]
@@ -63,6 +72,9 @@ url = "https://github.com/bitshares/bitshares-js"
 
 [[repo]]
 url = "https://github.com/bitshares/bitshares-mobile-app"
+
+[[repo]]
+url = "https://github.com/bitshares/bitshares-networks"
 
 [[repo]]
 url = "https://github.com/bitshares/BitShares-NFT-Specification"
@@ -86,6 +98,10 @@ url = "https://github.com/bitshares/bitshares-ui"
 url = "https://github.com/bitshares/bitshares-ui-api"
 
 [[repo]]
+url = "https://github.com/bitshares/bitshares-ui-original"
+missing = true
+
+[[repo]]
 url = "https://github.com/bitshares/bitshares-ui-staging"
 
 [[repo]]
@@ -96,6 +112,9 @@ url = "https://github.com/bitshares/bitshares.foundation"
 
 [[repo]]
 url = "https://github.com/bitshares/bitshares.github.io"
+
+[[repo]]
+url = "https://github.com/bitshares/bitshares.github.io-old"
 
 [[repo]]
 url = "https://github.com/bitshares/bitshares.org"
@@ -117,9 +136,6 @@ url = "https://github.com/bitshares/bitshares1-vendor"
 
 [[repo]]
 url = "https://github.com/bitshares/bitshares1-webwallet"
-
-[[repo]]
-url = "https://github.com/bitshares/bitshares_andriod_wallet"
 
 [[repo]]
 url = "https://github.com/bitshares/bitshares_android_wallet"
@@ -167,13 +183,16 @@ url = "https://github.com/bitshares/devshares"
 url = "https://github.com/bitshares/DEXBot"
 
 [[repo]]
+url = "https://github.com/bitshares/docs"
+
+[[repo]]
 url = "https://github.com/bitshares/docs.bitshares.org"
 
 [[repo]]
-url = "https://github.com/bitshares/doxygen.bitshares.org"
+url = "https://github.com/bitshares/doxygen"
 
 [[repo]]
-url = "https://github.com/bitshares/extinction-event"
+url = "https://github.com/bitshares/doxygen.bitshares.org"
 
 [[repo]]
 url = "https://github.com/bitshares/faucet"
@@ -213,6 +232,7 @@ url = "https://github.com/bitshares/marketing"
 
 [[repo]]
 url = "https://github.com/bitshares/marketing-board"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitshares/nodejs-faucet"
@@ -230,9 +250,6 @@ url = "https://github.com/bitshares/PoolTool"
 url = "https://github.com/bitshares/python-bitshares"
 
 [[repo]]
-url = "https://github.com/bitshares/react"
-
-[[repo]]
 url = "https://github.com/bitshares/react-copy-to-clipboard"
 
 [[repo]]
@@ -246,6 +263,9 @@ url = "https://github.com/bitshares/react-stockcharts"
 
 [[repo]]
 url = "https://github.com/bitshares/reconnecting-websocket"
+
+[[repo]]
+url = "https://github.com/bitshares/roadmap"
 
 [[repo]]
 url = "https://github.com/bitshares/secp256k1-zkp"
@@ -263,13 +283,13 @@ url = "https://github.com/bitshares/testnet.bitshares.org"
 url = "https://github.com/bitshares/uptick"
 
 [[repo]]
-url = "https://github.com/bitshares/utils"
-
-[[repo]]
 url = "https://github.com/bitshares/v1.bitshares.org"
 
 [[repo]]
 url = "https://github.com/bitshares/vuex-bitshares"
+
+[[repo]]
+url = "https://github.com/bitshares/wallet.bitshares.exchange"
 
 [[repo]]
 url = "https://github.com/bitshares/wallet.bitshares.org"
@@ -278,4 +298,13 @@ url = "https://github.com/bitshares/wallet.bitshares.org"
 url = "https://github.com/bitshares/websocketpp"
 
 [[repo]]
+url = "https://github.com/bitshares/whitepaper"
+
+[[repo]]
 url = "https://github.com/bitshares/witness-monitor"
+
+[[repo]]
+url = "https://github.com/bitshares/www.bitshares.org"
+
+[[repo]]
+url = "https://github.com/chronark/swapchain"

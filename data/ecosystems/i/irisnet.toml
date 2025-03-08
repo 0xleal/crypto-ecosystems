@@ -13,7 +13,7 @@ url = "https://github.com/dreamer-zq/coinswap"
 url = "https://github.com/irisnet/amino-js"
 
 [[repo]]
-url = "https://github.com/irisnet/betanet"
+url = "https://github.com/irisnet/awesome"
 
 [[repo]]
 url = "https://github.com/irisnet/blockchain-rpc"
@@ -22,7 +22,10 @@ url = "https://github.com/irisnet/blockchain-rpc"
 url = "https://github.com/irisnet/bn.js"
 
 [[repo]]
-url = "https://github.com/irisnet/coin-registry"
+url = "https://github.com/irisnet/coinswap-server"
+
+[[repo]]
+url = "https://github.com/irisnet/coinswap-ui"
 
 [[repo]]
 url = "https://github.com/irisnet/core-sdk-go"
@@ -35,6 +38,9 @@ url = "https://github.com/irisnet/cosmos-faucet"
 
 [[repo]]
 url = "https://github.com/irisnet/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/irisnet/erc721-bridge"
 
 [[repo]]
 url = "https://github.com/irisnet/ethermint"
@@ -76,9 +82,6 @@ url = "https://github.com/irisnet/iks"
 url = "https://github.com/irisnet/iob-registry"
 
 [[repo]]
-url = "https://github.com/irisnet/iris-foundation"
-
-[[repo]]
 url = "https://github.com/irisnet/irishub"
 
 [[repo]]
@@ -116,12 +119,15 @@ url = "https://github.com/irisnet/irisnet-rpc"
 
 [[repo]]
 url = "https://github.com/irisnet/irisnet-web3"
+missing = true
 
 [[repo]]
 url = "https://github.com/irisnet/iservice-sdk-golang"
+missing = true
 
 [[repo]]
 url = "https://github.com/irisnet/iservice-sdk-java"
+missing = true
 
 [[repo]]
 url = "https://github.com/irisnet/kms"
@@ -133,16 +139,14 @@ url = "https://github.com/irisnet/ledger-cosmos"
 url = "https://github.com/irisnet/mainnet"
 
 [[repo]]
-url = "https://github.com/irisnet/modules"
+url = "https://github.com/irisnet/rainbow-sync"
+missing = true
 
 [[repo]]
-url = "https://github.com/irisnet/rainbow-sync"
+url = "https://github.com/irisnet/rainbow-sync-old"
 
 [[repo]]
 url = "https://github.com/irisnet/sdk-go"
-
-[[repo]]
-url = "https://github.com/irisnet/sdk-js"
 
 [[repo]]
 url = "https://github.com/irisnet/service-gen"
@@ -170,9 +174,7 @@ url = "https://github.com/irisnet/thrift"
 
 [[repo]]
 url = "https://github.com/irisnet/tibc"
-
-[[repo]]
-url = "https://github.com/irisnet/token-registry"
+missing = true
 
 [[repo]]
 url = "https://github.com/irisnet/translation"
@@ -182,3 +184,4 @@ url = "https://github.com/irisnet/vscode-ext-irishub-wasm"
 
 [[repo]]
 url = "https://github.com/irisnet/www.irisnet.org"
+missing = true

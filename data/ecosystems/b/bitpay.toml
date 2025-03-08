@@ -343,6 +343,9 @@ url = "https://github.com/bitpay/csharp-bitpay-client"
 url = "https://github.com/bitpay/csharp-key-utils"
 
 [[repo]]
+url = "https://github.com/bitpay/csharp-kiosk-demo"
+
+[[repo]]
 url = "https://github.com/bitpay/demo.bitcore.io"
 
 [[repo]]
@@ -382,6 +385,9 @@ url = "https://github.com/bitpay/hexo-bitpay"
 url = "https://github.com/bitpay/hexo-gfm-links"
 
 [[repo]]
+url = "https://github.com/bitpay/hmac-tester"
+
+[[repo]]
 url = "https://github.com/bitpay/i-made-this"
 
 [[repo]]
@@ -410,6 +416,9 @@ url = "https://github.com/bitpay/java-bitpay-light-client"
 
 [[repo]]
 url = "https://github.com/bitpay/java-key-utils"
+
+[[repo]]
+url = "https://github.com/bitpay/java-kiosk-demo-springboot"
 
 [[repo]]
 url = "https://github.com/bitpay/js-bson"
@@ -475,6 +484,9 @@ url = "https://github.com/bitpay/nodejs-bitpay-light-client"
 url = "https://github.com/bitpay/nodejs-client"
 
 [[repo]]
+url = "https://github.com/bitpay/nodejs-kiosk-demo-nextjs"
+
+[[repo]]
 url = "https://github.com/bitpay/opencart-plugin"
 
 [[repo]]
@@ -503,6 +515,12 @@ url = "https://github.com/bitpay/php-bitpay-client-v2"
 
 [[repo]]
 url = "https://github.com/bitpay/php-bitpay-light-client"
+
+[[repo]]
+url = "https://github.com/bitpay/php-kiosk-demo-laravel"
+
+[[repo]]
+url = "https://github.com/bitpay/php-kiosk-demo-symfony"
 
 [[repo]]
 url = "https://github.com/bitpay/poynt-signin"
@@ -596,6 +614,9 @@ url = "https://github.com/bitpay/wallet"
 
 [[repo]]
 url = "https://github.com/bitpay/wallet-cli-tools"
+
+[[repo]]
+url = "https://github.com/bitpay/wallet-currency-embed"
 
 [[repo]]
 url = "https://github.com/bitpay/wally"

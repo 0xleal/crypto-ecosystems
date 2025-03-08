@@ -35,6 +35,7 @@ url = "https://github.com/mobius-network/ios_specs"
 
 [[repo]]
 url = "https://github.com/mobius-network/mobius-chat-tipbot"
+missing = true
 
 [[repo]]
 url = "https://github.com/mobius-network/mobius-client-dotnet"
@@ -58,25 +59,13 @@ url = "https://github.com/mobius-network/mobius-client-unity"
 url = "https://github.com/mobius-network/mobius-community-bot"
 
 [[repo]]
-url = "https://github.com/mobius-network/mobius-node"
-
-[[repo]]
 url = "https://github.com/mobius-network/mobius-node-v1"
-
-[[repo]]
-url = "https://github.com/mobius-network/mobius-python"
 
 [[repo]]
 url = "https://github.com/mobius-network/mobius-python-v1"
 
 [[repo]]
-url = "https://github.com/mobius-network/mobius-react-native"
-
-[[repo]]
 url = "https://github.com/mobius-network/mobius-react-native-v1"
-
-[[repo]]
-url = "https://github.com/mobius-network/mobius-ruby"
 
 [[repo]]
 url = "https://github.com/mobius-network/mobius-ruby-v1"

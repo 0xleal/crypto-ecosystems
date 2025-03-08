@@ -29,6 +29,7 @@ url = "https://github.com/evolutionlandorg/block-scan"
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/block-scan-"
+missing = true
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/BUIDL-NFT"
@@ -73,7 +74,16 @@ url = "https://github.com/evolutionlandorg/erc721"
 url = "https://github.com/evolutionlandorg/eslint-config-evolutionland"
 
 [[repo]]
+url = "https://github.com/evolutionlandorg/evo-apostle-svg"
+
+[[repo]]
+url = "https://github.com/evolutionlandorg/evo-backend-server"
+
+[[repo]]
 url = "https://github.com/evolutionlandorg/evo-deploy"
+
+[[repo]]
+url = "https://github.com/evolutionlandorg/evo-frontend"
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/evo-subgraph"
@@ -82,10 +92,13 @@ url = "https://github.com/evolutionlandorg/evo-subgraph"
 url = "https://github.com/evolutionlandorg/evo-tools"
 
 [[repo]]
-url = "https://github.com/evolutionlandorg/furnace"
+url = "https://github.com/evolutionlandorg/evolution.land"
 
 [[repo]]
-url = "https://github.com/evolutionlandorg/furnance"
+url = "https://github.com/evolutionlandorg/evolutionland"
+
+[[repo]]
+url = "https://github.com/evolutionlandorg/furnace"
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/go-ethereum"
@@ -98,6 +111,7 @@ url = "https://github.com/evolutionlandorg/governance-web"
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/grpc-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/hpb-contracts"
@@ -134,9 +148,6 @@ url = "https://github.com/evolutionlandorg/pchain-contracts"
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/pordria-interface"
-
-[[repo]]
-url = "https://github.com/evolutionlandorg/pve"
 
 [[repo]]
 url = "https://github.com/evolutionlandorg/pvx"

@@ -83,6 +83,7 @@ url = "https://github.com/buddy-works/hexo-gh-page"
 
 [[repo]]
 url = "https://github.com/buddy-works/ifttt-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/buddy-works/imgcmp"
@@ -101,6 +102,9 @@ url = "https://github.com/buddy-works/laravel-first-steps"
 
 [[repo]]
 url = "https://github.com/buddy-works/learning-go"
+
+[[repo]]
+url = "https://github.com/buddy-works/newsletter"
 
 [[repo]]
 url = "https://github.com/buddy-works/nginx-docker"
@@ -170,9 +174,22 @@ url = "https://github.com/buddy-works/symfony-first-steps"
 
 [[repo]]
 url = "https://github.com/buddy-works/terraform-provider-buddy"
+missing = true
 
 [[repo]]
 url = "https://github.com/buddy-works/truffletest"
+
+[[repo]]
+url = "https://github.com/buddy-works/tutorials-angular-web-components"
+
+[[repo]]
+url = "https://github.com/buddy-works/tutorials-discord-bot-node"
+
+[[repo]]
+url = "https://github.com/buddy-works/tutorials-docker-node-frontend"
+
+[[repo]]
+url = "https://github.com/buddy-works/visual-test-example-project"
 
 [[repo]]
 url = "https://github.com/buddy-works/webb"

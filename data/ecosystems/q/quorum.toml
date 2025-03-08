@@ -7,29 +7,28 @@ github_organizations = []
 
 # Repositories
 [[repo]]
-url = "https://github.com/jpmorganchase/cakeshop"
+url = "https://github.com/ConsenSys/cakeshop"
 
 [[repo]]
-url = "https://github.com/jpmorganchase/qubernetes"
+url = "https://github.com/ConsenSys/qubernetes"
 
 [[repo]]
-url = "https://github.com/jpmorganchase/quorum"
-tags = ["Protocol"]
+url = "https://github.com/ConsenSys/quorum"
 
 [[repo]]
-url = "https://github.com/jpmorganchase/quorum-acceptance-tests"
+url = "https://github.com/ConsenSys/quorum-acceptance-tests"
 
 [[repo]]
-url = "https://github.com/jpmorganchase/quorum-aws"
+url = "https://github.com/ConsenSys/quorum-aws"
 
 [[repo]]
-url = "https://github.com/jpmorganchase/quorum-cloud"
+url = "https://github.com/ConsenSys/quorum-cloud"
 
 [[repo]]
-url = "https://github.com/jpmorganchase/quorum-examples"
+url = "https://github.com/ConsenSys/quorum-examples"
 
 [[repo]]
-url = "https://github.com/jpmorganchase/tessera"
+url = "https://github.com/ConsenSys/tessera"
 
 [[repo]]
-url = "https://github.com/jpmorganchase/zsl-q"
+url = "https://github.com/ConsenSys/zsl-q"

@@ -14,7 +14,7 @@ sub_ecosystems = [
   "Wise Team",
 ]
 
-github_organizations = ["https://github.com/steemit"]
+github_organizations = ["https://github.com/steem-driver", "https://github.com/steemit"]
 
 # Repositories
 [[repo]]
@@ -47,15 +47,10 @@ url = "https://github.com/Abwasserrohr/STEEM.CRAFT"
 [[repo]]
 url = "https://github.com/adasq/remind-me"
 tags = ["Dapp"]
+missing = true
 
 [[repo]]
 url = "https://github.com/alex-osman/nowplaying"
-
-[[repo]]
-url = "https://github.com/AlphaGriffin/boiler"
-
-[[repo]]
-url = "https://github.com/andreistalker/steemcasino"
 
 [[repo]]
 url = "https://github.com/appetizermonster/steempages"
@@ -71,28 +66,19 @@ url = "https://github.com/blockbrothers/nozzle"
 
 [[repo]]
 url = "https://github.com/bonustrack/api.steemjs.com"
-
-[[repo]]
-url = "https://github.com/bonustrack/steemconnect"
-
-[[repo]]
-url = "https://github.com/bonustrack/steemconnect-api"
-
-[[repo]]
-url = "https://github.com/bonustrack/steemconnect-registry"
-
-[[repo]]
-url = "https://github.com/bonustrack/steemconnect.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/bonustrack/steemscript"
 
 [[repo]]
 url = "https://github.com/BuildTeamDev/dsteem-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/BuildTeamDev/tokenbb-web-client"
 tags = ["Dapp"]
+missing = true
 
 [[repo]]
 url = "https://github.com/caweyant/steemwc"
@@ -110,7 +96,11 @@ url = "https://github.com/code-with-sam/finallynetwork"
 url = "https://github.com/code-with-sam/moveclub"
 
 [[repo]]
+url = "https://github.com/coogger/steemconnect_auth"
+
+[[repo]]
 url = "https://github.com/cross-apps/SteemitApp"
+missing = true
 
 [[repo]]
 url = "https://github.com/currentxchange/cxc-music-web-alpha"
@@ -125,9 +115,6 @@ url = "https://github.com/dawn-network/dartsteem"
 
 [[repo]]
 url = "https://github.com/dfroberg/dailybrief"
-
-[[repo]]
-url = "https://github.com/djangoapps/steemconnect_auth"
 
 [[repo]]
 url = "https://github.com/DoctorLai/steem-guess-game"
@@ -146,14 +133,13 @@ tags = ["Dapp"]
 url = "https://github.com/dragosroua/php-steem-tools"
 
 [[repo]]
-url = "https://github.com/drov0/Steem-reward-manager"
+url = "https://github.com/drov0/exxp"
+
+[[repo]]
+url = "https://github.com/drov0/hive-reward-manager"
 
 [[repo]]
 url = "https://github.com/drov0/steemgifts"
-
-[[repo]]
-url = "https://github.com/drov0/steempress"
-tags = ["Dapp"]
 
 [[repo]]
 url = "https://github.com/drov0/steemsnippets"
@@ -179,6 +165,7 @@ url = "https://github.com/go-steem/rpc"
 
 [[repo]]
 url = "https://github.com/hakancelik96/steem-connect"
+missing = true
 
 [[repo]]
 url = "https://github.com/harpagon210/sscjs"
@@ -187,13 +174,18 @@ url = "https://github.com/harpagon210/sscjs"
 url = "https://github.com/harpagon210/steemsmartcontracts"
 
 [[repo]]
+url = "https://github.com/hateofhades/steemcasino"
+
+[[repo]]
 url = "https://github.com/holgern/beem"
 
 [[repo]]
 url = "https://github.com/holgern/pySteemLayer"
+missing = true
 
 [[repo]]
 url = "https://github.com/Insteem/insteem-app_bak"
+missing = true
 
 [[repo]]
 url = "https://github.com/jakipatryk/steeditor"
@@ -201,6 +193,7 @@ url = "https://github.com/jakipatryk/steeditor"
 [[repo]]
 url = "https://github.com/jankulik/Dcontest"
 tags = ["Dapp"]
+missing = true
 
 [[repo]]
 url = "https://github.com/Jarunik/nc-client"
@@ -219,14 +212,26 @@ url = "https://github.com/jonblack/steemduino"
 url = "https://github.com/joticajulian/eftg-send"
 
 [[repo]]
-url = "https://github.com/karimation/react-native-steem-signin"
-
-[[repo]]
 url = "https://github.com/knacksteem/knacksteem.org"
 tags = ["Dapp"]
 
 [[repo]]
+url = "https://github.com/lannocc/boiler"
+
+[[repo]]
 url = "https://github.com/learnsteem/steemit-posts"
+
+[[repo]]
+url = "https://github.com/ledgerconnect/steemconnect"
+
+[[repo]]
+url = "https://github.com/ledgerconnect/steemconnect-api"
+
+[[repo]]
+url = "https://github.com/ledgerconnect/steemconnect-registry"
+
+[[repo]]
+url = "https://github.com/ledgerconnect/steemconnect.js"
 
 [[repo]]
 url = "https://github.com/liyingxuan/steemit-api-cms"
@@ -254,12 +259,15 @@ url = "https://github.com/metachaos-systems/steemex"
 
 [[repo]]
 url = "https://github.com/muksihs/Far-Horizons-Steem"
+missing = true
 
 [[repo]]
 url = "https://github.com/muksihs/ipfs-photo-gallery"
+missing = true
 
 [[repo]]
 url = "https://github.com/muksihs/SteemCliPoster"
+missing = true
 
 [[repo]]
 url = "https://github.com/Mustard5/kjv"
@@ -275,10 +283,13 @@ url = "https://github.com/Netherdrake/conductor"
 url = "https://github.com/Netherdrake/steem-python"
 
 [[repo]]
-url = "https://github.com/nicholas-2/steem-state"
+url = "https://github.com/nicholascc/steem-state"
 
 [[repo]]
 url = "https://github.com/nirvanaitsolutions/swapsteem"
+
+[[repo]]
+url = "https://github.com/nutbox-dao/wormhole-ui"
 
 [[repo]]
 url = "https://github.com/ocrdu/share-on-steemit-button"
@@ -292,15 +303,19 @@ tags = ["Dapp"]
 
 [[repo]]
 url = "https://github.com/pcsg/steemit-holmes"
+missing = true
 
 [[repo]]
 url = "https://github.com/pcsg/steemit-steempunk-battle"
+missing = true
 
 [[repo]]
 url = "https://github.com/pcsg/steemit-steempunk-housing"
+missing = true
 
 [[repo]]
 url = "https://github.com/pcsg/steemit-steempunk-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/pcsg/steemToFileUpload"
@@ -336,14 +351,18 @@ url = "https://github.com/RagePeanut/SteemDM"
 url = "https://github.com/RagePeanut/Tweem"
 
 [[repo]]
-url = "https://github.com/roelandp/steemwallet"
-tags = ["Dapp"]
+url = "https://github.com/roelandp/hivewallet"
 
 [[repo]]
 url = "https://github.com/sarasate/steemdocs"
+missing = true
 
 [[repo]]
 url = "https://github.com/selabie68/steem-notify"
+missing = true
+
+[[repo]]
+url = "https://github.com/selmi-karim/react-native-steem-signin"
 
 [[repo]]
 url = "https://github.com/skzap/steemwhales"
@@ -351,6 +370,7 @@ url = "https://github.com/skzap/steemwhales"
 [[repo]]
 url = "https://github.com/smartsteem/blacklist"
 tags = ["Dapp"]
+missing = true
 
 [[repo]]
 url = "https://github.com/snwolak/steemblr"
@@ -358,6 +378,133 @@ tags = ["Dapp"]
 
 [[repo]]
 url = "https://github.com/steem-best-practices/steem-best-practices.github.io"
+missing = true
+
+[[repo]]
+url = "https://github.com/steem-driver/AccountCreate"
+
+[[repo]]
+url = "https://github.com/steem-driver/autopilot"
+
+[[repo]]
+url = "https://github.com/steem-driver/awesome-steem"
+
+[[repo]]
+url = "https://github.com/steem-driver/beem"
+
+[[repo]]
+url = "https://github.com/steem-driver/busy"
+
+[[repo]]
+url = "https://github.com/steem-driver/busy-api"
+
+[[repo]]
+url = "https://github.com/steem-driver/condenser"
+
+[[repo]]
+url = "https://github.com/steem-driver/developer-experience"
+
+[[repo]]
+url = "https://github.com/steem-driver/devportal"
+
+[[repo]]
+url = "https://github.com/steem-driver/dsteem"
+
+[[repo]]
+url = "https://github.com/steem-driver/engrave"
+
+[[repo]]
+url = "https://github.com/steem-driver/esteem"
+
+[[repo]]
+url = "https://github.com/steem-driver/esteem-mobile"
+
+[[repo]]
+url = "https://github.com/steem-driver/esteem-surfer"
+
+[[repo]]
+url = "https://github.com/steem-driver/esync"
+
+[[repo]]
+url = "https://github.com/steem-driver/hive"
+
+[[repo]]
+url = "https://github.com/steem-driver/hivesigner"
+
+[[repo]]
+url = "https://github.com/steem-driver/hivesigner-api"
+
+[[repo]]
+url = "https://github.com/steem-driver/hivesigner.js"
+
+[[repo]]
+url = "https://github.com/steem-driver/lens"
+
+[[repo]]
+url = "https://github.com/steem-driver/nginx-certbot"
+
+[[repo]]
+url = "https://github.com/steem-driver/nitrous"
+
+[[repo]]
+url = "https://github.com/steem-driver/smt-wizard"
+
+[[repo]]
+url = "https://github.com/steem-driver/ssc_tokens_history"
+
+[[repo]]
+url = "https://github.com/steem-driver/steem"
+
+[[repo]]
+url = "https://github.com/steem-driver/steem-cookbook"
+
+[[repo]]
+url = "https://github.com/steem-driver/steem-driver.github.io"
+
+[[repo]]
+url = "https://github.com/steem-driver/steem-engine"
+
+[[repo]]
+url = "https://github.com/steem-driver/steem-engine-dex"
+
+[[repo]]
+url = "https://github.com/steem-driver/steem-keychain"
+
+[[repo]]
+url = "https://github.com/steem-driver/steem-proposals"
+
+[[repo]]
+url = "https://github.com/steem-driver/steem-ruby"
+
+[[repo]]
+url = "https://github.com/steem-driver/steem-signup"
+
+[[repo]]
+url = "https://github.com/steem-driver/steemauto"
+
+[[repo]]
+url = "https://github.com/steem-driver/steemcn-voter"
+
+[[repo]]
+url = "https://github.com/steem-driver/steemconnect"
+
+[[repo]]
+url = "https://github.com/steem-driver/steemconnect-api"
+
+[[repo]]
+url = "https://github.com/steem-driver/steemconnect.js"
+
+[[repo]]
+url = "https://github.com/steem-driver/steempress"
+
+[[repo]]
+url = "https://github.com/steem-driver/steemprojects.com"
+
+[[repo]]
+url = "https://github.com/steem-driver/steemrewarding"
+
+[[repo]]
+url = "https://github.com/steem-driver/steemwallet"
 
 [[repo]]
 url = "https://github.com/Steem-FOSSbot/voter-docker"
@@ -414,6 +561,9 @@ url = "https://github.com/steemit/devportal-tutorials-py"
 url = "https://github.com/steemit/devportal-tutorials-rb"
 
 [[repo]]
+url = "https://github.com/steemit/docs"
+
+[[repo]]
 url = "https://github.com/steemit/dsteem"
 
 [[repo]]
@@ -445,6 +595,7 @@ url = "https://github.com/steemit/hivemindctl"
 
 [[repo]]
 url = "https://github.com/steemit/imagehoster"
+missing = true
 
 [[repo]]
 url = "https://github.com/steemit/Imaginary"
@@ -484,6 +635,7 @@ url = "https://github.com/steemit/OrderedDictionary"
 
 [[repo]]
 url = "https://github.com/steemit/overseer"
+missing = true
 
 [[repo]]
 url = "https://github.com/steemit/rcdemo"
@@ -496,6 +648,7 @@ url = "https://github.com/steemit/react-rte"
 
 [[repo]]
 url = "https://github.com/steemit/redeemer"
+missing = true
 
 [[repo]]
 url = "https://github.com/steemit/redeemer-irredeemables"
@@ -562,10 +715,16 @@ url = "https://github.com/steemit/steemconnect"
 url = "https://github.com/steemit/steemdb"
 
 [[repo]]
+url = "https://github.com/steemit/steemgosdk"
+
+[[repo]]
 url = "https://github.com/steemit/steemit-render"
 
 [[repo]]
 url = "https://github.com/steemit/steemnotify"
+
+[[repo]]
+url = "https://github.com/steemit/steemutil"
 
 [[repo]]
 url = "https://github.com/steemit/swift-secp256k1"
@@ -601,6 +760,7 @@ tags = ["Dapp"]
 [[repo]]
 url = "https://github.com/SteemStem-io/steemstem"
 tags = ["Dapp"]
+missing = true
 
 [[repo]]
 url = "https://github.com/steeveproject/ngx-steem-keychain"
@@ -644,12 +804,15 @@ url = "https://github.com/tolgahanuzun/curation"
 
 [[repo]]
 url = "https://github.com/travelfeed-io/travelfeed-io"
+missing = true
 
 [[repo]]
 url = "https://github.com/tyraelll/steem-php-wrapper"
+missing = true
 
 [[repo]]
 url = "https://github.com/vikxx/bots"
+missing = true
 
 [[repo]]
 url = "https://github.com/yangboz/spring-boot-kafka-restful-swagger"

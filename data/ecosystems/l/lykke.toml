@@ -35,6 +35,7 @@ url = "https://github.com/LykkeCity/AzureStorage"
 
 [[repo]]
 url = "https://github.com/LykkeCity/AzureTableStorageInMem"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/BackOffice"
@@ -59,6 +60,7 @@ url = "https://github.com/LykkeCity/bitcoincore.org"
 
 [[repo]]
 url = "https://github.com/LykkeCity/BitcoinIndexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/bitcoinservice"
@@ -101,6 +103,7 @@ url = "https://github.com/LykkeCity/BoxOptions.CoeffService"
 
 [[repo]]
 url = "https://github.com/LykkeCity/BoxOptionsAPI"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/BoxOptionsServer"
@@ -167,6 +170,7 @@ url = "https://github.com/LykkeCity/Documentations"
 
 [[repo]]
 url = "https://github.com/LykkeCity/DotNetCoreServiceTemplate"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/DutchAuction"
@@ -277,9 +281,6 @@ url = "https://github.com/LykkeCity/Lykke.AlgoStore.CSharp.AlgoTemplate"
 url = "https://github.com/LykkeCity/Lykke.AlgoStore.JavaTemplate"
 
 [[repo]]
-url = "https://github.com/LykkeCity/Lykke.AlgoStore.Job.AlgoTrades"
-
-[[repo]]
 url = "https://github.com/LykkeCity/Lykke.AlgoStore.Job.GDPR"
 
 [[repo]]
@@ -320,6 +321,7 @@ url = "https://github.com/LykkeCity/Lykke.AlgoStore.Web"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.AntaresWalletApi"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.ApiExtensions"
@@ -338,9 +340,6 @@ url = "https://github.com/LykkeCity/Lykke.Backoffice.Common.Razor"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.BcnExploler"
-
-[[repo]]
-url = "https://github.com/LykkeCity/Lykke.BigDecimal"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Bil2.Bitcoin.BlocksReader"
@@ -424,16 +423,15 @@ url = "https://github.com/LykkeCity/Lykke.BilService.RootstockApi"
 url = "https://github.com/LykkeCity/Lykke.BilService.RootstockSignService"
 
 [[repo]]
-url = "https://github.com/LykkeCity/Lykke.Blockchains.Integrations.Sdk"
-
-[[repo]]
 url = "https://github.com/LykkeCity/Lykke.Blockchains.Integrations.Templates"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.blue.API"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.blue.App.Android"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.blue.App.iOS"
@@ -524,12 +522,16 @@ url = "https://github.com/LykkeCity/Lykke.Exchange.Api.MarketData"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.ExchangeAdapterClient"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Fix"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Frontend.WampHost"
+
+[[repo]]
+url = "https://github.com/LykkeCity/Lykke.HftApiV2"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.HttpClientGenerator"
@@ -577,6 +579,9 @@ url = "https://github.com/LykkeCity/Lykke.Ico.Service.ExRate"
 url = "https://github.com/LykkeCity/Lykke.Icon.Sdk"
 
 [[repo]]
+url = "https://github.com/LykkeCity/Lykke.InterestPayout"
+
+[[repo]]
 url = "https://github.com/LykkeCity/Lykke.Jenkins.SharedLibraries"
 
 [[repo]]
@@ -602,36 +607,44 @@ url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.BalanceUpdate"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.Candlesticks"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.Cashinout"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.ConnectorOrderbook"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.LimitOrders"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.LimitOrderStatus"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.MarketOrders"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.MarketOrderStatus"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.Orderbook"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.Trades"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlobToBlobConverter.Transfers"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.BlockchainBalancesReport"
@@ -716,6 +729,7 @@ url = "https://github.com/LykkeCity/Lykke.Job.HistoryExportBuilder"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.HubReserveProducer"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.InitClientDialogs"
@@ -785,6 +799,7 @@ url = "https://github.com/LykkeCity/Lykke.Job.Pay.StatusBroadcast"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.Payments"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.PayTelegramReporter"
@@ -821,6 +836,7 @@ url = "https://github.com/LykkeCity/Lykke.Job.RabbitTradeMonitoring"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.RegularSpiderChecker"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.RepositoryTgBot"
@@ -839,12 +855,14 @@ url = "https://github.com/LykkeCity/Lykke.Job.SiriusDepositsDetector"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.SlackLogsWriter"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.SlackNotifications"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.SmsSender"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Job.SolarCoinCashinGrabber"
@@ -965,9 +983,11 @@ url = "https://github.com/LykkeCity/Lykke.RabbitMqDotNetBroker"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.ReportDatabase"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Reports.Imports"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Rocks.Caching"
@@ -977,6 +997,7 @@ url = "https://github.com/LykkeCity/Lykke.Sdk"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.-ryptoFacilitiesAdapter"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.Affiliate"
@@ -1058,9 +1079,11 @@ url = "https://github.com/LykkeCity/Lykke.Service.BlockchainSettings"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.BlockchainSignService"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.BlockchainTransactionsHistoryDetector"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.BlockchainWallets"
@@ -1097,6 +1120,7 @@ url = "https://github.com/LykkeCity/Lykke.Service.ClientDictionaries"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.ClientPendingActions"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.ClientProfileRule"
@@ -1112,6 +1136,7 @@ url = "https://github.com/LykkeCity/Lykke.Service.ConfirmationCodes"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.CrossExchangeLiquidity"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.CryptoFacilitiesAdapter"
@@ -1145,6 +1170,7 @@ url = "https://github.com/LykkeCity/Lykke.Service.DockerImageBuilder"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.DumpTradingBot"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.Dwh"
@@ -1184,6 +1210,7 @@ url = "https://github.com/LykkeCity/Lykke.Service.Ethereum2.Sign"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.EthereumClassic.SignService"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.EthereumClassicApi"
@@ -1418,6 +1445,7 @@ url = "https://github.com/LykkeCity/Lykke.Service.PayInvoicePortal"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.PaymentsApi"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.PaymentSystem"
@@ -1499,6 +1527,7 @@ url = "https://github.com/LykkeCity/Lykke.Service.Ripple.Api"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.Ripple.Sign"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.Ripple.SignService"
@@ -1514,9 +1543,6 @@ url = "https://github.com/LykkeCity/Lykke.Service.Scheduler"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.SellOutEngine"
-
-[[repo]]
-url = "https://github.com/LykkeCity/Lykke.Service.SiriusDepositsDetector"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.SmartOrderRouter"
@@ -1544,12 +1570,14 @@ url = "https://github.com/LykkeCity/Lykke.Service.Stellar.Api"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.Stellar.API_remove"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.Stellar.Sign"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.Stellar.Sign_remove"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/Lykke.Service.Stratis.API"
@@ -1774,6 +1802,9 @@ url = "https://github.com/LykkeCity/MarketPlace"
 url = "https://github.com/LykkeCity/MatchingEngine"
 
 [[repo]]
+url = "https://github.com/LykkeCity/MatchingEngine.Client"
+
+[[repo]]
 url = "https://github.com/LykkeCity/MatchingEngineActorProxy"
 
 [[repo]]
@@ -1793,12 +1824,14 @@ url = "https://github.com/LykkeCity/ModernWalletiOS"
 
 [[repo]]
 url = "https://github.com/LykkeCity/ModernWalletWeb"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/MoneroBuild"
 
 [[repo]]
 url = "https://github.com/LykkeCity/monitoring-balance-exporter"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/MonitoringService"
@@ -1808,18 +1841,21 @@ url = "https://github.com/LykkeCity/MT"
 
 [[repo]]
 url = "https://github.com/LykkeCity/MT.DataReaderClient"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/MT.MarketMaker"
 
 [[repo]]
 url = "https://github.com/LykkeCity/MT.MarketMakerClient"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/MT.OrderbookAggregator"
 
 [[repo]]
 url = "https://github.com/LykkeCity/MT.RiskManagerClient"
+missing = true
 
 [[repo]]
 url = "https://github.com/LykkeCity/NBitcoin"
@@ -1856,9 +1892,6 @@ url = "https://github.com/LykkeCity/nem1-sdk-csharp"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Notary"
-
-[[repo]]
-url = "https://github.com/LykkeCity/OAuth"
 
 [[repo]]
 url = "https://github.com/LykkeCity/OffChain"
@@ -1961,6 +1994,10 @@ url = "https://github.com/LykkeCity/thor"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Tools"
+missing = true
+
+[[repo]]
+url = "https://github.com/LykkeCity/Tools.LogAggregator"
 
 [[repo]]
 url = "https://github.com/LykkeCity/Trading-API"

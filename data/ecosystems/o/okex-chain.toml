@@ -1,7 +1,15 @@
 # Ecosystem Level Information
 title = "OKEX Chain"
 
-sub_ecosystems = ["JSwap"]
+sub_ecosystems = [
+  "5Degrees Protocol",
+  "Cryptofeed",
+  "DeFiner",
+  "Eleven Finance",
+  "Impossible Finance",
+  "JSwap",
+  "pNetwork",
+]
 
 github_organizations = ["https://github.com/okex"]
 
@@ -20,18 +28,22 @@ url = "https://github.com/okex/atop"
 
 [[repo]]
 url = "https://github.com/okex/auditimg"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/blockIndexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/BTCK-Erc20"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/code-explorer"
 
 [[repo]]
 url = "https://github.com/okex/coding"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/compound-protocol"
@@ -46,43 +58,56 @@ url = "https://github.com/okex/cosmwasm"
 url = "https://github.com/okex/curve-contract"
 
 [[repo]]
+url = "https://github.com/okex/cw-plus"
+
+[[repo]]
 url = "https://github.com/okex/db-convert"
+missing = true
+
+[[repo]]
+url = "https://github.com/okex/dex-help"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/DOTK-Erc20"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/eoscontract"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/eosio"
+missing = true
+
+[[repo]]
+url = "https://github.com/okex/ethereum-transaction-viewer-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/ethers.js"
 
 [[repo]]
-url = "https://github.com/okex/exchain"
+url = "https://github.com/okex/exchain-docs-api"
 
 [[repo]]
 url = "https://github.com/okex/exchain-ethereum-compatible"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/exchain-go-sdk"
 
 [[repo]]
-url = "https://github.com/okex/exchain-java-sdk"
-
-[[repo]]
-url = "https://github.com/okex/exchain-javascript-sdk"
-
-[[repo]]
 url = "https://github.com/okex/ExChain-TheGraph-Integration"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/exchain-web3-sample"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/FILK-Erc20"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/go-amino"
@@ -97,9 +122,6 @@ url = "https://github.com/okex/go-ethereum"
 url = "https://github.com/okex/gorocksdb"
 
 [[repo]]
-url = "https://github.com/okex/gorocksdb2"
-
-[[repo]]
 url = "https://github.com/okex/grocksdb"
 
 [[repo]]
@@ -109,6 +131,9 @@ url = "https://github.com/okex/hardhat-foundry"
 url = "https://github.com/okex/iavl"
 
 [[repo]]
+url = "https://github.com/okex/IBC-ERC20"
+
+[[repo]]
 url = "https://github.com/okex/ics"
 
 [[repo]]
@@ -116,18 +141,18 @@ url = "https://github.com/okex/imx-examples"
 
 [[repo]]
 url = "https://github.com/okex/javascript-sdk-qrcode"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/K-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/keplr-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/keplr-wallet"
-
-[[repo]]
-url = "https://github.com/okex/KIPs"
 
 [[repo]]
 url = "https://github.com/okex/ledger-live"
@@ -136,10 +161,8 @@ url = "https://github.com/okex/ledger-live"
 url = "https://github.com/okex/mainnet"
 
 [[repo]]
-url = "https://github.com/okex/okberc20token"
-
-[[repo]]
 url = "https://github.com/okex/okchain-forum"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/okchainwasm-examples"
@@ -151,46 +174,49 @@ url = "https://github.com/okex/okexchain"
 url = "https://github.com/okex/okexchain-docs"
 
 [[repo]]
-url = "https://github.com/okex/okexchain-go-sdk"
-
-[[repo]]
-url = "https://github.com/okex/okexchain-java-sdk"
-
-[[repo]]
-url = "https://github.com/okex/okexchain-javascript-sdk"
-
-[[repo]]
 url = "https://github.com/okex/okexchain-patches"
+missing = true
+
+[[repo]]
+url = "https://github.com/okex/OKX-DEX-PMM-API"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/opendex-desktop"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/opendex-ui"
+missing = true
+
+[[repo]]
+url = "https://github.com/okex/osmo-tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/OSSRH-80053"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/pricing_server"
+missing = true
+
+[[repo]]
+url = "https://github.com/okex/proof-of-reserves"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/quoter_contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/rocksdb"
-
-[[repo]]
-url = "https://github.com/okex/solidity-sample"
 
 [[repo]]
 url = "https://github.com/okex/solidity-security-blog"
 
 [[repo]]
 url = "https://github.com/okex/tendermint"
-
-[[repo]]
-url = "https://github.com/okex/testnets"
 
 [[repo]]
 url = "https://github.com/okex/tm-coding"
@@ -206,6 +232,7 @@ url = "https://github.com/okex/truffle-plugin-verify"
 
 [[repo]]
 url = "https://github.com/okex/V3-Open-API-SDK"
+missing = true
 
 [[repo]]
 url = "https://github.com/okex/wallet-connect-kotlin"
@@ -215,3 +242,39 @@ url = "https://github.com/okex/wallet-connect-swift"
 
 [[repo]]
 url = "https://github.com/okex/wasmd"
+
+[[repo]]
+url = "https://github.com/okex/wasmknife"
+
+[[repo]]
+url = "https://github.com/okex/wasmknife-core-template"
+
+[[repo]]
+url = "https://github.com/okx/exchain"
+
+[[repo]]
+url = "https://github.com/okx/exchain-go-sdk"
+
+[[repo]]
+url = "https://github.com/okx/exchain-java-sdk"
+
+[[repo]]
+url = "https://github.com/okx/exchain-javascript-sdk"
+
+[[repo]]
+url = "https://github.com/okx/KIPs"
+
+[[repo]]
+url = "https://github.com/okx/okbchain"
+
+[[repo]]
+url = "https://github.com/okx/okberc20token"
+
+[[repo]]
+url = "https://github.com/okx/OKCSwap"
+
+[[repo]]
+url = "https://github.com/okx/solidity-sample"
+
+[[repo]]
+url = "https://github.com/okx/testnets"

@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/byteball"]
 url = "https://github.com/byteball/aa-channels-lib"
 
 [[repo]]
+url = "https://github.com/byteball/aa-hooks"
+
+[[repo]]
+url = "https://github.com/byteball/aa-stats-front"
+
+[[repo]]
 url = "https://github.com/byteball/aa_stats"
 
 [[repo]]
@@ -17,6 +23,9 @@ url = "https://github.com/byteball/aabot"
 
 [[repo]]
 url = "https://github.com/byteball/accredited-investor-attestation"
+
+[[repo]]
+url = "https://github.com/byteball/addresses-tracker"
 
 [[repo]]
 url = "https://github.com/byteball/angular-carousel"
@@ -28,7 +37,19 @@ url = "https://github.com/byteball/angular-foundation"
 url = "https://github.com/byteball/arbstore"
 
 [[repo]]
+url = "https://github.com/byteball/arbstore-blog"
+
+[[repo]]
 url = "https://github.com/byteball/arbstore_front"
+
+[[repo]]
+url = "https://github.com/byteball/attestation-discord"
+
+[[repo]]
+url = "https://github.com/byteball/attestation-kit"
+
+[[repo]]
+url = "https://github.com/byteball/attestation-telegram"
 
 [[repo]]
 url = "https://github.com/byteball/bank-aa"
@@ -70,6 +91,15 @@ url = "https://github.com/byteball/cascading-donations-backend"
 url = "https://github.com/byteball/cascading-donations-ui"
 
 [[repo]]
+url = "https://github.com/byteball/cascading-donations-v2"
+
+[[repo]]
+url = "https://github.com/byteball/city-aa"
+
+[[repo]]
+url = "https://github.com/byteball/city-notifications"
+
+[[repo]]
 url = "https://github.com/byteball/coinswap"
 
 [[repo]]
@@ -79,9 +109,6 @@ url = "https://github.com/byteball/conditional-token-sale"
 url = "https://github.com/byteball/cordova-sqlite-plugin"
 
 [[repo]]
-url = "https://github.com/byteball/counterstake"
-
-[[repo]]
 url = "https://github.com/byteball/counterstake-bridge"
 
 [[repo]]
@@ -89,9 +116,6 @@ url = "https://github.com/byteball/counterstake-bridge-ui"
 
 [[repo]]
 url = "https://github.com/byteball/counterstake-demo-client"
-
-[[repo]]
-url = "https://github.com/byteball/counterstake-discord-bot"
 
 [[repo]]
 url = "https://github.com/byteball/counterstake-governance-discord"
@@ -113,6 +137,9 @@ url = "https://github.com/byteball/cryptox-mm"
 
 [[repo]]
 url = "https://github.com/byteball/developer-docs"
+
+[[repo]]
+url = "https://github.com/byteball/discord-attestation"
 
 [[repo]]
 url = "https://github.com/byteball/discount-stablecoin-aa"
@@ -151,7 +178,28 @@ url = "https://github.com/byteball/headless-obyte"
 url = "https://github.com/byteball/ico-bot"
 
 [[repo]]
+url = "https://github.com/byteball/kava-rewards"
+
+[[repo]]
+url = "https://github.com/byteball/kava-rewards-ui"
+
+[[repo]]
+url = "https://github.com/byteball/kivach-discord-role-manager"
+
+[[repo]]
+url = "https://github.com/byteball/line"
+
+[[repo]]
+url = "https://github.com/byteball/line-nft-image"
+
+[[repo]]
+url = "https://github.com/byteball/line-ui"
+
+[[repo]]
 url = "https://github.com/byteball/liquidity-providers-distribution"
+
+[[repo]]
+url = "https://github.com/byteball/lol-ui"
 
 [[repo]]
 url = "https://github.com/byteball/luckybytes"
@@ -178,7 +226,19 @@ url = "https://github.com/byteball/obyte-exchange"
 url = "https://github.com/byteball/obyte-explorer"
 
 [[repo]]
+url = "https://github.com/byteball/obyte-explorer-dist"
+
+[[repo]]
+url = "https://github.com/byteball/obyte-explorer-frontend"
+
+[[repo]]
 url = "https://github.com/byteball/obyte-faucet"
+
+[[repo]]
+url = "https://github.com/byteball/obyte-governance-discord"
+
+[[repo]]
+url = "https://github.com/byteball/obyte-governance-ui"
 
 [[repo]]
 url = "https://github.com/byteball/obyte-gui-wallet"
@@ -218,6 +278,12 @@ url = "https://github.com/byteball/obyte-zeus"
 
 [[repo]]
 url = "https://github.com/byteball/ocore"
+
+[[repo]]
+url = "https://github.com/byteball/odapp"
+
+[[repo]]
+url = "https://github.com/byteball/odapp-hub"
 
 [[repo]]
 url = "https://github.com/byteball/odds-maker-interface"
@@ -262,9 +328,6 @@ url = "https://github.com/byteball/oscript-editor-backend"
 url = "https://github.com/byteball/oscript-vscode-plugin"
 
 [[repo]]
-url = "https://github.com/byteball/ostable"
-
-[[repo]]
 url = "https://github.com/byteball/oswap-governance-discord"
 
 [[repo]]
@@ -277,10 +340,28 @@ url = "https://github.com/byteball/oswap-stats"
 url = "https://github.com/byteball/oswap-stats-api"
 
 [[repo]]
+url = "https://github.com/byteball/oswap-token-aa"
+
+[[repo]]
+url = "https://github.com/byteball/oswap-token-arb"
+
+[[repo]]
+url = "https://github.com/byteball/oswap-token-backend"
+
+[[repo]]
+url = "https://github.com/byteball/oswap-token-ui"
+
+[[repo]]
+url = "https://github.com/byteball/oswap-triangular-arb"
+
+[[repo]]
 url = "https://github.com/byteball/oswap-v2-aa"
 
 [[repo]]
 url = "https://github.com/byteball/oswap-v2-sdk"
+
+[[repo]]
+url = "https://github.com/byteball/oswap.io"
 
 [[repo]]
 url = "https://github.com/byteball/pay-per-call-API"
@@ -289,7 +370,31 @@ url = "https://github.com/byteball/pay-per-call-API"
 url = "https://github.com/byteball/pay-per-call-demo"
 
 [[repo]]
+url = "https://github.com/byteball/perp-governance-discord-bot"
+
+[[repo]]
+url = "https://github.com/byteball/perp_stats"
+
+[[repo]]
+url = "https://github.com/byteball/perpetual-aa"
+
+[[repo]]
+url = "https://github.com/byteball/perpetual-ui-vue"
+
+[[repo]]
 url = "https://github.com/byteball/poll-bot"
+
+[[repo]]
+url = "https://github.com/byteball/prediction-markets-aa"
+
+[[repo]]
+url = "https://github.com/byteball/prediction-markets-backend"
+
+[[repo]]
+url = "https://github.com/byteball/prediction-markets-ui"
+
+[[repo]]
+url = "https://github.com/byteball/pyth-governance-discord-bot"
 
 [[repo]]
 url = "https://github.com/byteball/real-name-attestation"
@@ -299,6 +404,9 @@ url = "https://github.com/byteball/reddit-attestation"
 
 [[repo]]
 url = "https://github.com/byteball/rpcify"
+
+[[repo]]
+url = "https://github.com/byteball/sport-abbreviations"
 
 [[repo]]
 url = "https://github.com/byteball/sports-betting"
@@ -311,9 +419,6 @@ url = "https://github.com/byteball/stable-oswap-arb"
 
 [[repo]]
 url = "https://github.com/byteball/stable-oswap2-arb"
-
-[[repo]]
-url = "https://github.com/byteball/stablecoin-aa"
 
 [[repo]]
 url = "https://github.com/byteball/stablecoin-icons"
@@ -334,6 +439,9 @@ url = "https://github.com/byteball/stablecoins-stats-api"
 url = "https://github.com/byteball/steem-attestation"
 
 [[repo]]
+url = "https://github.com/byteball/telegram-attestation"
+
+[[repo]]
 url = "https://github.com/byteball/telegram-quiz"
 
 [[repo]]
@@ -344,6 +452,9 @@ url = "https://github.com/byteball/token-registry-aa"
 
 [[repo]]
 url = "https://github.com/byteball/token-registry-discord-bot"
+
+[[repo]]
+url = "https://github.com/byteball/token-registry-sitemap"
 
 [[repo]]
 url = "https://github.com/byteball/token-registry-ui"
@@ -365,6 +476,12 @@ url = "https://github.com/byteball/upbit-orderbook-replication"
 
 [[repo]]
 url = "https://github.com/byteball/username-attestation"
+
+[[repo]]
+url = "https://github.com/byteball/v4-upgrade"
+
+[[repo]]
+url = "https://github.com/byteball/vrf-oracle"
 
 [[repo]]
 url = "https://github.com/byteball/WCG-distribution"

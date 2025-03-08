@@ -22,6 +22,12 @@ url = "https://github.com/ProjectProvenance/convert-units"
 url = "https://github.com/ProjectProvenance/Decentralized-Asset-Registration"
 
 [[repo]]
+url = "https://github.com/ProjectProvenance/greenwash-report-bookmarklet"
+
+[[repo]]
+url = "https://github.com/ProjectProvenance/ImpactGPT"
+
+[[repo]]
 url = "https://github.com/ProjectProvenance/mandrill_mailer"
 
 [[repo]]
@@ -34,10 +40,29 @@ url = "https://github.com/ProjectProvenance/OSHardware"
 url = "https://github.com/ProjectProvenance/preact-rails"
 
 [[repo]]
+url = "https://github.com/ProjectProvenance/primer-css"
+
+[[repo]]
+url = "https://github.com/ProjectProvenance/primer-primitives"
+
+[[repo]]
+url = "https://github.com/ProjectProvenance/primer-view_components"
+
+[[repo]]
 url = "https://github.com/ProjectProvenance/proof-points"
 
 [[repo]]
 url = "https://github.com/ProjectProvenance/provider-engine"
+
+[[repo]]
+url = "https://github.com/ProjectProvenance/react-native-provenance"
+
+[[repo]]
+url = "https://github.com/ProjectProvenance/react-native-provenance-sdk"
+missing = true
+
+[[repo]]
+url = "https://github.com/ProjectProvenance/react-widgets-nextjs-demo-app"
 
 [[repo]]
 url = "https://github.com/ProjectProvenance/shopify-docs"
@@ -47,6 +72,9 @@ url = "https://github.com/ProjectProvenance/upper"
 
 [[repo]]
 url = "https://github.com/ProjectProvenance/zeppelin-solidity"
+
+[[repo]]
+url = "https://github.com/ProjectProvenance/zoid"
 
 [[repo]]
 url = "https://github.com/ProjectProvenance/zos"

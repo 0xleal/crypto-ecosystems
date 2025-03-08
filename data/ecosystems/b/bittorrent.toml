@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "BitTorrent"
 
-sub_ecosystems = []
+sub_ecosystems = ["Bitlend", "Cruzo", "Spookyswap"]
 
 github_organizations = ["https://github.com/bittorrent"]
 
@@ -43,6 +43,10 @@ url = "https://github.com/bittorrent/bireme-FFmpeg"
 url = "https://github.com/bittorrent/bireme-popcorn-js"
 
 [[repo]]
+url = "https://github.com/bittorrent/bittorrent-tracker"
+missing = true
+
+[[repo]]
 url = "https://github.com/bittorrent/bittorrent.org"
 
 [[repo]]
@@ -73,16 +77,19 @@ url = "https://github.com/bittorrent/btc"
 url = "https://github.com/bittorrent/btfs-airdrop"
 
 [[repo]]
-url = "https://github.com/bittorrent/btfs-chequebook"
+url = "https://github.com/bittorrent/btfs-dashboard"
 
 [[repo]]
-url = "https://github.com/bittorrent/btfs-dashboard"
+url = "https://github.com/bittorrent/btfs-encryption"
 
 [[repo]]
 url = "https://github.com/bittorrent/btfs-status-contract"
 
 [[repo]]
 url = "https://github.com/bittorrent/btfs-vault"
+
+[[repo]]
+url = "https://github.com/bittorrent/BTIPs"
 
 [[repo]]
 url = "https://github.com/bittorrent/btlauncher"
@@ -139,7 +146,43 @@ url = "https://github.com/bittorrent/generator-btapp"
 url = "https://github.com/bittorrent/go-btfs"
 
 [[repo]]
+url = "https://github.com/bittorrent/go-btfs-1.6.0"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-btfs-api"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-btfs-chunker"
+
+[[repo]]
 url = "https://github.com/bittorrent/go-btfs-cmds"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-btfs-common"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-btfs-config"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-btfs-files"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-btns"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-common"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-eccrypto"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-mfs"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-path"
+
+[[repo]]
+url = "https://github.com/bittorrent/go-unixfs"
 
 [[repo]]
 url = "https://github.com/bittorrent/googletest"
@@ -169,6 +212,9 @@ url = "https://github.com/bittorrent/homebrew"
 url = "https://github.com/bittorrent/ice"
 
 [[repo]]
+url = "https://github.com/bittorrent/interface-go-btfs-core"
+
+[[repo]]
 url = "https://github.com/bittorrent/ipboard_proxy"
 
 [[repo]]
@@ -176,6 +222,9 @@ url = "https://github.com/bittorrent/jquery-qrcode"
 
 [[repo]]
 url = "https://github.com/bittorrent/jshackle"
+
+[[repo]]
+url = "https://github.com/bittorrent/json11"
 
 [[repo]]
 url = "https://github.com/bittorrent/kdyno"
@@ -215,6 +264,7 @@ url = "https://github.com/bittorrent/libtommath-test"
 
 [[repo]]
 url = "https://github.com/bittorrent/libutp"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/bittorrent/live-build-environments"
@@ -265,6 +315,9 @@ url = "https://github.com/bittorrent/omnibus-chef"
 url = "https://github.com/bittorrent/openh264"
 
 [[repo]]
+url = "https://github.com/bittorrent/openwebtorrent-tracker"
+
+[[repo]]
 url = "https://github.com/bittorrent/org.bittorrent.scribble"
 
 [[repo]]
@@ -275,6 +328,9 @@ url = "https://github.com/bittorrent/prerender"
 
 [[repo]]
 url = "https://github.com/bittorrent/prerender-node"
+
+[[repo]]
+url = "https://github.com/bittorrent/protobuf"
 
 [[repo]]
 url = "https://github.com/bittorrent/python-simpledb"
@@ -308,6 +364,9 @@ url = "https://github.com/bittorrent/sitrep"
 
 [[repo]]
 url = "https://github.com/bittorrent/social"
+
+[[repo]]
+url = "https://github.com/bittorrent/socket.io-client-cpp"
 
 [[repo]]
 url = "https://github.com/bittorrent/SparkleDotNET"
@@ -346,6 +405,9 @@ url = "https://github.com/bittorrent/tornado-sqs"
 url = "https://github.com/bittorrent/tornado_gen"
 
 [[repo]]
+url = "https://github.com/bittorrent/torrent-discovery"
+
+[[repo]]
 url = "https://github.com/bittorrent/torrent-web-tools"
 
 [[repo]]
@@ -367,6 +429,10 @@ url = "https://github.com/bittorrent/utorrent_help"
 url = "https://github.com/bittorrent/VPAIDFLASHClient"
 
 [[repo]]
+url = "https://github.com/bittorrent/webtorrent"
+missing = true
+
+[[repo]]
 url = "https://github.com/bittorrent/webui"
 
 [[repo]]
@@ -386,3 +452,6 @@ url = "https://github.com/bittorrent/yajl"
 
 [[repo]]
 url = "https://github.com/bittorrent/zxing"
+
+[[repo]]
+url = "https://github.com/shieldingcash/shielding-core"

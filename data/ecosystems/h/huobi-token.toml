@@ -5,9 +5,11 @@ sub_ecosystems = [
   "Auto",
   "Back Finance",
   "Belt",
+  "Belt Finance",
   "BXH",
   "Channels finance",
   "Complus Network",
+  "Cryptofeed",
   "Filda",
   "HECO",
   "LendHub",
@@ -40,9 +42,6 @@ url = "https://github.com/hbdmapi/huobi_future_Java"
 
 [[repo]]
 url = "https://github.com/hbdmapi/huobi_futures_Cpp"
-
-[[repo]]
-url = "https://github.com/hbdmapi/huobi_futures_CSharp"
 
 [[repo]]
 url = "https://github.com/hbdmapi/huobi_futures_Golang"
@@ -135,19 +134,40 @@ url = "https://github.com/huobiapi/WebSocket-Node.js-demo"
 url = "https://github.com/huobiapi/WebSocket-PHP-demo"
 
 [[repo]]
+url = "https://github.com/HuobiRDCenter/asymmetric-key-generator"
+
+[[repo]]
 url = "https://github.com/HuobiRDCenter/huobi_Cpp"
+
+[[repo]]
+url = "https://github.com/HuobiRDCenter/huobi_cpp_contract"
 
 [[repo]]
 url = "https://github.com/HuobiRDCenter/huobi_CSharp"
 
 [[repo]]
+url = "https://github.com/HuobiRDCenter/huobi_csharp_contract"
+
+[[repo]]
+url = "https://github.com/HuobiRDCenter/huobi_futures_Golang"
+
+[[repo]]
 url = "https://github.com/HuobiRDCenter/huobi_Golang"
+
+[[repo]]
+url = "https://github.com/HuobiRDCenter/huobi_icon"
 
 [[repo]]
 url = "https://github.com/HuobiRDCenter/huobi_Java"
 
 [[repo]]
+url = "https://github.com/HuobiRDCenter/huobi_java_contract"
+
+[[repo]]
 url = "https://github.com/HuobiRDCenter/huobi_Python"
+
+[[repo]]
+url = "https://github.com/HuobiRDCenter/huobi_python_contract"
 
 [[repo]]
 url = "https://github.com/HuobiRDCenter/libdecnumber"

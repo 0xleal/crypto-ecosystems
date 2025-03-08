@@ -13,6 +13,9 @@ url = "https://github.com/ZenGo-X/anchor-playground"
 url = "https://github.com/ZenGo-X/awesome-tss"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/Bad_randomness_tls_client_handshake_pure_python"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/badger_dao_script_analysis"
 
 [[repo]]
@@ -23,6 +26,10 @@ url = "https://github.com/ZenGo-X/binance-thresh-wallet"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/bitcoinjs-lib"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/buildcontainer"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZenGo-X/bulletproofs"
@@ -76,13 +83,31 @@ url = "https://github.com/ZenGo-X/eth_txpool_view"
 url = "https://github.com/ZenGo-X/Ethereum2.0-Resources"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/extra-ordinaire"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/failure"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/flippable-operator-filterer"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/foundry-cheatsheet"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/foundry-workshop"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/fs-dkr"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/gotham-city"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/gotham-engine"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/gotham-public"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/inspirational-crypto"
@@ -124,6 +149,9 @@ url = "https://github.com/ZenGo-X/marlin"
 url = "https://github.com/ZenGo-X/merkle.rs"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/MiceyMask"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/mnemonic-recovery"
 
 [[repo]]
@@ -146,6 +174,9 @@ url = "https://github.com/ZenGo-X/multi-party-schnorr"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/neon"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/node-cache-manager-redis-yet"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/node-client"
@@ -172,6 +203,9 @@ url = "https://github.com/ZenGo-X/pps"
 url = "https://github.com/ZenGo-X/pps-gc"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/public-docs"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/random-beacon"
 
 [[repo]]
@@ -193,6 +227,9 @@ url = "https://github.com/ZenGo-X/react-native-safari-view"
 url = "https://github.com/ZenGo-X/react-native-secure-storage"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/react-native-svg"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/react-native-swiper"
 
 [[repo]]
@@ -212,6 +249,9 @@ url = "https://github.com/ZenGo-X/round-based-protocol"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/rust-bitcoin"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/rust-clap-example"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/rust-electrumx-client"
@@ -238,7 +278,13 @@ url = "https://github.com/ZenGo-X/serde_dynamodb"
 url = "https://github.com/ZenGo-X/ShareLock"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/signature-simulation"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/silent-ecdsa"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/smart-contracts-workshop"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/solana-tss"
@@ -269,6 +315,7 @@ url = "https://github.com/ZenGo-X/terra.js"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/test-ids"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZenGo-X/tezos-thresh-wallet"
@@ -278,6 +325,9 @@ url = "https://github.com/ZenGo-X/thresh-rust-u2f"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/thresh-sig-js"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/TLS-masterkey-recovery"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/tss-bugs"
@@ -304,6 +354,9 @@ url = "https://github.com/ZenGo-X/vice-city"
 url = "https://github.com/ZenGo-X/walletconnect-collabland-test"
 
 [[repo]]
+url = "https://github.com/ZenGo-X/walletconnect-premint-test"
+
+[[repo]]
 url = "https://github.com/ZenGo-X/walletconnect-tokenproof-test"
 
 [[repo]]
@@ -314,6 +367,13 @@ url = "https://github.com/ZenGo-X/zcash"
 
 [[repo]]
 url = "https://github.com/ZenGo-X/ZenGo"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/zengo-academy-nft"
+
+[[repo]]
+url = "https://github.com/ZenGo-X/zengo-extension"
+missing = true
 
 [[repo]]
 url = "https://github.com/ZenGo-X/zengo-will"

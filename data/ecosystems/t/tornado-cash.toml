@@ -61,13 +61,13 @@ url = "https://github.com/tornadocash/phase2-wasm"
 url = "https://github.com/tornadocash/provider"
 
 [[repo]]
-url = "https://github.com/tornadocash/relayer"
-
-[[repo]]
 url = "https://github.com/tornadocash/relayer-registry"
 
 [[repo]]
 url = "https://github.com/tornadocash/relayers-contest"
+
+[[repo]]
+url = "https://github.com/tornadocash/rpc-nodes"
 
 [[repo]]
 url = "https://github.com/tornadocash/snarkjs"
@@ -80,6 +80,9 @@ url = "https://github.com/tornadocash/tornado-aggregator"
 
 [[repo]]
 url = "https://github.com/tornadocash/tornado-anonymity-mining"
+
+[[repo]]
+url = "https://github.com/tornadocash/tornado-classic-ui"
 
 [[repo]]
 url = "https://github.com/tornadocash/tornado-cli"
@@ -97,10 +100,8 @@ url = "https://github.com/tornadocash/tornado-governance"
 url = "https://github.com/tornadocash/tornado-initiation-ui"
 
 [[repo]]
-url = "https://github.com/tornadocash/tornado-instances"
-
-[[repo]]
 url = "https://github.com/tornadocash/tornado-instances-UI"
+missing = true
 
 [[repo]]
 url = "https://github.com/tornadocash/tornado-nova"
@@ -109,7 +110,7 @@ url = "https://github.com/tornadocash/tornado-nova"
 url = "https://github.com/tornadocash/tornado-onion"
 
 [[repo]]
-url = "https://github.com/tornadocash/tornado-pool"
+url = "https://github.com/tornadocash/tornado-pool-factory"
 
 [[repo]]
 url = "https://github.com/tornadocash/tornado-pool-relayer"
@@ -149,3 +150,6 @@ url = "https://github.com/tornadocash/ui-minified"
 
 [[repo]]
 url = "https://github.com/tornadocash/websnark"
+
+[[repo]]
+url = "https://github.com/tornadocashcommunity/tornadocash.cash-classic-ui"

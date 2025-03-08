@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/backstop-protocol"]
 url = "https://github.com/backstop-protocol/analytics-dashboard"
 
 [[repo]]
+url = "https://github.com/backstop-protocol/app"
+
+[[repo]]
+url = "https://github.com/backstop-protocol/arth-core"
+
+[[repo]]
 url = "https://github.com/backstop-protocol/assembly"
 
 [[repo]]
@@ -23,9 +29,11 @@ url = "https://github.com/backstop-protocol/backstop-protocol.github.io"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/bad-debt-dashboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/backstop-protocol/bad-debt-leaderboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/backstop-protocol/BCompound"
@@ -35,6 +43,9 @@ url = "https://github.com/backstop-protocol/BIPs"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/BPRO"
+
+[[repo]]
+url = "https://github.com/backstop-protocol/bpro-website"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/bprotocol-deploy"
@@ -47,6 +58,7 @@ url = "https://github.com/backstop-protocol/compound-protocol"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/compound-protocol-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/backstop-protocol/compound-protocol-old"
@@ -56,6 +68,7 @@ url = "https://github.com/backstop-protocol/contractsV2"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/DeFi-Pulse-Adapters"
+missing = true
 
 [[repo]]
 url = "https://github.com/backstop-protocol/DefiLlama-Adapters"
@@ -77,6 +90,9 @@ url = "https://github.com/backstop-protocol/dss-deploy-scripts"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/dss-proxy-actions"
+
+[[repo]]
+url = "https://github.com/backstop-protocol/ERC-7770"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/frontend-registry"
@@ -106,16 +122,19 @@ url = "https://github.com/backstop-protocol/mcd-cdp-portal"
 url = "https://github.com/backstop-protocol/merkle-distributor"
 
 [[repo]]
-url = "https://github.com/backstop-protocol/Oracles"
-
-[[repo]]
 url = "https://github.com/backstop-protocol/protocol-v2"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/react-client"
 
 [[repo]]
+url = "https://github.com/backstop-protocol/risk-oracle-frontend"
+
+[[repo]]
 url = "https://github.com/backstop-protocol/score"
+
+[[repo]]
+url = "https://github.com/backstop-protocol/smart-ltv"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/snapshot-spaces"
@@ -134,9 +153,6 @@ url = "https://github.com/backstop-protocol/unibamm"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/user-rating"
-
-[[repo]]
-url = "https://github.com/backstop-protocol/v2"
 
 [[repo]]
 url = "https://github.com/backstop-protocol/vesta"

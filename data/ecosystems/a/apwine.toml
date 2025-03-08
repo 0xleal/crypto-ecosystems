@@ -23,3 +23,17 @@ url = "https://github.com/APWine/apwine-smart-contracts-public"
 
 [[repo]]
 url = "https://github.com/APWine/audits"
+missing = true
+
+[[repo]]
+url = "https://github.com/APWine/cairozen"
+missing = true
+
+[[repo]]
+url = "https://github.com/APWine/cairozen-lib"
+
+[[repo]]
+url = "https://github.com/APWine/frontend-exercise"
+
+[[repo]]
+url = "https://github.com/APWine/spectra-branding-resources"

@@ -7,7 +7,7 @@ github_organizations = ["https://github.com/lexDAO"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/lexDAO/Airdrop"
+url = "https://github.com/lexDAO/2024-Membership-Token"
 
 [[repo]]
 url = "https://github.com/lexDAO/AIT"
@@ -19,7 +19,13 @@ url = "https://github.com/lexDAO/AraCred"
 url = "https://github.com/lexDAO/Arbitration"
 
 [[repo]]
+url = "https://github.com/lexDAO/argMap"
+
+[[repo]]
 url = "https://github.com/lexDAO/Assets"
+
+[[repo]]
+url = "https://github.com/lexDAO/awesome-cryptolaw"
 
 [[repo]]
 url = "https://github.com/lexDAO/bentobox"
@@ -31,7 +37,13 @@ url = "https://github.com/lexDAO/Bounties"
 url = "https://github.com/lexDAO/BPNFT"
 
 [[repo]]
+url = "https://github.com/lexDAO/chronos"
+
+[[repo]]
 url = "https://github.com/lexDAO/coda"
+
+[[repo]]
+url = "https://github.com/lexDAO/committee-status"
 
 [[repo]]
 url = "https://github.com/lexDAO/Cooperative"
@@ -44,6 +56,15 @@ url = "https://github.com/lexDAO/crypto-governance"
 
 [[repo]]
 url = "https://github.com/lexDAO/DAO"
+
+[[repo]]
+url = "https://github.com/lexDAO/DAO-Law"
+
+[[repo]]
+url = "https://github.com/lexDAO/DAO-Proposals"
+
+[[repo]]
+url = "https://github.com/lexDAO/DAO2DAO-class_mapping"
 
 [[repo]]
 url = "https://github.com/lexDAO/daohaus-app"
@@ -62,15 +83,18 @@ url = "https://github.com/lexDAO/dapphero-core"
 
 [[repo]]
 url = "https://github.com/lexDAO/digital-life"
+missing = true
 
 [[repo]]
 url = "https://github.com/lexDAO/Digital-Secretary.sol"
+missing = true
 
 [[repo]]
 url = "https://github.com/lexDAO/dripDrop"
 
 [[repo]]
 url = "https://github.com/lexDAO/EIP-Spec"
+missing = true
 
 [[repo]]
 url = "https://github.com/lexDAO/ens-minion"
@@ -80,6 +104,7 @@ url = "https://github.com/lexDAO/erc20-generator"
 
 [[repo]]
 url = "https://github.com/lexDAO/Escrow"
+missing = true
 
 [[repo]]
 url = "https://github.com/lexDAO/etcDAO"
@@ -94,10 +119,19 @@ url = "https://github.com/lexDAO/GAMMA"
 url = "https://github.com/lexDAO/GAMMANFT"
 
 [[repo]]
+url = "https://github.com/lexDAO/gitbook"
+
+[[repo]]
 url = "https://github.com/lexDAO/governance"
 
 [[repo]]
+url = "https://github.com/lexDAO/Grants"
+
+[[repo]]
 url = "https://github.com/lexDAO/hackathon"
+
+[[repo]]
+url = "https://github.com/lexDAO/hackmd"
 
 [[repo]]
 url = "https://github.com/lexDAO/HUB"
@@ -107,6 +141,9 @@ url = "https://github.com/lexDAO/juris-builder"
 
 [[repo]]
 url = "https://github.com/lexDAO/Kali"
+
+[[repo]]
+url = "https://github.com/lexDAO/kalidao-deploy-example"
 
 [[repo]]
 url = "https://github.com/lexDAO/kashi-lending"
@@ -125,6 +162,9 @@ url = "https://github.com/lexDAO/LEE"
 
 [[repo]]
 url = "https://github.com/lexDAO/Legal-Engineers"
+
+[[repo]]
+url = "https://github.com/lexDAO/letsplay"
 
 [[repo]]
 url = "https://github.com/lexDAO/LEX"
@@ -154,9 +194,6 @@ url = "https://github.com/lexDAO/LexDAO-Design-Assets"
 url = "https://github.com/lexDAO/LexDAO-Dispute-Handbook"
 
 [[repo]]
-url = "https://github.com/lexDAO/LexDAO-Docs"
-
-[[repo]]
 url = "https://github.com/lexDAO/LexDAO-Documents"
 
 [[repo]]
@@ -170,6 +207,10 @@ url = "https://github.com/lexDAO/LexDAO-LandingV2"
 
 [[repo]]
 url = "https://github.com/lexDAO/lexdao-moloch2x-graph"
+missing = true
+
+[[repo]]
+url = "https://github.com/lexDAO/LexDAO-Official-Policies"
 
 [[repo]]
 url = "https://github.com/lexDAO/LexDAO-Podcast"
@@ -178,13 +219,23 @@ url = "https://github.com/lexDAO/LexDAO-Podcast"
 url = "https://github.com/lexDAO/LexDAO-v2x"
 
 [[repo]]
+url = "https://github.com/lexDAO/LexDAOism-CaseStudy"
+
+[[repo]]
+url = "https://github.com/lexDAO/LexDAOism_CaseWork-zK"
+
+[[repo]]
+url = "https://github.com/lexDAO/lexIpedia"
+
+[[repo]]
+url = "https://github.com/lexDAO/lexlib-site"
+
+[[repo]]
 url = "https://github.com/lexDAO/LexList"
 
 [[repo]]
 url = "https://github.com/lexDAO/LexLocker"
-
-[[repo]]
-url = "https://github.com/lexDAO/LexLockerLite"
+missing = true
 
 [[repo]]
 url = "https://github.com/lexDAO/LexLockerUI"
@@ -197,9 +248,16 @@ url = "https://github.com/lexDAO/LexSummoner"
 
 [[repo]]
 url = "https://github.com/lexDAO/LexToken"
+missing = true
 
 [[repo]]
 url = "https://github.com/lexDAO/LexTokenize"
+
+[[repo]]
+url = "https://github.com/lexDAO/lexybot"
+
+[[repo]]
+url = "https://github.com/lexDAO/links"
 
 [[repo]]
 url = "https://github.com/lexDAO/LiteDAO"
@@ -227,6 +285,7 @@ url = "https://github.com/lexDAO/moloch-minion"
 
 [[repo]]
 url = "https://github.com/lexDAO/MoneyStamps"
+missing = true
 
 [[repo]]
 url = "https://github.com/lexDAO/Multi-Summoner-Moloch"
@@ -239,6 +298,9 @@ url = "https://github.com/lexDAO/nftoken"
 
 [[repo]]
 url = "https://github.com/lexDAO/Offer-Token"
+
+[[repo]]
+url = "https://github.com/lexDAO/open-ai"
 
 [[repo]]
 url = "https://github.com/lexDAO/Open-Source-Law"
@@ -257,6 +319,7 @@ url = "https://github.com/lexDAO/Personal-Tokens"
 
 [[repo]]
 url = "https://github.com/lexDAO/pokemol-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/lexDAO/Products"
@@ -310,6 +373,9 @@ url = "https://github.com/lexDAO/Solidity-Style-Guide"
 url = "https://github.com/lexDAO/Spells"
 
 [[repo]]
+url = "https://github.com/lexDAO/srCRED"
+
+[[repo]]
 url = "https://github.com/lexDAO/Startup-Starter-Pack"
 
 [[repo]]
@@ -326,6 +392,7 @@ url = "https://github.com/lexDAO/token-warrant"
 
 [[repo]]
 url = "https://github.com/lexDAO/trident"
+missing = true
 
 [[repo]]
 url = "https://github.com/lexDAO/TXLscript"
@@ -341,6 +408,7 @@ url = "https://github.com/lexDAO/web"
 
 [[repo]]
 url = "https://github.com/lexDAO/web3-Essentials"
+missing = true
 
 [[repo]]
 url = "https://github.com/lexDAO/website"
@@ -350,6 +418,9 @@ url = "https://github.com/lexDAO/Windfall-Clause"
 
 [[repo]]
 url = "https://github.com/lexDAO/WY-DAO-initiative"
+
+[[repo]]
+url = "https://github.com/lexDAO/WY-DUNA"
 
 [[repo]]
 url = "https://github.com/lexDAO/ZapMinionSummoner"

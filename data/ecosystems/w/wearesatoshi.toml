@@ -11,15 +11,14 @@ url = "https://github.com/WeAreSatoshi/WeAreSatoshi"
 
 [[repo]]
 url = "https://github.com/WeAreSatoshi/WeAreSatoshi-Archives"
+missing = true
 
 [[repo]]
 url = "https://github.com/WeAreSatoshi/WeAreSatoshi-Binaries"
+missing = true
 
 [[repo]]
 url = "https://github.com/WeAreSatoshi/WeAreSatoshi2"
 
 [[repo]]
 url = "https://github.com/WeAreSatoshi/Webpage"
-
-[[repo]]
-url = "https://github.com/WeAreSatoshi/webpage_was"

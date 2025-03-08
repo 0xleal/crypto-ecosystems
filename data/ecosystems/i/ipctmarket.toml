@@ -8,15 +8,17 @@ github_organizations = ["https://github.com/impactMarket"]
 # Repositories
 [[repo]]
 url = "https://github.com/impactMarket/airgrab-backend"
-
-[[repo]]
-url = "https://github.com/impactMarket/api"
+missing = true
 
 [[repo]]
 url = "https://github.com/impactMarket/app"
 
 [[repo]]
 url = "https://github.com/impactMarket/backend"
+
+[[repo]]
+url = "https://github.com/impactMarket/celo-ethers-wrapper"
+missing = true
 
 [[repo]]
 url = "https://github.com/impactMarket/celo-monorepo"
@@ -26,12 +28,10 @@ url = "https://github.com/impactMarket/cms"
 
 [[repo]]
 url = "https://github.com/impactMarket/default-token-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/impactMarket/DefiLlama-Adapters"
-
-[[repo]]
-url = "https://github.com/impactMarket/eslint-config-im"
 
 [[repo]]
 url = "https://github.com/impactMarket/eslint-config-impact-market"
@@ -40,10 +40,16 @@ url = "https://github.com/impactMarket/eslint-config-impact-market"
 url = "https://github.com/impactMarket/global"
 
 [[repo]]
+url = "https://github.com/impactMarket/identity"
+
+[[repo]]
 url = "https://github.com/impactMarket/impact-market-smart-contracts"
 
 [[repo]]
-url = "https://github.com/impactMarket/impact-market-token"
+url = "https://github.com/impactMarket/learn-and-earn"
+
+[[repo]]
+url = "https://github.com/impactMarket/learn-and-earn-submodule"
 
 [[repo]]
 url = "https://github.com/impactMarket/mobile-app"
@@ -52,19 +58,35 @@ url = "https://github.com/impactMarket/mobile-app"
 url = "https://github.com/impactMarket/mobile-app-admin"
 
 [[repo]]
-url = "https://github.com/impactMarket/romulus-interface"
+url = "https://github.com/impactMarket/no-yolo-signatures"
 
 [[repo]]
-url = "https://github.com/impactMarket/smart-contracts"
+url = "https://github.com/impactMarket/react-celo"
+missing = true
+
+[[repo]]
+url = "https://github.com/impactMarket/romulus-interface"
 
 [[repo]]
 url = "https://github.com/impactMarket/smart-contracts-alpha-version"
 
 [[repo]]
+url = "https://github.com/impactMarket/smart-contracts-dao"
+
+[[repo]]
+url = "https://github.com/impactMarket/smart-contracts-finance"
+
+[[repo]]
 url = "https://github.com/impactMarket/subgraph"
 
 [[repo]]
+url = "https://github.com/impactMarket/subgraph-micro-credit"
+
+[[repo]]
 url = "https://github.com/impactMarket/subgraph-ubi-management"
+
+[[repo]]
+url = "https://github.com/impactMarket/support-issues"
 
 [[repo]]
 url = "https://github.com/impactMarket/translations"
@@ -77,18 +99,18 @@ url = "https://github.com/impactMarket/ui-kit"
 
 [[repo]]
 url = "https://github.com/impactMarket/use-contractkit"
+missing = true
 
 [[repo]]
 url = "https://github.com/impactMarket/utils"
 
 [[repo]]
 url = "https://github.com/impactMarket/utils-old"
-
-[[repo]]
-url = "https://github.com/impactMarket/utils2"
+missing = true
 
 [[repo]]
 url = "https://github.com/impactMarket/web"
 
 [[repo]]
 url = "https://github.com/impactMarket/web3-react"
+missing = true

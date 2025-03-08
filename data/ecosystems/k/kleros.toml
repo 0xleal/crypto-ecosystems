@@ -1,11 +1,14 @@
 # Ecosystem Level Information
 title = "Kleros"
 
-sub_ecosystems = []
+sub_ecosystems = ["Yubiai"]
 
 github_organizations = ["https://github.com/kleros"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/kleros/.github"
+
 [[repo]]
 url = "https://github.com/kleros/action-callback-bots"
 
@@ -22,9 +25,6 @@ url = "https://github.com/kleros/alpha-wallet-android"
 url = "https://github.com/kleros/alphawallet-curate"
 
 [[repo]]
-url = "https://github.com/kleros/appeal-utils"
-
-[[repo]]
 url = "https://github.com/kleros/arbitrable-contract-libraries"
 
 [[repo]]
@@ -37,22 +37,19 @@ url = "https://github.com/kleros/arbitrable-proxy-contracts"
 url = "https://github.com/kleros/archon"
 
 [[repo]]
+url = "https://github.com/kleros/aws-event-driven-ethereum"
+
+[[repo]]
 url = "https://github.com/kleros/badge-evidence"
 
 [[repo]]
 url = "https://github.com/kleros/balancer-funds-recovery"
 
 [[repo]]
-url = "https://github.com/kleros/binary-arbitrable-proxy"
-
-[[repo]]
-url = "https://github.com/kleros/binary-arbitrable-proxy-contract"
-
-[[repo]]
-url = "https://github.com/kleros/binary-arbitrable-proxy-dapp"
-
-[[repo]]
 url = "https://github.com/kleros/blockscan-tags"
+
+[[repo]]
+url = "https://github.com/kleros/builder-baseline"
 
 [[repo]]
 url = "https://github.com/kleros/centralized-arbitrator-dashboard"
@@ -65,12 +62,16 @@ url = "https://github.com/kleros/claim-manager-injected-ui"
 
 [[repo]]
 url = "https://github.com/kleros/continuous-sale-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/kleros/continuous-sale-ui"
 
 [[repo]]
 url = "https://github.com/kleros/contract-deployments"
+
+[[repo]]
+url = "https://github.com/kleros/contract-insights-snap"
 
 [[repo]]
 url = "https://github.com/kleros/CONTRIBUTING.md"
@@ -80,6 +81,9 @@ url = "https://github.com/kleros/corobot"
 
 [[repo]]
 url = "https://github.com/kleros/court"
+
+[[repo]]
+url = "https://github.com/kleros/court-functions"
 
 [[repo]]
 url = "https://github.com/kleros/court-notifications-bot"
@@ -94,10 +98,28 @@ url = "https://github.com/kleros/cross-chain-arbitration-proxy"
 url = "https://github.com/kleros/cross-chain-realitio-proxy"
 
 [[repo]]
+url = "https://github.com/kleros/cross-chain-realitio-proxy-arbitrum"
+
+[[repo]]
+url = "https://github.com/kleros/cross-chain-realitio-proxy-optimism"
+
+[[repo]]
 url = "https://github.com/kleros/cross-chain-realitio-proxy-polygon"
 
 [[repo]]
+url = "https://github.com/kleros/cross-chain-realitio-proxy-redstone"
+
+[[repo]]
 url = "https://github.com/kleros/cross-chain-sundial-proxy"
+
+[[repo]]
+url = "https://github.com/kleros/curate-telegram-bot"
+
+[[repo]]
+url = "https://github.com/kleros/curate-twitter-bot"
+
+[[repo]]
+url = "https://github.com/kleros/curate-v2"
 
 [[repo]]
 url = "https://github.com/kleros/dao-module"
@@ -106,7 +128,13 @@ url = "https://github.com/kleros/dao-module"
 url = "https://github.com/kleros/dapp-ideas"
 
 [[repo]]
+url = "https://github.com/kleros/dappcon-game"
+
+[[repo]]
 url = "https://github.com/kleros/dapper"
+
+[[repo]]
+url = "https://github.com/kleros/dapps-template"
 
 [[repo]]
 url = "https://github.com/kleros/dispute-resolver"
@@ -157,6 +185,9 @@ url = "https://github.com/kleros/escrow-evidence-display"
 url = "https://github.com/kleros/escrow-react"
 
 [[repo]]
+url = "https://github.com/kleros/escrow-v2"
+
+[[repo]]
 url = "https://github.com/kleros/eth-contract-metadata"
 
 [[repo]]
@@ -167,6 +198,9 @@ url = "https://github.com/kleros/ethereum-libraries"
 
 [[repo]]
 url = "https://github.com/kleros/ethereum-rng"
+
+[[repo]]
+url = "https://github.com/kleros/etherscan-tags"
 
 [[repo]]
 url = "https://github.com/kleros/event-microservices"
@@ -184,10 +218,14 @@ url = "https://github.com/kleros/file-to-ipfs"
 url = "https://github.com/kleros/flex-react-stepper"
 
 [[repo]]
-url = "https://github.com/kleros/frontend-library"
+url = "https://github.com/kleros/frontend-experimental"
 
 [[repo]]
 url = "https://github.com/kleros/gitcoin-contract"
+missing = true
+
+[[repo]]
+url = "https://github.com/kleros/gnosis-safe-subgraph"
 
 [[repo]]
 url = "https://github.com/kleros/governance-documents"
@@ -196,16 +234,19 @@ url = "https://github.com/kleros/governance-documents"
 url = "https://github.com/kleros/governor"
 
 [[repo]]
-url = "https://github.com/kleros/governor-bot"
-
-[[repo]]
 url = "https://github.com/kleros/governor-script"
 
 [[repo]]
 url = "https://github.com/kleros/governor-snapshot"
 
 [[repo]]
+url = "https://github.com/kleros/governor-v2"
+
+[[repo]]
 url = "https://github.com/kleros/governor-web"
+
+[[repo]]
+url = "https://github.com/kleros/graph-cli"
 
 [[repo]]
 url = "https://github.com/kleros/GroupButler"
@@ -244,10 +285,16 @@ url = "https://github.com/kleros/gtcr-subgraph"
 url = "https://github.com/kleros/gtcr-twitter-bot"
 
 [[repo]]
+url = "https://github.com/kleros/gtcr-v2"
+
+[[repo]]
 url = "https://github.com/kleros/hackathon"
 
 [[repo]]
 url = "https://github.com/kleros/ipfs-proxy"
+
+[[repo]]
+url = "https://github.com/kleros/ipfs-upload-folder"
 
 [[repo]]
 url = "https://github.com/kleros/json-to-ipfs"
@@ -271,13 +318,16 @@ url = "https://github.com/kleros/kleros-attacks"
 url = "https://github.com/kleros/kleros-bot"
 
 [[repo]]
+url = "https://github.com/kleros/kleros-case-display"
+
+[[repo]]
+url = "https://github.com/kleros/kleros-display-subgraph"
+
+[[repo]]
 url = "https://github.com/kleros/kleros-docs"
 
 [[repo]]
 url = "https://github.com/kleros/kleros-front"
-
-[[repo]]
-url = "https://github.com/kleros/kleros-frontend-library"
 
 [[repo]]
 url = "https://github.com/kleros/kleros-frontend-library-experiment"
@@ -295,6 +345,9 @@ url = "https://github.com/kleros/kleros-juror-front"
 url = "https://github.com/kleros/kleros-microservices"
 
 [[repo]]
+url = "https://github.com/kleros/kleros-moderate"
+
+[[repo]]
 url = "https://github.com/kleros/kleros-papers"
 
 [[repo]]
@@ -310,6 +363,9 @@ url = "https://github.com/kleros/kleros-rest-api"
 url = "https://github.com/kleros/kleros-slack"
 
 [[repo]]
+url = "https://github.com/kleros/kleros-stats"
+
+[[repo]]
 url = "https://github.com/kleros/kleros-store"
 
 [[repo]]
@@ -322,7 +378,13 @@ url = "https://github.com/kleros/kleros-the-schelling-game-front"
 url = "https://github.com/kleros/kleros-v2"
 
 [[repo]]
+url = "https://github.com/kleros/kleros-website-v2"
+
+[[repo]]
 url = "https://github.com/kleros/kleros.github.io"
+
+[[repo]]
+url = "https://github.com/kleros/kleroscon-website"
 
 [[repo]]
 url = "https://github.com/kleros/knowledge-base"
@@ -331,7 +393,19 @@ url = "https://github.com/kleros/knowledge-base"
 url = "https://github.com/kleros/landing-page"
 
 [[repo]]
+url = "https://github.com/kleros/lemon-court"
+
+[[repo]]
 url = "https://github.com/kleros/lessdux"
+
+[[repo]]
+url = "https://github.com/kleros/library-of-justice"
+
+[[repo]]
+url = "https://github.com/kleros/lifi-sdk"
+
+[[repo]]
+url = "https://github.com/kleros/lifi-widget"
 
 [[repo]]
 url = "https://github.com/kleros/light-gtcr-example"
@@ -343,9 +417,6 @@ url = "https://github.com/kleros/linguo"
 url = "https://github.com/kleros/linguo-automation"
 
 [[repo]]
-url = "https://github.com/kleros/linguo-bot"
-
-[[repo]]
 url = "https://github.com/kleros/linguo-contracts"
 
 [[repo]]
@@ -355,13 +426,20 @@ url = "https://github.com/kleros/linguo-evidence-display"
 url = "https://github.com/kleros/linguo-script"
 
 [[repo]]
+url = "https://github.com/kleros/linguo-subgraph"
+
+[[repo]]
 url = "https://github.com/kleros/low-balance-bot"
 
 [[repo]]
 url = "https://github.com/kleros/market-maker"
+missing = true
 
 [[repo]]
 url = "https://github.com/kleros/minime"
+
+[[repo]]
+url = "https://github.com/kleros/multicall-relayer"
 
 [[repo]]
 url = "https://github.com/kleros/MultiSigWallet"
@@ -379,10 +457,19 @@ url = "https://github.com/kleros/openiico"
 url = "https://github.com/kleros/openiico-contract"
 
 [[repo]]
+url = "https://github.com/kleros/perma-curate"
+
+[[repo]]
+url = "https://github.com/kleros/platform-experimental"
+missing = true
+
+[[repo]]
 url = "https://github.com/kleros/pmw-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/kleros/pmw-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/kleros/pnk-merkle-drop"
@@ -392,6 +479,9 @@ url = "https://github.com/kleros/policies"
 
 [[repo]]
 url = "https://github.com/kleros/polygon-kleros-liquid"
+
+[[repo]]
+url = "https://github.com/kleros/prediction-market-agent-tooling"
 
 [[repo]]
 url = "https://github.com/kleros/pythia-twitter"
@@ -415,7 +505,16 @@ url = "https://github.com/kleros/realitio-reporting-bot"
 url = "https://github.com/kleros/realitio-script"
 
 [[repo]]
+url = "https://github.com/kleros/reality-v2"
+
+[[repo]]
 url = "https://github.com/kleros/research-docs"
+
+[[repo]]
+url = "https://github.com/kleros/scout"
+
+[[repo]]
+url = "https://github.com/kleros/scout-snap"
 
 [[repo]]
 url = "https://github.com/kleros/send-raw"
@@ -430,16 +529,13 @@ url = "https://github.com/kleros/slot-curate"
 url = "https://github.com/kleros/stake-curate"
 
 [[repo]]
-url = "https://github.com/kleros/t2cr-badges-example"
+url = "https://github.com/kleros/sx-evm"
 
 [[repo]]
 url = "https://github.com/kleros/t2cr-dashboard"
 
 [[repo]]
 url = "https://github.com/kleros/t2cr-dashboard-backend"
-
-[[repo]]
-url = "https://github.com/kleros/t2cr-data-extract"
 
 [[repo]]
 url = "https://github.com/kleros/t2cr-docs"
@@ -478,6 +574,9 @@ url = "https://github.com/kleros/tcr"
 url = "https://github.com/kleros/telegram-moderator"
 
 [[repo]]
+url = "https://github.com/kleros/tg-court-notifications"
+
+[[repo]]
 url = "https://github.com/kleros/the-block-nft-exhibition"
 
 [[repo]]
@@ -496,16 +595,37 @@ url = "https://github.com/kleros/ui-components-library"
 url = "https://github.com/kleros/uniswap-frontend"
 
 [[repo]]
+url = "https://github.com/kleros/vea"
+
+[[repo]]
+url = "https://github.com/kleros/vea-docs"
+
+[[repo]]
+url = "https://github.com/kleros/vea-landing-page"
+
+[[repo]]
+url = "https://github.com/kleros/vea-lightbulb"
+
+[[repo]]
+url = "https://github.com/kleros/vea-lightbulb-tutorial"
+
+[[repo]]
 url = "https://github.com/kleros/web-template-ts"
 
 [[repo]]
 url = "https://github.com/kleros/website"
 
 [[repo]]
-url = "https://github.com/kleros/xdai-cross-chain-arbitration"
-
-[[repo]]
 url = "https://github.com/kleros/xdai-kleros-liquid"
 
 [[repo]]
 url = "https://github.com/kleros/xystra"
+
+[[repo]]
+url = "https://github.com/kleros/zk-cross-chain-realitio-proxy"
+
+[[repo]]
+url = "https://github.com/kleros/zodiac-bots"
+
+[[repo]]
+url = "https://github.com/kleros/zodiac-safe-app"

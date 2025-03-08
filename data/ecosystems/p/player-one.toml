@@ -7,25 +7,31 @@ github_organizations = ["https://github.com/playerone-id"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/playerone-id/biginteger-for-eosio"
-
-[[repo]]
 url = "https://github.com/playerone-id/eos"
-
-[[repo]]
-url = "https://github.com/playerone-id/EosCommander"
+missing = true
 
 [[repo]]
 url = "https://github.com/playerone-id/eosjs"
+missing = true
 
 [[repo]]
 url = "https://github.com/playerone-id/files"
+missing = true
 
 [[repo]]
 url = "https://github.com/playerone-id/poc-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/playerone-id/poc-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/playerone-id/poc-front"
+missing = true
+
+[[repo]]
+url = "https://github.com/swapnibble/biginteger-for-eosio"
+
+[[repo]]
+url = "https://github.com/swapnibble/EosCommander"

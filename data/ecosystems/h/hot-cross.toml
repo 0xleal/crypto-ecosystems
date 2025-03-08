@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/hotcrosscom"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/hotcrosscom/aptos-core"
+
+[[repo]]
 url = "https://github.com/hotcrosscom/assets"
 
 [[repo]]
@@ -20,6 +23,7 @@ url = "https://github.com/hotcrosscom/defi-tokens-wiki"
 
 [[repo]]
 url = "https://github.com/hotcrosscom/dev-static-files"
+missing = true
 
 [[repo]]
 url = "https://github.com/hotcrosscom/ERC721A"
@@ -28,10 +32,33 @@ url = "https://github.com/hotcrosscom/ERC721A"
 url = "https://github.com/hotcrosscom/graph-node"
 
 [[repo]]
+url = "https://github.com/hotcrosscom/keplr-chain-registry"
+
+[[repo]]
 url = "https://github.com/hotcrosscom/readthedocs.org"
 
 [[repo]]
+url = "https://github.com/hotcrosscom/self-chain-brand-assets"
+
+[[repo]]
+url = "https://github.com/hotcrosscom/self-chain-pub"
+
+[[repo]]
+url = "https://github.com/hotcrosscom/Self-Chain-Releases"
+
+[[repo]]
+url = "https://github.com/hotcrosscom/selfchain-explorer"
+
+[[repo]]
+url = "https://github.com/hotcrosscom/selfchain-genesis"
+
+[[repo]]
 url = "https://github.com/hotcrosscom/snapshot"
+missing = true
 
 [[repo]]
 url = "https://github.com/hotcrosscom/snapshot-spaces"
+missing = true
+
+[[repo]]
+url = "https://github.com/hotcrosscom/static-files"

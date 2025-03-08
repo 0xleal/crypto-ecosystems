@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/macaronswap"]
 url = "https://github.com/macaronswap/assets"
 
 [[repo]]
+url = "https://github.com/macaronswap/chainlist-resources"
+
+[[repo]]
 url = "https://github.com/macaronswap/defistation-pusher"
 
 [[repo]]
@@ -43,6 +46,9 @@ url = "https://github.com/macaronswap/macaronswap-sdk"
 url = "https://github.com/macaronswap/Presale-Whitelist-Check"
 
 [[repo]]
+url = "https://github.com/macaronswap/simple-uniswap-sdk"
+
+[[repo]]
 url = "https://github.com/macaronswap/snapshot-spaces"
 
 [[repo]]
@@ -50,6 +56,9 @@ url = "https://github.com/macaronswap/token-lists"
 
 [[repo]]
 url = "https://github.com/macaronswap/tokenlists-org"
+
+[[repo]]
+url = "https://github.com/macaronswap/v3-contracts"
 
 [[repo]]
 url = "https://github.com/macaronswap/walletconnect-dart"

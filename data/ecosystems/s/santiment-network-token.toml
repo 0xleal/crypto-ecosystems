@@ -17,9 +17,11 @@ url = "https://github.com/santiment/airflow-exporter"
 
 [[repo]]
 url = "https://github.com/santiment/api-landing"
+missing = true
 
 [[repo]]
 url = "https://github.com/santiment/api-tests"
+missing = true
 
 [[repo]]
 url = "https://github.com/santiment/app"
@@ -30,6 +32,7 @@ url = "https://github.com/santiment/appbase"
 
 [[repo]]
 url = "https://github.com/santiment/articles"
+missing = true
 
 [[repo]]
 url = "https://github.com/santiment/bc-connector"
@@ -39,6 +42,10 @@ url = "https://github.com/santiment/blockchain-utils"
 
 [[repo]]
 url = "https://github.com/santiment/bor"
+
+[[repo]]
+url = "https://github.com/santiment/bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/santiment/btc-exporter-jvm"
@@ -51,6 +58,7 @@ url = "https://github.com/santiment/cancun"
 
 [[repo]]
 url = "https://github.com/santiment/cardano-exporter"
+missing = true
 
 [[repo]]
 url = "https://github.com/santiment/chain-charts"
@@ -71,10 +79,16 @@ url = "https://github.com/santiment/clickhousex"
 url = "https://github.com/santiment/compound-exporter"
 
 [[repo]]
+url = "https://github.com/santiment/crc32cer"
+
+[[repo]]
 url = "https://github.com/santiment/cryptomood-santiment-bridge"
 
 [[repo]]
 url = "https://github.com/santiment/defi-landing"
+
+[[repo]]
+url = "https://github.com/santiment/demo_data"
 
 [[repo]]
 url = "https://github.com/santiment/deploy-cfi-whitelist"
@@ -84,6 +98,9 @@ url = "https://github.com/santiment/deploy-san-whitelist"
 
 [[repo]]
 url = "https://github.com/santiment/devcon-landing"
+
+[[repo]]
+url = "https://github.com/santiment/discord_bot_scraper"
 
 [[repo]]
 url = "https://github.com/santiment/discourse-ethereum"
@@ -119,10 +136,8 @@ url = "https://github.com/santiment/email-templates"
 url = "https://github.com/santiment/eos"
 
 [[repo]]
-url = "https://github.com/santiment/erc20-transfers-exporter"
-
-[[repo]]
 url = "https://github.com/santiment/eth-contract-metadata"
+missing = true
 
 [[repo]]
 url = "https://github.com/santiment/eth-exporter"
@@ -150,6 +165,9 @@ url = "https://github.com/santiment/ethereum-presale-contract"
 
 [[repo]]
 url = "https://github.com/santiment/ex_admin"
+
+[[repo]]
+url = "https://github.com/santiment/ex_audit"
 
 [[repo]]
 url = "https://github.com/santiment/ex_keccak"
@@ -192,6 +210,7 @@ url = "https://github.com/santiment/insights-app"
 
 [[repo]]
 url = "https://github.com/santiment/internal_helper_scripts"
+missing = true
 
 [[repo]]
 url = "https://github.com/santiment/jp-magazine"
@@ -210,6 +229,9 @@ url = "https://github.com/santiment/kafka_protocol"
 
 [[repo]]
 url = "https://github.com/santiment/KDD-2019"
+
+[[repo]]
+url = "https://github.com/santiment/llm-graph-builder"
 
 [[repo]]
 url = "https://github.com/santiment/lz4b"
@@ -236,6 +258,12 @@ url = "https://github.com/santiment/performance_tests"
 url = "https://github.com/santiment/presaler-voting"
 
 [[repo]]
+url = "https://github.com/santiment/projects"
+
+[[repo]]
+url = "https://github.com/santiment/projects-data"
+
+[[repo]]
 url = "https://github.com/santiment/projecttransparency.org"
 
 [[repo]]
@@ -251,6 +279,9 @@ url = "https://github.com/santiment/san-api"
 url = "https://github.com/santiment/san-chain-exporter"
 
 [[repo]]
+url = "https://github.com/santiment/san-embed-proxy"
+
+[[repo]]
 url = "https://github.com/santiment/san-exporter"
 
 [[repo]]
@@ -258,6 +289,9 @@ url = "https://github.com/santiment/san-exporter-ex"
 
 [[repo]]
 url = "https://github.com/santiment/san-observer-extension"
+
+[[repo]]
+url = "https://github.com/santiment/san-queries"
 
 [[repo]]
 url = "https://github.com/santiment/san-rewards"
@@ -285,6 +319,7 @@ url = "https://github.com/santiment/sanbase"
 
 [[repo]]
 url = "https://github.com/santiment/sanbase-new"
+missing = true
 
 [[repo]]
 url = "https://github.com/santiment/sanbase-twa"
@@ -300,6 +335,12 @@ url = "https://github.com/santiment/sanpy"
 
 [[repo]]
 url = "https://github.com/santiment/sanr-api-js"
+
+[[repo]]
+url = "https://github.com/santiment/sanr-contracts"
+
+[[repo]]
+url = "https://github.com/santiment/sanr-pos-network"
 
 [[repo]]
 url = "https://github.com/santiment/santiment-backend"
@@ -353,7 +394,7 @@ url = "https://github.com/santiment/ui-tests"
 url = "https://github.com/santiment/utxo-blocks-exporter"
 
 [[repo]]
-url = "https://github.com/santiment/utxo-transactions-exporter"
+url = "https://github.com/santiment/utxo-prometheus-exporter"
 
 [[repo]]
 url = "https://github.com/santiment/vm-images"

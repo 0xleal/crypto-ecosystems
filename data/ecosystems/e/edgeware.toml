@@ -3,12 +3,13 @@ title = "Edgeware"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/edgeware-builders", "https://github.com/hicommonwealth"]
+github_organizations = [
+  "https://github.com/edgeware-builders",
+  "https://github.com/edgeware-network",
+  "https://github.com/hicommonwealth",
+]
 
 # Repositories
-[[repo]]
-url = "https://github.com/edgeware-builders/anon"
-
 [[repo]]
 url = "https://github.com/edgeware-builders/awesome-edgeware"
 
@@ -17,9 +18,6 @@ url = "https://github.com/edgeware-builders/beresheet-faucet-backend"
 
 [[repo]]
 url = "https://github.com/edgeware-builders/beresheet-faucet-frontend"
-
-[[repo]]
-url = "https://github.com/edgeware-builders/bulletproofs"
 
 [[repo]]
 url = "https://github.com/edgeware-builders/bulletproofs-gadgets"
@@ -49,16 +47,10 @@ url = "https://github.com/edgeware-builders/edgeware-wallet"
 url = "https://github.com/edgeware-builders/edgscan"
 
 [[repo]]
-url = "https://github.com/edgeware-builders/ethash"
-
-[[repo]]
 url = "https://github.com/edgeware-builders/ethash-proof-server"
 
 [[repo]]
 url = "https://github.com/edgeware-builders/ethash-relayer"
-
-[[repo]]
-url = "https://github.com/edgeware-builders/ethash-relyer"
 
 [[repo]]
 url = "https://github.com/edgeware-builders/frontier"
@@ -103,9 +95,6 @@ url = "https://github.com/edgeware-builders/substrate"
 url = "https://github.com/edgeware-builders/substrate-archive"
 
 [[repo]]
-url = "https://github.com/edgeware-builders/substrate-eth-light-client"
-
-[[repo]]
 url = "https://github.com/edgeware-builders/tutorials"
 
 [[repo]]
@@ -121,7 +110,265 @@ url = "https://github.com/edgeware-builders/yieldscan-backend-ts"
 url = "https://github.com/edgeware-builders/yieldscan-frontend"
 
 [[repo]]
-url = "https://github.com/hicommonwealth/anon"
+url = "https://github.com/edgeware-network/anon"
+
+[[repo]]
+url = "https://github.com/edgeware-network/apps"
+
+[[repo]]
+url = "https://github.com/edgeware-network/beresheet-faucet"
+
+[[repo]]
+url = "https://github.com/edgeware-network/beresheet-faucet-backend"
+
+[[repo]]
+url = "https://github.com/edgeware-network/beresheet-faucet-frontend"
+
+[[repo]]
+url = "https://github.com/edgeware-network/beresheet-node"
+
+[[repo]]
+url = "https://github.com/edgeware-network/CSP"
+missing = true
+
+[[repo]]
+url = "https://github.com/edgeware-network/desub"
+
+[[repo]]
+url = "https://github.com/edgeware-network/dotdrop"
+
+[[repo]]
+url = "https://github.com/edgeware-network/dotdrop-1"
+missing = true
+
+[[repo]]
+url = "https://github.com/edgeware-network/dotvanity"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edg-aura"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edge-bridge"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edge-delegation"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edge-governance"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edge-identity"
+
+[[repo]]
+url = "https://github.com/edgeware-network/EdgeCause"
+
+[[repo]]
+url = "https://github.com/edgeware-network/EdgeChat"
+missing = true
+
+[[repo]]
+url = "https://github.com/edgeware-network/EdgeFlow"
+
+[[repo]]
+url = "https://github.com/edgeware-network/EdgeSafe"
+
+[[repo]]
+url = "https://github.com/edgeware-network/EdgeSnap"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeth-bridge"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-chainlink"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-cli"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-contracts-tutorials"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-docker"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-documentation"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-dotjs-apps"
+
+[[repo]]
+url = "https://github.com/edgeware-network/Edgeware-Grants"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-homepage_old"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-keygen"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-lockdrop"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-lockdrop-recovery"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-lockdrop-ui"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-mithril-sample-app"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-node"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-node-types"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-secure-validator"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-state-tester"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-stats"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-supply"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-watcher"
+
+[[repo]]
+url = "https://github.com/edgeware-network/Edgeware-Website"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgeware-wiki-index"
+
+[[repo]]
+url = "https://github.com/edgeware-network/EDGizen-Workspace"
+
+[[repo]]
+url = "https://github.com/edgeware-network/edgy"
+
+[[repo]]
+url = "https://github.com/edgeware-network/frontier"
+
+[[repo]]
+url = "https://github.com/edgeware-network/GiftDrop-frame"
+
+[[repo]]
+url = "https://github.com/edgeware-network/Governance-Proposals"
+
+[[repo]]
+url = "https://github.com/edgeware-network/hummingbot"
+
+[[repo]]
+url = "https://github.com/edgeware-network/Job-Board"
+
+[[repo]]
+url = "https://github.com/edgeware-network/kabocha-node"
+
+[[repo]]
+url = "https://github.com/edgeware-network/kabocha-parachain"
+
+[[repo]]
+url = "https://github.com/edgeware-network/ledger-edgeware"
+
+[[repo]]
+url = "https://github.com/edgeware-network/ledger-edgeware-new"
+
+[[repo]]
+url = "https://github.com/edgeware-network/LexBridge-UI"
+
+[[repo]]
+url = "https://github.com/edgeware-network/lockdrop-data"
+
+[[repo]]
+url = "https://github.com/edgeware-network/mainnet-faucet"
+
+[[repo]]
+url = "https://github.com/edgeware-network/metamask-snap-edgeware"
+
+[[repo]]
+url = "https://github.com/edgeware-network/metamask-snap-polkadot"
+
+[[repo]]
+url = "https://github.com/edgeware-network/MM-Logs"
+
+[[repo]]
+url = "https://github.com/edgeware-network/new-edgeware-docs"
+
+[[repo]]
+url = "https://github.com/edgeware-network/node-tests"
+
+[[repo]]
+url = "https://github.com/edgeware-network/OofMedia"
+
+[[repo]]
+url = "https://github.com/edgeware-network/open-runtime-module-library"
+
+[[repo]]
+url = "https://github.com/edgeware-network/pallet_subscription"
+
+[[repo]]
+url = "https://github.com/edgeware-network/pallet_supersig"
+
+[[repo]]
+url = "https://github.com/edgeware-network/polkadot-launch"
+
+[[repo]]
+url = "https://github.com/edgeware-network/Project-Registry"
+
+[[repo]]
+url = "https://github.com/edgeware-network/rosetta-node-sdk"
+
+[[repo]]
+url = "https://github.com/edgeware-network/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/edgeware-network/safe-config-service"
+
+[[repo]]
+url = "https://github.com/edgeware-network/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/edgeware-network/SimpleUI"
+
+[[repo]]
+url = "https://github.com/edgeware-network/substrate"
+
+[[repo]]
+url = "https://github.com/edgeware-network/substrate-api-sidecar"
+
+[[repo]]
+url = "https://github.com/edgeware-network/substrate-rosetta-api"
+
+[[repo]]
+url = "https://github.com/edgeware-network/substratebot"
+
+[[repo]]
+url = "https://github.com/edgeware-network/Tools"
+
+[[repo]]
+url = "https://github.com/edgeware-network/Universal-Hybrid-Substrate-Faucet"
+
+[[repo]]
+url = "https://github.com/edgeware-network/uptest"
+
+[[repo]]
+url = "https://github.com/edgeware-network/Working-Groups"
+
+[[repo]]
+url = "https://github.com/edgeware-network/workshops-monorepo"
+
+[[repo]]
+url = "https://github.com/hicommonwealth/api-client"
+
+[[repo]]
+url = "https://github.com/hicommonwealth/api-demo"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/apps"
@@ -145,9 +392,6 @@ url = "https://github.com/hicommonwealth/ce-rabbitmq-plugin"
 url = "https://github.com/hicommonwealth/chain-events"
 
 [[repo]]
-url = "https://github.com/hicommonwealth/chain-rpc-header-worker"
-
-[[repo]]
 url = "https://github.com/hicommonwealth/ChainBridge"
 
 [[repo]]
@@ -166,13 +410,25 @@ url = "https://github.com/hicommonwealth/citizendao"
 url = "https://github.com/hicommonwealth/common"
 
 [[repo]]
+url = "https://github.com/hicommonwealth/common-api-fern-config"
+
+[[repo]]
+url = "https://github.com/hicommonwealth/common-ts-client"
+
+[[repo]]
 url = "https://github.com/hicommonwealth/commonwealth"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/commonwealth-gatsby-novela"
 
 [[repo]]
-url = "https://github.com/hicommonwealth/commonwealth-oss"
+url = "https://github.com/hicommonwealth/commonwealth-lexical"
+
+[[repo]]
+url = "https://github.com/hicommonwealth/commonwealth-mobile"
+
+[[repo]]
+url = "https://github.com/hicommonwealth/commonwealth-mobile2"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/commonwealth.github.io"
@@ -265,6 +521,9 @@ url = "https://github.com/hicommonwealth/edgeware-watcher"
 url = "https://github.com/hicommonwealth/edgy"
 
 [[repo]]
+url = "https://github.com/hicommonwealth/eliza"
+
+[[repo]]
 url = "https://github.com/hicommonwealth/ethereum"
 
 [[repo]]
@@ -298,9 +557,6 @@ url = "https://github.com/hicommonwealth/hydeout"
 url = "https://github.com/hicommonwealth/identity-tcr"
 
 [[repo]]
-url = "https://github.com/hicommonwealth/identity-worker"
-
-[[repo]]
 url = "https://github.com/hicommonwealth/ink"
 
 [[repo]]
@@ -308,6 +564,9 @@ url = "https://github.com/hicommonwealth/keplr-example"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/knowledge-dump"
+
+[[repo]]
+url = "https://github.com/hicommonwealth/mdxeditor"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/nodeup"
@@ -334,16 +593,7 @@ url = "https://github.com/hicommonwealth/smoke-tester"
 url = "https://github.com/hicommonwealth/substrate"
 
 [[repo]]
-url = "https://github.com/hicommonwealth/substrate-clsag"
-
-[[repo]]
-url = "https://github.com/hicommonwealth/substrate-eth-light-client"
-
-[[repo]]
 url = "https://github.com/hicommonwealth/substrate-node-template"
-
-[[repo]]
-url = "https://github.com/hicommonwealth/substrate-rainbow-bridge"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/supernova-lockdrop"
@@ -380,3 +630,15 @@ url = "https://github.com/hicommonwealth/Web3-collaboration"
 
 [[repo]]
 url = "https://github.com/hicommonwealth/web3.js"
+
+[[repo]]
+url = "https://github.com/webb-tools/anon"
+
+[[repo]]
+url = "https://github.com/webb-tools/bulletproofs"
+
+[[repo]]
+url = "https://github.com/webb-tools/ethash"
+
+[[repo]]
+url = "https://github.com/webb-tools/substrate-eth-light-client"

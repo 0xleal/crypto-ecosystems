@@ -14,12 +14,17 @@ url = "https://github.com/TheLindaProjectInc/angular-notifier"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/BackupWalletGuide"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/batm_public"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/bitcoin-seeder"
+
+[[repo]]
+url = "https://github.com/TheLindaProjectInc/Budget-Proposals"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/ColossusCoinXT"
@@ -29,9 +34,11 @@ url = "https://github.com/TheLindaProjectInc/cpp-eth-metrix"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/docs.metrixcoin.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/Documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/ExampleMRC721"
@@ -41,6 +48,7 @@ url = "https://github.com/TheLindaProjectInc/gitian.sigs"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/go-lindax"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/HelpyHelperton"
@@ -50,24 +58,39 @@ url = "https://github.com/TheLindaProjectInc/janus"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/Linda-Paper-Wallet-Generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/lindacoin.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/LindaX-Paper-Wallet-Generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/LindaX-Wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/lindax.network"
+missing = true
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/Media"
+missing = true
+
+[[repo]]
+url = "https://github.com/TheLindaProjectInc/metrilib"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/MetriMask"
+
+[[repo]]
+url = "https://github.com/TheLindaProjectInc/MetriMask-Mobile"
+
+[[repo]]
+url = "https://github.com/TheLindaProjectInc/metriverse-docs-backup"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/Metrix"
@@ -85,6 +108,9 @@ url = "https://github.com/TheLindaProjectInc/metrix-docker"
 url = "https://github.com/TheLindaProjectInc/metrix-explorer"
 
 [[repo]]
+url = "https://github.com/TheLindaProjectInc/metrix-randao"
+
+[[repo]]
 url = "https://github.com/TheLindaProjectInc/metrix-web-wallet"
 
 [[repo]]
@@ -95,6 +121,12 @@ url = "https://github.com/TheLindaProjectInc/metrixjs-lib"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/metrixjs-wallet"
+
+[[repo]]
+url = "https://github.com/TheLindaProjectInc/MIPs"
+
+[[repo]]
+url = "https://github.com/TheLindaProjectInc/misskey"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/mkdocs-material"
@@ -122,6 +154,10 @@ url = "https://github.com/TheLindaProjectInc/paper.metrixcoin.com"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/PHP-RPC"
+missing = true
+
+[[repo]]
+url = "https://github.com/TheLindaProjectInc/pricelib"
 
 [[repo]]
 url = "https://github.com/TheLindaProjectInc/qtumjs"

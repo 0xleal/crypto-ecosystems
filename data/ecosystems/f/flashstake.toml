@@ -14,18 +14,34 @@ url = "https://github.com/BlockzeroLabs/aquafi-bug-bounty-round2"
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/aquafi-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/aquafi-stats"
 
 [[repo]]
+url = "https://github.com/BlockzeroLabs/assets"
+
+[[repo]]
+url = "https://github.com/BlockzeroLabs/compound-token-list"
+
+[[repo]]
+url = "https://github.com/BlockzeroLabs/defi-tokens-wiki"
+
+[[repo]]
 url = "https://github.com/BlockzeroLabs/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/BlockzeroLabs/dl-yield-server"
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/dropzero-contracts"
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/dropzero-drop-csvs"
+
+[[repo]]
+url = "https://github.com/BlockzeroLabs/ethereum-optimism.github.io"
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/flash-docs"
@@ -40,7 +56,14 @@ url = "https://github.com/BlockzeroLabs/flashapp-contracts"
 url = "https://github.com/BlockzeroLabs/FlashDefaultList"
 
 [[repo]]
+url = "https://github.com/BlockzeroLabs/flashstake-protocol-data"
+
+[[repo]]
+url = "https://github.com/BlockzeroLabs/flashv3-contracts"
+
+[[repo]]
 url = "https://github.com/BlockzeroLabs/flashV3-model"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/impersonator"
@@ -62,6 +85,7 @@ url = "https://github.com/BlockzeroLabs/snapshot.js"
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/vortex-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/xio-flash-token"

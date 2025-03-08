@@ -1,13 +1,19 @@
 # Ecosystem Level Information
 title = "Syscoin"
 
-sub_ecosystems = []
+sub_ecosystems = ["Pegasys Finance", "Rollux"]
 
 github_organizations = ["https://github.com/syscoin"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/osiastedian/syscoin-bridge"
+
+[[repo]]
 url = "https://github.com/syscoin/altcointip"
+
+[[repo]]
+url = "https://github.com/syscoin/autogen"
 
 [[repo]]
 url = "https://github.com/syscoin/azure-devtestlab"
@@ -41,6 +47,7 @@ url = "https://github.com/syscoin/bls-signatures"
 
 [[repo]]
 url = "https://github.com/syscoin/blue-app-btc"
+missing = true
 
 [[repo]]
 url = "https://github.com/syscoin/btcd"
@@ -52,13 +59,23 @@ url = "https://github.com/syscoin/btchip-python"
 url = "https://github.com/syscoin/CEX-Methodology"
 
 [[repo]]
-url = "https://github.com/syscoin/coinselect"
-
-[[repo]]
 url = "https://github.com/syscoin/coinselectsyscoin"
 
 [[repo]]
+url = "https://github.com/syscoin/community-hub"
+
+[[repo]]
 url = "https://github.com/syscoin/daosys"
+missing = true
+
+[[repo]]
+url = "https://github.com/syscoin/daosys-book"
+
+[[repo]]
+url = "https://github.com/syscoin/daosys-issues-app"
+
+[[repo]]
+url = "https://github.com/syscoin/daosys_frontend"
 
 [[repo]]
 url = "https://github.com/syscoin/descriptors"
@@ -73,22 +90,10 @@ url = "https://github.com/syscoin/docker-syscoin-core"
 url = "https://github.com/syscoin/docker-syscoind"
 
 [[repo]]
-url = "https://github.com/syscoin/electrs"
-
-[[repo]]
 url = "https://github.com/syscoin/electrs-syscoin"
 
 [[repo]]
-url = "https://github.com/syscoin/electrum"
-
-[[repo]]
-url = "https://github.com/syscoin/electrum-locale"
-
-[[repo]]
 url = "https://github.com/syscoin/electrum-signatures"
-
-[[repo]]
-url = "https://github.com/syscoin/electrum-web"
 
 [[repo]]
 url = "https://github.com/syscoin/electrumsys"
@@ -101,9 +106,6 @@ url = "https://github.com/syscoin/electrumsys-web"
 
 [[repo]]
 url = "https://github.com/syscoin/electrumx"
-
-[[repo]]
-url = "https://github.com/syscoin/electrumx-1"
 
 [[repo]]
 url = "https://github.com/syscoin/esplora"
@@ -148,6 +150,10 @@ url = "https://github.com/syscoin/jsonrpc2-base"
 url = "https://github.com/syscoin/jsonrpc2-client"
 
 [[repo]]
+url = "https://github.com/syscoin/latex_docs"
+missing = true
+
+[[repo]]
 url = "https://github.com/syscoin/ledger-app-sys"
 
 [[repo]]
@@ -184,10 +190,16 @@ url = "https://github.com/syscoin/offchain-data-fetcher"
 url = "https://github.com/syscoin/offchain-data-proxy"
 
 [[repo]]
+url = "https://github.com/syscoin/optimism-tutorial"
+
+[[repo]]
+url = "https://github.com/syscoin/pali-mobile"
+
+[[repo]]
 url = "https://github.com/syscoin/pali-wallet"
 
 [[repo]]
-url = "https://github.com/syscoin/pali_wallet"
+url = "https://github.com/syscoin/precompile-test"
 
 [[repo]]
 url = "https://github.com/syscoin/pricepeg"
@@ -199,10 +211,14 @@ url = "https://github.com/syscoin/python-safet"
 url = "https://github.com/syscoin/relayer"
 
 [[repo]]
-url = "https://github.com/syscoin/rosetta-bitcoin"
+url = "https://github.com/syscoin/rollux-bridge"
+
+[[repo]]
+url = "https://github.com/syscoin/rollux-event-proxy"
 
 [[repo]]
 url = "https://github.com/syscoin/rosetta-sdk-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/syscoin/rosetta-syscoin"
@@ -244,13 +260,13 @@ url = "https://github.com/syscoin/syscoin-api"
 url = "https://github.com/syscoin/syscoin-auth"
 
 [[repo]]
+url = "https://github.com/syscoin/syscoin-bridge"
+
+[[repo]]
 url = "https://github.com/syscoin/syscoin-categories"
 
 [[repo]]
 url = "https://github.com/syscoin/syscoin-client-api"
-
-[[repo]]
-url = "https://github.com/syscoin/syscoin-client-api-typescript-angular2"
 
 [[repo]]
 url = "https://github.com/syscoin/syscoin-core"
@@ -274,13 +290,19 @@ url = "https://github.com/syscoin/syscoin-governance-update"
 url = "https://github.com/syscoin/syscoin-help"
 
 [[repo]]
-url = "https://github.com/syscoin/syscoin-js"
+url = "https://github.com/syscoin/syscoin-info-api"
+
+[[repo]]
+url = "https://github.com/syscoin/syscoin-info-api-core"
 
 [[repo]]
 url = "https://github.com/syscoin/syscoin-libjs"
 
 [[repo]]
 url = "https://github.com/syscoin/syscoin-ow"
+
+[[repo]]
+url = "https://github.com/syscoin/syscoin-rollux.github.io"
 
 [[repo]]
 url = "https://github.com/syscoin/syscoin-rpc-client"
@@ -335,12 +357,16 @@ url = "https://github.com/syscoin/syshub-api"
 
 [[repo]]
 url = "https://github.com/syscoin/syshub-public"
+missing = true
 
 [[repo]]
 url = "https://github.com/syscoin/syswallet-interface"
 
 [[repo]]
 url = "https://github.com/syscoin/syswallet-sdk"
+
+[[repo]]
+url = "https://github.com/syscoin/tipbot"
 
 [[repo]]
 url = "https://github.com/syscoin/trezor-firmware"

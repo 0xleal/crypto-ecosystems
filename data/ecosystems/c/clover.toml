@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/clover-network"]
 url = "https://github.com/clover-network/apps"
 
 [[repo]]
+url = "https://github.com/clover-network/aptos-wallet-adapter"
+
+[[repo]]
+url = "https://github.com/clover-network/astar-apps"
+
+[[repo]]
 url = "https://github.com/clover-network/auction-deploy"
 
 [[repo]]
@@ -17,6 +23,9 @@ url = "https://github.com/clover-network/audaces-perps-ui"
 
 [[repo]]
 url = "https://github.com/clover-network/blockscout"
+
+[[repo]]
+url = "https://github.com/clover-network/bluewave-wallet-mobile-release"
 
 [[repo]]
 url = "https://github.com/clover-network/chains"
@@ -32,6 +41,7 @@ url = "https://github.com/clover-network/clover-apps"
 
 [[repo]]
 url = "https://github.com/clover-network/clover-bridge-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/clover-bridge-contracts"
@@ -53,6 +63,7 @@ url = "https://github.com/clover-network/clover-dapps-deployment"
 
 [[repo]]
 url = "https://github.com/clover-network/clover-defi-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/clover-dev-site"
@@ -71,24 +82,25 @@ url = "https://github.com/clover-network/clover-integration"
 
 [[repo]]
 url = "https://github.com/clover-network/clover-mobile-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/clover-mulichain-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/clover-multichain-mobile-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/clover-multichain-mobile-wallet-release"
 
 [[repo]]
 url = "https://github.com/clover-network/clover-multichain-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/clover-multichain-wallet-demo"
-
-[[repo]]
-url = "https://github.com/clover-network/clover-network.github.io"
 
 [[repo]]
 url = "https://github.com/clover-network/clover-node-types"
@@ -119,21 +131,25 @@ url = "https://github.com/clover-network/clover-store-upload"
 
 [[repo]]
 url = "https://github.com/clover-network/clover-swap-dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/clover-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/clover-wallet"
 
 [[repo]]
 url = "https://github.com/clover-network/clover-wallet-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/clover-web3-connector"
 
 [[repo]]
 url = "https://github.com/clover-network/clover-web3-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/clover.finance"
@@ -142,7 +158,14 @@ url = "https://github.com/clover-network/clover.finance"
 url = "https://github.com/clover-network/cloveriOS"
 
 [[repo]]
+url = "https://github.com/clover-network/clv-network-token-lists"
+
+[[repo]]
+url = "https://github.com/clover-network/clv-wagmi-connector"
+
+[[repo]]
 url = "https://github.com/clover-network/cumulus"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/docker-scripts"
@@ -169,6 +192,9 @@ url = "https://github.com/clover-network/example-counter-dapp"
 url = "https://github.com/clover-network/faucet-iris-deploy"
 
 [[repo]]
+url = "https://github.com/clover-network/flutter_echarts"
+
+[[repo]]
 url = "https://github.com/clover-network/fonts-clover"
 
 [[repo]]
@@ -181,7 +207,11 @@ url = "https://github.com/clover-network/Grant-Milestone-Delivery"
 url = "https://github.com/clover-network/hardhat"
 
 [[repo]]
+url = "https://github.com/clover-network/hydrogen-web"
+
+[[repo]]
 url = "https://github.com/clover-network/inpage-provider"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/ivy-apps-deploy"
@@ -191,18 +221,24 @@ url = "https://github.com/clover-network/Maskbook"
 
 [[repo]]
 url = "https://github.com/clover-network/oneland-home"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/Open-Grants-Program"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/Open-Grants-Program-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/parachain-projects-info"
 
 [[repo]]
 url = "https://github.com/clover-network/patract-open-platform-program"
+
+[[repo]]
+url = "https://github.com/clover-network/rainbowkit"
 
 [[repo]]
 url = "https://github.com/clover-network/saber-common"
@@ -218,9 +254,19 @@ url = "https://github.com/clover-network/sushiswap-interface"
 
 [[repo]]
 url = "https://github.com/clover-network/threshold-crypto"
+missing = true
 
 [[repo]]
 url = "https://github.com/clover-network/tss-lib"
+
+[[repo]]
+url = "https://github.com/clover-network/uniswap-interface"
+
+[[repo]]
+url = "https://github.com/clover-network/uniswap-v2-core"
+
+[[repo]]
+url = "https://github.com/clover-network/uniswap-v2-periphery"
 
 [[repo]]
 url = "https://github.com/clover-network/wallet-adapter"
@@ -229,7 +275,7 @@ url = "https://github.com/clover-network/wallet-adapter"
 url = "https://github.com/clover-network/web-wallet-sdk"
 
 [[repo]]
-url = "https://github.com/clover-network/web3modal"
+url = "https://github.com/clover-network/web3-react"
 
 [[repo]]
-url = "https://github.com/clover-network/website"
+url = "https://github.com/clover-network/web3modal"

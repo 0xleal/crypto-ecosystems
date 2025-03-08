@@ -10,7 +10,16 @@ github_organizations = ["https://github.com/blockfrost"]
 url = "https://github.com/blockfrost/blockfrost-arduino"
 
 [[repo]]
+url = "https://github.com/blockfrost/blockfrost-backend-ryo"
+
+[[repo]]
+url = "https://github.com/blockfrost/blockfrost-bootstrap"
+
+[[repo]]
 url = "https://github.com/blockfrost/blockfrost-cardano-cli"
+
+[[repo]]
+url = "https://github.com/blockfrost/blockfrost-crystal"
 
 [[repo]]
 url = "https://github.com/blockfrost/blockfrost-dart"
@@ -25,6 +34,12 @@ url = "https://github.com/blockfrost/blockfrost-dotnet"
 url = "https://github.com/blockfrost/blockfrost-elixir"
 
 [[repo]]
+url = "https://github.com/blockfrost/blockfrost-erlang"
+
+[[repo]]
+url = "https://github.com/blockfrost/blockfrost-for-slack"
+
+[[repo]]
 url = "https://github.com/blockfrost/blockfrost-go"
 
 [[repo]]
@@ -37,7 +52,16 @@ url = "https://github.com/blockfrost/blockfrost-java"
 url = "https://github.com/blockfrost/blockfrost-js"
 
 [[repo]]
+url = "https://github.com/blockfrost/blockfrost-js-examples"
+
+[[repo]]
 url = "https://github.com/blockfrost/blockfrost-kotlin"
+
+[[repo]]
+url = "https://github.com/blockfrost/blockfrost-php"
+
+[[repo]]
+url = "https://github.com/blockfrost/blockfrost-platform"
 
 [[repo]]
 url = "https://github.com/blockfrost/blockfrost-python"
@@ -58,6 +82,9 @@ url = "https://github.com/blockfrost/blockfrost-scala"
 url = "https://github.com/blockfrost/blockfrost-swift"
 
 [[repo]]
+url = "https://github.com/blockfrost/blockfrost-utils"
+
+[[repo]]
 url = "https://github.com/blockfrost/blockfrost-websocket-link"
 
 [[repo]]
@@ -76,10 +103,40 @@ url = "https://github.com/blockfrost/cardano-db-sync"
 url = "https://github.com/blockfrost/cardano-node"
 
 [[repo]]
+url = "https://github.com/blockfrost/developer-portal"
+
+[[repo]]
+url = "https://github.com/blockfrost/firefly"
+
+[[repo]]
+url = "https://github.com/blockfrost/firefly-cardano"
+
+[[repo]]
+url = "https://github.com/blockfrost/firefly-cli"
+
+[[repo]]
+url = "https://github.com/blockfrost/homebrew-tap"
+
+[[repo]]
 url = "https://github.com/blockfrost/iohk-nix"
+
+[[repo]]
+url = "https://github.com/blockfrost/kupo"
 
 [[repo]]
 url = "https://github.com/blockfrost/metadada"
 
 [[repo]]
+url = "https://github.com/blockfrost/nami"
+
+[[repo]]
+url = "https://github.com/blockfrost/nixpkgs"
+
+[[repo]]
+url = "https://github.com/blockfrost/ogmios"
+
+[[repo]]
 url = "https://github.com/blockfrost/openapi"
+
+[[repo]]
+url = "https://github.com/blockfrost/pallas"

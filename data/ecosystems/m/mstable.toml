@@ -25,7 +25,13 @@ url = "https://github.com/mstable/emissions-calculator"
 url = "https://github.com/mstable/ethereum-lists"
 
 [[repo]]
+url = "https://github.com/mstable/frontend"
+
+[[repo]]
 url = "https://github.com/mstable/merkle-drop"
+
+[[repo]]
+url = "https://github.com/mstable/metavaults"
 
 [[repo]]
 url = "https://github.com/mstable/MIPs"
@@ -44,6 +50,7 @@ url = "https://github.com/mstable/mStable-contracts"
 
 [[repo]]
 url = "https://github.com/mstable/mStable-data"
+missing = true
 
 [[repo]]
 url = "https://github.com/mstable/mStable-dev-grants"
@@ -83,3 +90,4 @@ url = "https://github.com/mstable/pooltogether-mstable"
 
 [[repo]]
 url = "https://github.com/mstable/snapshot-spaces"
+missing = true

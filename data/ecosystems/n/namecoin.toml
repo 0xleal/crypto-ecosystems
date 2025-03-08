@@ -13,9 +13,6 @@ url = "https://github.com/namecoin/BitcoinArmory"
 url = "https://github.com/namecoin/btcd"
 
 [[repo]]
-url = "https://github.com/namecoin/certdehydrate-dane-rest-api"
-
-[[repo]]
 url = "https://github.com/namecoin/certinject"
 
 [[repo]]
@@ -52,6 +49,9 @@ url = "https://github.com/namecoin/electrum-nmc"
 url = "https://github.com/namecoin/electrum-nmc-compression-test"
 
 [[repo]]
+url = "https://github.com/namecoin/electrum-nmc-debian"
+
+[[repo]]
 url = "https://github.com/namecoin/electrumx"
 
 [[repo]]
@@ -65,6 +65,9 @@ url = "https://github.com/namecoin/gitian.sigs"
 
 [[repo]]
 url = "https://github.com/namecoin/guix.sigs"
+
+[[repo]]
+url = "https://github.com/namecoin/heteronculous-horklump"
 
 [[repo]]
 url = "https://github.com/namecoin/libcoin"
@@ -124,9 +127,6 @@ url = "https://github.com/namecoin/ncdns-nsis"
 url = "https://github.com/namecoin/ncdns-repro"
 
 [[repo]]
-url = "https://github.com/namecoin/ncjson"
-
-[[repo]]
 url = "https://github.com/namecoin/ncp11"
 
 [[repo]]
@@ -139,13 +139,13 @@ url = "https://github.com/namecoin/ncrpcclient"
 url = "https://github.com/namecoin/nightly-certinject"
 
 [[repo]]
-url = "https://github.com/namecoin/nmcjson"
+url = "https://github.com/namecoin/nmc-rpc-explorer"
 
 [[repo]]
 url = "https://github.com/namecoin/nmcontrol"
 
 [[repo]]
-url = "https://github.com/namecoin/nmcrpcclient"
+url = "https://github.com/namecoin/pkcs11"
 
 [[repo]]
 url = "https://github.com/namecoin/pkcs11mod"
@@ -158,6 +158,9 @@ url = "https://github.com/namecoin/qlib"
 
 [[repo]]
 url = "https://github.com/namecoin/safetlsa"
+
+[[repo]]
+url = "https://github.com/namecoin/sockstrace"
 
 [[repo]]
 url = "https://github.com/namecoin/splicesign"
@@ -176,6 +179,9 @@ url = "https://github.com/namecoin/TorNS"
 
 [[repo]]
 url = "https://github.com/namecoin/wiki"
+
+[[repo]]
+url = "https://github.com/namecoin/winsvcwrap"
 
 [[repo]]
 url = "https://github.com/namecoin/x509-compressed"

@@ -14,6 +14,7 @@ url = "https://github.com/notional-finance/agents"
 
 [[repo]]
 url = "https://github.com/notional-finance/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/notional-finance/contracts"
@@ -22,7 +23,13 @@ url = "https://github.com/notional-finance/contracts"
 url = "https://github.com/notional-finance/contracts-v2"
 
 [[repo]]
+url = "https://github.com/notional-finance/contracts-v3"
+
+[[repo]]
 url = "https://github.com/notional-finance/DeFi-Pulse-Adapters"
+
+[[repo]]
+url = "https://github.com/notional-finance/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/notional-finance/defiprime"
@@ -34,7 +41,13 @@ url = "https://github.com/notional-finance/dsa-connectors"
 url = "https://github.com/notional-finance/dsa-resolvers"
 
 [[repo]]
+url = "https://github.com/notional-finance/leveraged-vaults"
+
+[[repo]]
 url = "https://github.com/notional-finance/media-kit"
+
+[[repo]]
+url = "https://github.com/notional-finance/notional-monorepo"
 
 [[repo]]
 url = "https://github.com/notional-finance/notional-solidity-sdk"
@@ -53,6 +66,13 @@ url = "https://github.com/notional-finance/subgraph-v2"
 
 [[repo]]
 url = "https://github.com/notional-finance/trading-module"
+missing = true
 
 [[repo]]
 url = "https://github.com/notional-finance/wrapped-fcash"
+
+[[repo]]
+url = "https://github.com/notional-finance/yield-server"
+
+[[repo]]
+url = "https://github.com/sherlock-audit/2023-12-notional-update-5"

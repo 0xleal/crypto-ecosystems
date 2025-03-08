@@ -7,6 +7,18 @@ github_organizations = ["https://github.com/raid-guild"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/MetaFactoryAI/mf-dashboard"
+
+[[repo]]
+url = "https://github.com/NFTX-project/nftx-v2-subgraph"
+
+[[repo]]
+url = "https://github.com/omni/omnibridge-nft-ui"
+
+[[repo]]
+url = "https://github.com/omni/omnibridge-ui"
+
+[[repo]]
 url = "https://github.com/raid-guild/.github"
 
 [[repo]]
@@ -17,6 +29,7 @@ url = "https://github.com/raid-guild/araboard"
 
 [[repo]]
 url = "https://github.com/raid-guild/araboard-data-sources"
+missing = true
 
 [[repo]]
 url = "https://github.com/raid-guild/aragon-colony-app"
@@ -34,6 +47,21 @@ url = "https://github.com/raid-guild/caletaXP-web"
 url = "https://github.com/raid-guild/Certificates"
 
 [[repo]]
+url = "https://github.com/raid-guild/character-sheets-contracts"
+
+[[repo]]
+url = "https://github.com/raid-guild/character-sheets-docs"
+
+[[repo]]
+url = "https://github.com/raid-guild/character-sheets-frontend"
+
+[[repo]]
+url = "https://github.com/raid-guild/character-sheets-migration-scripts"
+
+[[repo]]
+url = "https://github.com/raid-guild/character-sheets-subgraph"
+
+[[repo]]
 url = "https://github.com/raid-guild/cohort-docusaurus-v0"
 
 [[repo]]
@@ -46,6 +74,9 @@ url = "https://github.com/raid-guild/commodo"
 url = "https://github.com/raid-guild/commodo-landing-page"
 
 [[repo]]
+url = "https://github.com/raid-guild/compare-staking-services"
+
+[[repo]]
 url = "https://github.com/raid-guild/consensus-trade-contract"
 
 [[repo]]
@@ -56,12 +87,16 @@ url = "https://github.com/raid-guild/CypherShares-Governance-Staking"
 
 [[repo]]
 url = "https://github.com/raid-guild/CypherShares-staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/raid-guild/cyphershares-ui"
 
 [[repo]]
 url = "https://github.com/raid-guild/dai-subgraph"
+
+[[repo]]
+url = "https://github.com/raid-guild/daohaus-notify"
 
 [[repo]]
 url = "https://github.com/raid-guild/daoshop"
@@ -76,10 +111,10 @@ url = "https://github.com/raid-guild/dapphero-dashboard"
 url = "https://github.com/raid-guild/dapphero-dom"
 
 [[repo]]
-url = "https://github.com/raid-guild/dapphero-frontend"
+url = "https://github.com/raid-guild/default-token-list"
 
 [[repo]]
-url = "https://github.com/raid-guild/default-token-list"
+url = "https://github.com/raid-guild/delegate-match"
 
 [[repo]]
 url = "https://github.com/raid-guild/design-system"
@@ -91,10 +126,25 @@ url = "https://github.com/raid-guild/disputable-minion"
 url = "https://github.com/raid-guild/dot-org"
 
 [[repo]]
+url = "https://github.com/raid-guild/dot-org-v1"
+
+[[repo]]
 url = "https://github.com/raid-guild/dot-org-v2"
 
 [[repo]]
 url = "https://github.com/raid-guild/dungeon-master-api"
+
+[[repo]]
+url = "https://github.com/raid-guild/dungeon-master-v2"
+
+[[repo]]
+url = "https://github.com/raid-guild/dungeon-master-worker"
+
+[[repo]]
+url = "https://github.com/raid-guild/eliza"
+
+[[repo]]
+url = "https://github.com/raid-guild/eliza-evm"
 
 [[repo]]
 url = "https://github.com/raid-guild/ens-minion"
@@ -107,6 +157,12 @@ url = "https://github.com/raid-guild/escrow"
 
 [[repo]]
 url = "https://github.com/raid-guild/EthVM"
+
+[[repo]]
+url = "https://github.com/raid-guild/frame-guild-character-quest"
+
+[[repo]]
+url = "https://github.com/raid-guild/gaianet-rag-api-pipeline"
 
 [[repo]]
 url = "https://github.com/raid-guild/gatsby-typescript-dapp-starter"
@@ -125,9 +181,6 @@ url = "https://github.com/raid-guild/gitcoinco-web"
 
 [[repo]]
 url = "https://github.com/raid-guild/guild-cred"
-
-[[repo]]
-url = "https://github.com/raid-guild/guild-keeper"
 
 [[repo]]
 url = "https://github.com/raid-guild/guild-keeper-archived"
@@ -154,7 +207,7 @@ url = "https://github.com/raid-guild/IPLD_Block_Explorer"
 url = "https://github.com/raid-guild/keeper-bot"
 
 [[repo]]
-url = "https://github.com/raid-guild/mf-dashboard"
+url = "https://github.com/raid-guild/minister-sentry"
 
 [[repo]]
 url = "https://github.com/raid-guild/moloch"
@@ -181,12 +234,6 @@ url = "https://github.com/raid-guild/monsters-and-maps"
 url = "https://github.com/raid-guild/monsters-maps-dapp"
 
 [[repo]]
-url = "https://github.com/raid-guild/nftx-v2-subgraph"
-
-[[repo]]
-url = "https://github.com/raid-guild/omnibridge-nft-ui"
-
-[[repo]]
 url = "https://github.com/raid-guild/open-grants"
 
 [[repo]]
@@ -194,6 +241,9 @@ url = "https://github.com/raid-guild/origin-stories"
 
 [[repo]]
 url = "https://github.com/raid-guild/pco-nft-dao"
+
+[[repo]]
+url = "https://github.com/raid-guild/performance-monitoring"
 
 [[repo]]
 url = "https://github.com/raid-guild/phaser-wallet"
@@ -211,16 +261,29 @@ url = "https://github.com/raid-guild/raid-credits"
 url = "https://github.com/raid-guild/RAID-Ops"
 
 [[repo]]
+url = "https://github.com/raid-guild/raid-party-spinup"
+
+[[repo]]
 url = "https://github.com/raid-guild/reactjs-web3connect"
 
 [[repo]]
+url = "https://github.com/raid-guild/RGCVII"
+
+[[repo]]
 url = "https://github.com/raid-guild/RIP-Requests"
+missing = true
 
 [[repo]]
 url = "https://github.com/raid-guild/RIPs"
 
 [[repo]]
+url = "https://github.com/raid-guild/sales-dao-notify-bot"
+
+[[repo]]
 url = "https://github.com/raid-guild/SCoDA-Simple-Code-Deference-Agreement-"
+
+[[repo]]
+url = "https://github.com/raid-guild/score-api"
 
 [[repo]]
 url = "https://github.com/raid-guild/smart-escrow"
@@ -232,10 +295,28 @@ url = "https://github.com/raid-guild/smart-escrow-nextjs"
 url = "https://github.com/raid-guild/Smart-Invoice"
 
 [[repo]]
+url = "https://github.com/raid-guild/smart-invoice-docs"
+
+[[repo]]
+url = "https://github.com/raid-guild/smart-invoice-website"
+
+[[repo]]
+url = "https://github.com/raid-guild/snapshot"
+
+[[repo]]
 url = "https://github.com/raid-guild/snapshot-public-router"
 
 [[repo]]
 url = "https://github.com/raid-guild/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/raid-guild/snapshot-strategies"
+
+[[repo]]
+url = "https://github.com/raid-guild/strategy-swiper"
+
+[[repo]]
+url = "https://github.com/raid-guild/the-valhalla"
 
 [[repo]]
 url = "https://github.com/raid-guild/TheSource"
@@ -244,10 +325,19 @@ url = "https://github.com/raid-guild/TheSource"
 url = "https://github.com/raid-guild/website"
 
 [[repo]]
-url = "https://github.com/raid-guild/wethwrapper-web"
+url = "https://github.com/raid-guild/wpokt-hyperlane-contracts"
 
 [[repo]]
-url = "https://github.com/raid-guild/xdai-omnibridge"
+url = "https://github.com/raid-guild/wpokt-oracle"
+
+[[repo]]
+url = "https://github.com/raid-guild/wpokt-validator-network"
+
+[[repo]]
+url = "https://github.com/raid-guild/wrapeth"
+
+[[repo]]
+url = "https://github.com/raid-guild/yieldnest-protocol"
 
 [[repo]]
 url = "https://github.com/raid-guild/zipzap-web"
